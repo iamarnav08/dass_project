@@ -1,0 +1,1081 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Factorisation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          158.39999389648438,
+          109.11786270141602
+        ],
+        [
+          372.3127746582031,
+          109.11786270141602
+        ],
+        [
+          372.3127746582031,
+          147.0975341796875
+        ],
+        [
+          158.39999389648438,
+          147.0975341796875
+        ]
+      ]
+    },
+    {
+      "title": "12.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          256.833984375
+        ],
+        [
+          208.5595703125,
+          256.833984375
+        ],
+        [
+          208.5595703125,
+          273.35546875
+        ],
+        [
+          66.0,
+          273.35546875
+        ]
+      ]
+    },
+    {
+      "title": "12.1.1 Factors of natural numbers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.0,
+          282.74267578125
+        ],
+        [
+          297.921142578125,
+          282.74267578125
+        ],
+        [
+          297.921142578125,
+          297.3277015686035
+        ],
+        [
+          66.0,
+          297.3277015686035
+        ]
+      ]
+    },
+    {
+      "title": "12.1.2 Factors of algebraic expressions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.2117919921875,
+          523.80615234375
+        ],
+        [
+          326.42822265625,
+          523.80615234375
+        ],
+        [
+          326.42822265625,
+          539.57666015625
+        ],
+        [
+          65.2117919921875,
+          539.57666015625
+        ]
+      ]
+    },
+    {
+      "title": "12.2 What is Factorisation?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          143.126220703125,
+          208.208251953125
+        ],
+        [
+          362.88751220703125,
+          208.208251953125
+        ],
+        [
+          362.88751220703125,
+          222.95129776000977
+        ],
+        [
+          143.126220703125,
+          222.95129776000977
+        ]
+      ]
+    },
+    {
+      "title": "12.2.1 Method of common factors",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          143.27392578125,
+          348.07763671875
+        ],
+        [
+          369.853515625,
+          348.07763671875
+        ],
+        [
+          369.853515625,
+          360.6872901916504
+        ],
+        [
+          143.27392578125,
+          360.6872901916504
+        ]
+      ]
+    },
+    {
+      "title": "12.2.2 Factorisation by regrouping terms",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.00003051757812,
+          445.3291015625
+        ],
+        [
+          341.494140625,
+          445.3291015625
+        ],
+        [
+          341.494140625,
+          458.8466796875
+        ],
+        [
+          66.00003051757812,
+          458.8466796875
+        ]
+      ]
+    },
+    {
+      "title": "What is regrouping?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          143.86474609375,
+          82.84210205078125
+        ],
+        [
+          277.44061279296875,
+          82.84210205078125
+        ],
+        [
+          277.44061279296875,
+          95.96673965454102
+        ],
+        [
+          143.86474609375,
+          95.96673965454102
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          144.00010681152344,
+          265.47021484375
+        ],
+        [
+          200.88011169433594,
+          265.47021484375
+        ],
+        [
+          200.88011169433594,
+          278.3670997619629
+        ],
+        [
+          144.00010681152344,
+          278.3670997619629
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 12.1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          219.046630859375,
+          483.62890625
+        ],
+        [
+          355.44281005859375,
+          483.62890625
+        ],
+        [
+          355.44281005859375,
+          499.69443130493164
+        ],
+        [
+          219.046630859375,
+          499.69443130493164
+        ]
+      ]
+    },
+    {
+      "title": "12.2.3 Factorisation using identities",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          67.5750732421875,
+          117.715576171875
+        ],
+        [
+          316.38427734375,
+          117.715576171875
+        ],
+        [
+          316.38427734375,
+          132.68671035766602
+        ],
+        [
+          67.5750732421875,
+          132.68671035766602
+        ]
+      ]
+    },
+    {
+      "title": "12.2.4 Factors of the form ( x + a) ( x + b)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          141.058349609375,
+          207.457275390625
+        ],
+        [
+          425.2801208496094,
+          207.457275390625
+        ],
+        [
+          425.2801208496094,
+          224.12726211547852
+        ],
+        [
+          141.058349609375,
+          224.12726211547852
+        ]
+      ]
+    },
+    {
+      "title": "Example 11: Obtain the factors of z\n2 \u2013 4z \u2013 12.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.28564453125,
+          146.81591796875
+        ],
+        [
+          302.79541015625,
+          146.81591796875
+        ],
+        [
+          302.79541015625,
+          159.56683731079102
+        ],
+        [
+          65.28564453125,
+          159.56683731079102
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 12.2",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          137.513427734375,
+          416.7919921875
+        ],
+        [
+          277.44281005859375,
+          416.7919921875
+        ],
+        [
+          277.44281005859375,
+          436.81433486938477
+        ],
+        [
+          137.513427734375,
+          436.81433486938477
+        ]
+      ]
+    },
+    {
+      "title": "12.3 Division of Algebraic Expressions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          144.00010681152344,
+          167.84326171875
+        ],
+        [
+          450.205078125,
+          167.84326171875
+        ],
+        [
+          450.205078125,
+          182.15069961547852
+        ],
+        [
+          144.00010681152344,
+          182.15069961547852
+        ]
+      ]
+    },
+    {
+      "title": "12.3.1 Division of a monomial by another monomial",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          141.649169921875,
+          405.90283203125
+        ],
+        [
+          494.51660156250006,
+          405.90283203125
+        ],
+        [
+          494.51660156250006,
+          418.66943359375
+        ],
+        [
+          141.649169921875,
+          418.66943359375
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          156.95999145507812,
+          201.03131484985352
+        ],
+        [
+          247.25830078125003,
+          201.03131484985352
+        ],
+        [
+          247.25830078125003,
+          215.03131484985352
+        ],
+        [
+          156.95999145507812,
+          215.03131484985352
+        ]
+      ]
+    },
+    {
+      "title": "12.3.2 Division of a polynomial by a monomial",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          66.00003051757812,
+          273.918701171875
+        ],
+        [
+          378.125,
+          273.918701171875
+        ],
+        [
+          378.125,
+          289.16772842407227
+        ],
+        [
+          66.00003051757812,
+          289.16772842407227
+        ]
+      ]
+    },
+    {
+      "title": "Reprint 2024-25",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          271.77734375,
+          750.9765625
+        ],
+        [
+          332.92724609375,
+          750.9765625
+        ],
+        [
+          332.92724609375,
+          760.7672176361084
+        ],
+        [
+          271.77734375,
+          760.7672176361084
+        ]
+      ]
+    },
+    {
+      "title": "12.4 Division of Algebraic Expressions Continued\n(Polynomial \u00f7 Polynomial)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          144.0002899169922,
+          159.4886474609375
+        ],
+        [
+          540.89599609375,
+          159.4886474609375
+        ],
+        [
+          540.89599609375,
+          191.99078750610352
+        ],
+        [
+          144.0002899169922,
+          191.99078750610352
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 12.3\n1. Carry out the following divisions.\n(i) 28x\n4 \u00f7 56x (ii) \u201336y\n3 \u00f7 9y\n2\n(iii) 66pq2\nr\n3 \u00f7 11qr2\n(iv) 34x\n3y\n3\nz\n3 \u00f7 51xy2\nz\n3\n(v) 12a\n8b\n8 \u00f7 (\u2013 6a\n6b\n4\n)\n2. Divide the given polynomial by the given monomial.\n(i) (5x\n2\n \u2013 6x) \u00f7 3x (ii) (3y\n8\n \u2013 4y\n6\n + 5y\n4\n) \u00f7 y\n4\n(iii) 8(x\n3y\n2\nz\n2\n + x\n2y\n3\nz\n2\n + x\n2y\n2\nz\n3\n) \u00f7 4x\n2y\n2\nz\n2\n(iv) (x\n3\n + 2x\n2 +3x) \u00f7 2x\n(v) (p\n3q\n6\n \u2013 p\n6q\n3\n) \u00f7 p\n3q\n3\n3. Work out the following divisions.\n(i) (10x \u2013 25) \u00f7 5 (ii) (10x \u2013 25) \u00f7 (2x \u2013 5)\n(iii) 10y(6y + 21) \u00f7 5(2y + 7) (iv) 9x\n2\ny\n2\n(3z \u2013 24) \u00f7 27xy(z \u2013 8)\n(v) 96abc(3a \u2013 12) (5b \u2013 30) \u00f7 144(a \u2013 4) (b \u2013 6)\n4. Divide as directed.\n(i) 5(2x + 1) (3x + 5) \u00f7 (2x + 1) (ii) 26xy(x + 5)(y \u2013 4) \u00f7 13x(y \u2013 4)\n(iii) 52pqr (p + q) (q + r) (r + p) \u00f7 104pq(q + r) (r + p)\n(iv) 20(y + 4) (y\n2\n + 5y + 3) \u00f7 5(y + 4) (v) x(x + 1) (x + 2) (x + 3) \u00f7 x(x + 1)\n5. Factorise the expressions and divide them as directed.\n(i) (y\n2\n + 7y + 10) \u00f7 (y + 5) (ii) (m2\n \u2013 14m \u2013 32) \u00f7 (m + 2)\n(iii) (5p\n2\n \u2013 25p + 20) \u00f7 (p \u2013 1) (iv) 4yz(z\n2\n + 6z \u2013 16) \u00f7 2y(z + 8)\n(v) 5pq(p\n2\n \u2013 q\n2\n) \u00f7 2p(p + q)\n(vi) 12xy(9x\n2\n \u2013 16y\n2\n) \u00f7 4xy(3x + 4y) (vii) 39y\n3\n(50y\n2\n \u2013 98) \u00f7 26y\n2\n(5y + 7)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          68.23974609375,
+          76.8812255859375
+        ],
+        [
+          540.30517578125,
+          76.8812255859375
+        ],
+        [
+          540.30517578125,
+          429.6732521057129
+        ],
+        [
+          68.23974609375,
+          429.6732521057129
+        ]
+      ]
+    },
+    {
+      "title": "WHAT HAVE WE DISCUSSED?",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          175.17822265625,
+          448.3330078125
+        ],
+        [
+          431.00341796875,
+          448.3330078125
+        ],
+        [
+          431.00341796875,
+          468.0148048400879
+        ],
+        [
+          175.17822265625,
+          468.0148048400879
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          429
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          432
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          462
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          407
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          518
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          458
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          553
+        ],
+        [
+          "Line",
+          177
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          474
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          583
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_8_12"
+}

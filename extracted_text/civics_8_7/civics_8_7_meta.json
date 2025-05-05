@@ -1,0 +1,971 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit Five",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.1435546875,
+          216.90777397155762
+        ],
+        [
+          218.14453125,
+          216.90777397155762
+        ],
+        [
+          218.14453125,
+          252.90777397155762
+        ],
+        [
+          78.1435546875,
+          252.90777397155762
+        ]
+      ]
+    },
+    {
+      "title": "Teacher's Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.382568359375,
+          231.705322265625
+        ],
+        [
+          181.8369140625,
+          231.705322265625
+        ],
+        [
+          181.8369140625,
+          253.44878959655762
+        ],
+        [
+          71.382568359375,
+          253.44878959655762
+        ]
+      ]
+    },
+    {
+      "title": "Public Facilities",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          255.19921875,
+          150.47247123718262
+        ],
+        [
+          534.90234375,
+          150.47247123718262
+        ],
+        [
+          534.90234375,
+          181.67248344421387
+        ],
+        [
+          255.19921875,
+          181.67248344421387
+        ]
+      ]
+    },
+    {
+      "title": "Public Facilities",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          530.12109375,
+          66.41137504577637
+        ],
+        [
+          551.63671875,
+          66.41137504577637
+        ],
+        [
+          551.63671875,
+          207.49218559265137
+        ],
+        [
+          530.12109375,
+          207.49218559265137
+        ]
+      ]
+    },
+    {
+      "title": "Water and the People of Chennai",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          252.0,
+          78.72039794921875
+        ],
+        [
+          481.11328125,
+          78.72039794921875
+        ],
+        [
+          481.11328125,
+          96.91595268249512
+        ],
+        [
+          252.0,
+          96.91595268249512
+        ]
+      ]
+    },
+    {
+      "title": "Water as Part of the Fundamental Right\nto Life",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.2138671875,
+          77.47467041015625
+        ],
+        [
+          342.45703125,
+          77.47467041015625
+        ],
+        [
+          342.45703125,
+          116.11498832702637
+        ],
+        [
+          60.2138671875,
+          116.11498832702637
+        ]
+      ]
+    },
+    {
+      "title": "Public Facilities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.176513671875,
+          545.8203125
+        ],
+        [
+          169.68772888183594,
+          545.8203125
+        ],
+        [
+          169.68772888183594,
+          564.9155712127686
+        ],
+        [
+          60.176513671875,
+          564.9155712127686
+        ]
+      ]
+    },
+    {
+      "title": "The Government's Role",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          252.0001983642578,
+          211.19873046875
+        ],
+        [
+          412.681640625,
+          211.19873046875
+        ],
+        [
+          412.681640625,
+          228.19531059265137
+        ],
+        [
+          252.0001983642578,
+          228.19531059265137
+        ]
+      ]
+    },
+    {
+      "title": "Where does the government get money for public facilities?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          72.83935546875,
+          174.8809814453125
+        ],
+        [
+          346.3453369140625,
+          174.8809814453125
+        ],
+        [
+          346.3453369140625,
+          186.96142387390137
+        ],
+        [
+          72.83935546875,
+          186.96142387390137
+        ]
+      ]
+    },
+    {
+      "title": "Whose point of view do you\nagree with?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          380.408203125,
+          669.2431640625
+        ],
+        [
+          517.271484375,
+          669.2431640625
+        ],
+        [
+          517.271484375,
+          694.541015625
+        ],
+        [
+          380.408203125,
+          694.541015625
+        ]
+      ]
+    },
+    {
+      "title": "Water Supply to Chennai: Is it Available\nto All?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.0185546875,
+          78.6724853515625
+        ],
+        [
+          326.91796875,
+          78.6724853515625
+        ],
+        [
+          326.91796875,
+          116.11498832702637
+        ],
+        [
+          59.0185546875,
+          116.11498832702637
+        ]
+      ]
+    },
+    {
+      "title": "In Search of Alternatives",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          314.96484375,
+          79.34326171875
+        ],
+        [
+          495.45703125,
+          79.34326171875
+        ],
+        [
+          495.45703125,
+          96.91595268249512
+        ],
+        [
+          314.96484375,
+          96.91595268249512
+        ]
+      ]
+    },
+    {
+      "title": "Public Water Supply in Porto Alegre",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          97.34326171875,
+          551.1865234375
+        ],
+        [
+          267.15234375,
+          551.1865234375
+        ],
+        [
+          267.15234375,
+          563.3764934539795
+        ],
+        [
+          97.34326171875,
+          563.3764934539795
+        ]
+      ]
+    },
+    {
+      "title": "Extending Sanitation Facilities",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          97.68000030517578,
+          89.500732421875
+        ],
+        [
+          240.25497436523438,
+          89.500732421875
+        ],
+        [
+          240.25497436523438,
+          100.89556694030762
+        ],
+        [
+          97.68000030517578,
+          100.89556694030762
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.952392578125,
+          421.09664726257324
+        ],
+        [
+          134.88389587402344,
+          421.09664726257324
+        ],
+        [
+          134.88389587402344,
+          440.029296875
+        ],
+        [
+          59.952392578125,
+          440.029296875
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          98.23974609375,
+          81.7388916015625
+        ],
+        [
+          210.076171875,
+          81.7388916015625
+        ],
+        [
+          210.076171875,
+          113.56713676452637
+        ],
+        [
+          98.23974609375,
+          113.56713676452637
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/civics_8_7"
+}

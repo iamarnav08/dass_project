@@ -1,0 +1,1206 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter Eight\nELECTROMAGNETIC\nWAVES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          110.49169921875
+        ],
+        [
+          514.4641723632812,
+          110.49169921875
+        ],
+        [
+          514.4641723632812,
+          269.9208984375
+        ],
+        [
+          60.0,
+          269.9208984375
+        ]
+      ]
+    },
+    {
+      "title": "8.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.1708984375,
+          445.3257007598877
+        ],
+        [
+          308.390625,
+          445.3257007598877
+        ],
+        [
+          308.390625,
+          461.3257007598877
+        ],
+        [
+          173.1708984375,
+          461.3257007598877
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          118.634765625,
+          68.5316162109375
+        ],
+        [
+          207.9553985595703,
+          68.5316162109375
+        ],
+        [
+          207.9553985595703,
+          90.5152587890625
+        ],
+        [
+          118.634765625,
+          90.5152587890625
+        ]
+      ]
+    },
+    {
+      "title": "8.2 DISPLACEMENT CURRENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          278.0400390625,
+          323.28547859191895
+        ],
+        [
+          482.607421875,
+          323.28547859191895
+        ],
+        [
+          482.607421875,
+          339.28547859191895
+        ],
+        [
+          278.0400390625,
+          339.28547859191895
+        ]
+      ]
+    },
+    {
+      "title": "Electromagnetic\nWaves",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          374.73046875,
+          55.43701171875
+        ],
+        [
+          499.640625,
+          55.43701171875
+        ],
+        [
+          499.640625,
+          89.63408088684082
+        ],
+        [
+          374.73046875,
+          89.63408088684082
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          110.1181640625,
+          69.15289306640625
+        ],
+        [
+          207.9553985595703,
+          69.15289306640625
+        ],
+        [
+          207.9553985595703,
+          90.47966194152832
+        ],
+        [
+          110.1181640625,
+          90.47966194152832
+        ]
+      ]
+    },
+    {
+      "title": "MAXWELL'S EQUATIONS IN VACUUM",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          146.724609375,
+          205.6904296875
+        ],
+        [
+          334.44158935546875,
+          205.6904296875
+        ],
+        [
+          334.44158935546875,
+          218.77037239074707
+        ],
+        [
+          146.724609375,
+          218.77037239074707
+        ]
+      ]
+    },
+    {
+      "title": "8.3 ELECTROMAGNETIC WAVES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.39208984375,
+          374.868896484375
+        ],
+        [
+          277.91015625,
+          374.868896484375
+        ],
+        [
+          277.91015625,
+          391.24571418762207
+        ],
+        [
+          59.39208984375,
+          391.24571418762207
+        ]
+      ]
+    },
+    {
+      "title": "8.3.1 Sources of electromagnetic waves",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.54150390625,
+          396.8525390625
+        ],
+        [
+          309.5859375,
+          396.8525390625
+        ],
+        [
+          309.5859375,
+          410.51863288879395
+        ],
+        [
+          59.54150390625,
+          410.51863288879395
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          119.232421875,
+          69.1051025390625
+        ],
+        [
+          207.83657836914062,
+          69.1051025390625
+        ],
+        [
+          207.83657836914062,
+          91.0887451171875
+        ],
+        [
+          119.232421875,
+          91.0887451171875
+        ]
+      ]
+    },
+    {
+      "title": "8.3.2 Nature of electromagnetic waves",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          273.7265625,
+          320.00537109375
+        ],
+        [
+          515.9979858398438,
+          320.00537109375
+        ],
+        [
+          515.9979858398438,
+          332.27769660949707
+        ],
+        [
+          273.7265625,
+          332.27769660949707
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          113.47998046875,
+          68.10150146484375
+        ],
+        [
+          207.83657836914062,
+          68.10150146484375
+        ],
+        [
+          207.83657836914062,
+          90.75421142578125
+        ],
+        [
+          113.47998046875,
+          90.75421142578125
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          204.00003051757812,
+          370.663330078125
+        ],
+        [
+          246.72222900390625,
+          370.663330078125
+        ],
+        [
+          246.72222900390625,
+          380.603759765625
+        ],
+        [
+          204.00003051757812,
+          380.603759765625
+        ]
+      ]
+    },
+    {
+      "title": "8.4 ELECTROMAGNETIC SPECTRUM",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          192.00030517578125,
+          566.2374134063721
+        ],
+        [
+          437.484375,
+          566.2374134063721
+        ],
+        [
+          437.484375,
+          582.2374134063721
+        ],
+        [
+          192.00030517578125,
+          582.2374134063721
+        ]
+      ]
+    },
+    {
+      "title": "Electromagnetic\nWaves",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          372.9375,
+          54.0032958984375
+        ],
+        [
+          499.640625,
+          54.0032958984375
+        ],
+        [
+          499.640625,
+          89.63304328918457
+        ],
+        [
+          372.9375,
+          89.63304328918457
+        ]
+      ]
+    },
+    {
+      "title": "8.4.1 Radio waves",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.578857421875,
+          466.81787109375
+        ],
+        [
+          175.44137573242188,
+          466.81787109375
+        ],
+        [
+          175.44137573242188,
+          480.47252082824707
+        ],
+        [
+          59.578857421875,
+          480.47252082824707
+        ]
+      ]
+    },
+    {
+      "title": "8.4.2 Microwaves",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.504150390625,
+          600.2490234375
+        ],
+        [
+          176.7568359375,
+          600.2490234375
+        ],
+        [
+          176.7568359375,
+          613.248046875
+        ],
+        [
+          59.504150390625,
+          613.248046875
+        ]
+      ]
+    },
+    {
+      "title": "8.4.3 Infrared waves",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          190.8017578125,
+          104.99760627746582
+        ],
+        [
+          318.251953125,
+          104.99760627746582
+        ],
+        [
+          318.251953125,
+          116.99760627746582
+        ],
+        [
+          190.8017578125,
+          116.99760627746582
+        ]
+      ]
+    },
+    {
+      "title": "8.4.4 Visible rays",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          190.0546875,
+          361.29638671875
+        ],
+        [
+          300.919921875,
+          361.29638671875
+        ],
+        [
+          300.919921875,
+          374.0374927520752
+        ],
+        [
+          190.0546875,
+          374.0374927520752
+        ]
+      ]
+    },
+    {
+      "title": "8.4.5 Ultraviolet rays",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          191.6982421875,
+          490.1396484375
+        ],
+        [
+          323.9296875,
+          490.1396484375
+        ],
+        [
+          323.9296875,
+          502.91746711730957
+        ],
+        [
+          191.6982421875,
+          502.91746711730957
+        ]
+      ]
+    },
+    {
+      "title": "8.4.6 X-rays",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.578857421875,
+          103.8966064453125
+        ],
+        [
+          136.7138671875,
+          103.8966064453125
+        ],
+        [
+          136.7138671875,
+          117.4691162109375
+        ],
+        [
+          59.578857421875,
+          117.4691162109375
+        ]
+      ]
+    },
+    {
+      "title": "8.4.7 Gamma rays",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.205322265625,
+          232.453125
+        ],
+        [
+          174.0673828125,
+          232.453125
+        ],
+        [
+          174.0673828125,
+          246.11754035949707
+        ],
+        [
+          59.205322265625,
+          246.11754035949707
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          133.65087890625,
+          70.47868537902832
+        ],
+        [
+          208.7314453125,
+          70.47868537902832
+        ],
+        [
+          208.7314453125,
+          91.7578125
+        ],
+        [
+          133.65087890625,
+          91.7578125
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          340.6640625,
+          110.9696044921875
+        ],
+        [
+          400.32000732421875,
+          110.9696044921875
+        ],
+        [
+          400.32000732421875,
+          122.37999153137207
+        ],
+        [
+          340.6640625,
+          122.37999153137207
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          171.826171875,
+          125.4979248046875
+        ],
+        [
+          291.357421875,
+          125.4979248046875
+        ],
+        [
+          291.357421875,
+          137.02000617980957
+        ],
+        [
+          171.826171875,
+          137.02000617980957
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          182.8800048828125,
+          461.46533203125
+        ],
+        [
+          282.2431640625,
+          461.46533203125
+        ],
+        [
+          282.2431640625,
+          482.87548828125
+        ],
+        [
+          182.8800048828125,
+          482.87548828125
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 8.6",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          343.0546875,
+          240.48193359375
+        ],
+        [
+          397.6830749511719,
+          240.48193359375
+        ],
+        [
+          397.6830749511719,
+          250.03740119934082
+        ],
+        [
+          343.0546875,
+          250.03740119934082
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          306
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          334
+        ],
+        [
+          "Line",
+          165
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_12_8"
+}

@@ -1,0 +1,189 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Wild Swans at Coole",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          81.19499206542969,
+          179.64420890808105
+        ],
+        [
+          312.29296875,
+          179.64420890808105
+        ],
+        [
+          312.29296875,
+          202.904296875
+        ],
+        [
+          81.19499206542969,
+          202.904296875
+        ]
+      ]
+    },
+    {
+      "title": "Understanding the Poem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.861572265625,
+          306.843017578125
+        ],
+        [
+          239.30078125,
+          306.843017578125
+        ],
+        [
+          239.30078125,
+          321.3109874725342
+        ],
+        [
+          80.861572265625,
+          321.3109874725342
+        ]
+      ]
+    },
+    {
+      "title": "Language Study",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.624267578125,
+          424.37499999999994
+        ],
+        [
+          185.3349609375,
+          424.37499999999994
+        ],
+        [
+          185.3349609375,
+          437.71098136901855
+        ],
+        [
+          80.624267578125,
+          437.71098136901855
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Reading",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.742919921875,
+          506.26611328124994
+        ],
+        [
+          202.7567901611328,
+          506.26611328124994
+        ],
+        [
+          202.7567901611328,
+          520.705961227417
+        ],
+        [
+          80.742919921875,
+          520.705961227417
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_12_p6"
+}

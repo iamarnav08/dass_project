@@ -1,0 +1,831 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Creating Audio \nChapter Video Communication\n4",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.07119750976562,
+          79.7265625
+        ],
+        [
+          551.0046997070312,
+          79.7265625
+        ],
+        [
+          551.0046997070312,
+          194.5561695098877
+        ],
+        [
+          73.07119750976562,
+          194.5561695098877
+        ]
+      ]
+    },
+    {
+      "title": "List of waterborne \ndiseases",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          429.796875,
+          526.27197265625
+        ],
+        [
+          540.8587646484375,
+          526.27197265625
+        ],
+        [
+          540.8587646484375,
+          552.8534717559814
+        ],
+        [
+          429.796875,
+          552.8534717559814
+        ]
+      ]
+    },
+    {
+      "title": "Activity 1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          357.439453125,
+          439.2626953125
+        ],
+        [
+          424.3044128417969,
+          439.2626953125
+        ],
+        [
+          424.3044128417969,
+          456.0671863555908
+        ],
+        [
+          357.439453125,
+          456.0671863555908
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          207.9111328125,
+          107.132568359375
+        ],
+        [
+          276.8525390625,
+          107.132568359375
+        ],
+        [
+          276.8525390625,
+          126.4671802520752
+        ],
+        [
+          207.9111328125,
+          126.4671802520752
+        ]
+      ]
+    },
+    {
+      "title": "How to record an \naudio?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          88.3505859375,
+          73.45001220703125
+        ],
+        [
+          209.0888214111328,
+          73.45001220703125
+        ],
+        [
+          209.0888214111328,
+          100.65327644348145
+        ],
+        [
+          88.3505859375,
+          100.65327644348145
+        ]
+      ]
+    },
+    {
+      "title": "List of recording \ndevices",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          87.49658203125,
+          204.29931640625
+        ],
+        [
+          209.0888214111328,
+          204.29931640625
+        ],
+        [
+          209.0888214111328,
+          231.4542407989502
+        ],
+        [
+          87.49658203125,
+          231.4542407989502
+        ]
+      ]
+    },
+    {
+      "title": "List of audio tools",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          86.7978515625,
+          356.278076171875
+        ],
+        [
+          198.9052734375,
+          356.278076171875
+        ],
+        [
+          198.9052734375,
+          371.610107421875
+        ],
+        [
+          86.7978515625,
+          371.610107421875
+        ]
+      ]
+    },
+    {
+      "title": "Audacity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          85.5556640625,
+          474.5263671875
+        ],
+        [
+          141.7646484375,
+          474.5263671875
+        ],
+        [
+          141.7646484375,
+          489.091796875
+        ],
+        [
+          85.5556640625,
+          489.091796875
+        ]
+      ]
+    },
+    {
+      "title": "Using Audacity you \ncan",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          430.25201416015625,
+          109.24072265625
+        ],
+        [
+          551.4830322265625,
+          109.24072265625
+        ],
+        [
+          551.4830322265625,
+          136.455078125
+        ],
+        [
+          430.25201416015625,
+          136.455078125
+        ]
+      ]
+    },
+    {
+      "title": "Types of Video \nediting software",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.505859375,
+          73.45001220703125
+        ],
+        [
+          186.017578125,
+          73.45001220703125
+        ],
+        [
+          186.017578125,
+          101.4788818359375
+        ],
+        [
+          88.505859375,
+          101.4788818359375
+        ]
+      ]
+    },
+    {
+      "title": "3. Test yourself",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          86.7978515625,
+          72.1563720703125
+        ],
+        [
+          180.427734375,
+          72.1563720703125
+        ],
+        [
+          180.427734375,
+          86.2446460723877
+        ],
+        [
+          86.7978515625,
+          86.2446460723877
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ict_9_4"
+}

@@ -1,0 +1,875 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Management of 4\nResources",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.886098861694336,
+          200.54642868041992
+        ],
+        [
+          406.4981288909912,
+          200.54642868041992
+        ],
+        [
+          406.4981288909912,
+          274.6627616882324
+        ],
+        [
+          44.886098861694336,
+          274.6627616882324
+        ]
+      ]
+    },
+    {
+      "title": "Learning Objectives",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.52248954772949,
+          304.1525688171387
+        ],
+        [
+          194.287109375,
+          304.1525688171387
+        ],
+        [
+          194.287109375,
+          318.864990234375
+        ],
+        [
+          64.52248954772949,
+          318.864990234375
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.219970703125,
+          453.80664062500006
+        ],
+        [
+          210.24608421325684,
+          453.80664062500006
+        ],
+        [
+          210.24608421325684,
+          473.16699218750006
+        ],
+        [
+          44.219970703125,
+          473.16699218750006
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          133.4320068359375,
+          613.433177947998
+        ],
+        [
+          193.44482421875,
+          613.433177947998
+        ],
+        [
+          193.44482421875,
+          624.9521484375
+        ],
+        [
+          133.4320068359375,
+          624.9521484375
+        ]
+      ]
+    },
+    {
+      "title": "Human and Non-human Resources",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.798828125,
+          107.16392135620117
+        ],
+        [
+          288.75206565856934,
+          107.16392135620117
+        ],
+        [
+          288.75206565856934,
+          121.16392135620117
+        ],
+        [
+          43.798828125,
+          121.16392135620117
+        ]
+      ]
+    },
+    {
+      "title": "Human Resources",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.939208984375,
+          135.60032272338867
+        ],
+        [
+          151.80609703063965,
+          135.60032272338867
+        ],
+        [
+          151.80609703063965,
+          146.60032272338867
+        ],
+        [
+          43.939208984375,
+          146.60032272338867
+        ]
+      ]
+    },
+    {
+      "title": "Non-human Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          132.80029296875,
+          162.95621871948242
+        ],
+        [
+          263.916015625,
+          162.95621871948242
+        ],
+        [
+          263.916015625,
+          174.2431640625
+        ],
+        [
+          132.80029296875,
+          174.2431640625
+        ]
+      ]
+    },
+    {
+      "title": "Individual and Shared Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          132.5897216796875,
+          293.5198173522949
+        ],
+        [
+          369.0920925140381,
+          293.5198173522949
+        ],
+        [
+          369.0920925140381,
+          307.5198173522949
+        ],
+        [
+          132.5897216796875,
+          307.5198173522949
+        ]
+      ]
+    },
+    {
+      "title": "Natural and Community Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          134.6954345703125,
+          438.5197868347168
+        ],
+        [
+          383.61009788513184,
+          438.5197868347168
+        ],
+        [
+          383.61009788513184,
+          453.03222656250006
+        ],
+        [
+          134.6954345703125,
+          453.03222656250006
+        ]
+      ]
+    },
+    {
+      "title": "Characteristics of Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          134.88609886169434,
+          639.5198020935059
+        ],
+        [
+          336.63330078125,
+          639.5198020935059
+        ],
+        [
+          336.63330078125,
+          653.60546875
+        ],
+        [
+          134.88609886169434,
+          653.60546875
+        ]
+      ]
+    },
+    {
+      "title": "Activity 1",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          339.7216796875,
+          116.33134078979492
+        ],
+        [
+          410.8808193206787,
+          116.33134078979492
+        ],
+        [
+          410.8808193206787,
+          130.33134078979492
+        ],
+        [
+          339.7216796875,
+          130.33134078979492
+        ]
+      ]
+    },
+    {
+      "title": "Managing Resources",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.8516845703125,
+          619.5198020935059
+        ],
+        [
+          193.5100917816162,
+          619.5198020935059
+        ],
+        [
+          193.5100917816162,
+          633.5198020935059
+        ],
+        [
+          44.8516845703125,
+          633.5198020935059
+        ]
+      ]
+    },
+    {
+      "title": "The Management Process",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          133.0810546875,
+          237.59684371948242
+        ],
+        [
+          314.17236328125,
+          237.59684371948242
+        ],
+        [
+          314.17236328125,
+          251.59684371948242
+        ],
+        [
+          133.0810546875,
+          251.59684371948242
+        ]
+      ]
+    },
+    {
+      "title": "Key Terms",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          133.502197265625,
+          468.90771484375006
+        ],
+        [
+          200.323486328125,
+          468.90771484375006
+        ],
+        [
+          200.323486328125,
+          482.9366874694824
+        ],
+        [
+          133.502197265625,
+          482.9366874694824
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          390.8203125,
+          114.90368652343751
+        ],
+        [
+          460.44921875,
+          114.90368652343751
+        ],
+        [
+          460.44921875,
+          130.33134078979492
+        ],
+        [
+          390.8203125,
+          130.33134078979492
+        ]
+      ]
+    },
+    {
+      "title": "Review Questions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          49.4842529296875,
+          593.201171875
+        ],
+        [
+          193.44482421875,
+          593.201171875
+        ],
+        [
+          193.44482421875,
+          608.689453125
+        ],
+        [
+          49.4842529296875,
+          608.689453125
+        ]
+      ]
+    },
+    {
+      "title": "Practical 4",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          97.55279350280762,
+          106.77233886718751
+        ],
+        [
+          202.7099609375,
+          106.77233886718751
+        ],
+        [
+          202.7099609375,
+          122.45422363281251
+        ],
+        [
+          97.55279350280762,
+          122.45422363281251
+        ]
+      ]
+    },
+    {
+      "title": "Management of Resources \u2013 Time, Money, Energy and Space",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          90.68603515625,
+          137.264892578125
+        ],
+        [
+          383.5205078125,
+          137.264892578125
+        ],
+        [
+          383.5205078125,
+          149.03824996948242
+        ],
+        [
+          90.68603515625,
+          149.03824996948242
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          816
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          622
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          638
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          560
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          581
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          537
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/home_11_4"
+}

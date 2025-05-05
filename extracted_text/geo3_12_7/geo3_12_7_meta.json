@@ -1,0 +1,1112 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TRANSPORT AND\nCOMMUNICATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.19140625,
+          237.1201171875
+        ],
+        [
+          235.4765625,
+          237.1201171875
+        ],
+        [
+          235.4765625,
+          286.19335746765137
+        ],
+        [
+          53.19140625,
+          286.19335746765137
+        ]
+      ]
+    },
+    {
+      "title": "Land Transport",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          297.3600158691406,
+          609.0283203125
+        ],
+        [
+          401.625,
+          609.0283203125
+        ],
+        [
+          401.625,
+          624.4063091278076
+        ],
+        [
+          297.3600158691406,
+          624.4063091278076
+        ]
+      ]
+    },
+    {
+      "title": "Road Transport",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          83.970703125,
+          126.67407226562499
+        ],
+        [
+          169.2861328125,
+          126.67407226562499
+        ],
+        [
+          169.2861328125,
+          139.63500785827637
+        ],
+        [
+          83.970703125,
+          139.63500785827637
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          154.79296875,
+          461.6396484375
+        ],
+        [
+          260.279296875,
+          461.6396484375
+        ],
+        [
+          260.279296875,
+          481.4951171875
+        ],
+        [
+          154.79296875,
+          481.4951171875
+        ]
+      ]
+    },
+    {
+      "title": "National Highways",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          323.33203125,
+          398.2548828125
+        ],
+        [
+          429.1199951171875,
+          398.2548828125
+        ],
+        [
+          429.1199951171875,
+          413.95602226257324
+        ],
+        [
+          323.33203125,
+          413.95602226257324
+        ]
+      ]
+    },
+    {
+      "title": "National Highways\nDevelopment Projects",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          102.9000015258789,
+          208.67333984375
+        ],
+        [
+          235.9248046875,
+          208.67333984375
+        ],
+        [
+          235.9248046875,
+          237.46233940124512
+        ],
+        [
+          102.9000015258789,
+          237.46233940124512
+        ]
+      ]
+    },
+    {
+      "title": "Rural Roads",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          295.83984375,
+          192.922607421875
+        ],
+        [
+          360.984375,
+          192.922607421875
+        ],
+        [
+          360.984375,
+          206.15490531921387
+        ],
+        [
+          295.83984375,
+          206.15490531921387
+        ]
+      ]
+    },
+    {
+      "title": "These are constructed and maintained by state",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.0,
+          566.8450908660889
+        ],
+        [
+          284.8790283203125,
+          566.8450908660889
+        ],
+        [
+          284.8790283203125,
+          579.2451171875
+        ],
+        [
+          54.0,
+          579.2451171875
+        ]
+      ]
+    },
+    {
+      "title": "District Roads",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.154052734375,
+          633.083984375
+        ],
+        [
+          125.9560546875,
+          633.083984375
+        ],
+        [
+          125.9560546875,
+          645.354902267456
+        ],
+        [
+          53.154052734375,
+          645.354902267456
+        ]
+      ]
+    },
+    {
+      "title": "Other Roads",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          294.943359375,
+          589.1728515625
+        ],
+        [
+          360.087890625,
+          589.1728515625
+        ],
+        [
+          360.087890625,
+          600.6279296875
+        ],
+        [
+          294.943359375,
+          600.6279296875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          413.578125,
+          189.96337890625
+        ],
+        [
+          531.9140625,
+          189.96337890625
+        ],
+        [
+          531.9140625,
+          208.67333984375
+        ],
+        [
+          413.578125,
+          208.67333984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          120.12890625,
+          158.557373046875
+        ],
+        [
+          234.580078125,
+          158.557373046875
+        ],
+        [
+          234.580078125,
+          178.221923828125
+        ],
+        [
+          120.12890625,
+          178.221923828125
+        ]
+      ]
+    },
+    {
+      "title": "Rail Transport",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.490234375,
+          400.5458984375
+        ],
+        [
+          133.875,
+          400.5458984375
+        ],
+        [
+          133.875,
+          414.44750785827637
+        ],
+        [
+          53.490234375,
+          414.44750785827637
+        ]
+      ]
+    },
+    {
+      "title": "Table 7.2 : Indian Railways:\nRailway Zones and Headquarters",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          326.1600036621094,
+          62.81201171875
+        ],
+        [
+          503.82421875,
+          62.81201171875
+        ],
+        [
+          503.82421875,
+          88.05200004577637
+        ],
+        [
+          326.1600036621094,
+          88.05200004577637
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          367.857421875,
+          449.802734375
+        ],
+        [
+          478.423828125,
+          449.802734375
+        ],
+        [
+          478.423828125,
+          469.658203125
+        ],
+        [
+          367.857421875,
+          469.658203125
+        ]
+      ]
+    },
+    {
+      "title": "Water Transport",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          326.619140625,
+          279.31298828125
+        ],
+        [
+          414.00030517578125,
+          279.31298828125
+        ],
+        [
+          414.00030517578125,
+          291.55587577819824
+        ],
+        [
+          326.619140625,
+          291.55587577819824
+        ]
+      ]
+    },
+    {
+      "title": "Inland Waterways",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          325.72265625,
+          394.818359375
+        ],
+        [
+          421.34765625,
+          394.818359375
+        ],
+        [
+          421.34765625,
+          407.2746868133545
+        ],
+        [
+          325.72265625,
+          407.2746868133545
+        ]
+      ]
+    },
+    {
+      "title": "Oceanic Routes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.2236328125,
+          216.119140625
+        ],
+        [
+          169.60479736328125,
+          216.119140625
+        ],
+        [
+          169.60479736328125,
+          228.38128471374512
+        ],
+        [
+          83.2236328125,
+          228.38128471374512
+        ]
+      ]
+    },
+    {
+      "title": "Air Tran Air TranAir Transportation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.373046875,
+          413.91015625
+        ],
+        [
+          187.60379028320312,
+          413.91015625
+        ],
+        [
+          187.60379028320312,
+          426.14208793640137
+        ],
+        [
+          83.373046875,
+          426.14208793640137
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          395.6484375,
+          71.59423828125
+        ],
+        [
+          505.01953125,
+          71.59423828125
+        ],
+        [
+          505.01953125,
+          89.826904296875
+        ],
+        [
+          395.6484375,
+          89.826904296875
+        ]
+      ]
+    },
+    {
+      "title": "Oil and Gas Pipelines",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          326.619140625,
+          350.33447265625
+        ],
+        [
+          468.263671875,
+          350.33447265625
+        ],
+        [
+          468.263671875,
+          364.46240234375
+        ],
+        [
+          326.619140625,
+          364.46240234375
+        ]
+      ]
+    },
+    {
+      "title": "Communication Networks",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.71435546875,
+          230.24358940124512
+        ],
+        [
+          224.12109375,
+          230.24358940124512
+        ],
+        [
+          224.12109375,
+          244.56591796875
+        ],
+        [
+          53.71435546875,
+          244.56591796875
+        ]
+      ]
+    },
+    {
+      "title": "Personal Communication System",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          294.64453125,
+          65.4371337890625
+        ],
+        [
+          482.30859375,
+          65.4371337890625
+        ],
+        [
+          482.30859375,
+          77.71551322937012
+        ],
+        [
+          294.64453125,
+          77.71551322937012
+        ]
+      ]
+    },
+    {
+      "title": "Mass Communication System",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          296.736328125,
+          285.61328125
+        ],
+        [
+          461.76080322265625,
+          285.61328125
+        ],
+        [
+          461.76080322265625,
+          297.3154888153076
+        ],
+        [
+          296.736328125,
+          297.3154888153076
+        ]
+      ]
+    },
+    {
+      "title": "Radio",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          294.4951171875,
+          310.05078125
+        ],
+        [
+          328.412109375,
+          310.05078125
+        ],
+        [
+          328.412109375,
+          321.505859375
+        ],
+        [
+          294.4951171875,
+          321.505859375
+        ]
+      ]
+    },
+    {
+      "title": "Television (T.V.)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          296.8800048828125,
+          539.3581523895264
+        ],
+        [
+          375.92578125,
+          539.3581523895264
+        ],
+        [
+          375.92578125,
+          550.2255859375
+        ],
+        [
+          296.8800048828125,
+          550.2255859375
+        ]
+      ]
+    },
+    {
+      "title": "Satellite Communication",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          83.671875,
+          144.620361328125
+        ],
+        [
+          211.7197265625,
+          144.620361328125
+        ],
+        [
+          211.7197265625,
+          156.266357421875
+        ],
+        [
+          83.671875,
+          156.266357421875
+        ]
+      ]
+    },
+    {
+      "title": "Project Project",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          269.0947265625,
+          243.9931640625
+        ],
+        [
+          317.953125,
+          243.9931640625
+        ],
+        [
+          317.953125,
+          259.2666015625
+        ],
+        [
+          269.0947265625,
+          259.2666015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo3_12_7"
+}

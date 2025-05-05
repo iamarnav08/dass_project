@@ -1,0 +1,2301 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Introduction\nto NumPy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          240.87744140625,
+          156.8485107421875
+        ],
+        [
+          420.556640625,
+          156.8485107421875
+        ],
+        [
+          420.556640625,
+          228.11713218688965
+        ],
+        [
+          240.87744140625,
+          228.11713218688965
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.6695556640625,
+          553.98779296875
+        ],
+        [
+          177.1563835144043,
+          553.98779296875
+        ],
+        [
+          177.1563835144043,
+          570.1696224212646
+        ],
+        [
+          61.6695556640625,
+          570.1696224212646
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          416.49609375,
+          324.402099609375
+        ],
+        [
+          506.98828125,
+          324.402099609375
+        ],
+        [
+          506.98828125,
+          338.1868648529053
+        ],
+        [
+          416.49609375,
+          338.1868648529053
+        ]
+      ]
+    },
+    {
+      "title": "Installing NumPy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          209.6982421875,
+          79.332275390625
+        ],
+        [
+          325.05199813842773,
+          79.332275390625
+        ],
+        [
+          325.05199813842773,
+          92.60175132751465
+        ],
+        [
+          209.6982421875,
+          92.60175132751465
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Array",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          212.5319938659668,
+          135.151611328125
+        ],
+        [
+          283.658203125,
+          135.151611328125
+        ],
+        [
+          283.658203125,
+          149.4500789642334
+        ],
+        [
+          212.5319938659668,
+          149.4500789642334
+        ]
+      ]
+    },
+    {
+      "title": "We have learnt about various data types like list, tuple, \nand dictionary. In this chapter we will discuss another \ndatatype 'Array'. An array is a data type used to store \nmultiple values using a single identifier (variable name). \nAn array contains an ordered collection of data elements \nwhere each element is of the same type and can be \nreferenced by its index (position).",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          208.68310546875,
+          157.2092342376709
+        ],
+        [
+          539.47265625,
+          157.2092342376709
+        ],
+        [
+          539.47265625,
+          255.6092586517334
+        ],
+        [
+          208.68310546875,
+          255.6092586517334
+        ]
+      ]
+    },
+    {
+      "title": "6.3 NumPy Array",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          212.5319938659668,
+          612.10107421875
+        ],
+        [
+          330.9345703125,
+          612.10107421875
+        ],
+        [
+          330.9345703125,
+          626.7476253509521
+        ],
+        [
+          212.5319938659668,
+          626.7476253509521
+        ]
+      ]
+    },
+    {
+      "title": "Contiguous memory \nallocation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.37199783325195,
+          169.560791015625
+        ],
+        [
+          187.0751953125,
+          169.560791015625
+        ],
+        [
+          187.0751953125,
+          192.30908203125
+        ],
+        [
+          77.37199783325195,
+          192.30908203125
+        ]
+      ]
+    },
+    {
+      "title": "Now Contiguous \nMemory Allocation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.5703125,
+          268.200439453125
+        ],
+        [
+          179.37199020385742,
+          268.200439453125
+        ],
+        [
+          179.37199020385742,
+          291.16766929626465
+        ],
+        [
+          76.5703125,
+          291.16766929626465
+        ]
+      ]
+    },
+    {
+      "title": "6.3.1 Difference Between List and Array",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.231998443603516,
+          145.474365234375
+        ],
+        [
+          312.9521484375,
+          145.474365234375
+        ],
+        [
+          312.9521484375,
+          158.6685848236084
+        ],
+        [
+          62.231998443603516,
+          158.6685848236084
+        ]
+      ]
+    },
+    {
+      "title": "6.3.2 Creation of NumPy Arrays from List",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          61.63330078125,
+          391.88232421875
+        ],
+        [
+          324.263671875,
+          391.88232421875
+        ],
+        [
+          324.263671875,
+          405.3886775970459
+        ],
+        [
+          61.63330078125,
+          405.3886775970459
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          211.57200241088867,
+          233.026611328125
+        ],
+        [
+          283.3319969177246,
+          233.026611328125
+        ],
+        [
+          283.3319969177246,
+          245.6580867767334
+        ],
+        [
+          211.57200241088867,
+          245.6580867767334
+        ]
+      ]
+    },
+    {
+      "title": "6.3.3 Attributes of NumPy Array",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          211.57200241088867,
+          358.046630859375
+        ],
+        [
+          415.3359375,
+          358.046630859375
+        ],
+        [
+          415.3359375,
+          371.2946529388428
+        ],
+        [
+          211.57200241088867,
+          371.2946529388428
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.2",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          211.57200241088867,
+          513.46142578125
+        ],
+        [
+          283.9482421875,
+          513.46142578125
+        ],
+        [
+          283.9482421875,
+          526.5186214447021
+        ],
+        [
+          211.57200241088867,
+          526.5186214447021
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.3",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          211.57200241088867,
+          626.62939453125
+        ],
+        [
+          285.25341796875,
+          626.62939453125
+        ],
+        [
+          285.25341796875,
+          639.0093288421631
+        ],
+        [
+          211.57200241088867,
+          639.0093288421631
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.4",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          61.820003509521484,
+          163.9215087890625
+        ],
+        [
+          138.566162109375,
+          163.9215087890625
+        ],
+        [
+          138.566162109375,
+          176.86835289001465
+        ],
+        [
+          61.820003509521484,
+          176.86835289001465
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.5",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          61.820003509521484,
+          294.00732421875
+        ],
+        [
+          136.825927734375,
+          294.00732421875
+        ],
+        [
+          136.825927734375,
+          306.721960067749
+        ],
+        [
+          61.820003509521484,
+          306.721960067749
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.6",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          61.820003509521484,
+          488.22802734375
+        ],
+        [
+          136.0283203125,
+          488.22802734375
+        ],
+        [
+          136.0283203125,
+          501.22705078125
+        ],
+        [
+          61.820003509521484,
+          501.22705078125
+        ]
+      ]
+    },
+    {
+      "title": "6.3.4 Other Ways of Creating NumPy Arrays",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          61.705810546875,
+          588.779296875
+        ],
+        [
+          339.7399559020996,
+          588.779296875
+        ],
+        [
+          339.7399559020996,
+          602.54296875
+        ],
+        [
+          61.705810546875,
+          602.54296875
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          450.7777976989746,
+          80.04962730407715
+        ],
+        [
+          493.646484375,
+          80.04962730407715
+        ],
+        [
+          493.646484375,
+          94.04962730407715
+        ],
+        [
+          450.7777976989746,
+          94.04962730407715
+        ]
+      ]
+    },
+    {
+      "title": "6.4 Indexing and Slicing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          212.72399520874023,
+          602.1351070404053
+        ],
+        [
+          376.470703125,
+          602.1351070404053
+        ],
+        [
+          376.470703125,
+          616.1351070404053
+        ],
+        [
+          212.72399520874023,
+          616.1351070404053
+        ]
+      ]
+    },
+    {
+      "title": "6.4.1 Indexing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          211.72399520874023,
+          646.4253444671631
+        ],
+        [
+          303.380859375,
+          646.4253444671631
+        ],
+        [
+          303.380859375,
+          658.74462890625
+        ],
+        [
+          211.72399520874023,
+          658.74462890625
+        ]
+      ]
+    },
+    {
+      "title": "Table 6.1 Marks of students in different subjects",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          82.6611328125,
+          79.28448486328125
+        ],
+        [
+          363.1881675720215,
+          79.28448486328125
+        ],
+        [
+          363.1881675720215,
+          91.6180477142334
+        ],
+        [
+          82.6611328125,
+          91.6180477142334
+        ]
+      ]
+    },
+    {
+      "title": "6.4.2 Slicing",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          61.560791015625,
+          487.3858394622803
+        ],
+        [
+          141.466552734375,
+          487.3858394622803
+        ],
+        [
+          141.466552734375,
+          500.080078125
+        ],
+        [
+          61.560791015625,
+          500.080078125
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.7",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          61.820003509521484,
+          569.8550319671631
+        ],
+        [
+          136.6083984375,
+          569.8550319671631
+        ],
+        [
+          136.6083984375,
+          581.8974609375
+        ],
+        [
+          61.820003509521484,
+          581.8974609375
+        ]
+      ]
+    },
+    {
+      "title": "6.5 Operations on Arrays",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          211.1484375,
+          448.7701168060303
+        ],
+        [
+          388.072265625,
+          448.7701168060303
+        ],
+        [
+          388.072265625,
+          462.7701168060303
+        ],
+        [
+          211.1484375,
+          462.7701168060303
+        ]
+      ]
+    },
+    {
+      "title": "6.5.1 Arithmetic Operations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          210.568359375,
+          536.0185546875
+        ],
+        [
+          390.392578125,
+          536.0185546875
+        ],
+        [
+          390.392578125,
+          548.2603511810303
+        ],
+        [
+          210.568359375,
+          548.2603511810303
+        ]
+      ]
+    },
+    {
+      "title": "6.5.2 Transpose",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          61.5970458984375,
+          556.4877376556396
+        ],
+        [
+          165.6123046875,
+          556.4877376556396
+        ],
+        [
+          165.6123046875,
+          568.4877376556396
+        ],
+        [
+          61.5970458984375,
+          568.4877376556396
+        ]
+      ]
+    },
+    {
+      "title": "6.5.3 Sorting",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          211.4384765625,
+          165.8331298828125
+        ],
+        [
+          295.259765625,
+          165.8331298828125
+        ],
+        [
+          295.259765625,
+          178.6477108001709
+        ],
+        [
+          211.4384765625,
+          178.6477108001709
+        ]
+      ]
+    },
+    {
+      "title": "6.6 Concatenating Arrays",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          212.76848983764648,
+          670.5551052093506
+        ],
+        [
+          390.1025390625,
+          670.5551052093506
+        ],
+        [
+          390.1025390625,
+          684.5551052093506
+        ],
+        [
+          212.76848983764648,
+          684.5551052093506
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.8",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          61.820003509521484,
+          184.471435546875
+        ],
+        [
+          135.085693359375,
+          184.471435546875
+        ],
+        [
+          135.085693359375,
+          198.17145347595215
+        ],
+        [
+          61.820003509521484,
+          198.17145347595215
+        ]
+      ]
+    },
+    {
+      "title": "6.7 Reshaping Arrays",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          61.92333984375,
+          553.98779296875
+        ],
+        [
+          209.1497917175293,
+          553.98779296875
+        ],
+        [
+          209.1497917175293,
+          569.2101039886475
+        ],
+        [
+          61.92333984375,
+          569.2101039886475
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.9",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          61.1982421875,
+          652.2451171875
+        ],
+        [
+          136.6083984375,
+          652.2451171875
+        ],
+        [
+          136.6083984375,
+          665.3691310882568
+        ],
+        [
+          61.1982421875,
+          665.3691310882568
+        ]
+      ]
+    },
+    {
+      "title": "6.8 Splitting Arrays",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          210.8583984375,
+          196.705810546875
+        ],
+        [
+          353.84765625,
+          196.705810546875
+        ],
+        [
+          353.84765625,
+          211.55512046813965
+        ],
+        [
+          210.8583984375,
+          211.55512046813965
+        ]
+      ]
+    },
+    {
+      "title": "6.9 Statistical Operations on Arrays",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          60.980712890625,
+          633.5550899505615
+        ],
+        [
+          313.5322265625,
+          633.5550899505615
+        ],
+        [
+          313.5322265625,
+          647.5551052093506
+        ],
+        [
+          60.980712890625,
+          647.5551052093506
+        ]
+      ]
+    },
+    {
+      "title": "6.10 Loading Arrays from Files",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          61.850830078125,
+          190.206298828125
+        ],
+        [
+          281.0478515625,
+          190.206298828125
+        ],
+        [
+          281.0478515625,
+          205.33514976501465
+        ],
+        [
+          61.850830078125,
+          205.33514976501465
+        ]
+      ]
+    },
+    {
+      "title": "6.10.1 Using NumPy.loadtxt()",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          62.288700103759766,
+          501.609375
+        ],
+        [
+          249.86865234375,
+          501.609375
+        ],
+        [
+          249.86865234375,
+          514.6083984375
+        ],
+        [
+          62.288700103759766,
+          514.6083984375
+        ]
+      ]
+    },
+    {
+      "title": "6.10.2 Using NumPy.genfromtxt()",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          62.16849899291992,
+          75.2222900390625
+        ],
+        [
+          297.0,
+          73.6929931640625
+        ],
+        [
+          297.0,
+          93.5485897064209
+        ],
+        [
+          62.16849899291992,
+          93.5485897064209
+        ]
+      ]
+    },
+    {
+      "title": "6.11 Saving NumPy Arrays in Files on Disk",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          208.39306640625,
+          78.949951171875
+        ],
+        [
+          504.087890625,
+          78.949951171875
+        ],
+        [
+          504.087890625,
+          94.5169734954834
+        ],
+        [
+          208.39306640625,
+          94.5169734954834
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          214.09820175170898,
+          241.65033531188965
+        ],
+        [
+          276.84228515625,
+          241.65033531188965
+        ],
+        [
+          276.84228515625,
+          256.65033531188965
+        ],
+        [
+          214.09820175170898,
+          256.65033531188965
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          61.820003509521484,
+          108.7069149017334
+        ],
+        [
+          124.716796875,
+          108.7069149017334
+        ],
+        [
+          124.716796875,
+          123.8584041595459
+        ],
+        [
+          61.820003509521484,
+          123.8584041595459
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          106.58935546875,
+          80.5460262298584
+        ],
+        [
+          147.25300216674805,
+          80.5460262298584
+        ],
+        [
+          147.25300216674805,
+          94.5460262298584
+        ],
+        [
+          106.58935546875,
+          94.5460262298584
+        ]
+      ]
+    },
+    {
+      "title": "Case Study (Solved)",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          61.820003509521484,
+          172.5238037109375
+        ],
+        [
+          205.0576171875,
+          172.5238037109375
+        ],
+        [
+          205.0576171875,
+          187.63690757751465
+        ],
+        [
+          61.820003509521484,
+          187.63690757751465
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          454.78125,
+          81.5306396484375
+        ],
+        [
+          493.06640625,
+          81.5306396484375
+        ],
+        [
+          493.06640625,
+          93.5738525390625
+        ],
+        [
+          454.78125,
+          93.5738525390625
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          105.211669921875,
+          80.5366268157959
+        ],
+        [
+          146.687255859375,
+          80.5366268157959
+        ],
+        [
+          146.687255859375,
+          94.5366268157959
+        ],
+        [
+          105.211669921875,
+          94.5366268157959
+        ]
+      ]
+    },
+    {
+      "title": "Solutions to Case Study based Exercises",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          209.55322265625,
+          551.3944149017334
+        ],
+        [
+          482.044921875,
+          551.3944149017334
+        ],
+        [
+          482.044921875,
+          565.3944149017334
+        ],
+        [
+          209.55322265625,
+          565.3944149017334
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          306
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/inf_11_6"
+}

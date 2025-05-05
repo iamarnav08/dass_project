@@ -1,0 +1,957 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DRAINAGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          271.77978515625,
+          154.9493408203125
+        ],
+        [
+          359.6044921875,
+          154.9493408203125
+        ],
+        [
+          359.6044921875,
+          175.71889686584473
+        ],
+        [
+          271.77978515625,
+          175.71889686584473
+        ]
+      ]
+    },
+    {
+      "title": "DRAINAGE SYSTEMS IN INDIA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          322.6904296875,
+          220.39794921875
+        ],
+        [
+          466.0400390625,
+          220.39794921875
+        ],
+        [
+          466.0400390625,
+          234.80245399475098
+        ],
+        [
+          322.6904296875,
+          234.80245399475098
+        ]
+      ]
+    },
+    {
+      "title": "The Himalayan Rivers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          322.998046875,
+          65.736083984375
+        ],
+        [
+          449.12109375,
+          65.736083984375
+        ],
+        [
+          449.12109375,
+          79.41036415100098
+        ],
+        [
+          322.998046875,
+          79.41036415100098
+        ]
+      ]
+    },
+    {
+      "title": "The Indus River System",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          323.61328125,
+          168.1732177734375
+        ],
+        [
+          445.4296875,
+          168.1732177734375
+        ],
+        [
+          445.4296875,
+          180.91140174865723
+        ],
+        [
+          323.61328125,
+          180.91140174865723
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          331.611328125,
+          487.17529296875
+        ],
+        [
+          407.900390625,
+          487.17529296875
+        ],
+        [
+          407.900390625,
+          501.74072265625
+        ],
+        [
+          331.611328125,
+          501.74072265625
+        ]
+      ]
+    },
+    {
+      "title": "The Ganga River System",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          323.61328125,
+          583.3837890625
+        ],
+        [
+          449.736328125,
+          583.3837890625
+        ],
+        [
+          449.736328125,
+          596.416015625
+        ],
+        [
+          323.61328125,
+          596.416015625
+        ]
+      ]
+    },
+    {
+      "title": "The Brahmaputra River System",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          323.61328125,
+          461.87744140625
+        ],
+        [
+          485.419921875,
+          461.87744140625
+        ],
+        [
+          485.419921875,
+          474.43035316467285
+        ],
+        [
+          323.61328125,
+          474.43035316467285
+        ]
+      ]
+    },
+    {
+      "title": "The Peninsular Rivers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.51953125,
+          306.640625
+        ],
+        [
+          198.56689453125,
+          306.640625
+        ],
+        [
+          198.56689453125,
+          319.1692142486572
+        ],
+        [
+          77.51953125,
+          319.1692142486572
+        ]
+      ]
+    },
+    {
+      "title": "The Narmada Basin",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.8271484375,
+          518.60595703125
+        ],
+        [
+          182.4169921875,
+          518.60595703125
+        ],
+        [
+          182.4169921875,
+          531.0702152252197
+        ],
+        [
+          77.8271484375,
+          531.0702152252197
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          331.3037109375,
+          67.5567626953125
+        ],
+        [
+          408.8232421875,
+          67.5567626953125
+        ],
+        [
+          408.8232421875,
+          84.2303466796875
+        ],
+        [
+          331.3037109375,
+          84.2303466796875
+        ]
+      ]
+    },
+    {
+      "title": "The Tapi Basin",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          324.0000305175781,
+          226.339111328125
+        ],
+        [
+          400.55963134765625,
+          226.339111328125
+        ],
+        [
+          400.55963134765625,
+          238.99019813537598
+        ],
+        [
+          324.0000305175781,
+          238.99019813537598
+        ]
+      ]
+    },
+    {
+      "title": "The Godavari Basin",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          324.0000305175781,
+          398.6328125
+        ],
+        [
+          428.818359375,
+          398.6328125
+        ],
+        [
+          428.818359375,
+          412.270227432251
+        ],
+        [
+          324.0000305175781,
+          412.270227432251
+        ]
+      ]
+    },
+    {
+      "title": "The Mahanadi Basin",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          323.61328125,
+          626.69677734375
+        ],
+        [
+          431.2801818847656,
+          626.69677734375
+        ],
+        [
+          431.2801818847656,
+          639.31028175354
+        ],
+        [
+          323.61328125,
+          639.31028175354
+        ]
+      ]
+    },
+    {
+      "title": "The Krishna Basin",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          77.7117919921875,
+          125.72265625
+        ],
+        [
+          174.26513671875,
+          125.72265625
+        ],
+        [
+          174.26513671875,
+          138.43032264709473
+        ],
+        [
+          77.7117919921875,
+          138.43032264709473
+        ]
+      ]
+    },
+    {
+      "title": "The Kaveri Basin",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          77.442626953125,
+          236.8798828125
+        ],
+        [
+          166.55999755859375,
+          236.8798828125
+        ],
+        [
+          166.55999755859375,
+          249.55019569396973
+        ],
+        [
+          77.442626953125,
+          249.55019569396973
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          78.90380859375,
+          417.41455078125
+        ],
+        [
+          124.12353515625,
+          417.41455078125
+        ],
+        [
+          124.12353515625,
+          429.68017578125
+        ],
+        [
+          78.90380859375,
+          429.68017578125
+        ]
+      ]
+    },
+    {
+      "title": "LAKES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.7889404296875,
+          596.79931640625
+        ],
+        [
+          110.972900390625,
+          596.79931640625
+        ],
+        [
+          110.972900390625,
+          610.4011631011963
+        ],
+        [
+          76.7889404296875,
+          610.4011631011963
+        ]
+      ]
+    },
+    {
+      "title": "ROLE OF RIVERS IN THE ECONOMY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.981201171875,
+          309.515380859375
+        ],
+        [
+          251.015625,
+          309.515380859375
+        ],
+        [
+          251.015625,
+          322.6411991119385
+        ],
+        [
+          76.981201171875,
+          322.6411991119385
+        ]
+      ]
+    },
+    {
+      "title": "RIVER POLLUTION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          77.4041748046875,
+          507.87353515625
+        ],
+        [
+          169.03564453125,
+          507.87353515625
+        ],
+        [
+          169.03564453125,
+          522.081262588501
+        ],
+        [
+          77.4041748046875,
+          522.081262588501
+        ]
+      ]
+    },
+    {
+      "title": "National River Conservation Plan\n(NRCP)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          359.912109375,
+          90.3631591796875
+        ],
+        [
+          507.568359375,
+          90.3631591796875
+        ],
+        [
+          507.568359375,
+          113.01998329162598
+        ],
+        [
+          359.912109375,
+          113.01998329162598
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          283.44000244140625,
+          581.083984375
+        ],
+        [
+          340.56298828125,
+          581.083984375
+        ],
+        [
+          340.56298828125,
+          595.2717685699463
+        ],
+        [
+          283.44000244140625,
+          595.2717685699463
+        ]
+      ]
+    },
+    {
+      "title": "Map Skills",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          117.97119140625,
+          592.19970703125
+        ],
+        [
+          180.10986328125,
+          592.19970703125
+        ],
+        [
+          180.10986328125,
+          603.69873046875
+        ],
+        [
+          117.97119140625,
+          603.69873046875
+        ]
+      ]
+    },
+    {
+      "title": "Project/Activity",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          124.27734375,
+          67.98797607421875
+        ],
+        [
+          212.5634765625,
+          67.98797607421875
+        ],
+        [
+          212.5634765625,
+          80.61470985412598
+        ],
+        [
+          124.27734375,
+          80.61470985412598
+        ]
+      ]
+    },
+    {
+      "title": "Across",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          117.509765625,
+          110.198974609375
+        ],
+        [
+          152.42431640625,
+          110.198974609375
+        ],
+        [
+          152.42431640625,
+          121.41475868225098
+        ],
+        [
+          117.509765625,
+          121.41475868225098
+        ]
+      ]
+    },
+    {
+      "title": "Down",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          117.35595703125,
+          248.37890625
+        ],
+        [
+          147.81005859375,
+          248.37890625
+        ],
+        [
+          147.81005859375,
+          259.894739151001
+        ],
+        [
+          117.35595703125,
+          259.894739151001
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_9_3"
+}

@@ -1,0 +1,875 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIT\nII",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.7470703125,
+          307.215576171875
+        ],
+        [
+          324.5625,
+          307.215576171875
+        ],
+        [
+          324.5625,
+          365.1267681121826
+        ],
+        [
+          250.7470703125,
+          365.1267681121826
+        ]
+      ]
+    },
+    {
+      "title": "PHYSIOGRAPHY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.82929611206055,
+          403.96032524108887
+        ],
+        [
+          356.39892578125,
+          403.96032524108887
+        ],
+        [
+          356.39892578125,
+          435.04638671875
+        ],
+        [
+          206.82929611206055,
+          435.04638671875
+        ]
+      ]
+    },
+    {
+      "title": "STRUCTURE AND PHYSIOGRAPHY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          270.327880859375,
+          162.73724174499512
+        ],
+        [
+          518.3984375,
+          162.73724174499512
+        ],
+        [
+          518.3984375,
+          183.026123046875
+        ],
+        [
+          270.327880859375,
+          183.026123046875
+        ]
+      ]
+    },
+    {
+      "title": "THE PENINSULAR BLOCK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          289.0634765625,
+          340.67455863952637
+        ],
+        [
+          416.4091796875,
+          340.67455863952637
+        ],
+        [
+          416.4091796875,
+          354.9365234375
+        ],
+        [
+          289.0634765625,
+          354.9365234375
+        ]
+      ]
+    },
+    {
+      "title": "THE HIMALAYAS AND OTHER\nPENINSULAR MOUNTAINS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.41552734375,
+          343.82080078125
+        ],
+        [
+          185.947265625,
+          343.82080078125
+        ],
+        [
+          185.947265625,
+          371.65038871765137
+        ],
+        [
+          41.41552734375,
+          371.65038871765137
+        ]
+      ]
+    },
+    {
+      "title": "INDO-GANGA-BRAHMAPUTRA PLAIN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          289.1493339538574,
+          92.71087646484375
+        ],
+        [
+          465.71337890625,
+          92.71087646484375
+        ],
+        [
+          465.71337890625,
+          106.21050834655762
+        ],
+        [
+          289.1493339538574,
+          106.21050834655762
+        ]
+      ]
+    },
+    {
+      "title": "PHYSIOGRAPHY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          289.0634765625,
+          441.17919921875
+        ],
+        [
+          361.1884765625,
+          441.17919921875
+        ],
+        [
+          361.1884765625,
+          453.49023246765137
+        ],
+        [
+          289.0634765625,
+          453.49023246765137
+        ]
+      ]
+    },
+    {
+      "title": "The North and Northeastern Mountains",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.0494384765625,
+          156.578369140625
+        ],
+        [
+          264.55224609375,
+          156.578369140625
+        ],
+        [
+          264.55224609375,
+          167.62804985046387
+        ],
+        [
+          42.0494384765625,
+          167.62804985046387
+        ]
+      ]
+    },
+    {
+      "title": "The Northern Plains",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.73248291015625,
+          661.1279125213623
+        ],
+        [
+          154.99332809448242,
+          661.1279125213623
+        ],
+        [
+          154.99332809448242,
+          671.6279125213623
+        ],
+        [
+          41.73248291015625,
+          671.6279125213623
+        ]
+      ]
+    },
+    {
+      "title": "The Peninsular Plateau",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.87335205078125,
+          332.130126953125
+        ],
+        [
+          173.973388671875,
+          332.130126953125
+        ],
+        [
+          173.973388671875,
+          344.7477397918701
+        ],
+        [
+          41.87335205078125,
+          344.7477397918701
+        ]
+      ]
+    },
+    {
+      "title": "The Deccan Plateau",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          289.0634765625,
+          576.86767578125
+        ],
+        [
+          389.92578125,
+          576.86767578125
+        ],
+        [
+          389.92578125,
+          588.886152267456
+        ],
+        [
+          289.0634765625,
+          588.886152267456
+        ]
+      ]
+    },
+    {
+      "title": "The Central Highlands",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.94378662109375,
+          330.4052734375
+        ],
+        [
+          158.05517578125,
+          330.4052734375
+        ],
+        [
+          158.05517578125,
+          343.48632621765137
+        ],
+        [
+          41.94378662109375,
+          343.48632621765137
+        ]
+      ]
+    },
+    {
+      "title": "The Northeastern Plateau",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.78173828125,
+          129.364013671875
+        ],
+        [
+          418.38134765625,
+          129.364013671875
+        ],
+        [
+          418.38134765625,
+          141.88647270202637
+        ],
+        [
+          288.78173828125,
+          141.88647270202637
+        ]
+      ]
+    },
+    {
+      "title": "The Indian Desert",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.5,
+          465.71044921875
+        ],
+        [
+          391.6162109375,
+          465.71044921875
+        ],
+        [
+          391.6162109375,
+          477.2275981903076
+        ],
+        [
+          288.5,
+          477.2275981903076
+        ]
+      ]
+    },
+    {
+      "title": "The Coastal Plains",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.6268310546875,
+          553.10302734375
+        ],
+        [
+          147.630859375,
+          553.10302734375
+        ],
+        [
+          147.630859375,
+          565.1882152557373
+        ],
+        [
+          41.6268310546875,
+          565.1882152557373
+        ]
+      ]
+    },
+    {
+      "title": "The Islands",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.41552734375,
+          156.6741943359375
+        ],
+        [
+          108.1875,
+          156.6741943359375
+        ],
+        [
+          108.1875,
+          169.76653861999512
+        ],
+        [
+          41.41552734375,
+          169.76653861999512
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          238.9140625,
+          99.27490234375
+        ],
+        [
+          331.60595703125,
+          99.27490234375
+        ],
+        [
+          331.60595703125,
+          109.81310844421387
+        ],
+        [
+          238.9140625,
+          109.81310844421387
+        ]
+      ]
+    },
+    {
+      "title": "Project/Activity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          80.154541015625,
+          401.31591796875
+        ],
+        [
+          160.449951171875,
+          401.31591796875
+        ],
+        [
+          160.449951171875,
+          411.3731060028076
+        ],
+        [
+          80.154541015625,
+          411.3731060028076
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo3_11_2"
+}

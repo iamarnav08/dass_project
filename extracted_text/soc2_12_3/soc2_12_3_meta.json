@@ -1,0 +1,915 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          4.548583984375,
+          32.839996337890625
+        ],
+        [
+          596.8916015625,
+          32.839996337890625
+        ],
+        [
+          596.8916015625,
+          58.46826171875
+        ],
+        [
+          4.548583984375,
+          58.46826171875
+        ]
+      ]
+    },
+    {
+      "title": "The Constitution 3 and Social Change",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.14540100097656,
+          502.5947265625
+        ],
+        [
+          475.10693359374994,
+          502.5947265625
+        ],
+        [
+          475.10693359374994,
+          599.396484375
+        ],
+        [
+          63.14540100097656,
+          599.396484375
+        ]
+      ]
+    },
+    {
+      "title": "Constitutional Norms and Social Justice: Interpretation to\nAid Social Justice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          141.7441864013672,
+          258.2717475891113
+        ],
+        [
+          525.2880859375,
+          258.2717475891113
+        ],
+        [
+          525.2880859375,
+          295.0717353820801
+        ],
+        [
+          141.7441864013672,
+          295.0717353820801
+        ]
+      ]
+    },
+    {
+      "title": "3.1 The Panchayati Raj and the Challenges\nof Rural Social Transformation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.908203125,
+          103.08760452270508
+        ],
+        [
+          401.15576171874994,
+          103.08760452270508
+        ],
+        [
+          401.15576171874994,
+          144.77534866333008
+        ],
+        [
+          66.908203125,
+          144.77534866333008
+        ]
+      ]
+    },
+    {
+      "title": "Ideals of Panchayati Raj",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.57971191406249,
+          161.25789260864258
+        ],
+        [
+          227.13574218749997,
+          161.25789260864258
+        ],
+        [
+          227.13574218749997,
+          177.25789260864258
+        ],
+        [
+          62.57971191406249,
+          177.25789260864258
+        ]
+      ]
+    },
+    {
+      "title": "33\n33",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          504.15917968749994,
+          677.3568916320801
+        ],
+        [
+          521.3845977783203,
+          677.3568916320801
+        ],
+        [
+          521.3845977783203,
+          692.8068962097168
+        ],
+        [
+          504.15917968749994,
+          692.8068962097168
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          137.63134765625,
+          355.06884765625
+        ],
+        [
+          225.37499999999997,
+          355.06884765625
+        ],
+        [
+          225.37499999999997,
+          413.537109375
+        ],
+        [
+          137.63134765625,
+          413.537109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          138.5850830078125,
+          421.28125
+        ],
+        [
+          203.80590820312497,
+          421.28125
+        ],
+        [
+          203.80590820312497,
+          431.3486328125
+        ],
+        [
+          138.5850830078125,
+          431.3486328125
+        ]
+      ]
+    },
+    {
+      "title": "Powers and Responsibilities of Panchayats",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          256.4814453125,
+          341.5166015625
+        ],
+        [
+          529.9833984375,
+          341.5166015625
+        ],
+        [
+          529.9833984375,
+          358.1368598937988
+        ],
+        [
+          256.4814453125,
+          358.1368598937988
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          74.978271484375,
+          114.806884765625
+        ],
+        [
+          534.091796875,
+          114.806884765625
+        ],
+        [
+          534.091796875,
+          133.9736328125
+        ],
+        [
+          74.978271484375,
+          133.9736328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          79.2333984375,
+          140.943359375
+        ],
+        [
+          138.80517578125,
+          140.943359375
+        ],
+        [
+          138.80517578125,
+          148.6875
+        ],
+        [
+          79.2333984375,
+          148.6875
+        ]
+      ]
+    },
+    {
+      "title": "Panchayati Raj in Tribal Areas",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.50634765624999,
+          543.25146484375
+        ],
+        [
+          267.4251251220703,
+          543.25146484375
+        ],
+        [
+          267.4251251220703,
+          559.51416015625
+        ],
+        [
+          62.50634765624999,
+          559.51416015625
+        ]
+      ]
+    },
+    {
+      "title": "Van Panchayats",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.62139892578125,
+          113.8388671875
+        ],
+        [
+          154.17738342285156,
+          113.8388671875
+        ],
+        [
+          154.17738342285156,
+          125.98109817504883
+        ],
+        [
+          76.62139892578125,
+          125.98109817504883
+        ]
+      ]
+    },
+    {
+      "title": "Panchayati Raj training for illiterate women",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          153.331298828125,
+          274.4801826477051
+        ],
+        [
+          357.4306640625,
+          274.4801826477051
+        ],
+        [
+          357.4306640625,
+          286.4801826477051
+        ],
+        [
+          153.331298828125,
+          286.4801826477051
+        ]
+      ]
+    },
+    {
+      "title": "Box 3.5",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          491.19309997558594,
+          270.076904296875
+        ],
+        [
+          531.744140625,
+          270.076904296875
+        ],
+        [
+          531.744140625,
+          284.2849311828613
+        ],
+        [
+          491.19309997558594,
+          284.2849311828613
+        ]
+      ]
+    },
+    {
+      "title": "The Constitution and Social Change",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.28625488281249,
+          66.5028076171875
+        ],
+        [
+          239.16748046874997,
+          66.5028076171875
+        ],
+        [
+          239.16748046874997,
+          77.59498977661133
+        ],
+        [
+          62.28625488281249,
+          77.59498977661133
+        ]
+      ]
+    },
+    {
+      "title": "Democratisation and Inequality",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.43298339843749,
+          467.5772590637207
+        ],
+        [
+          268.51318359375,
+          467.5772590637207
+        ],
+        [
+          268.51318359375,
+          483.5772590637207
+        ],
+        [
+          62.43298339843749,
+          483.5772590637207
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Political Parties, Pressure and Interest\nGroups in Democratic Politics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          147.7454071044922,
+          102.87160110473633
+        ],
+        [
+          469.53124999999994,
+          102.87160110473633
+        ],
+        [
+          469.53124999999994,
+          144.27162551879883
+        ],
+        [
+          147.7454071044922,
+          144.27162551879883
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.1",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          186.785400390625,
+          259.81591796875
+        ],
+        [
+          272.8503875732422,
+          259.81591796875
+        ],
+        [
+          272.8503875732422,
+          279.95068359375
+        ],
+        [
+          186.785400390625,
+          279.95068359375
+        ]
+      ]
+    },
+    {
+      "title": "Max Weber on Parties",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.62139892578125,
+          308.9912109375
+        ],
+        [
+          181.503173828125,
+          308.9912109375
+        ],
+        [
+          181.503173828125,
+          321.5230293273926
+        ],
+        [
+          76.62139892578125,
+          321.5230293273926
+        ]
+      ]
+    },
+    {
+      "title": "Questions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          469.53124999999994,
+          445.67529296875
+        ],
+        [
+          515.8974609375,
+          445.67529296875
+        ],
+        [
+          515.8974609375,
+          669.48095703125
+        ],
+        [
+          469.53124999999994,
+          669.48095703125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          141.7454071044922,
+          97.96337890625
+        ],
+        [
+          206.44702148437497,
+          97.96337890625
+        ],
+        [
+          206.44702148437497,
+          109.26240921020508
+        ],
+        [
+          141.7454071044922,
+          109.26240921020508
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/soc2_12_3"
+}

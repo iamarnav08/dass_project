@@ -1,0 +1,1082 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Appendix I",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          485.7275390625,
+          94.67529296875
+        ],
+        [
+          548.4814453125,
+          94.67529296875
+        ],
+        [
+          548.4814453125,
+          106.80602645874023
+        ],
+        [
+          485.7275390625,
+          106.80602645874023
+        ]
+      ]
+    },
+    {
+      "title": "Definitions of the SI Base Units",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.2587890625,
+          150.1580810546875
+        ],
+        [
+          433.4326171875,
+          150.1580810546875
+        ],
+        [
+          433.4326171875,
+          165.90258407592773
+        ],
+        [
+          200.2587890625,
+          165.90258407592773
+        ]
+      ]
+    },
+    {
+      "title": "Elements, their Atomic Number and Molar Mass",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          111.51123046875,
+          139.2340087890625
+        ],
+        [
+          514.3428955078125,
+          139.2340087890625
+        ],
+        [
+          514.3428955078125,
+          155.5242919921875
+        ],
+        [
+          111.51123046875,
+          155.5242919921875
+        ]
+      ]
+    },
+    {
+      "title": "Appendix III",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          484.189453125,
+          92.32757568359375
+        ],
+        [
+          554.326171875,
+          92.32757568359375
+        ],
+        [
+          554.326171875,
+          103.74694442749023
+        ],
+        [
+          484.189453125,
+          103.74694442749023
+        ]
+      ]
+    },
+    {
+      "title": "Appendix IV",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          482.958984375,
+          93.86077880859375
+        ],
+        [
+          551.25,
+          93.86077880859375
+        ],
+        [
+          551.25,
+          105.24694442749023
+        ],
+        [
+          482.958984375,
+          105.24694442749023
+        ]
+      ]
+    },
+    {
+      "title": "Physical Constants",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          241.32568359375,
+          143.73779296875
+        ],
+        [
+          385.751953125,
+          143.73779296875
+        ],
+        [
+          385.751953125,
+          158.85729598999023
+        ],
+        [
+          241.32568359375,
+          158.85729598999023
+        ]
+      ]
+    },
+    {
+      "title": "Appendix V",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          490.84088134765625,
+          92.99835205078125
+        ],
+        [
+          553.7109375,
+          92.99835205078125
+        ],
+        [
+          553.7109375,
+          105.24694442749023
+        ],
+        [
+          490.84088134765625,
+          105.24694442749023
+        ]
+      ]
+    },
+    {
+      "title": "Some Useful Conversion Factors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          198.78179931640625,
+          135.2093505859375
+        ],
+        [
+          435.5859375,
+          135.2093505859375
+        ],
+        [
+          435.5859375,
+          150.25921249389648
+        ],
+        [
+          198.78179931640625,
+          150.25921249389648
+        ]
+      ]
+    },
+    {
+      "title": "Common Unit of Mass and Weight\n1 pound = 453.59 grams",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          117.35595703125,
+          186.3800048828125
+        ],
+        [
+          268.2384948730469,
+          186.3800048828125
+        ],
+        [
+          268.2384948730469,
+          205.44921875
+        ],
+        [
+          117.35595703125,
+          205.44921875
+        ]
+      ]
+    },
+    {
+      "title": "Common Unit of Volume\n1 quart = 0.9463 litre\n1 litre = 1.056 quarts",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          117.740478515625,
+          304.532470703125
+        ],
+        [
+          227.63671875,
+          304.532470703125
+        ],
+        [
+          227.63671875,
+          335.4574546813965
+        ],
+        [
+          117.740478515625,
+          335.4574546813965
+        ]
+      ]
+    },
+    {
+      "title": "Common Units of Energy\n1 joule = 1 \u00d7 107 ergs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          117.586669921875,
+          415.11474609375
+        ],
+        [
+          230.712890625,
+          415.11474609375
+        ],
+        [
+          230.712890625,
+          435.2311363220215
+        ],
+        [
+          117.586669921875,
+          435.2311363220215
+        ]
+      ]
+    },
+    {
+      "title": "Common Units of Length\n1 inch = 2.54 centimetres (exactly)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          324.5361328125,
+          186.092529296875
+        ],
+        [
+          480.7496643066406,
+          186.092529296875
+        ],
+        [
+          480.7496643066406,
+          205.25683212280273
+        ],
+        [
+          324.5361328125,
+          205.25683212280273
+        ]
+      ]
+    },
+    {
+      "title": "Common Units of Force* and Pressure",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          324.84375,
+          336.92138671875
+        ],
+        [
+          495.263671875,
+          336.92138671875
+        ],
+        [
+          495.263671875,
+          347.2705078125
+        ],
+        [
+          324.84375,
+          347.2705078125
+        ]
+      ]
+    },
+    {
+      "title": "Temperature\nSI Base Unit: Kelvin (K)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          325.7666015625,
+          425.84716796875
+        ],
+        [
+          429.5041198730469,
+          425.84716796875
+        ],
+        [
+          429.5041198730469,
+          445.257381439209
+        ],
+        [
+          325.7666015625,
+          445.257381439209
+        ]
+      ]
+    },
+    {
+      "title": "Appendix VI",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          483.2666015625,
+          92.61505126953125
+        ],
+        [
+          552.7880859375,
+          92.61505126953125
+        ],
+        [
+          552.7880859375,
+          104.24694442749023
+        ],
+        [
+          483.2666015625,
+          104.24694442749023
+        ]
+      ]
+    },
+    {
+      "title": "Thermodynamic Data at 298 K",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          186.20179748535156,
+          119.58984375
+        ],
+        [
+          444.19921875,
+          119.58984375
+        ],
+        [
+          444.19921875,
+          137.14898300170898
+        ],
+        [
+          186.20179748535156,
+          137.14898300170898
+        ]
+      ]
+    },
+    {
+      "title": "INORGANIC SUBSTANCES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.2890625,
+          174.08977890014648
+        ],
+        [
+          213.1787109375,
+          174.08977890014648
+        ],
+        [
+          213.1787109375,
+          184.08977890014648
+        ],
+        [
+          76.2890625,
+          184.08977890014648
+        ]
+      ]
+    },
+    {
+      "title": "Appendices 221",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          77.750244140625,
+          67.9400634765625
+        ],
+        [
+          552.6001586914062,
+          67.9400634765625
+        ],
+        [
+          552.6001586914062,
+          77.47509384155273
+        ],
+        [
+          77.750244140625,
+          77.47509384155273
+        ]
+      ]
+    },
+    {
+      "title": "Appendices 223",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.904052734375,
+          67.98797607421875
+        ],
+        [
+          552.6001586914062,
+          67.98797607421875
+        ],
+        [
+          552.6001586914062,
+          77.47509384155273
+        ],
+        [
+          77.904052734375,
+          77.47509384155273
+        ]
+      ]
+    },
+    {
+      "title": "Appendices 225",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          78.365478515625,
+          67.84423828125
+        ],
+        [
+          552.6001586914062,
+          67.84423828125
+        ],
+        [
+          552.6001586914062,
+          77.47509384155273
+        ],
+        [
+          78.365478515625,
+          77.47509384155273
+        ]
+      ]
+    },
+    {
+      "title": "ORGANIC COMPOUNDS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          79.0,
+          342.74450302124023
+        ],
+        [
+          226.7138671875,
+          342.74450302124023
+        ],
+        [
+          226.7138671875,
+          354.74450302124023
+        ],
+        [
+          79.0,
+          354.74450302124023
+        ]
+      ]
+    },
+    {
+      "title": "Appendix VII",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          481.4208984375,
+          94.24694442749023
+        ],
+        [
+          552.7880859375,
+          94.24694442749023
+        ],
+        [
+          552.7880859375,
+          104.74694442749023
+        ],
+        [
+          481.4208984375,
+          104.74694442749023
+        ]
+      ]
+    },
+    {
+      "title": "Standard potentials at 298 K in electrochemical order",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          89.82421875,
+          135.54894638061523
+        ],
+        [
+          541.851318359375,
+          135.54894638061523
+        ],
+        [
+          541.851318359375,
+          151.6912841796875
+        ],
+        [
+          89.82421875,
+          151.6912841796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          919
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          299
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          316
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          395
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          385
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          417
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          404
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          781
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/chem_11_a1"
+}

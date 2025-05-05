@@ -1,0 +1,805 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          241.594482421875,
+          66.1917724609375
+        ],
+        [
+          318.67529296875,
+          66.1917724609375
+        ],
+        [
+          318.67529296875,
+          144.2000732421875
+        ],
+        [
+          241.594482421875,
+          144.2000732421875
+        ]
+      ]
+    },
+    {
+      "title": "SOLAR RADIATION, HEAT BALANCE\nAND TEMPERATURE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.54928207397461,
+          166.199951171875
+        ],
+        [
+          310.28173828125,
+          166.199951171875
+        ],
+        [
+          310.28173828125,
+          207.13765907287598
+        ],
+        [
+          42.54928207397461,
+          207.13765907287598
+        ]
+      ]
+    },
+    {
+      "title": "SOLAR RADIATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.9677734375,
+          562.19775390625
+        ],
+        [
+          130.239990234375,
+          562.19775390625
+        ],
+        [
+          130.239990234375,
+          575.799783706665
+        ],
+        [
+          41.9677734375,
+          575.799783706665
+        ]
+      ]
+    },
+    {
+      "title": "Variability of Insolation at\nthe Surface of the Earth",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          288.54926681518555,
+          506.09326171875
+        ],
+        [
+          435.06591796875,
+          506.09326171875
+        ],
+        [
+          435.06591796875,
+          531.6248416900635
+        ],
+        [
+          288.54926681518555,
+          531.6248416900635
+        ]
+      ]
+    },
+    {
+      "title": "The Passage of Solar Radiation\nthrough the Atmosphere",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.54929733276367,
+          428.9018497467041
+        ],
+        [
+          198.6474609375,
+          428.9018497467041
+        ],
+        [
+          198.6474609375,
+          451.6418399810791
+        ],
+        [
+          42.54929733276367,
+          451.6418399810791
+        ]
+      ]
+    },
+    {
+      "title": "Spatial Distribution of Insolation\nat the Earth's Surface",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.52734375,
+          651.734375
+        ],
+        [
+          209.279296875,
+          651.734375
+        ],
+        [
+          209.279296875,
+          675.8018741607666
+        ],
+        [
+          42.52734375,
+          675.8018741607666
+        ]
+      ]
+    },
+    {
+      "title": "HEATING AND COOLING OF ATMOSPHERE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.1787109375,
+          210.583984375
+        ],
+        [
+          486.2666015625,
+          210.583984375
+        ],
+        [
+          486.2666015625,
+          222.51851844787598
+        ],
+        [
+          288.1787109375,
+          222.51851844787598
+        ]
+      ]
+    },
+    {
+      "title": "Terrestrial Radiation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.73828125,
+          677.48095703125
+        ],
+        [
+          402.890625,
+          677.48095703125
+        ],
+        [
+          402.890625,
+          688.3436527252197
+        ],
+        [
+          288.73828125,
+          688.3436527252197
+        ]
+      ]
+    },
+    {
+      "title": "Heat Budget of the Planet Earth",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.8978271484375,
+          298.8838138580322
+        ],
+        [
+          216.56032943725586,
+          298.8838138580322
+        ],
+        [
+          216.56032943725586,
+          309.3838138580322
+        ],
+        [
+          41.8978271484375,
+          309.3838138580322
+        ]
+      ]
+    },
+    {
+      "title": "Variation in the Net Heat Budget at the Earth's\nSurface",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.54929733276367,
+          94.96453857421875
+        ],
+        [
+          272.79052734375,
+          94.96453857421875
+        ],
+        [
+          272.79052734375,
+          121.239501953125
+        ],
+        [
+          42.54929733276367,
+          121.239501953125
+        ]
+      ]
+    },
+    {
+      "title": "Temperature",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.4573974609375,
+          524.9228515625
+        ],
+        [
+          113.8026123046875,
+          524.9228515625
+        ],
+        [
+          113.8026123046875,
+          537.383752822876
+        ],
+        [
+          42.4573974609375,
+          537.383752822876
+        ]
+      ]
+    },
+    {
+      "title": "Factors Controlling Temperature Distribution",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.8770751953125,
+          662.10986328125
+        ],
+        [
+          272.23095703125,
+          662.10986328125
+        ],
+        [
+          272.23095703125,
+          674.8423252105713
+        ],
+        [
+          42.8770751953125,
+          674.8423252105713
+        ]
+      ]
+    },
+    {
+      "title": "Distribution of Temperature",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          288.5492973327637,
+          647.50732421875
+        ],
+        [
+          431.14892578125,
+          647.50732421875
+        ],
+        [
+          431.14892578125,
+          660.57275390625
+        ],
+        [
+          288.5492973327637,
+          660.57275390625
+        ]
+      ]
+    },
+    {
+      "title": "SOLAR RADIATION, HEAT BALANCE AND TEMPERATURE 73",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.1776123046875,
+          69.55419921875
+        ],
+        [
+          516.3093070983887,
+          69.55419921875
+        ],
+        [
+          516.3093070983887,
+          79.80324745178223
+        ],
+        [
+          42.1776123046875,
+          79.80324745178223
+        ]
+      ]
+    },
+    {
+      "title": "INVERSION OF TEMPERATURE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.59075927734375,
+          265.258752822876
+        ],
+        [
+          187.036376953125,
+          265.258752822876
+        ],
+        [
+          187.036376953125,
+          276.758752822876
+        ],
+        [
+          44.59075927734375,
+          276.758752822876
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          243.4130859375,
+          509.16748046875
+        ],
+        [
+          318.955078125,
+          509.16748046875
+        ],
+        [
+          318.955078125,
+          518.8888187408447
+        ],
+        [
+          243.4130859375,
+          518.8888187408447
+        ]
+      ]
+    },
+    {
+      "title": "Project Work",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          80.997802734375,
+          601.39404296875
+        ],
+        [
+          151.503662109375,
+          601.39404296875
+        ],
+        [
+          151.503662109375,
+          612.0086917877197
+        ],
+        [
+          80.997802734375,
+          612.0086917877197
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_11_8"
+}

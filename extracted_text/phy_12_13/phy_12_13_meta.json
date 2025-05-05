@@ -1,0 +1,1411 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter Thirteen\nNUCLEI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.08035278320312,
+          117.864990234375
+        ],
+        [
+          307.9689025878906,
+          117.864990234375
+        ],
+        [
+          307.9689025878906,
+          217.61598014831543
+        ],
+        [
+          64.08035278320312,
+          217.61598014831543
+        ]
+      ]
+    },
+    {
+      "title": "13.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          179.015625,
+          450.37841796875
+        ],
+        [
+          326.232421875,
+          450.37841796875
+        ],
+        [
+          326.232421875,
+          466.66431999206543
+        ],
+        [
+          179.015625,
+          466.66431999206543
+        ]
+      ]
+    },
+    {
+      "title": "13.2 ATOMIC MASSES AND COMPOSITION OF NUCLEUS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          178.868408203125,
+          680.7421875
+        ],
+        [
+          539.763916015625,
+          680.7421875
+        ],
+        [
+          539.763916015625,
+          697.3040752410889
+        ],
+        [
+          178.868408203125,
+          697.3040752410889
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          103.198974609375,
+          78.04962158203125
+        ],
+        [
+          195.59658813476562,
+          78.04962158203125
+        ],
+        [
+          195.59658813476562,
+          99.30097770690918
+        ],
+        [
+          103.198974609375,
+          99.30097770690918
+        ]
+      ]
+    },
+    {
+      "title": "Discovery of Neutron",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          179.31005859375,
+          156.6741943359375
+        ],
+        [
+          296.49462890625,
+          156.6741943359375
+        ],
+        [
+          296.49462890625,
+          168.1732177734375
+        ],
+        [
+          179.31005859375,
+          168.1732177734375
+        ]
+      ]
+    },
+    {
+      "title": "Nuclei",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          415.67999267578125,
+          82.31440544128418
+        ],
+        [
+          461.671875,
+          82.31440544128418
+        ],
+        [
+          461.671875,
+          97.31440544128418
+        ],
+        [
+          415.67999267578125,
+          97.31440544128418
+        ]
+      ]
+    },
+    {
+      "title": "13.3 SIZE OF THE NUCLEUS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.59765625,
+          306.66431999206543
+        ],
+        [
+          260.8681640625,
+          306.66431999206543
+        ],
+        [
+          260.8681640625,
+          322.66431999206543
+        ],
+        [
+          63.59765625,
+          322.66431999206543
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          108.4251708984375,
+          76.9476318359375
+        ],
+        [
+          197.56494140625,
+          76.9476318359375
+        ],
+        [
+          197.56494140625,
+          100.7122802734375
+        ],
+        [
+          108.4251708984375,
+          100.7122802734375
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          191.04019165039062,
+          149.295654296875
+        ],
+        [
+          235.2054901123047,
+          149.295654296875
+        ],
+        [
+          235.2054901123047,
+          160.22553825378418
+        ],
+        [
+          191.04019165039062,
+          160.22553825378418
+        ]
+      ]
+    },
+    {
+      "title": "13.4 MASS-ENERGY AND NUCLEAR BINDING ENERGY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          179.03994750976562,
+          262.369384765625
+        ],
+        [
+          539.10791015625,
+          262.369384765625
+        ],
+        [
+          539.10791015625,
+          278.74427604675293
+        ],
+        [
+          179.03994750976562,
+          278.74427604675293
+        ]
+      ]
+    },
+    {
+      "title": "13.4.1 Mass \u2013 Energy",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          178.868408203125,
+          287.4755859375
+        ],
+        [
+          313.919921875,
+          287.4755859375
+        ],
+        [
+          313.919921875,
+          300.0561351776123
+        ],
+        [
+          178.868408203125,
+          300.0561351776123
+        ]
+      ]
+    },
+    {
+      "title": "13.4.2 Nuclear binding energy",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          179.03982543945312,
+          684.95849609375
+        ],
+        [
+          369.600830078125,
+          684.95849609375
+        ],
+        [
+          369.600830078125,
+          697.496129989624
+        ],
+        [
+          179.03982543945312,
+          697.496129989624
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          81.410888671875,
+          521.2890625
+        ],
+        [
+          126.24529266357422,
+          521.2890625
+        ],
+        [
+          126.24529266357422,
+          531.7461071014404
+        ],
+        [
+          81.410888671875,
+          531.7461071014404
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          103.0517578125,
+          78.6724853515625
+        ],
+        [
+          195.59658813476562,
+          78.6724853515625
+        ],
+        [
+          195.59658813476562,
+          99.3707275390625
+        ],
+        [
+          103.0517578125,
+          99.3707275390625
+        ]
+      ]
+    },
+    {
+      "title": "13.5 NUCLEAR FORCE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          63.3768310546875,
+          314.114990234375
+        ],
+        [
+          223.76953125,
+          314.114990234375
+        ],
+        [
+          223.76953125,
+          330.82423210144043
+        ],
+        [
+          63.3768310546875,
+          330.82423210144043
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          101.6531982421875,
+          78.385009765625
+        ],
+        [
+          195.4753875732422,
+          78.385009765625
+        ],
+        [
+          195.4753875732422,
+          99.658203125
+        ],
+        [
+          101.6531982421875,
+          99.658203125
+        ]
+      ]
+    },
+    {
+      "title": "13.6 RADIOACTIVITY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          179.52000427246094,
+          182.08601188659668
+        ],
+        [
+          329.1767578125,
+          182.08601188659668
+        ],
+        [
+          329.1767578125,
+          200.657958984375
+        ],
+        [
+          179.52000427246094,
+          200.657958984375
+        ]
+      ]
+    },
+    {
+      "title": "13.7 NUCLEAR ENERGY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          177.396240234375,
+          470.08598136901855
+        ],
+        [
+          348.609375,
+          470.08598136901855
+        ],
+        [
+          348.609375,
+          489.8583984375
+        ],
+        [
+          177.396240234375,
+          489.8583984375
+        ]
+      ]
+    },
+    {
+      "title": "13.7.1 Fission",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          63.599998474121094,
+          111.8280029296875
+        ],
+        [
+          156.491455078125,
+          111.8280029296875
+        ],
+        [
+          156.491455078125,
+          125.57618522644043
+        ],
+        [
+          63.599998474121094,
+          125.57618522644043
+        ]
+      ]
+    },
+    {
+      "title": "13.7.2 Nuclear fusion \u2013 energy generation in stars",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          63.0087890625,
+          569.20166015625
+        ],
+        [
+          376.2861328125,
+          569.20166015625
+        ],
+        [
+          376.2861328125,
+          581.5757884979248
+        ],
+        [
+          63.0087890625,
+          581.5757884979248
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          104.52392578125,
+          79.0557861328125
+        ],
+        [
+          195.59658813476562,
+          79.0557861328125
+        ],
+        [
+          195.59658813476562,
+          99.5623779296875
+        ],
+        [
+          104.52392578125,
+          99.5623779296875
+        ]
+      ]
+    },
+    {
+      "title": "13.7.3 Controlled thermonuclear fusion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          63.156005859375,
+          195.3875732421875
+        ],
+        [
+          314.455078125,
+          195.3875732421875
+        ],
+        [
+          314.455078125,
+          210.29511833190918
+        ],
+        [
+          63.156005859375,
+          210.29511833190918
+        ]
+      ]
+    },
+    {
+      "title": "Example 13.4 Answer the following questions:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          84.2080078125,
+          345.162353515625
+        ],
+        [
+          314.16064453125,
+          345.162353515625
+        ],
+        [
+          314.16064453125,
+          356.278076171875
+        ],
+        [
+          84.2080078125,
+          356.278076171875
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          83.32470703125,
+          485.2587890625
+        ],
+        [
+          127.931396484375,
+          485.2587890625
+        ],
+        [
+          127.931396484375,
+          495.9912109375
+        ],
+        [
+          83.32470703125,
+          495.9912109375
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          106.437744140625,
+          77.28302001953125
+        ],
+        [
+          195.59658813476562,
+          77.28302001953125
+        ],
+        [
+          195.59658813476562,
+          100.999755859375
+        ],
+        [
+          106.437744140625,
+          100.999755859375
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          329.1767578125,
+          364.90234375
+        ],
+        [
+          388.0799865722656,
+          364.90234375
+        ],
+        [
+          388.0799865722656,
+          376.71830558776855
+        ],
+        [
+          329.1767578125,
+          376.71830558776855
+        ]
+      ]
+    },
+    {
+      "title": "Nuclei",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          415.67999267578125,
+          81.64306640625
+        ],
+        [
+          461.671875,
+          81.64306640625
+        ],
+        [
+          461.671875,
+          97.31440544128418
+        ],
+        [
+          415.67999267578125,
+          97.31440544128418
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          107.3946533203125,
+          78.001708984375
+        ],
+        [
+          195.59658813476562,
+          78.001708984375
+        ],
+        [
+          195.59658813476562,
+          100.616455078125
+        ],
+        [
+          107.3946533203125,
+          100.616455078125
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          311.80517578125,
+          122.1771240234375
+        ],
+        [
+          424.86767578125,
+          122.1771240234375
+        ],
+        [
+          424.86767578125,
+          133.83814811706543
+        ],
+        [
+          311.80517578125,
+          133.83814811706543
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          195.12001037597656,
+          113.1695556640625
+        ],
+        [
+          292.225341796875,
+          113.1695556640625
+        ],
+        [
+          292.225341796875,
+          129.70435905456543
+        ],
+        [
+          195.12001037597656,
+          129.70435905456543
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          105.4072265625,
+          77.85797119140625
+        ],
+        [
+          195.59658813476562,
+          77.85797119140625
+        ],
+        [
+          195.59658813476562,
+          100.233154296875
+        ],
+        [
+          105.4072265625,
+          100.233154296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          340
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "TextInlineMath",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_12_13"
+}

@@ -1,0 +1,869 @@
+{
+  "table_of_contents": [
+    {
+      "title": "6. My Childhood",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          179.15625,
+          101.66064453125
+        ],
+        [
+          341.578125,
+          101.66064453125
+        ],
+        [
+          341.578125,
+          136.9999828338623
+        ],
+        [
+          179.15625,
+          136.9999828338623
+        ]
+      ]
+    },
+    {
+      "title": "BEFORE YOU READ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.478515625,
+          161.702392578125
+        ],
+        [
+          213.84109497070312,
+          161.702392578125
+        ],
+        [
+          213.84109497070312,
+          177.0770092010498
+        ],
+        [
+          119.478515625,
+          177.0770092010498
+        ]
+      ]
+    },
+    {
+      "title": "Thinking about the Text",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.3828125,
+          242.1767578125
+        ],
+        [
+          210.90234375,
+          242.1767578125
+        ],
+        [
+          210.90234375,
+          270.36707878112793
+        ],
+        [
+          70.3828125,
+          270.36707878112793
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          91.4853515625,
+          274.66796875
+        ],
+        [
+          135.3515625,
+          274.66796875
+        ],
+        [
+          135.3515625,
+          286.9108409881592
+        ],
+        [
+          91.4853515625,
+          286.9108409881592
+        ]
+      ]
+    },
+    {
+      "title": "III. Passive Voice",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          74.197265625,
+          540.9619140625
+        ],
+        [
+          159.84228515625,
+          540.9619140625
+        ],
+        [
+          159.84228515625,
+          552.7335948944092
+        ],
+        [
+          74.197265625,
+          552.7335948944092
+        ]
+      ]
+    },
+    {
+      "title": "1. How Helmets Came To Be Used in Cricket",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.99999237060547,
+          330.94140625
+        ],
+        [
+          358.3125,
+          330.94140625
+        ],
+        [
+          358.3125,
+          343.0
+        ],
+        [
+          53.99999237060547,
+          343.0
+        ]
+      ]
+    },
+    {
+      "title": "2. Oil from Seeds",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          54.000030517578125,
+          463.2509765625
+        ],
+        [
+          292.11328125,
+          463.2509765625
+        ],
+        [
+          292.11328125,
+          475.3095703125
+        ],
+        [
+          54.000030517578125,
+          475.3095703125
+        ]
+      ]
+    },
+    {
+      "title": "To Sir, with Love",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          236.16000366210938,
+          88.680908203125
+        ],
+        [
+          324.10546875,
+          88.680908203125
+        ],
+        [
+          324.10546875,
+          100.4554271697998
+        ],
+        [
+          236.16000366210938,
+          100.4554271697998
+        ]
+      ]
+    },
+    {
+      "title": "Speaking",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.3984375,
+          376.49609375
+        ],
+        [
+          135.06289672851562,
+          376.49609375
+        ],
+        [
+          135.06289672851562,
+          401.953125
+        ],
+        [
+          69.3984375,
+          401.953125
+        ]
+      ]
+    },
+    {
+      "title": "Writing",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.68359375,
+          324.5771484375
+        ],
+        [
+          90.193359375,
+          324.5771484375
+        ],
+        [
+          90.193359375,
+          348.0244140625
+        ],
+        [
+          35.68359375,
+          348.0244140625
+        ]
+      ]
+    },
+    {
+      "title": "No Men Are Foreign",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          189.42001342773438,
+          114.8916015625
+        ],
+        [
+          354.375,
+          114.8916015625
+        ],
+        [
+          354.375,
+          137.0005931854248
+        ],
+        [
+          189.42001342773438,
+          137.0005931854248
+        ]
+      ]
+    },
+    {
+      "title": "Thinking about the Poem",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          34.3916015625,
+          160.4462890625
+        ],
+        [
+          180.91091918945312,
+          160.4462890625
+        ],
+        [
+          180.91091918945312,
+          184.44804191589355
+        ],
+        [
+          34.3916015625,
+          184.44804191589355
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_9_6"
+}

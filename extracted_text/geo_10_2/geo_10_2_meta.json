@@ -1,0 +1,517 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.751953125,
+          113.5528564453125
+        ],
+        [
+          409.9921875,
+          113.5528564453125
+        ],
+        [
+          409.9921875,
+          138.4674072265625
+        ],
+        [
+          88.751953125,
+          138.4674072265625
+        ]
+      ]
+    },
+    {
+      "title": "Lepcha folk song",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.94384765625,
+          332.705078125
+        ],
+        [
+          141.56982421875,
+          332.705078125
+        ],
+        [
+          141.56982421875,
+          344.970703125
+        ],
+        [
+          58.94384765625,
+          344.970703125
+        ]
+      ]
+    },
+    {
+      "title": "Flora and Fauna in India",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.115234375,
+          183.74843788146973
+        ],
+        [
+          444.357421875,
+          183.74843788146973
+        ],
+        [
+          444.357421875,
+          196.824951171875
+        ],
+        [
+          302.115234375,
+          196.824951171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          313.76953125,
+          412.81494140625
+        ],
+        [
+          352.6171875,
+          412.81494140625
+        ],
+        [
+          352.6171875,
+          423.54736328125
+        ],
+        [
+          313.76953125,
+          423.54736328125
+        ]
+      ]
+    },
+    {
+      "title": "Conservation of Forest and Wildlife in India",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.20703125,
+          481.04248046875
+        ],
+        [
+          535.5,
+          481.04248046875
+        ],
+        [
+          535.5,
+          492.54150390625
+        ],
+        [
+          304.20703125,
+          492.54150390625
+        ]
+      ]
+    },
+    {
+      "title": "Project Tiger",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          403.119140625,
+          393.64990234375
+        ],
+        [
+          471.6093444824219,
+          393.64990234375
+        ],
+        [
+          471.6093444824219,
+          405.6021366119385
+        ],
+        [
+          403.119140625,
+          405.6021366119385
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.14453125,
+          554.63623046875
+        ],
+        [
+          105.1875,
+          554.63623046875
+        ],
+        [
+          105.1875,
+          565.36865234375
+        ],
+        [
+          65.14453125,
+          565.36865234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          79.9365234375,
+          68.46710205078125
+        ],
+        [
+          430.91015625,
+          68.46710205078125
+        ],
+        [
+          430.91015625,
+          128.597412109375
+        ],
+        [
+          79.9365234375,
+          128.597412109375
+        ]
+      ]
+    },
+    {
+      "title": "Community and Conservation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          77.8447265625,
+          463.02734375
+        ],
+        [
+          242.16001892089844,
+          463.02734375
+        ],
+        [
+          242.16001892089844,
+          475.4129276275635
+        ],
+        [
+          77.8447265625,
+          475.4129276275635
+        ]
+      ]
+    },
+    {
+      "title": "Sacred groves - a wealth of diverse and rare\nspecies",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          67.0869140625,
+          62.0947265625
+        ],
+        [
+          307.79296875,
+          62.0947265625
+        ],
+        [
+          307.79296875,
+          88.14077186584473
+        ],
+        [
+          67.0869140625,
+          88.14077186584473
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          331.1015625,
+          370.2685546875
+        ],
+        [
+          366.36328125,
+          370.2685546875
+        ],
+        [
+          366.36328125,
+          381.38427734375
+        ],
+        [
+          331.1015625,
+          381.38427734375
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES EXERCISES EXERCISES EXERCISES EXERCISES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          213.9609375,
+          62.36928749084473
+        ],
+        [
+          416.56640625,
+          62.36928749084473
+        ],
+        [
+          416.56640625,
+          74.36928749084473
+        ],
+        [
+          213.9609375,
+          74.36928749084473
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_10_2"
+}

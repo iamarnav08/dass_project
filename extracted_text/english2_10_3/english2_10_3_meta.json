@@ -1,0 +1,390 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Midnight Visitor 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          167.98910522460938,
+          23.362104415893555
+        ],
+        [
+          453.5704345703125,
+          23.362104415893555
+        ],
+        [
+          453.5704345703125,
+          99.68485832214355
+        ],
+        [
+          167.98910522460938,
+          99.68485832214355
+        ]
+      ]
+    },
+    {
+      "title": "READ AND FIND OUT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          118.6171875,
+          215.54736328125
+        ],
+        [
+          225.421875,
+          215.54736328125
+        ],
+        [
+          225.421875,
+          229.62159538269043
+        ],
+        [
+          118.6171875,
+          229.62159538269043
+        ]
+      ]
+    },
+    {
+      "title": "READ AND FIND OUT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.765625,
+          445.8330078125
+        ],
+        [
+          182.109375,
+          445.8330078125
+        ],
+        [
+          182.109375,
+          459.5417003631592
+        ],
+        [
+          77.765625,
+          459.5417003631592
+        ]
+      ]
+    },
+    {
+      "title": "GLOSSARY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          105.5999984741211,
+          54.3892822265625
+        ],
+        [
+          154.30078125,
+          54.3892822265625
+        ],
+        [
+          154.30078125,
+          66.4086742401123
+        ],
+        [
+          105.5999984741211,
+          66.4086742401123
+        ]
+      ]
+    },
+    {
+      "title": "Think about it",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.02449798583984,
+          229.28076171875
+        ],
+        [
+          161.19140625,
+          229.28076171875
+        ],
+        [
+          161.19140625,
+          252.26444816589355
+        ],
+        [
+          84.02449798583984,
+          252.26444816589355
+        ]
+      ]
+    },
+    {
+      "title": "Talk about it",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.02449798583984,
+          462.916015625
+        ],
+        [
+          153.65003967285156,
+          462.916015625
+        ],
+        [
+          153.65003967285156,
+          484.41357231140137
+        ],
+        [
+          84.02449798583984,
+          484.41357231140137
+        ]
+      ]
+    },
+    {
+      "title": "Suggested reading",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.97607421875,
+          194.6123046875
+        ],
+        [
+          146.42578125,
+          194.6123046875
+        ],
+        [
+          146.42578125,
+          218.7294921875
+        ],
+        [
+          34.97607421875,
+          218.7294921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_10_3"
+}

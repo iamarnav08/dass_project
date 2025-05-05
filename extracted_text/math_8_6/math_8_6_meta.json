@@ -1,0 +1,800 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.5999984741211,
+          112.1865234375
+        ],
+        [
+          440.1611328125,
+          112.1865234375
+        ],
+        [
+          440.1611328125,
+          150.49908828735352
+        ],
+        [
+          93.5999984741211,
+          150.49908828735352
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.28564453125,
+          258.63134765625
+        ],
+        [
+          199.697265625,
+          258.63134765625
+        ],
+        [
+          199.697265625,
+          276.55481338500977
+        ],
+        [
+          65.28564453125,
+          276.55481338500977
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Cubes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.7686767578125,
+          561.685546875
+        ],
+        [
+          150.1422119140625,
+          561.685546875
+        ],
+        [
+          150.1422119140625,
+          578.4748573303223
+        ],
+        [
+          64.7686767578125,
+          578.4748573303223
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          397.03125,
+          303.05419921875
+        ],
+        [
+          516.9677734375,
+          303.05419921875
+        ],
+        [
+          516.9677734375,
+          333.5478515625
+        ],
+        [
+          397.03125,
+          333.5478515625
+        ]
+      ]
+    },
+    {
+      "title": "6.2.1 Some interesting patterns",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.0,
+          244.51391601562503
+        ],
+        [
+          280.048828125,
+          244.51391601562503
+        ],
+        [
+          280.048828125,
+          258.7708168029785
+        ],
+        [
+          66.0,
+          258.7708168029785
+        ]
+      ]
+    },
+    {
+      "title": "1. Adding consecutive odd numbers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.000244140625,
+          262.207763671875
+        ],
+        [
+          256.4400634765625,
+          262.207763671875
+        ],
+        [
+          256.4400634765625,
+          276.019229888916
+        ],
+        [
+          74.000244140625,
+          276.019229888916
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          157.4399871826172,
+          405.45263671875
+        ],
+        [
+          250.21240234375003,
+          405.45263671875
+        ],
+        [
+          250.21240234375003,
+          421.514835357666
+        ],
+        [
+          157.4399871826172,
+          421.514835357666
+        ]
+      ]
+    },
+    {
+      "title": "2. Cubes and their prime factors",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.14794921875,
+          576.36767578125
+        ],
+        [
+          243.12255859375003,
+          576.36767578125
+        ],
+        [
+          243.12255859375003,
+          590.67333984375
+        ],
+        [
+          74.14794921875,
+          590.67333984375
+        ]
+      ]
+    },
+    {
+      "title": "6.2.2 Smallest multiple that is a perfect cube",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          143.86474609375,
+          480.36914062500006
+        ],
+        [
+          446.66015625,
+          480.36914062500006
+        ],
+        [
+          446.66015625,
+          496.18066406250006
+        ],
+        [
+          143.86474609375,
+          496.18066406250006
+        ]
+      ]
+    },
+    {
+      "title": "Solution: 392 = 2 \u00d7 2 \u00d7 2 \u00d7 7 \u00d7 7",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          143.9385986328125,
+          649.40185546875
+        ],
+        [
+          316.97509765625,
+          649.40185546875
+        ],
+        [
+          316.97509765625,
+          663.8907890319824
+        ],
+        [
+          143.9385986328125,
+          663.8907890319824
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          139.72900390625,
+          628.6962890625
+        ],
+        [
+          385.8056640625,
+          628.6962890625
+        ],
+        [
+          385.8056640625,
+          647.6189155578613
+        ],
+        [
+          139.72900390625,
+          647.6189155578613
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 6.1",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          215.206298828125,
+          83.4810791015625
+        ],
+        [
+          344.9119873046875,
+          83.4810791015625
+        ],
+        [
+          344.9119873046875,
+          102.09796524047852
+        ],
+        [
+          215.206298828125,
+          102.09796524047852
+        ]
+      ]
+    },
+    {
+      "title": "6.3 Cube Roots",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          141.944580078125,
+          316.795166015625
+        ],
+        [
+          267.789306640625,
+          316.795166015625
+        ],
+        [
+          267.789306640625,
+          333.4337501525879
+        ],
+        [
+          141.944580078125,
+          333.4337501525879
+        ]
+      ]
+    },
+    {
+      "title": "6.3.1 Cube root through prime factorisation method",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          141.944580078125,
+          615.1435546875
+        ],
+        [
+          491.23187255859375,
+          615.1435546875
+        ],
+        [
+          491.23187255859375,
+          630.2021484375
+        ],
+        [
+          141.944580078125,
+          630.2021484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          406.55999755859375,
+          50.21099853515625
+        ],
+        [
+          535.57861328125,
+          48.70513916015625
+        ],
+        [
+          535.57861328125,
+          63.241397857666016
+        ],
+        [
+          406.55999755859375,
+          63.241397857666016
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.00000762939453,
+          208.5615234375
+        ],
+        [
+          125.54931640625001,
+          207.0556640625
+        ],
+        [
+          125.54931640625001,
+          222.76984024047852
+        ],
+        [
+          66.00000762939453,
+          222.76984024047852
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          142.0184326171875,
+          271.995849609375
+        ],
+        [
+          383.6159973144531,
+          270.489990234375
+        ],
+        [
+          383.6159973144531,
+          290.4989356994629
+        ],
+        [
+          142.0184326171875,
+          290.4989356994629
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 6.2",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          142.239990234375,
+          327.712646484375
+        ],
+        [
+          268.084716796875,
+          327.712646484375
+        ],
+        [
+          268.084716796875,
+          345.69894790649414
+        ],
+        [
+          142.239990234375,
+          345.69894790649414
+        ]
+      ]
+    },
+    {
+      "title": "WHAT HAVE WE DISCUSSED?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          180.2001953125,
+          543.23876953125
+        ],
+        [
+          430.1171875,
+          543.23876953125
+        ],
+        [
+          430.1171875,
+          562.81494140625
+        ],
+        [
+          180.2001953125,
+          562.81494140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_8_6"
+}

@@ -1,0 +1,854 @@
+{
+  "table_of_contents": [
+    {
+      "title": "11.1 Do Liquids Conduct\nElectricity?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          327.8399963378906,
+          436.1962890625
+        ],
+        [
+          520.1806640625,
+          436.1962890625
+        ],
+        [
+          520.1806640625,
+          469.7981243133545
+        ],
+        [
+          327.8399963378906,
+          469.7981243133545
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.4051513671875,
+          148.912353515625
+        ],
+        [
+          174.26513671875,
+          148.912353515625
+        ],
+        [
+          174.26513671875,
+          164.75817680358887
+        ],
+        [
+          73.4051513671875,
+          164.75817680358887
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.2",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.5205078125,
+          515.9228515625
+        ],
+        [
+          174.26513671875,
+          515.9228515625
+        ],
+        [
+          174.26513671875,
+          531.5981426239014
+        ],
+        [
+          73.5205078125,
+          531.5981426239014
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.3",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          327.8399963378906,
+          77.76214599609375
+        ],
+        [
+          426.97265625,
+          77.76214599609375
+        ],
+        [
+          426.97265625,
+          95.15814018249512
+        ],
+        [
+          327.8399963378906,
+          95.15814018249512
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.4",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          320.537109375,
+          372.376708984375
+        ],
+        [
+          419.6418762207031,
+          372.376708984375
+        ],
+        [
+          419.6418762207031,
+          389.75814628601074
+        ],
+        [
+          320.537109375,
+          389.75814628601074
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.5",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.595703125,
+          476.0595703125
+        ],
+        [
+          179.9560546875,
+          476.0595703125
+        ],
+        [
+          179.9560546875,
+          492.35812187194824
+        ],
+        [
+          80.595703125,
+          492.35812187194824
+        ]
+      ]
+    },
+    {
+      "title": "11.2 Chemical Effects of\nElectric Current",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          327.84002685546875,
+          161.561279296875
+        ],
+        [
+          517.412109375,
+          161.561279296875
+        ],
+        [
+          517.412109375,
+          195.95837211608887
+        ],
+        [
+          327.84002685546875,
+          195.95837211608887
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.6",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          327.6123046875,
+          285.750732421875
+        ],
+        [
+          426.12188720703125,
+          285.750732421875
+        ],
+        [
+          426.12188720703125,
+          302.75814628601074
+        ],
+        [
+          327.6123046875,
+          302.75814628601074
+        ]
+      ]
+    },
+    {
+      "title": "11.3 Electroplating",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.44189453125,
+          212.540283203125
+        ],
+        [
+          227.021484375,
+          212.540283203125
+        ],
+        [
+          227.021484375,
+          229.31823539733887
+        ],
+        [
+          80.44189453125,
+          229.31823539733887
+        ]
+      ]
+    },
+    {
+      "title": "Activity 11.7",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.44189453125,
+          463.7939453125
+        ],
+        [
+          180.10986328125,
+          463.7939453125
+        ],
+        [
+          180.10986328125,
+          480.11816215515137
+        ],
+        [
+          80.44189453125,
+          480.11816215515137
+        ]
+      ]
+    },
+    {
+      "title": "Fig.11.7 : A simple circuit showing\nelectroplating",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          338.37890625,
+          248.570556640625
+        ],
+        [
+          547.55859375,
+          248.570556640625
+        ],
+        [
+          547.55859375,
+          273.59850883483887
+        ],
+        [
+          338.37890625,
+          273.59850883483887
+        ]
+      ]
+    },
+    {
+      "title": "KEYWORDS\nELECTRODE\nELECTROPLATING\nGOOD CONDUCTOR\nLED\nPOOR CONDUCTOR",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.80500030517578,
+          81.69097900390625
+        ],
+        [
+          207.79541015625,
+          81.69097900390625
+        ],
+        [
+          207.79541015625,
+          213.306884765625
+        ],
+        [
+          80.80500030517578,
+          213.306884765625
+        ]
+      ]
+    },
+    {
+      "title": "WHAT YOU HAVE LEARNT",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          266.44500732421875,
+          81.7388916015625
+        ],
+        [
+          410.0537109375,
+          81.7388916015625
+        ],
+        [
+          410.0537109375,
+          95.05859375
+        ],
+        [
+          266.44500732421875,
+          95.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          114.1259765625,
+          292.841796875
+        ],
+        [
+          185.64697265625,
+          292.841796875
+        ],
+        [
+          185.64697265625,
+          307.438138961792
+        ],
+        [
+          114.1259765625,
+          307.438138961792
+        ]
+      ]
+    },
+    {
+      "title": "Extended Learning \u2014 Activities and Projects",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          132.12001037597656,
+          82.984619140625
+        ],
+        [
+          465.4248046875,
+          82.984619140625
+        ],
+        [
+          465.4248046875,
+          99.47814750671387
+        ],
+        [
+          132.12001037597656,
+          99.47814750671387
+        ]
+      ]
+    },
+    {
+      "title": "For more information on this topic visit:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          180.0,
+          92.80670166015625
+        ],
+        [
+          377.4462890625,
+          92.80670166015625
+        ],
+        [
+          377.4462890625,
+          106.10149955749512
+        ],
+        [
+          180.0,
+          106.10149955749512
+        ]
+      ]
+    },
+    {
+      "title": "Did You Know?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          255.0146484375,
+          165.5859375
+        ],
+        [
+          370.6787109375,
+          165.5859375
+        ],
+        [
+          370.6787109375,
+          182.51812553405762
+        ],
+        [
+          255.0146484375,
+          182.51812553405762
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_8_11"
+}

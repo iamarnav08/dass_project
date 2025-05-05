@@ -1,0 +1,1490 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Enzymes and \nBioenergetics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          216.3322868347168,
+          217.0732421875
+        ],
+        [
+          399.9963035583496,
+          217.0732421875
+        ],
+        [
+          399.9963035583496,
+          273.10726737976074
+        ],
+        [
+          216.3322868347168,
+          273.10726737976074
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Enzymes: Classification and Mode\n of Action",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.4677734375,
+          401.109375
+        ],
+        [
+          491.5625,
+          401.109375
+        ],
+        [
+          491.5625,
+          435.3930034637451
+        ],
+        [
+          214.4677734375,
+          435.3930034637451
+        ]
+      ]
+    },
+    {
+      "title": "Table 4.2: Metal ions that serve as cofactors for enzymes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.433349609375,
+          441.142578125
+        ],
+        [
+          410.029296875,
+          441.142578125
+        ],
+        [
+          410.029296875,
+          454.357421875
+        ],
+        [
+          65.433349609375,
+          454.357421875
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1 Classification of enzymes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          215.6494140625,
+          677.84375
+        ],
+        [
+          429.5263671875,
+          677.84375
+        ],
+        [
+          429.5263671875,
+          693.0511302947998
+        ],
+        [
+          215.6494140625,
+          693.0511302947998
+        ]
+      ]
+    },
+    {
+      "title": "Isozymes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.2117919921875,
+          346.6953125
+        ],
+        [
+          130.6451416015625,
+          346.6953125
+        ],
+        [
+          130.6451416015625,
+          361.6679058074951
+        ],
+        [
+          65.2117919921875,
+          361.6679058074951
+        ]
+      ]
+    },
+    {
+      "title": "Enzyme active site",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.28564453125,
+          534.423828125
+        ],
+        [
+          196.44775390625,
+          534.423828125
+        ],
+        [
+          196.44775390625,
+          549.0707988739014
+        ],
+        [
+          65.28564453125,
+          549.0707988739014
+        ]
+      ]
+    },
+    {
+      "title": "Fischer's Lock and Key Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          212.843017578125,
+          146.3349609375
+        ],
+        [
+          419.482421875,
+          146.3349609375
+        ],
+        [
+          419.482421875,
+          163.251127243042
+        ],
+        [
+          212.843017578125,
+          163.251127243042
+        ]
+      ]
+    },
+    {
+      "title": "Koshland's Induced Fit Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          212.99072265625,
+          461.7421875
+        ],
+        [
+          418.59619140625,
+          461.7421875
+        ],
+        [
+          418.59619140625,
+          478.4536418914795
+        ],
+        [
+          212.99072265625,
+          478.4536418914795
+        ]
+      ]
+    },
+    {
+      "title": "Enzyme specificity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.24871826171875,
+          209.10546875
+        ],
+        [
+          197.03857421875,
+          209.10546875
+        ],
+        [
+          197.03857421875,
+          223.492338180542
+        ],
+        [
+          65.24871826171875,
+          223.492338180542
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2 Factors affecting enzyme activity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.5072021484375,
+          516.93359375
+        ],
+        [
+          335.29052734375,
+          516.93359375
+        ],
+        [
+          335.29052734375,
+          531.7409954071045
+        ],
+        [
+          65.5072021484375,
+          531.7409954071045
+        ]
+      ]
+    },
+    {
+      "title": "1. Temperature",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.5072021484375,
+          603.99609375
+        ],
+        [
+          172.4753074645996,
+          603.99609375
+        ],
+        [
+          172.4753074645996,
+          618.4879283905029
+        ],
+        [
+          65.5072021484375,
+          618.4879283905029
+        ]
+      ]
+    },
+    {
+      "title": "2. Hydrogen Ion Concentration (pH)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.5883140563965,
+          250.4990234375
+        ],
+        [
+          537.0832786560059,
+          250.4990234375
+        ],
+        [
+          537.0832786560059,
+          265.6572265625
+        ],
+        [
+          301.5883140563965,
+          265.6572265625
+        ]
+      ]
+    },
+    {
+      "title": "3. Substrate concentration",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.5883140563965,
+          495.16796875
+        ],
+        [
+          478.26904296875,
+          495.16796875
+        ],
+        [
+          478.26904296875,
+          510.59152030944824
+        ],
+        [
+          301.5883140563965,
+          510.59152030944824
+        ]
+      ]
+    },
+    {
+      "title": "4.1.3 Unit of enzyme activity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.5810546875,
+          97.16796875
+        ],
+        [
+          267.93701171875,
+          97.16796875
+        ],
+        [
+          267.93701171875,
+          112.17208671569824
+        ],
+        [
+          65.5810546875,
+          112.17208671569824
+        ]
+      ]
+    },
+    {
+      "title": "4.1.4 Specific activity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.43035888671875,
+          289.7548828125
+        ],
+        [
+          217.421875,
+          289.7548828125
+        ],
+        [
+          217.421875,
+          304.8295269012451
+        ],
+        [
+          66.43035888671875,
+          304.8295269012451
+        ]
+      ]
+    },
+    {
+      "title": "4.1.5 Mechanism of enzyme action",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.171875,
+          407.716796875
+        ],
+        [
+          305.74951171875,
+          407.716796875
+        ],
+        [
+          305.74951171875,
+          422.672513961792
+        ],
+        [
+          66.171875,
+          422.672513961792
+        ]
+      ]
+    },
+    {
+      "title": "Kinetics of enzyme-catalysed reaction",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          214.76318359375,
+          97.26513671875
+        ],
+        [
+          476.49658203125,
+          97.26513671875
+        ],
+        [
+          476.49658203125,
+          112.05196952819824
+        ],
+        [
+          214.76318359375,
+          112.05196952819824
+        ]
+      ]
+    },
+    {
+      "title": "4.1.6 Enzyme inhibition",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          65.28564453125,
+          97.07080078125
+        ],
+        [
+          232.783203125,
+          97.07080078125
+        ],
+        [
+          232.783203125,
+          112.05196952819824
+        ],
+        [
+          65.28564453125,
+          112.05196952819824
+        ]
+      ]
+    },
+    {
+      "title": "(i) Competitive inhibition",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          65.28564453125,
+          473.013671875
+        ],
+        [
+          238.98681640625,
+          473.013671875
+        ],
+        [
+          238.98681640625,
+          487.65429496765137
+        ],
+        [
+          65.28564453125,
+          487.65429496765137
+        ]
+      ]
+    },
+    {
+      "title": "(ii) Non-Competitive \ninhibition",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          366.01318359375,
+          96.244873046875
+        ],
+        [
+          508.9722557067871,
+          96.244873046875
+        ],
+        [
+          508.9722557067871,
+          126.77206230163574
+        ],
+        [
+          366.01318359375,
+          126.77206230163574
+        ]
+      ]
+    },
+    {
+      "title": "(iii) Uncompetitive \ninhibition",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          367.19482421875,
+          632.369140625
+        ],
+        [
+          498.83230209350586,
+          632.369140625
+        ],
+        [
+          498.83230209350586,
+          662.9744243621826
+        ],
+        [
+          367.19482421875,
+          662.9744243621826
+        ]
+      ]
+    },
+    {
+      "title": "4.1.7 Allosteric enzymes",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          65.87646484375,
+          474.95703125
+        ],
+        [
+          235.294189453125,
+          474.95703125
+        ],
+        [
+          235.294189453125,
+          489.4142436981201
+        ],
+        [
+          65.87646484375,
+          489.4142436981201
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Brief Introduction to Bioenergetics",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          215.05859375,
+          535.201171875
+        ],
+        [
+          509.8779296875,
+          535.201171875
+        ],
+        [
+          509.8779296875,
+          551.9808940887451
+        ],
+        [
+          215.05859375,
+          551.9808940887451
+        ]
+      ]
+    },
+    {
+      "title": "4.2.1 The laws of thermodynamics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          65.6549072265625,
+          97.45947265625
+        ],
+        [
+          302.79541015625,
+          97.45947265625
+        ],
+        [
+          302.79541015625,
+          112.17208671569824
+        ],
+        [
+          65.6549072265625,
+          112.17208671569824
+        ]
+      ]
+    },
+    {
+      "title": "The first law of thermodynamics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          65.28564453125,
+          358.1611328125
+        ],
+        [
+          290.0927734375,
+          358.1611328125
+        ],
+        [
+          290.0927734375,
+          373.13439750671387
+        ],
+        [
+          65.28564453125,
+          373.13439750671387
+        ]
+      ]
+    },
+    {
+      "title": "The second law of thermodynamics",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          212.6953125,
+          95.759033203125
+        ],
+        [
+          456.11328125,
+          95.759033203125
+        ],
+        [
+          456.11328125,
+          111.61208915710449
+        ],
+        [
+          212.6953125,
+          111.61208915710449
+        ]
+      ]
+    },
+    {
+      "title": "(Ssystem+ Ssurroundings) > 0 (for a spontaneous process)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          210.33203125,
+          457.078125
+        ],
+        [
+          506.53640365600586,
+          457.078125
+        ],
+        [
+          506.53640365600586,
+          473.30822563171387
+        ],
+        [
+          210.33203125,
+          473.30822563171387
+        ]
+      ]
+    },
+    {
+      "title": "Combining the two laws",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          214.024658203125,
+          633.53515625
+        ],
+        [
+          378.7158203125,
+          633.53515625
+        ],
+        [
+          378.7158203125,
+          648.8526134490967
+        ],
+        [
+          214.024658203125,
+          648.8526134490967
+        ]
+      ]
+    },
+    {
+      "title": "ATP: the universal currency of free energy",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          65.28564453125,
+          668.515625
+        ],
+        [
+          358.6279296875,
+          668.515625
+        ],
+        [
+          358.6279296875,
+          683.28515625
+        ],
+        [
+          65.28564453125,
+          683.28515625
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          192.1018943786621,
+          252.0537109375
+        ],
+        [
+          277.0947265625,
+          252.0537109375
+        ],
+        [
+          277.0947265625,
+          268.47299003601074
+        ],
+        [
+          192.1018943786621,
+          268.47299003601074
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          311.8326072692871,
+          318.322265625
+        ],
+        [
+          448.13720703125,
+          318.322265625
+        ],
+        [
+          448.13720703125,
+          347.41451835632324
+        ],
+        [
+          311.8326072692871,
+          347.41451835632324
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_11_4"
+}

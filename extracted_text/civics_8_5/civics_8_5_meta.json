@@ -1,0 +1,796 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit Four",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.396484375,
+          222.48779106140137
+        ],
+        [
+          226.810546875,
+          222.48779106140137
+        ],
+        [
+          226.810546875,
+          258.919677734375
+        ],
+        [
+          77.396484375,
+          258.919677734375
+        ]
+      ]
+    },
+    {
+      "title": "Teacher's Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.94384765625,
+          75.8935546875
+        ],
+        [
+          169.4443817138672,
+          75.8935546875
+        ],
+        [
+          169.4443817138672,
+          98.91772270202637
+        ],
+        [
+          58.94384765625,
+          98.91772270202637
+        ]
+      ]
+    },
+    {
+      "title": "Understanding\nMarginalisation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          247.728515625,
+          137.20623588562012
+        ],
+        [
+          458.701171875,
+          137.20623588562012
+        ],
+        [
+          458.701171875,
+          197.20623588562012
+        ],
+        [
+          247.728515625,
+          197.20623588562012
+        ]
+      ]
+    },
+    {
+      "title": "What Does it Mean to be Socially Marginalised?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          77.5458984375,
+          228.255615234375
+        ],
+        [
+          416.56640625,
+          228.255615234375
+        ],
+        [
+          416.56640625,
+          247.15557670593262
+        ],
+        [
+          77.5458984375,
+          247.15557670593262
+        ]
+      ]
+    },
+    {
+      "title": "Who are Adivasis?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.101806640625,
+          172.45672416687012
+        ],
+        [
+          190.951171875,
+          172.45672416687012
+        ],
+        [
+          190.951171875,
+          191.650390625
+        ],
+        [
+          60.101806640625,
+          191.650390625
+        ]
+      ]
+    },
+    {
+      "title": "Adivasis and Stereotyping",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          251.015625,
+          275.2099609375
+        ],
+        [
+          435.09375,
+          275.2099609375
+        ],
+        [
+          435.09375,
+          292.7553081512451
+        ],
+        [
+          251.015625,
+          292.7553081512451
+        ]
+      ]
+    },
+    {
+      "title": "Adivasis and Development",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          251.61328125,
+          520.5224609375
+        ],
+        [
+          438.08203125,
+          520.5224609375
+        ],
+        [
+          438.08203125,
+          538.5154094696045
+        ],
+        [
+          251.61328125,
+          538.5154094696045
+        ]
+      ]
+    },
+    {
+      "title": "What do you think this poem\nis trying to convey?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          384.47998046875,
+          668.85986328125
+        ],
+        [
+          525.041015625,
+          668.85986328125
+        ],
+        [
+          525.041015625,
+          693.7571315765381
+        ],
+        [
+          384.47998046875,
+          693.7571315765381
+        ]
+      ]
+    },
+    {
+      "title": "Minorities and Marginalisation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.94384765625,
+          374.676513671875
+        ],
+        [
+          277.91015625,
+          374.676513671875
+        ],
+        [
+          277.91015625,
+          391.6354351043701
+        ],
+        [
+          58.94384765625,
+          391.6354351043701
+        ]
+      ]
+    },
+    {
+      "title": "Muslims and Marginalisation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          249.8203125,
+          293.22509765625
+        ],
+        [
+          415.96875,
+          293.22509765625
+        ],
+        [
+          415.96875,
+          308.82992362976074
+        ],
+        [
+          249.8203125,
+          308.82992362976074
+        ]
+      ]
+    },
+    {
+      "title": "What do these figures convey?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.92578125,
+          339.412841796875
+        ],
+        [
+          220.6845703125,
+          339.412841796875
+        ],
+        [
+          220.6845703125,
+          352.23715019226074
+        ],
+        [
+          69.92578125,
+          352.23715019226074
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          251.4638671875,
+          359.6565227508545
+        ],
+        [
+          329.30859375,
+          359.6565227508545
+        ],
+        [
+          329.30859375,
+          378.701171875
+        ],
+        [
+          251.4638671875,
+          378.701171875
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          78.66650390625,
+          81.9305419921875
+        ],
+        [
+          191.25,
+          81.9305419921875
+        ],
+        [
+          191.25,
+          113.61712455749512
+        ],
+        [
+          78.66650390625,
+          113.61712455749512
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/civics_8_5"
+}

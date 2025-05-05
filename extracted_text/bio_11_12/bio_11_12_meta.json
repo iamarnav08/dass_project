@@ -1,0 +1,869 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RESPIRATION IN PLANTS\nCHAPTER 12",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.8359375,
+          249.275390625
+        ],
+        [
+          421.34765625,
+          249.275390625
+        ],
+        [
+          421.34765625,
+          319.2319622039795
+        ],
+        [
+          194.8359375,
+          319.2319622039795
+        ]
+      ]
+    },
+    {
+      "title": "12.1 DO PLANTS BREATHE?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          190.353515625,
+          500.8447265625
+        ],
+        [
+          359.7001647949219,
+          500.8447265625
+        ],
+        [
+          359.7001647949219,
+          513.9822673797607
+        ],
+        [
+          190.353515625,
+          513.9822673797607
+        ]
+      ]
+    },
+    {
+      "title": "C H O O CO H O Energy 6 12 6 2 +  \u2192 + + 6 6 6 2 2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          124.83544921875,
+          262.4324321746826
+        ],
+        [
+          350.82421875,
+          262.4324321746826
+        ],
+        [
+          350.82421875,
+          277.0397319793701
+        ],
+        [
+          124.83544921875,
+          277.0397319793701
+        ]
+      ]
+    },
+    {
+      "title": "12.2 GLYCOLYSIS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.0,
+          568.8984375
+        ],
+        [
+          168.0908203125,
+          568.8984375
+        ],
+        [
+          168.0908203125,
+          581.902982711792
+        ],
+        [
+          60.0,
+          581.902982711792
+        ]
+      ]
+    },
+    {
+      "title": "12.3 FERMENTATION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.130615234375,
+          226.144775390625
+        ],
+        [
+          184.078125,
+          226.144775390625
+        ],
+        [
+          184.078125,
+          239.18194389343262
+        ],
+        [
+          59.130615234375,
+          239.18194389343262
+        ]
+      ]
+    },
+    {
+      "title": "12.4 AEROBIC RESPIRATION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          191.3994140625,
+          218.689453125
+        ],
+        [
+          355.60546875,
+          218.689453125
+        ],
+        [
+          355.60546875,
+          232.46191215515137
+        ],
+        [
+          191.3994140625,
+          232.46191215515137
+        ]
+      ]
+    },
+    {
+      "title": "12.4.1 Tricarboxylic Acid Cycle",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          192.0,
+          615.5419921875
+        ],
+        [
+          392.1593017578125,
+          615.5419921875
+        ],
+        [
+          392.1593017578125,
+          628.4510021209717
+        ],
+        [
+          192.0,
+          628.4510021209717
+        ]
+      ]
+    },
+    {
+      "title": "12.4.2 Electron Transport System (ETS) and Oxidative\nPhosphorylation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.466796875,
+          584.19140625
+        ],
+        [
+          409.9921875,
+          584.19140625
+        ],
+        [
+          409.9921875,
+          611.1709880828857
+        ],
+        [
+          59.466796875,
+          611.1709880828857
+        ]
+      ]
+    },
+    {
+      "title": "12.5 THE RESPIRATORY BALANCE SHEET",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          60.00001525878906,
+          351.94186210632324
+        ],
+        [
+          287.771484375,
+          351.94186210632324
+        ],
+        [
+          287.771484375,
+          364.94186210632324
+        ],
+        [
+          60.00001525878906,
+          364.94186210632324
+        ]
+      ]
+    },
+    {
+      "title": "12.6 AMPHIBOLIC PATHWAY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          190.65234375,
+          262.65673828125
+        ],
+        [
+          355.904296875,
+          262.65673828125
+        ],
+        [
+          355.904296875,
+          275.6616802215576
+        ],
+        [
+          190.65234375,
+          275.6616802215576
+        ]
+      ]
+    },
+    {
+      "title": "12.7 RESPIRATORY QUOTIENT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.466796875,
+          506.57958984375
+        ],
+        [
+          235.0283203125,
+          506.57958984375
+        ],
+        [
+          235.0283203125,
+          521.1827983856201
+        ],
+        [
+          59.466796875,
+          521.1827983856201
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          296.3999938964844,
+          399.94286918640137
+        ],
+        [
+          350.82421875,
+          399.94286918640137
+        ],
+        [
+          350.82421875,
+          412.94286918640137
+        ],
+        [
+          296.3999938964844,
+          412.94286918640137
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          274.8000183105469,
+          252.525146484375
+        ],
+        [
+          334.388671875,
+          252.525146484375
+        ],
+        [
+          334.388671875,
+          266.06164360046387
+        ],
+        [
+          274.8000183105469,
+          266.06164360046387
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_12"
+}

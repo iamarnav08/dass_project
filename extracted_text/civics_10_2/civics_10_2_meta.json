@@ -1,0 +1,939 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Federalism",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.908203125,
+          64.039306640625
+        ],
+        [
+          419.5500183105469,
+          64.039306640625
+        ],
+        [
+          419.5500183105469,
+          130.09773445129395
+        ],
+        [
+          123.908203125,
+          130.09773445129395
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          493.76953125,
+          363.13560676574707
+        ],
+        [
+          539.73046875,
+          363.13560676574707
+        ],
+        [
+          539.73046875,
+          526.4956226348877
+        ],
+        [
+          493.76953125,
+          526.4956226348877
+        ]
+      ]
+    },
+    {
+      "title": "What is federalism?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          187.880859375,
+          67.14569091796875
+        ],
+        [
+          360.8600158691406,
+          67.14569091796875
+        ],
+        [
+          360.8600158691406,
+          87.79119873046875
+        ],
+        [
+          187.880859375,
+          87.79119873046875
+        ]
+      ]
+    },
+    {
+      "title": "What makes India a federal country?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          189.123046875,
+          276.229248046875
+        ],
+        [
+          496.564453125,
+          276.229248046875
+        ],
+        [
+          496.564453125,
+          297.639404296875
+        ],
+        [
+          189.123046875,
+          297.639404296875
+        ]
+      ]
+    },
+    {
+      "title": "How is federalism practised?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          92.853515625,
+          65.2818603515625
+        ],
+        [
+          335.1200256347656,
+          65.2818603515625
+        ],
+        [
+          335.1200256347656,
+          88.0301513671875
+        ],
+        [
+          92.853515625,
+          88.0301513671875
+        ]
+      ]
+    },
+    {
+      "title": "Linguistic States",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          93.0,
+          315.7998046875
+        ],
+        [
+          185.396484375,
+          315.7998046875
+        ],
+        [
+          185.396484375,
+          329.94580078125
+        ],
+        [
+          93.0,
+          329.94580078125
+        ]
+      ]
+    },
+    {
+      "title": "Language policy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          189.123046875,
+          242.2358570098877
+        ],
+        [
+          282.7080078125,
+          242.2358570098877
+        ],
+        [
+          282.7080078125,
+          256.53955078125
+        ],
+        [
+          189.123046875,
+          256.53955078125
+        ]
+      ]
+    },
+    {
+      "title": "Centre-State relations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          370.171875,
+          227.1005859375
+        ],
+        [
+          498.73828125,
+          227.1005859375
+        ],
+        [
+          498.73828125,
+          241.18452644348145
+        ],
+        [
+          370.171875,
+          241.18452644348145
+        ]
+      ]
+    },
+    {
+      "title": "Linguistic diversity of India\n+",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          144.1999969482422,
+          39.441362380981445
+        ],
+        [
+          327.9375,
+          39.441362380981445
+        ],
+        [
+          327.9375,
+          103.44136238098145
+        ],
+        [
+          144.1999969482422,
+          103.44136238098145
+        ]
+      ]
+    },
+    {
+      "title": "Scheduled Languages of India",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          362.20001220703125,
+          303.3544178009033
+        ],
+        [
+          529.79296875,
+          303.3544178009033
+        ],
+        [
+          529.79296875,
+          316.3544178009033
+        ],
+        [
+          362.20001220703125,
+          316.3544178009033
+        ]
+      ]
+    },
+    {
+      "title": "Decentralisation in India",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          189.744140625,
+          67.56916999816895
+        ],
+        [
+          392.45001220703125,
+          67.56916999816895
+        ],
+        [
+          392.45001220703125,
+          87.56916999816895
+        ],
+        [
+          189.744140625,
+          87.56916999816895
+        ]
+      ]
+    },
+    {
+      "title": "An experiment in Brazil",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          116.9208984375,
+          93.33489990234375
+        ],
+        [
+          252.3193359375,
+          93.33489990234375
+        ],
+        [
+          252.3193359375,
+          104.56965827941895
+        ],
+        [
+          116.9208984375,
+          104.56965827941895
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/civics_10_2"
+}

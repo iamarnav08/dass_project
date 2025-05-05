@@ -1,0 +1,84 @@
+grade,subjectcode,subjectname,textbook
+11,acc,Accountancy,Financial Accounting-I
+12,acc,Accountancy,Accountancy Part I
+11,acc2,Accountancy,Accountancy-II
+12,acc2,Accountancy,Accountancy Part II
+12,acc3,Accountancy,Computerized Accounting System
+11,art,Fine Art,An Introduction to Indian Art Part-I
+12,art,Fine Art,An Introduction to Indian Art Part-II
+11,bio,Biology,Biology
+12,bio,Biology,Biology
+11,biotech,Biotechnology,Biotechnology
+12,biotech,Biotechnology,Biotechnology
+11,bus,Business Studies,Business Studies
+12,bus,Business Studies,Business Studies
+11,chem,Chemistry,Chemistry
+12,chem,Chemistry,Chemistry
+8,civics,Civics,Social and Political Life-III
+9,civics,Civics,Democractic Politics
+10,civics,Civics,Democractic Politics-II
+11,comp,Computer Science,Computer Science
+12,comp,Computer Science,Computer Science
+9,eco,Economics,Economics
+10,eco,Economics,Understanding Economic Development
+11,eco,Economics,Indian Economic Development
+12,eco,Economics,Introductory Microeconomics
+11,eco2,Economics,Statistics for Economics
+12,eco2,Economics,Introductory Macroeconomics
+8,english,English,Honeydew
+9,english,English,Beehive
+10,english,English,First Flight
+11,english,English,Woven Words
+12,english,English,Kaleidoscope
+8,english2,English,It So Happened
+9,english2,English,Moments
+10,english2,English,Footprints without Feet
+11,english2,English,Hornbill
+12,english2,English,Flamingo
+9,english3,English,Words and Expressions 1
+10,english3,English,Words and Expressions 2
+11,english3,English,Snapshots
+12,english3,English,Vistas
+8,geo,Geography,Resource and Development
+9,geo,Geography,Contemporary India-I
+10,geo,Geography,Contemporary India-II
+11,geo,Geography,Fundamentals of Physical Geography
+12,geo,Geography,Fundamentals of Human Geography
+11,geo2,Geography,Practical Work in Geography Part-I
+12,geo2,Geography,Pactical Work in Geography Part-II
+11,geo3,Geography,India-Physical Environment
+12,geo3,Geography,India-People and Economy
+8,history,History,Our Pasts-III
+9,history,History,India and the Contemporary World-I
+10,history,History,India and the Contemporary World-II
+11,history,History,Themes in World History
+12,history,History,Themes in Indian History
+11,home,Home Science,Human Ecology and Family Sciences
+12,home,Home Science,Human Ecology and Family Sciences
+9,ict,Information and Communication Technology,Information and Communication Technology
+11,inf,Informatics Practices,Informatics Practices
+12,inf,Informatics Practices,Informatics Practices
+11,kno,Knowledge Tradition and Practices of India,Knowledge Tradition and Practices of India
+8,math,Mathematics,Mathematics
+9,math,Mathematics,Mathematics
+10,math,Mathematics,Mathematics
+11,math,Mathematics,Mathematics
+12,math,Mathematics,Mathematics
+9,pe,Health and Physical Education,Health and Physical Education
+10,pe,Health and Physical Education,Health and Physical Education
+11,pe,Health and Physical Education,Health and Physical Education
+11,phy,Physics,Physics
+12,phy,Physics,Physics
+11,pol,Political Science,Political Theory
+12,pol,Political Science,Contemporary World Politics
+11,pol2,Political Science,India Constitution at Work
+12,pol2,Political Science,Politics in India Since Independence
+11,psy,Psychology,Introduction to Psychology
+12,psy,Psychology,Psychology
+8,sci,Science,Science
+9,sci,Science,Science
+10,sci,Science,Science
+11,soc,Sociology,Introducing Sociology
+12,soc,Sociology,Indian Society
+11,soc2,Sociology,Understanding Society
+12,soc2,Sociology,Social Change and Development in India

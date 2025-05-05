@@ -1,0 +1,689 @@
+{
+  "table_of_contents": [
+    {
+      "title": "NEURAL CONTROL AND\nCOORDINATION\nCHAPTER 18",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.880859375,
+          253.87646484375
+        ],
+        [
+          431.806640625,
+          253.87646484375
+        ],
+        [
+          431.806640625,
+          358.2380962371826
+        ],
+        [
+          208.880859375,
+          358.2380962371826
+        ]
+      ]
+    },
+    {
+      "title": "18.1 NEURAL SYSTEM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.0,
+          107.173095703125
+        ],
+        [
+          195.134765625,
+          107.173095703125
+        ],
+        [
+          195.134765625,
+          120.98614311218262
+        ],
+        [
+          60.0,
+          120.98614311218262
+        ]
+      ]
+    },
+    {
+      "title": "18.2 HUMAN NEURAL SYSTEM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.54150390625,
+          251.50604057312012
+        ],
+        [
+          238.763671875,
+          251.50604057312012
+        ],
+        [
+          238.763671875,
+          264.5060405731201
+        ],
+        [
+          59.54150390625,
+          264.5060405731201
+        ]
+      ]
+    },
+    {
+      "title": "(b) efferent fibres",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.99697875976562,
+          394.9189453125
+        ],
+        [
+          169.2861328125,
+          394.9189453125
+        ],
+        [
+          169.2861328125,
+          405.5014019012451
+        ],
+        [
+          77.99697875976562,
+          405.5014019012451
+        ]
+      ]
+    },
+    {
+      "title": "18.3 NEURON AS STRUCTURAL AND FUNCTIONAL UNIT OF\nNEURAL SYSTEM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.16796875,
+          619.0517578125
+        ],
+        [
+          385.189453125,
+          619.0517578125
+        ],
+        [
+          385.189453125,
+          646.345624923706
+        ],
+        [
+          59.16796875,
+          646.345624923706
+        ]
+      ]
+    },
+    {
+      "title": "18.3.1 Generation and Conduction of\nNerve Impulse",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          300.0002136230469,
+          455.5576171875
+        ],
+        [
+          549.84375,
+          455.5576171875
+        ],
+        [
+          549.84375,
+          482.173490524292
+        ],
+        [
+          300.0002136230469,
+          482.173490524292
+        ]
+      ]
+    },
+    {
+      "title": "18.3.2 Transmission of Impulses",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          190.951171875,
+          106.88525390625
+        ],
+        [
+          404.314453125,
+          106.88525390625
+        ],
+        [
+          404.314453125,
+          120.01312065124512
+        ],
+        [
+          190.951171875,
+          120.01312065124512
+        ]
+      ]
+    },
+    {
+      "title": "18.4 CENTRAL NEURAL SYSTEM",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.3173828125,
+          209.1650390625
+        ],
+        [
+          246.9814453125,
+          209.1650390625
+        ],
+        [
+          246.9814453125,
+          222.98547172546387
+        ],
+        [
+          59.3173828125,
+          222.98547172546387
+        ]
+      ]
+    },
+    {
+      "title": "18.4.1 Forebrain",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          188.859375,
+          107.364990234375
+        ],
+        [
+          302.1600036621094,
+          107.364990234375
+        ],
+        [
+          302.1600036621094,
+          120.01312065124512
+        ],
+        [
+          188.859375,
+          120.01312065124512
+        ]
+      ]
+    },
+    {
+      "title": "18.4.2 Midbrain",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          192.00010681152344,
+          497.0068359375
+        ],
+        [
+          297.931640625,
+          497.0068359375
+        ],
+        [
+          297.931640625,
+          509.7737102508545
+        ],
+        [
+          192.00010681152344,
+          509.7737102508545
+        ]
+      ]
+    },
+    {
+      "title": "18.4.3 Hindbrain",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          191.3994140625,
+          582.591796875
+        ],
+        [
+          303.7921142578125,
+          582.591796875
+        ],
+        [
+          303.7921142578125,
+          594.9737682342529
+        ],
+        [
+          191.3994140625,
+          594.9737682342529
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          269.0947265625,
+          107.98614311218262
+        ],
+        [
+          323.5030212402344,
+          107.98614311218262
+        ],
+        [
+          323.5030212402344,
+          120.98614311218262
+        ],
+        [
+          269.0947265625,
+          120.98614311218262
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          276.0000915527344,
+          548.6264324188232
+        ],
+        [
+          335.2861022949219,
+          548.6264324188232
+        ],
+        [
+          335.2861022949219,
+          561.6264324188232
+        ],
+        [
+          276.0000915527344,
+          561.6264324188232
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_18"
+}

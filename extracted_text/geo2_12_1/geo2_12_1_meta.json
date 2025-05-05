@@ -1,0 +1,1382 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          154.9423828125,
+          225.0703125
+        ],
+        [
+          451.23046875,
+          225.0703125
+        ],
+        [
+          451.23046875,
+          262.203125
+        ],
+        [
+          154.9423828125,
+          262.203125
+        ]
+      ]
+    },
+    {
+      "title": "What is Data? What is Data?What is Data?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.16796875,
+          440.66796875
+        ],
+        [
+          123.416015625,
+          440.66796875
+        ],
+        [
+          123.416015625,
+          458.09765625
+        ],
+        [
+          59.16796875,
+          458.09765625
+        ]
+      ]
+    },
+    {
+      "title": "Need of Data Need of DataNeed of Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.16796875,
+          622.1640625
+        ],
+        [
+          119.3818359375,
+          622.1640625
+        ],
+        [
+          119.3818359375,
+          641.109375
+        ],
+        [
+          59.16796875,
+          641.109375
+        ]
+      ]
+    },
+    {
+      "title": "Presentation of the Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          156.24000549316406,
+          171.77537727355957
+        ],
+        [
+          266.5546875,
+          171.77537727355957
+        ],
+        [
+          266.5546875,
+          187.8427734375
+        ],
+        [
+          156.24000549316406,
+          187.8427734375
+        ]
+      ]
+    },
+    {
+      "title": "Sources of Data Sources of DataSources of Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          155.5400390625,
+          466.9759693145752
+        ],
+        [
+          228.1552734375,
+          466.9759693145752
+        ],
+        [
+          228.1552734375,
+          483.484375
+        ],
+        [
+          155.5400390625,
+          483.484375
+        ]
+      ]
+    },
+    {
+      "title": "Sources of Primary Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          156.2401123046875,
+          586.16796875
+        ],
+        [
+          265.95703125,
+          586.16796875
+        ],
+        [
+          265.95703125,
+          602.9760303497314
+        ],
+        [
+          156.2401123046875,
+          602.9760303497314
+        ]
+      ]
+    },
+    {
+      "title": "1. Personal Observations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          156.00010681152344,
+          608.90234375
+        ],
+        [
+          290.1609802246094,
+          608.90234375
+        ],
+        [
+          290.1609802246094,
+          620.7478351593018
+        ],
+        [
+          156.00010681152344,
+          620.7478351593018
+        ]
+      ]
+    },
+    {
+      "title": "3. Questionnaire/Schedule",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          153.896484375,
+          61.951171875
+        ],
+        [
+          311.27911376953125,
+          61.951171875
+        ],
+        [
+          311.27911376953125,
+          73.54741096496582
+        ],
+        [
+          153.896484375,
+          73.54741096496582
+        ]
+      ]
+    },
+    {
+      "title": "4. Other Methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          155.390625,
+          267.318359375
+        ],
+        [
+          256.39453125,
+          267.318359375
+        ],
+        [
+          256.39453125,
+          278.2677478790283
+        ],
+        [
+          155.390625,
+          278.2677478790283
+        ]
+      ]
+    },
+    {
+      "title": "Secondary Source of Data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          155.5400390625,
+          363.77598762512207
+        ],
+        [
+          272.3818359375,
+          363.77598762512207
+        ],
+        [
+          272.3818359375,
+          379.77598762512207
+        ],
+        [
+          155.5400390625,
+          379.77598762512207
+        ]
+      ]
+    },
+    {
+      "title": "1. Government Publications",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          156.00010681152344,
+          471.80662727355957
+        ],
+        [
+          298.6787109375,
+          471.80662727355957
+        ],
+        [
+          298.6787109375,
+          482.7265625
+        ],
+        [
+          156.00010681152344,
+          482.7265625
+        ]
+      ]
+    },
+    {
+      "title": "2. Semi/Quasi-government Publications",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.94384765625,
+          60.056640625
+        ],
+        [
+          263.2800598144531,
+          60.056640625
+        ],
+        [
+          263.2800598144531,
+          73.34623908996582
+        ],
+        [
+          58.94384765625,
+          73.34623908996582
+        ]
+      ]
+    },
+    {
+      "title": "3. International Publications",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.906494140625,
+          126.5546875
+        ],
+        [
+          207.5361328125,
+          126.5546875
+        ],
+        [
+          207.5361328125,
+          139.82621955871582
+        ],
+        [
+          58.906494140625,
+          139.82621955871582
+        ]
+      ]
+    },
+    {
+      "title": "5. Newspapers and Magazines",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.84033203125,
+          411.11328125
+        ],
+        [
+          219.33984375,
+          411.11328125
+        ],
+        [
+          219.33984375,
+          423.99609375
+        ],
+        [
+          59.84033203125,
+          423.99609375
+        ]
+      ]
+    },
+    {
+      "title": "6. Electronic Media",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.578857421875,
+          464.16015625
+        ],
+        [
+          157.482421875,
+          464.16015625
+        ],
+        [
+          157.482421875,
+          477.80078125
+        ],
+        [
+          59.578857421875,
+          477.80078125
+        ]
+      ]
+    },
+    {
+      "title": "1. Government Documents",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.728271484375,
+          540.3203125
+        ],
+        [
+          196.32041931152344,
+          540.3203125
+        ],
+        [
+          196.32041931152344,
+          553.9609375
+        ],
+        [
+          59.728271484375,
+          553.9609375
+        ]
+      ]
+    },
+    {
+      "title": "2. Quasi-government Records",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.504150390625,
+          632.7734375
+        ],
+        [
+          209.99981689453125,
+          632.7734375
+        ],
+        [
+          209.99981689453125,
+          646.4140625
+        ],
+        [
+          59.504150390625,
+          646.4140625
+        ]
+      ]
+    },
+    {
+      "title": "3. Private Documents",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          154.0458984375,
+          62.09326171875
+        ],
+        [
+          266.4052734375,
+          62.09326171875
+        ],
+        [
+          266.4052734375,
+          73.36572265625
+        ],
+        [
+          154.0458984375,
+          73.36572265625
+        ]
+      ]
+    },
+    {
+      "title": "Tabulation and Classification of Data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          152.2529296875,
+          106.25554084777832
+        ],
+        [
+          330.50390625,
+          106.25554084777832
+        ],
+        [
+          330.50390625,
+          123.0498046875
+        ],
+        [
+          152.2529296875,
+          123.0498046875
+        ]
+      ]
+    },
+    {
+      "title": "Data Compilation and Presentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          154.79296875,
+          250.25554084777832
+        ],
+        [
+          316.16015625,
+          250.25554084777832
+        ],
+        [
+          316.16015625,
+          266.2555408477783
+        ],
+        [
+          154.79296875,
+          266.2555408477783
+        ]
+      ]
+    },
+    {
+      "title": "Absolute Data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          154.0458984375,
+          302.556640625
+        ],
+        [
+          230.88002014160156,
+          302.556640625
+        ],
+        [
+          230.88002014160156,
+          313.06736946105957
+        ],
+        [
+          154.0458984375,
+          313.06736946105957
+        ]
+      ]
+    },
+    {
+      "title": "Percentage/Ratio",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          153.298828125,
+          644.140625
+        ],
+        [
+          252.2109375,
+          644.140625
+        ],
+        [
+          252.2109375,
+          655.3083820343018
+        ],
+        [
+          153.298828125,
+          655.3083820343018
+        ]
+      ]
+    },
+    {
+      "title": "Index Number",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.458251953125,
+          157.056640625
+        ],
+        [
+          137.99990844726562,
+          157.056640625
+        ],
+        [
+          137.99990844726562,
+          168.34837532043457
+        ],
+        [
+          58.458251953125,
+          168.34837532043457
+        ]
+      ]
+    },
+    {
+      "title": "Processing of Data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.869140625,
+          607.136568069458
+        ],
+        [
+          149.712890625,
+          607.136568069458
+        ],
+        [
+          149.712890625,
+          624.81640625
+        ],
+        [
+          58.869140625,
+          624.81640625
+        ]
+      ]
+    },
+    {
+      "title": "Grouping of Data Grouping of DataGrouping of Data",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          154.0458984375,
+          165.89653205871582
+        ],
+        [
+          233.52249145507812,
+          165.89653205871582
+        ],
+        [
+          233.52249145507812,
+          182.443359375
+        ],
+        [
+          154.0458984375,
+          182.443359375
+        ]
+      ]
+    },
+    {
+      "title": "Process of Classification",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          156.23992919921875,
+          531.2265625
+        ],
+        [
+          270.73828125,
+          531.2265625
+        ],
+        [
+          270.73828125,
+          548.65625
+        ],
+        [
+          156.23992919921875,
+          548.65625
+        ]
+      ]
+    },
+    {
+      "title": "Frequency Distribution",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          154.0458984375,
+          640.73046875
+        ],
+        [
+          286.4396057128906,
+          640.73046875
+        ],
+        [
+          286.4396057128906,
+          652.85546875
+        ],
+        [
+          154.0458984375,
+          652.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Simple Frequencies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.54150390625,
+          132.048828125
+        ],
+        [
+          158.677734375,
+          132.048828125
+        ],
+        [
+          158.677734375,
+          144.38615608215332
+        ],
+        [
+          59.54150390625,
+          144.38615608215332
+        ]
+      ]
+    },
+    {
+      "title": "Table 1.6 : Frequency Distribution",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          270.73828125,
+          61.4775390625
+        ],
+        [
+          445.8515625,
+          61.4775390625
+        ],
+        [
+          445.8515625,
+          71.61601448059082
+        ],
+        [
+          270.73828125,
+          71.61601448059082
+        ]
+      ]
+    },
+    {
+      "title": "Cumulative Frequencies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.64501953125,
+          279.56712532043457
+        ],
+        [
+          186.767578125,
+          279.56712532043457
+        ],
+        [
+          186.767578125,
+          290.62109375
+        ],
+        [
+          58.64501953125,
+          290.62109375
+        ]
+      ]
+    },
+    {
+      "title": "Exclusive Method",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.205322265625,
+          453.171875
+        ],
+        [
+          151.8046875,
+          453.171875
+        ],
+        [
+          151.8046875,
+          463.82722663879395
+        ],
+        [
+          59.205322265625,
+          463.82722663879395
+        ]
+      ]
+    },
+    {
+      "title": "Inclusive Method",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          156.0,
+          62.47216796875
+        ],
+        [
+          244.740234375,
+          62.47216796875
+        ],
+        [
+          244.740234375,
+          73.34623908996582
+        ],
+        [
+          156.0,
+          73.34623908996582
+        ]
+      ]
+    },
+    {
+      "title": "Table 1.7 : Frequency Distribution",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          364.869140625,
+          65.50341796875
+        ],
+        [
+          534.9738159179688,
+          65.50341796875
+        ],
+        [
+          534.9738159179688,
+          75.45530891418457
+        ],
+        [
+          364.869140625,
+          75.45530891418457
+        ]
+      ]
+    },
+    {
+      "title": "Frequency Polygon",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          156.0,
+          293.0059070587158
+        ],
+        [
+          255.0498046875,
+          293.0059070587158
+        ],
+        [
+          255.0498046875,
+          303.5058765411377
+        ],
+        [
+          156.0,
+          303.5058765411377
+        ]
+      ]
+    },
+    {
+      "title": "Ogive",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          155.99996948242188,
+          460.2859363555908
+        ],
+        [
+          184.5263671875,
+          460.2859363555908
+        ],
+        [
+          184.5263671875,
+          470.7859363555908
+        ],
+        [
+          155.99996948242188,
+          470.7859363555908
+        ]
+      ]
+    },
+    {
+      "title": "Excercises E x c e r c i s e sE x c e r c i s e s",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          155.5400390625,
+          61.87626838684082
+        ],
+        [
+          200.0654296875,
+          61.87626838684082
+        ],
+        [
+          200.0654296875,
+          76.2548828125
+        ],
+        [
+          155.5400390625,
+          76.2548828125
+        ]
+      ]
+    },
+    {
+      "title": "Activity ctivity",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          155.390625,
+          450.2266101837158
+        ],
+        [
+          186.2133026123047,
+          450.2266101837158
+        ],
+        [
+          186.2133026123047,
+          466.0546875
+        ],
+        [
+          155.390625,
+          466.0546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo2_12_1"
+}

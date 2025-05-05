@@ -1,0 +1,624 @@
+{
+  "table_of_contents": [
+    {
+      "title": "8.1 ACCUMULATION OF VARIATION\nDURING REPRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.00009155273438,
+          373.623046875
+        ],
+        [
+          418.3194885253906,
+          373.623046875
+        ],
+        [
+          418.3194885253906,
+          405.349063873291
+        ],
+        [
+          180.00009155273438,
+          405.349063873291
+        ]
+      ]
+    },
+    {
+      "title": "Figure 8.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.865966796875,
+          553.76953125
+        ],
+        [
+          116.9912109375,
+          553.76953125
+        ],
+        [
+          116.9912109375,
+          564.8240852355957
+        ],
+        [
+          62.865966796875,
+          564.8240852355957
+        ]
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          180.0439453125,
+          131.015625
+        ],
+        [
+          461.390625,
+          131.015625
+        ],
+        [
+          461.390625,
+          155.2001953125
+        ],
+        [
+          180.0439453125,
+          155.2001953125
+        ]
+      ]
+    },
+    {
+      "title": "8.2 HEREDITY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.5458984375,
+          237.275390625
+        ],
+        [
+          171.9755859375,
+          237.275390625
+        ],
+        [
+          171.9755859375,
+          254.6293067932129
+        ],
+        [
+          77.5458984375,
+          254.6293067932129
+        ]
+      ]
+    },
+    {
+      "title": "8.2.1 Inherited Traits",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.77001953125,
+          326.015625
+        ],
+        [
+          207.984375,
+          326.015625
+        ],
+        [
+          207.984375,
+          342.0193519592285
+        ],
+        [
+          77.77001953125,
+          342.0193519592285
+        ]
+      ]
+    },
+    {
+      "title": "Activity 8.1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.88999938964844,
+          414.375
+        ],
+        [
+          188.859375,
+          414.375
+        ],
+        [
+          188.859375,
+          431.89453125
+        ],
+        [
+          103.88999938964844,
+          431.89453125
+        ]
+      ]
+    },
+    {
+      "title": "8.2.2 Rules for the Inheritance of Traits \u2013\nMendel's Contributions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.396484375,
+          544.248046875
+        ],
+        [
+          346.04296875,
+          544.248046875
+        ],
+        [
+          346.04296875,
+          576.2591590881348
+        ],
+        [
+          77.396484375,
+          576.2591590881348
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          457.8046875,
+          562.1484375
+        ],
+        [
+          494.26171875,
+          562.1484375
+        ],
+        [
+          494.26171875,
+          575.09765625
+        ],
+        [
+          457.8046875,
+          575.09765625
+        ]
+      ]
+    },
+    {
+      "title": "Gregor Johann Mendel (1822\u20131884)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          193.640625,
+          72.07763671875
+        ],
+        [
+          403.119140625,
+          72.07763671875
+        ],
+        [
+          403.119140625,
+          83.88427734375
+        ],
+        [
+          193.640625,
+          83.88427734375
+        ]
+      ]
+    },
+    {
+      "title": "Figure 8.3\nInheritance of traits\nover two generations Activity 8.2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.2800064086914,
+          525.5859375
+        ],
+        [
+          289.1619873046875,
+          525.5859375
+        ],
+        [
+          289.1619873046875,
+          558.0781745910645
+        ],
+        [
+          65.14453125,
+          558.0781745910645
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          203.6513671875,
+          541.962890625
+        ],
+        [
+          288.8173828125,
+          541.962890625
+        ],
+        [
+          288.8173828125,
+          557.958984375
+        ],
+        [
+          203.6513671875,
+          557.958984375
+        ]
+      ]
+    },
+    {
+      "title": "8.2.3 How do these Traits get Expressed?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          77.47119140625,
+          286.025390625
+        ],
+        [
+          330.0247497558594,
+          286.025390625
+        ],
+        [
+          330.0247497558594,
+          301.6996192932129
+        ],
+        [
+          77.47119140625,
+          301.6996192932129
+        ]
+      ]
+    },
+    {
+      "title": "Figure 9.5 Independent inheritance of two\nseparate traits, shape and colour of seeds\nFigure 8.5",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          425.352294921875,
+          613.388370513916
+        ],
+        [
+          540.8560791015625,
+          613.388370513916
+        ],
+        [
+          540.8560791015625,
+          629.3840827941895
+        ],
+        [
+          425.352294921875,
+          629.94140625
+        ]
+      ]
+    },
+    {
+      "title": "8.2.4 Sex Determination",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          177.9521484375,
+          241.2744140625
+        ],
+        [
+          328.11328125,
+          241.2744140625
+        ],
+        [
+          328.11328125,
+          255.37961196899414
+        ],
+        [
+          177.9521484375,
+          255.37961196899414
+        ]
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          178.1015625,
+          69.8876953125
+        ],
+        [
+          463.18359375,
+          69.8876953125
+        ],
+        [
+          463.18359375,
+          95.11962890625
+        ],
+        [
+          178.1015625,
+          95.11962890625
+        ]
+      ]
+    },
+    {
+      "title": "What you have learnt",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          113.5199966430664,
+          243.75
+        ],
+        [
+          331.1015625,
+          243.75
+        ],
+        [
+          331.1015625,
+          265.458984375
+        ],
+        [
+          113.5199966430664,
+          265.458984375
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          99.43505859375,
+          447.890625
+        ],
+        [
+          366.662109375,
+          447.890625
+        ],
+        [
+          366.662109375,
+          473.7890625
+        ],
+        [
+          99.43505859375,
+          473.7890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_10_8"
+}

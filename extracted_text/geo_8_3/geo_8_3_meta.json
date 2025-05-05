@@ -1,0 +1,666 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Word Origin",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          91.75529479980469,
+          455.361328125
+        ],
+        [
+          157.27529907226562,
+          455.361328125
+        ],
+        [
+          157.27529907226562,
+          470.11788177490234
+        ],
+        [
+          91.75529479980469,
+          470.11788177490234
+        ]
+      ]
+    },
+    {
+      "title": "Farm System",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.757080078125,
+          649.3115234375
+        ],
+        [
+          150.609375,
+          649.3115234375
+        ],
+        [
+          150.609375,
+          664.6435546875
+        ],
+        [
+          58.757080078125,
+          664.6435546875
+        ]
+      ]
+    },
+    {
+      "title": "Types of Farming",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          226.3623046875,
+          341.52099609375
+        ],
+        [
+          351.123046875,
+          341.52099609375
+        ],
+        [
+          351.123046875,
+          357.236328125
+        ],
+        [
+          226.3623046875,
+          357.236328125
+        ]
+      ]
+    },
+    {
+      "title": "Subsistence Farming",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          228.1552734375,
+          445.01220703125
+        ],
+        [
+          369.650390625,
+          445.01220703125
+        ],
+        [
+          369.650390625,
+          460.34423828125
+        ],
+        [
+          228.1552734375,
+          460.34423828125
+        ]
+      ]
+    },
+    {
+      "title": "Commercial Farming",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.728271484375,
+          421.630859375
+        ],
+        [
+          202.1572265625,
+          421.630859375
+        ],
+        [
+          202.1572265625,
+          434.83113861083984
+        ],
+        [
+          59.728271484375,
+          434.83113861083984
+        ]
+      ]
+    },
+    {
+      "title": "Major Crops",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          258.6357421875,
+          275.59326171875
+        ],
+        [
+          342.45703125,
+          275.59326171875
+        ],
+        [
+          342.45703125,
+          290.5419921875
+        ],
+        [
+          258.6357421875,
+          290.5419921875
+        ]
+      ]
+    },
+    {
+      "title": "Interesting Fact",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          417.76171875,
+          334.23828125
+        ],
+        [
+          509.80078125,
+          334.23828125
+        ],
+        [
+          509.80078125,
+          354.9365234375
+        ],
+        [
+          417.76171875,
+          354.9365234375
+        ]
+      ]
+    },
+    {
+      "title": "Do you know?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          93.21179962158203,
+          303.382568359375
+        ],
+        [
+          174.4818115234375,
+          303.382568359375
+        ],
+        [
+          174.4818115234375,
+          316.74239349365234
+        ],
+        [
+          93.21179962158203,
+          316.74239349365234
+        ]
+      ]
+    },
+    {
+      "title": "Agricultural Development",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          280.47601318359375,
+          140.5349349975586
+        ],
+        [
+          467.068359375,
+          140.5349349975586
+        ],
+        [
+          467.068359375,
+          155.5349349975586
+        ],
+        [
+          280.47601318359375,
+          155.5349349975586
+        ]
+      ]
+    },
+    {
+      "title": "A Farm in India",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          227.9759979248047,
+          451.91162109375
+        ],
+        [
+          332.89453125,
+          451.91162109375
+        ],
+        [
+          332.89453125,
+          467.24365234375
+        ],
+        [
+          227.9759979248047,
+          467.24365234375
+        ]
+      ]
+    },
+    {
+      "title": "A Farm in the USA",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.607666015625,
+          347.845458984375
+        ],
+        [
+          184.974609375,
+          347.845458984375
+        ],
+        [
+          184.974609375,
+          362.27462005615234
+        ],
+        [
+          58.607666015625,
+          362.27462005615234
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_8_3"
+}

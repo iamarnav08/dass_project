@@ -1,0 +1,1006 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNITS AND MEASUREMENT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.00244140625,
+          169.332763671875
+        ],
+        [
+          422.81640625,
+          169.332763671875
+        ],
+        [
+          422.81640625,
+          191.33763885498047
+        ],
+        [
+          200.00244140625,
+          191.33763885498047
+        ]
+      ]
+    },
+    {
+      "title": "1.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          256.54931640625,
+          254.9013671875
+        ],
+        [
+          363.69921875,
+          254.9013671875
+        ],
+        [
+          363.69921875,
+          267.2998580932617
+        ],
+        [
+          256.54931640625,
+          267.2998580932617
+        ]
+      ]
+    },
+    {
+      "title": "1.2 THE INTERNATIONAL SYSTEM OF UNITS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          255.4248046875,
+          445.22265625
+        ],
+        [
+          490.6083984375,
+          445.22265625
+        ],
+        [
+          490.6083984375,
+          458.0998764038086
+        ],
+        [
+          255.4248046875,
+          458.0998764038086
+        ]
+      ]
+    },
+    {
+      "title": "1.3 SIGNIFICANT FIGURES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.25390625,
+          581.98046875
+        ],
+        [
+          229.23974609375,
+          581.98046875
+        ],
+        [
+          229.23974609375,
+          592.1894149780273
+        ],
+        [
+          73.25390625,
+          592.1894149780273
+        ]
+      ]
+    },
+    {
+      "title": "1.3.1 Rules for Arithmetic Operations with\nSignificant Figures",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          73.09326171875,
+          124.41162109375
+        ],
+        [
+          300.98248291015625,
+          124.41162109375
+        ],
+        [
+          300.98248291015625,
+          147.22924041748047
+        ],
+        [
+          73.09326171875,
+          147.22924041748047
+        ]
+      ]
+    },
+    {
+      "title": "(1) In multiplication or division, the final\nresult should retain as many significant\nfigures as are there in the original number\nwith the least significant figures.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.611328125,
+          429.54930877685547
+        ],
+        [
+          304.2607421875,
+          429.54930877685547
+        ],
+        [
+          304.2607421875,
+          475.54930877685547
+        ],
+        [
+          72.611328125,
+          475.54930877685547
+        ]
+      ]
+    },
+    {
+      "title": "(2) In addition or subtraction, the final result\nshould retain as many decimal places as are\nthere in the number with the least\ndecimal places.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          73.09326171875,
+          605.2302322387695
+        ],
+        [
+          301.85107421875,
+          605.2302322387695
+        ],
+        [
+          301.85107421875,
+          651.2302322387695
+        ],
+        [
+          73.09326171875,
+          651.2302322387695
+        ]
+      ]
+    },
+    {
+      "title": "1.3.2 Rounding off the Uncertain Digits",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.791015625,
+          236.6669921875
+        ],
+        [
+          532.5784912109375,
+          236.6669921875
+        ],
+        [
+          532.5784912109375,
+          247.55016326904297
+        ],
+        [
+          316.791015625,
+          247.55016326904297
+        ]
+      ]
+    },
+    {
+      "title": "1.3.3 Rules for Determining the Uncertainty\nin the Results of Arithmetic\nCalculations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          108.836669921875,
+          523.478515625
+        ],
+        [
+          340.56640625,
+          523.478515625
+        ],
+        [
+          340.56640625,
+          558.8302383422852
+        ],
+        [
+          108.836669921875,
+          558.8302383422852
+        ]
+      ]
+    },
+    {
+      "title": "(2) If a set of experimental data is specified\nto n significant figures, a result obtained by\ncombining the data will also be valid to n\nsignificant figures.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          356.3999938964844,
+          290.5902633666992
+        ],
+        [
+          586.673828125,
+          290.5902633666992
+        ],
+        [
+          586.673828125,
+          335.39025115966797
+        ],
+        [
+          356.3999938964844,
+          335.39025115966797
+        ]
+      ]
+    },
+    {
+      "title": "(3) The relative error of a value of number\nspecified to significant figures depends not\nonly on n but also on the number itself.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          356.4000244140625,
+          465.736328125
+        ],
+        [
+          586.673828125,
+          465.736328125
+        ],
+        [
+          586.673828125,
+          500.27022552490234
+        ],
+        [
+          356.4000244140625,
+          500.27022552490234
+        ]
+      ]
+    },
+    {
+      "title": "1.4 DIMENSIONS OF PHYSICAL QUANTITIES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          73.012939453125,
+          277.88427734375
+        ],
+        [
+          301.6904296875,
+          277.88427734375
+        ],
+        [
+          301.6904296875,
+          288.1794967651367
+        ],
+        [
+          73.012939453125,
+          288.1794967651367
+        ]
+      ]
+    },
+    {
+      "title": "1.5 DIMENSIONAL FORMULAE AND\nDIMENSIONAL EQUATIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          320.1600341796875,
+          213.8740234375
+        ],
+        [
+          548.4404296875,
+          213.8740234375
+        ],
+        [
+          548.4404296875,
+          235.85967254638672
+        ],
+        [
+          320.1600341796875,
+          235.85967254638672
+        ]
+      ]
+    },
+    {
+      "title": "1.6 DIMENSIONAL ANALYSIS AND ITS\nAPPLICATIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.1123046875,
+          630.9806289672852
+        ],
+        [
+          548.4404296875,
+          630.9806289672852
+        ],
+        [
+          548.4404296875,
+          652.260627746582
+        ],
+        [
+          317.1123046875,
+          652.260627746582
+        ]
+      ]
+    },
+    {
+      "title": "1.6.1 Checking the Dimensional\nConsistency of Equations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          109.639892578125,
+          280.92333984375
+        ],
+        [
+          338.9599609375,
+          280.92333984375
+        ],
+        [
+          338.9599609375,
+          302.5802536010742
+        ],
+        [
+          109.639892578125,
+          302.5802536010742
+        ]
+      ]
+    },
+    {
+      "title": "1.6.2 Deducing Relation among the\nPhysical Quantities",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          72.852294921875,
+          524.998046875
+        ],
+        [
+          300.97808837890625,
+          524.998046875
+        ],
+        [
+          300.97808837890625,
+          548.5939559936523
+        ],
+        [
+          72.852294921875,
+          548.5939559936523
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          320.3251953125,
+          84.333984375
+        ],
+        [
+          372.3740234375,
+          84.333984375
+        ],
+        [
+          372.3740234375,
+          94.72808074951172
+        ],
+        [
+          320.3251953125,
+          94.72808074951172
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          330.239990234375,
+          551.2099609375
+        ],
+        [
+          387.1199951171875,
+          551.2099609375
+        ],
+        [
+          387.1199951171875,
+          560.8076400756836
+        ],
+        [
+          330.239990234375,
+          560.8076400756836
+        ]
+      ]
+    },
+    {
+      "title": "Note : In stating numerical answers, take care of significant figures.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          146.588134765625,
+          573.2431640625
+        ],
+        [
+          473.580078125,
+          573.2431640625
+        ],
+        [
+          473.580078125,
+          583.1201171875
+        ],
+        [
+          146.588134765625,
+          583.1201171875
+        ]
+      ]
+    },
+    {
+      "title": "1.1 Fill in the blanks",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          147.95361328125,
+          584.1662673950195
+        ],
+        [
+          250.08090209960938,
+          584.1662673950195
+        ],
+        [
+          250.08090209960938,
+          594.13671875
+        ],
+        [
+          147.95361328125,
+          594.13671875
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Fill in the blanks by suitable conversion of units",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          147.873291015625,
+          653.0462875366211
+        ],
+        [
+          391.97265625,
+          653.0462875366211
+        ],
+        [
+          391.97265625,
+          662.0876693725586
+        ],
+        [
+          147.873291015625,
+          662.0876693725586
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          286
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          294
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          344
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_11_1"
+}

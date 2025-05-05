@@ -1,0 +1,1477 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter Five\nMAGNETISM AND\nMATTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.5703125,
+          112.0068359375
+        ],
+        [
+          458.0891418457031,
+          112.0068359375
+        ],
+        [
+          458.0891418457031,
+          274.030517578125
+        ],
+        [
+          58.5703125,
+          274.030517578125
+        ]
+      ]
+    },
+    {
+      "title": "5.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          191.52000427246094,
+          458.0693359375
+        ],
+        [
+          328.11328125,
+          458.0693359375
+        ],
+        [
+          328.11328125,
+          476.7620906829834
+        ],
+        [
+          191.52000427246094,
+          476.7620906829834
+        ]
+      ]
+    },
+    {
+      "title": "5.2 THE BAR MAGNET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.0185546875,
+          293.53515625
+        ],
+        [
+          229.798828125,
+          293.53515625
+        ],
+        [
+          229.798828125,
+          311.712682723999
+        ],
+        [
+          59.0185546875,
+          311.712682723999
+        ]
+      ]
+    },
+    {
+      "title": "5.2.1 The magnetic field lines",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.24267578125,
+          529.908203125
+        ],
+        [
+          259.63507080078125,
+          529.908203125
+        ],
+        [
+          259.63507080078125,
+          543.9380550384521
+        ],
+        [
+          59.24267578125,
+          543.9380550384521
+        ]
+      ]
+    },
+    {
+      "title": "5.2.2 Bar magnet as an\nequivalent solenoid",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          343.951171875,
+          626.07958984375
+        ],
+        [
+          553.728515625,
+          626.07958984375
+        ],
+        [
+          553.728515625,
+          652.7712001800537
+        ],
+        [
+          343.951171875,
+          652.7712001800537
+        ]
+      ]
+    },
+    {
+      "title": "5.2.3 The dipole in a uniform magnetic field",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.49560546875,
+          375.80224609375
+        ],
+        [
+          345.8477478027344,
+          375.80224609375
+        ],
+        [
+          345.8477478027344,
+          390.0927734375
+        ],
+        [
+          58.49560546875,
+          390.0927734375
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          126.703125,
+          74.10797119140625
+        ],
+        [
+          207.83657836914062,
+          74.10797119140625
+        ],
+        [
+          207.83657836914062,
+          95.25408935546875
+        ],
+        [
+          126.703125,
+          95.25408935546875
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          209.3291015625,
+          215.13037109375
+        ],
+        [
+          253.68267822265625,
+          215.13037109375
+        ],
+        [
+          253.68267822265625,
+          224.89850425720215
+        ],
+        [
+          209.3291015625,
+          224.89850425720215
+        ]
+      ]
+    },
+    {
+      "title": "5.2.4 The electrostatic analog",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          191.6982421875,
+          515.4408626556396
+        ],
+        [
+          387.28125,
+          515.4408626556396
+        ],
+        [
+          387.28125,
+          527.4408626556396
+        ],
+        [
+          191.6982421875,
+          527.4408626556396
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          77.17236328125,
+          586.2978515625
+        ],
+        [
+          121.44248962402344,
+          586.2978515625
+        ],
+        [
+          121.44248962402344,
+          598.6572265625
+        ],
+        [
+          77.17236328125,
+          598.6572265625
+        ]
+      ]
+    },
+    {
+      "title": "5.3 MAGNETISM AND GAUSS'S LAW",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          270.140625,
+          225.3963680267334
+        ],
+        [
+          528.92578125,
+          225.3963680267334
+        ],
+        [
+          528.92578125,
+          241.3963680267334
+        ],
+        [
+          270.140625,
+          241.3963680267334
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          210.0001983642578,
+          117.02783203125
+        ],
+        [
+          252.00209045410156,
+          117.02783203125
+        ],
+        [
+          252.00209045410156,
+          126.7385311126709
+        ],
+        [
+          210.0001983642578,
+          126.7385311126709
+        ]
+      ]
+    },
+    {
+      "title": "Example 5.4",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          204.00022888183594,
+          613.7984981536865
+        ],
+        [
+          274.32421875,
+          613.7984981536865
+        ],
+        [
+          274.32421875,
+          623.3759765625
+        ],
+        [
+          204.00022888183594,
+          623.3759765625
+        ]
+      ]
+    },
+    {
+      "title": "Magnetism and\nMatter",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          378.47998046875,
+          59.14154052734375
+        ],
+        [
+          492.4906005859375,
+          59.14154052734375
+        ],
+        [
+          492.4906005859375,
+          93.78949546813965
+        ],
+        [
+          378.47998046875,
+          93.78949546813965
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          78.96009826660156,
+          141.2637939453125
+        ],
+        [
+          123.8642578125,
+          141.2637939453125
+        ],
+        [
+          123.8642578125,
+          151.6984920501709
+        ],
+        [
+          78.96009826660156,
+          151.6984920501709
+        ]
+      ]
+    },
+    {
+      "title": "5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.6162109375,
+          418.8372554779053
+        ],
+        [
+          390.7249450683594,
+          418.8372554779053
+        ],
+        [
+          390.7249450683594,
+          435.28173828125
+        ],
+        [
+          59.6162109375,
+          435.28173828125
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          123.19189453125,
+          73.77001953125
+        ],
+        [
+          207.83657836914062,
+          73.77001953125
+        ],
+        [
+          207.83657836914062,
+          94.39508628845215
+        ],
+        [
+          123.19189453125,
+          94.39508628845215
+        ]
+      ]
+    },
+    {
+      "title": "Magnetism and\nMatter",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          378.47998046875,
+          60.54950523376465
+        ],
+        [
+          492.4906005859375,
+          60.251953125
+        ],
+        [
+          492.4906005859375,
+          93.78949546813965
+        ],
+        [
+          378.47998046875,
+          93.85400390625
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          78.0000991821289,
+          116.062255859375
+        ],
+        [
+          120.00200653076172,
+          114.517333984375
+        ],
+        [
+          120.00200653076172,
+          126.25848960876465
+        ],
+        [
+          78.0000991821289,
+          127.06982421875
+        ]
+      ]
+    },
+    {
+      "title": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.6162109375,
+          321.34375
+        ],
+        [
+          362.1796875,
+          319.798828125
+        ],
+        [
+          362.1796875,
+          339.5568904876709
+        ],
+        [
+          59.6162109375,
+          339.5568904876709
+        ]
+      ]
+    },
+    {
+      "title": "5.5.1 Diamagnetism",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.653564453125,
+          607.154296875
+        ],
+        [
+          192.8935546875,
+          607.154296875
+        ],
+        [
+          192.8935546875,
+          621.05859375
+        ],
+        [
+          59.653564453125,
+          621.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          122.818359375,
+          74.0596923828125
+        ],
+        [
+          207.83657836914062,
+          74.0596923828125
+        ],
+        [
+          207.83657836914062,
+          94.39508628845215
+        ],
+        [
+          122.818359375,
+          94.39508628845215
+        ]
+      ]
+    },
+    {
+      "title": "5.5.2 Paramagnetism",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          191.25,
+          402.4010066986084
+        ],
+        [
+          328.11328125,
+          402.4010066986084
+        ],
+        [
+          328.11328125,
+          414.42529296875
+        ],
+        [
+          191.25,
+          414.42529296875
+        ]
+      ]
+    },
+    {
+      "title": "5.5.3 Ferromagnetism",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.578857421875,
+          107.951416015625
+        ],
+        [
+          210.5244140625,
+          107.951416015625
+        ],
+        [
+          210.5244140625,
+          121.083251953125
+        ],
+        [
+          59.578857421875,
+          121.083251953125
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          209.0399932861328,
+          651.95703125
+        ],
+        [
+          272.0830078125,
+          651.95703125
+        ],
+        [
+          272.0830078125,
+          663.627950668335
+        ],
+        [
+          209.0399932861328,
+          663.627950668335
+        ]
+      ]
+    },
+    {
+      "title": "Magnetism and\nMatter",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          378.017578125,
+          59.1898193359375
+        ],
+        [
+          492.4906005859375,
+          59.1898193359375
+        ],
+        [
+          492.4906005859375,
+          94.62646484375
+        ],
+        [
+          378.017578125,
+          94.62646484375
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          177.0556640625,
+          444.9375
+        ],
+        [
+          304.6552734375,
+          444.9375
+        ],
+        [
+          304.6552734375,
+          458.0693359375
+        ],
+        [
+          177.0556640625,
+          458.0693359375
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          318.849609375,
+          329.068359375
+        ],
+        [
+          425.830078125,
+          329.068359375
+        ],
+        [
+          425.830078125,
+          349.15234375
+        ],
+        [
+          318.849609375,
+          349.15234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_12_5"
+}

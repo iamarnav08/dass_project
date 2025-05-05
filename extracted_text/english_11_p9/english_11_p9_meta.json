@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Refugee Blues",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          151.31939697265625,
+          141.7327880859375
+        ],
+        [
+          281.15940856933594,
+          141.7327880859375
+        ],
+        [
+          281.15940856933594,
+          160.99181747436523
+        ],
+        [
+          151.31939697265625,
+          160.99181747436523
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THE POET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.7496337890625,
+          484.65087890624994
+        ],
+        [
+          160.55224609375,
+          484.65087890624994
+        ],
+        [
+          160.55224609375,
+          497.36083984374994
+        ],
+        [
+          53.7496337890625,
+          497.36083984374994
+        ]
+      ]
+    },
+    {
+      "title": "UNDERSTANDING THE POEM",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.8568115234375,
+          84.454345703125
+        ],
+        [
+          177.0576171875,
+          84.454345703125
+        ],
+        [
+          177.0576171875,
+          96.34765243530273
+        ],
+        [
+          53.8568115234375,
+          96.34765243530273
+        ]
+      ]
+    },
+    {
+      "title": "TRY THIS OUT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.88360595703125,
+          264.400634765625
+        ],
+        [
+          121.218017578125,
+          264.400634765625
+        ],
+        [
+          121.218017578125,
+          277.3077964782715
+        ],
+        [
+          53.88360595703125,
+          277.3077964782715
+        ]
+      ]
+    },
+    {
+      "title": "SUGGESTED READING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.7496337890625,
+          411.73583984375
+        ],
+        [
+          151.97802734375,
+          411.73583984375
+        ],
+        [
+          151.97802734375,
+          423.46776962280273
+        ],
+        [
+          53.7496337890625,
+          423.46776962280273
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_11_p9"
+}

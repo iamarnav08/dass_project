@@ -1,0 +1,293 @@
+{
+  "table_of_contents": [
+    {
+      "title": "I\nOn Time",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.7099609375,
+          355.90214347839355
+        ],
+        [
+          271.7138671875,
+          355.90214347839355
+        ],
+        [
+          271.7138671875,
+          387.2421875
+        ],
+        [
+          215.7099609375,
+          387.2421875
+        ]
+      ]
+    },
+    {
+      "title": "NOTES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          79.734375,
+          174.72314453125
+        ],
+        [
+          115.330078125,
+          174.72314453125
+        ],
+        [
+          115.330078125,
+          188.4637279510498
+        ],
+        [
+          79.734375,
+          188.4637279510498
+        ]
+      ]
+    },
+    {
+      "title": "Understanding the Poem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.268310546875,
+          258.106201171875
+        ],
+        [
+          240.626953125,
+          258.106201171875
+        ],
+        [
+          240.626953125,
+          274.51188468933105
+        ],
+        [
+          80.268310546875,
+          274.51188468933105
+        ]
+      ]
+    },
+    {
+      "title": "II\nOn Shakespear.* 1630 .* 1630",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          170.6220703125,
+          374.3118724822998
+        ],
+        [
+          316.3271484375,
+          374.3118724822998
+        ],
+        [
+          316.3271484375,
+          403.1068859100342
+        ],
+        [
+          170.6220703125,
+          403.1068859100342
+        ]
+      ]
+    },
+    {
+      "title": "Understanding the Poem",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.208984375,
+          165.8543701171875
+        ],
+        [
+          240.8642578125,
+          165.8543701171875
+        ],
+        [
+          240.8642578125,
+          182.11186027526855
+        ],
+        [
+          80.208984375,
+          182.11186027526855
+        ]
+      ]
+    },
+    {
+      "title": "Language Study",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.09033203125,
+          295.0732421875
+        ],
+        [
+          186.64013671875,
+          295.0732421875
+        ],
+        [
+          186.64013671875,
+          310.0318431854248
+        ],
+        [
+          80.09033203125,
+          310.0318431854248
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Reading",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.9208984375,
+          488.69433593749994
+        ],
+        [
+          204.08203125,
+          488.69433593749994
+        ],
+        [
+          204.08203125,
+          503.711820602417
+        ],
+        [
+          80.9208984375,
+          503.711820602417
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Handwriting",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_12_p2"
+}

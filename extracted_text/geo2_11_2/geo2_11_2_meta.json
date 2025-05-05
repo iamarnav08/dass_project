@@ -1,0 +1,685 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.578857421875,
+          148.4373779296875
+        ],
+        [
+          163.2032012939453,
+          148.4373779296875
+        ],
+        [
+          163.2032012939453,
+          169.19030570983887
+        ],
+        [
+          59.578857421875,
+          169.19030570983887
+        ]
+      ]
+    },
+    {
+      "title": "Map Scale",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.205322265625,
+          207.984375
+        ],
+        [
+          186.46875,
+          207.984375
+        ],
+        [
+          186.46875,
+          233.31841850280762
+        ],
+        [
+          59.205322265625,
+          233.31841850280762
+        ]
+      ]
+    },
+    {
+      "title": "Glossary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.166015625,
+          389.014892578125
+        ],
+        [
+          131.51974487304688,
+          389.014892578125
+        ],
+        [
+          131.51974487304688,
+          399.83602714538574
+        ],
+        [
+          85.166015625,
+          399.83602714538574
+        ]
+      ]
+    },
+    {
+      "title": "What is Scale ?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          571.95703125
+        ],
+        [
+          159.4248046875,
+          571.95703125
+        ],
+        [
+          159.4248046875,
+          584.19140625
+        ],
+        [
+          60.0,
+          584.19140625
+        ]
+      ]
+    },
+    {
+      "title": "METHODS OF SCALE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          190.2041015625,
+          422.23739433288574
+        ],
+        [
+          309.12139892578125,
+          422.23739433288574
+        ],
+        [
+          309.12139892578125,
+          436.23766899108887
+        ],
+        [
+          190.2041015625,
+          436.23766899108887
+        ]
+      ]
+    },
+    {
+      "title": "Map Scale",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.9150390625,
+          60.4072265625
+        ],
+        [
+          105.9345703125,
+          60.4072265625
+        ],
+        [
+          105.9345703125,
+          70.72552299499512
+        ],
+        [
+          59.9150390625,
+          70.72552299499512
+        ]
+      ]
+    },
+    {
+      "title": "CONVERSION OF SCALE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          189.9052734375,
+          409.0869140625
+        ],
+        [
+          332.296875,
+          409.0869140625
+        ],
+        [
+          332.296875,
+          423.27767753601074
+        ],
+        [
+          189.9052734375,
+          423.27767753601074
+        ]
+      ]
+    },
+    {
+      "title": "Statement of Scale into R. F.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          192.0001983642578,
+          503.138671875
+        ],
+        [
+          373.6801452636719,
+          503.138671875
+        ],
+        [
+          373.6801452636719,
+          515.4907817840576
+        ],
+        [
+          192.0001983642578,
+          515.4907817840576
+        ]
+      ]
+    },
+    {
+      "title": "Map Scale",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          59.21246337890625
+        ],
+        [
+          105.9345703125,
+          59.21246337890625
+        ],
+        [
+          105.9345703125,
+          70.72552299499512
+        ],
+        [
+          60.0,
+          70.72552299499512
+        ]
+      ]
+    },
+    {
+      "title": "R. F. into Statement of Scale",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.24267578125,
+          103.60986328125
+        ],
+        [
+          246.533203125,
+          103.60986328125
+        ],
+        [
+          246.533203125,
+          117.57122611999512
+        ],
+        [
+          59.24267578125,
+          117.57122611999512
+        ]
+      ]
+    },
+    {
+      "title": "Construction of the Graphical/Bar Scale",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.3173828125,
+          310.82958984375
+        ],
+        [
+          317.35546875,
+          310.82958984375
+        ],
+        [
+          317.35546875,
+          325.65145683288574
+        ],
+        [
+          59.3173828125,
+          325.65145683288574
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          60.624755859375,
+          216.968994140625
+        ],
+        [
+          145.3798828125,
+          216.968994140625
+        ],
+        [
+          145.3798828125,
+          239.908447265625
+        ],
+        [
+          60.624755859375,
+          239.908447265625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          192.0,
+          106.7640380859375
+        ],
+        [
+          260.8822021484375,
+          106.7640380859375
+        ],
+        [
+          260.8822021484375,
+          120.18871879577637
+        ],
+        [
+          192.0,
+          120.18871879577637
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo2_11_2"
+}

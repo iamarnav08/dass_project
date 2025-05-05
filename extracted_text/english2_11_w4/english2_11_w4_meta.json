@@ -1,0 +1,337 @@
+{
+  "table_of_contents": [
+    {
+      "title": "This is how we write an essay.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.0,
+          158.352783203125
+        ],
+        [
+          257.994140625,
+          158.352783203125
+        ],
+        [
+          257.994140625,
+          172.5021800994873
+        ],
+        [
+          72.0,
+          172.5021800994873
+        ]
+      ]
+    },
+    {
+      "title": "The Importance of Games",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          152.419921875,
+          384.8701171875
+        ],
+        [
+          317.408203125,
+          384.8701171875
+        ],
+        [
+          317.408203125,
+          398.2685546875
+        ],
+        [
+          152.419921875,
+          398.2685546875
+        ]
+      ]
+    },
+    {
+      "title": "ESSAY-WRITING 91",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.75390625,
+          58.9949951171875
+        ],
+        [
+          396.0013122558594,
+          58.9949951171875
+        ],
+        [
+          396.0013122558594,
+          70.76652336120605
+        ],
+        [
+          71.75390625,
+          70.76652336120605
+        ]
+      ]
+    },
+    {
+      "title": "Passage Analysis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.4111328125,
+          363.4326171875
+        ],
+        [
+          164.8740234375,
+          363.4326171875
+        ],
+        [
+          164.8740234375,
+          375.4018077850342
+        ],
+        [
+          71.4111328125,
+          375.4018077850342
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.0,
+          274.16552734375
+        ],
+        [
+          114.72029876708984,
+          274.16552734375
+        ],
+        [
+          114.72029876708984,
+          288.23388671875
+        ],
+        [
+          72.0,
+          288.23388671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_11_w4"
+}

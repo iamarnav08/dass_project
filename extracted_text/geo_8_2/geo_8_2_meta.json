@@ -1,0 +1,1422 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Land, Soil, Water, \nNatural Vegetation \nand Wildlife Resources",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          280.04248046875,
+          151.34606552124023
+        ],
+        [
+          534.005859375,
+          151.34606552124023
+        ],
+        [
+          534.005859375,
+          228.86608505249023
+        ],
+        [
+          280.04248046875,
+          228.86608505249023
+        ]
+      ]
+    },
+    {
+      "title": "Land",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.831787109375,
+          570.074535369873
+        ],
+        [
+          95.923828125,
+          570.074535369873
+        ],
+        [
+          95.923828125,
+          586.074535369873
+        ],
+        [
+          58.831787109375,
+          586.074535369873
+        ]
+      ]
+    },
+    {
+      "title": "Let's do",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          92.935546875,
+          401.31591796875
+        ],
+        [
+          139.82640075683594,
+          401.31591796875
+        ],
+        [
+          139.82640075683594,
+          412.81494140625
+        ],
+        [
+          92.935546875,
+          412.81494140625
+        ]
+      ]
+    },
+    {
+      "title": "Land Use",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          378.31640625,
+          193.52062606811523
+        ],
+        [
+          447.046875,
+          193.52062606811523
+        ],
+        [
+          447.046875,
+          209.52062606811523
+        ],
+        [
+          378.31640625,
+          209.52062606811523
+        ]
+      ]
+    },
+    {
+      "title": "Conservation of Land Resource",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.69091796875,
+          389.81689453125
+        ],
+        [
+          298.828125,
+          389.81689453125
+        ],
+        [
+          298.828125,
+          405.9489097595215
+        ],
+        [
+          59.69091796875,
+          405.9489097595215
+        ]
+      ]
+    },
+    {
+      "title": "Soil",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.16796875,
+          540.3489036560059
+        ],
+        [
+          92.1884765625,
+          540.3489036560059
+        ],
+        [
+          92.1884765625,
+          556.3489036560059
+        ],
+        [
+          59.16796875,
+          556.3489036560059
+        ]
+      ]
+    },
+    {
+      "title": "Glossary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          418.359375,
+          451.91162109375
+        ],
+        [
+          473.10662841796875,
+          451.91162109375
+        ],
+        [
+          473.10662841796875,
+          464.94384765625
+        ],
+        [
+          418.359375,
+          464.94384765625
+        ]
+      ]
+    },
+    {
+      "title": "Landslides",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          286.98858642578125,
+          84.9969482421875
+        ],
+        [
+          344.548828125,
+          84.9969482421875
+        ],
+        [
+          344.548828125,
+          98.65270614624023
+        ],
+        [
+          286.98858642578125,
+          98.65270614624023
+        ]
+      ]
+    },
+    {
+      "title": "A Case Study",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          88.82666015625,
+          265.052490234375
+        ],
+        [
+          156.287109375,
+          265.052490234375
+        ],
+        [
+          156.287109375,
+          278.419002532959
+        ],
+        [
+          88.82666015625,
+          278.419002532959
+        ]
+      ]
+    },
+    {
+      "title": "Mitigation Mechanism",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.25,
+          373.71826171875
+        ],
+        [
+          198.91799926757812,
+          373.71826171875
+        ],
+        [
+          198.91799926757812,
+          386.4190330505371
+        ],
+        [
+          89.25,
+          386.4190330505371
+        ]
+      ]
+    },
+    {
+      "title": "Factors of Soil Formation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.79443359375,
+          260.26123046875
+        ],
+        [
+          261.7734375,
+          260.26123046875
+        ],
+        [
+          261.7734375,
+          276.896297454834
+        ],
+        [
+          58.79443359375,
+          276.896297454834
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          92.41259765625,
+          77.81005859375
+        ],
+        [
+          138.5928955078125,
+          77.81005859375
+        ],
+        [
+          138.5928955078125,
+          91.49346542358398
+        ],
+        [
+          92.41259765625,
+          91.49346542358398
+        ]
+      ]
+    },
+    {
+      "title": "Degradation of Soil and Conservation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          228.39999389648438,
+          64.54894638061523
+        ],
+        [
+          515.77734375,
+          64.54894638061523
+        ],
+        [
+          515.77734375,
+          80.54894638061523
+        ],
+        [
+          228.39999389648438,
+          80.54894638061523
+        ]
+      ]
+    },
+    {
+      "title": "Measures",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          228.39703369140625,
+          83.74895858764648
+        ],
+        [
+          303.908203125,
+          83.74895858764648
+        ],
+        [
+          303.908203125,
+          99.74895858764648
+        ],
+        [
+          228.39703369140625,
+          99.74895858764648
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          77.6953125,
+          83.57683944702148
+        ],
+        [
+          122.6689453125,
+          83.57683944702148
+        ],
+        [
+          122.6689453125,
+          94.33990478515625
+        ],
+        [
+          77.6953125,
+          94.33990478515625
+        ]
+      ]
+    },
+    {
+      "title": "Water",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.94384765625,
+          341.77868270874023
+        ],
+        [
+          109.14697265625,
+          341.77868270874023
+        ],
+        [
+          109.14697265625,
+          357.77868270874023
+        ],
+        [
+          58.94384765625,
+          357.77868270874023
+        ]
+      ]
+    },
+    {
+      "title": "Problems of Water Availability",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          227.2587890625,
+          337.0063133239746
+        ],
+        [
+          466.171875,
+          337.0063133239746
+        ],
+        [
+          466.171875,
+          353.0063133239746
+        ],
+        [
+          227.2587890625,
+          353.0063133239746
+        ]
+      ]
+    },
+    {
+      "title": "Conservation of Water\nResources",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.873046875,
+          501.80630111694336
+        ],
+        [
+          491.572265625,
+          501.80630111694336
+        ],
+        [
+          491.572265625,
+          537.0063133239746
+        ],
+        [
+          312.873046875,
+          537.0063133239746
+        ]
+      ]
+    },
+    {
+      "title": "Natural Vegetation and Wildlife",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.54150390625,
+          329.20055770874023
+        ],
+        [
+          306.0,
+          329.20055770874023
+        ],
+        [
+          306.0,
+          345.20055770874023
+        ],
+        [
+          59.54150390625,
+          345.20055770874023
+        ]
+      ]
+    },
+    {
+      "title": "Do you know?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          424.0378723144531,
+          294.949951171875
+        ],
+        [
+          505.307861328125,
+          294.949951171875
+        ],
+        [
+          505.307861328125,
+          308.50536727905273
+        ],
+        [
+          424.0378723144531,
+          308.50536727905273
+        ]
+      ]
+    },
+    {
+      "title": "Do you know?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          92.73789978027344,
+          131.7596435546875
+        ],
+        [
+          174.3662109375,
+          131.7596435546875
+        ],
+        [
+          174.3662109375,
+          142.8753662109375
+        ],
+        [
+          92.73789978027344,
+          142.8753662109375
+        ]
+      ]
+    },
+    {
+      "title": "Distribution of Natural Vegetation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          227.9879913330078,
+          480.8505210876465
+        ],
+        [
+          494.0657043457031,
+          480.8505210876465
+        ],
+        [
+          494.0657043457031,
+          496.8505210876465
+        ],
+        [
+          227.9879913330078,
+          496.8505210876465
+        ]
+      ]
+    },
+    {
+      "title": "Conservation of Natural\nVegetation and Wildlife",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          57.89794921875,
+          294.3063316345215
+        ],
+        [
+          246.83203125,
+          294.3063316345215
+        ],
+        [
+          246.83203125,
+          329.5063133239746
+        ],
+        [
+          57.89794921875,
+          329.5063133239746
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          87.85546875,
+          519.755859375
+        ],
+        [
+          133.1616973876953,
+          519.755859375
+        ],
+        [
+          133.1616973876953,
+          532.021484375
+        ],
+        [
+          87.85546875,
+          532.021484375
+        ]
+      ]
+    },
+    {
+      "title": "Know More",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          89.05078125,
+          553.10302734375
+        ],
+        [
+          154.3717041015625,
+          553.10302734375
+        ],
+        [
+          154.3717041015625,
+          565.8890495300293
+        ],
+        [
+          89.05078125,
+          565.8890495300293
+        ]
+      ]
+    },
+    {
+      "title": "Some Control Measures",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          89.48170471191406,
+          637.8125
+        ],
+        [
+          218.63169860839844,
+          637.8125
+        ],
+        [
+          218.63169860839844,
+          650.8864860534668
+        ],
+        [
+          89.48170471191406,
+          650.8864860534668
+        ]
+      ]
+    },
+    {
+      "title": "Glossary",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          417.462890625,
+          384.45068359375
+        ],
+        [
+          473.3351135253906,
+          384.45068359375
+        ],
+        [
+          473.3351135253906,
+          397.099609375
+        ],
+        [
+          417.462890625,
+          397.099609375
+        ]
+      ]
+    },
+    {
+      "title": "Do you know?",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          76.53790283203125,
+          564.9853515625
+        ],
+        [
+          157.8079071044922,
+          564.9853515625
+        ],
+        [
+          157.8079071044922,
+          577.7934989929199
+        ],
+        [
+          76.53790283203125,
+          577.7934989929199
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          147.71319580078125,
+          99.083251953125
+        ],
+        [
+          211.4208984375,
+          99.083251953125
+        ],
+        [
+          211.4208984375,
+          115.53875350952148
+        ],
+        [
+          147.71319580078125,
+          115.53875350952148
+        ]
+      ]
+    },
+    {
+      "title": "1. Answer the following questions.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          147.71319580078125,
+          121.0272216796875
+        ],
+        [
+          333.4921875,
+          121.0272216796875
+        ],
+        [
+          333.4921875,
+          133.17034530639648
+        ],
+        [
+          147.71319580078125,
+          133.17034530639648
+        ]
+      ]
+    },
+    {
+      "title": "2. Tick the correct answer.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          144.7822265625,
+          227.29736328125
+        ],
+        [
+          293.1131896972656,
+          227.29736328125
+        ],
+        [
+          293.1131896972656,
+          237.66637802124023
+        ],
+        [
+          144.7822265625,
+          237.66637802124023
+        ]
+      ]
+    },
+    {
+      "title": "3. Match the followings :",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          147.71319580078125,
+          389.82641220092773
+        ],
+        [
+          281.3132019042969,
+          389.82641220092773
+        ],
+        [
+          281.3132019042969,
+          400.54931640625
+        ],
+        [
+          147.71319580078125,
+          400.54931640625
+        ]
+      ]
+    },
+    {
+      "title": "4. State whether the given statement is true or false. \nIf true, write the reasons.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          147.24755859375,
+          494.07470703125
+        ],
+        [
+          433.1109924316406,
+          494.07470703125
+        ],
+        [
+          433.1109924316406,
+          516.8824119567871
+        ],
+        [
+          147.24755859375,
+          516.8824119567871
+        ]
+      ]
+    },
+    {
+      "title": "5. Activity",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          147.71099853515625,
+          611.748046875
+        ],
+        [
+          207.3109893798828,
+          611.748046875
+        ],
+        [
+          207.3109893798828,
+          621.9823875427246
+        ],
+        [
+          147.71099853515625,
+          621.9823875427246
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_8_2"
+}

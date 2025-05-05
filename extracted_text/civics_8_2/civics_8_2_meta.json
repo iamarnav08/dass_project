@@ -1,0 +1,530 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.4000015258789,
+          175.4559326171875
+        ],
+        [
+          204.8466796875,
+          175.4559326171875
+        ],
+        [
+          204.8466796875,
+          201.041259765625
+        ],
+        [
+          104.4000015258789,
+          201.041259765625
+        ]
+      ]
+    },
+    {
+      "title": "Understanding Secularism",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.716796875,
+          167.310791015625
+        ],
+        [
+          494.560546875,
+          167.310791015625
+        ],
+        [
+          494.560546875,
+          194.32009315490723
+        ],
+        [
+          250.716796875,
+          194.32009315490723
+        ]
+      ]
+    },
+    {
+      "title": "What is Secularism?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.5126953125,
+          489.091796875
+        ],
+        [
+          204.697265625,
+          489.091796875
+        ],
+        [
+          204.697265625,
+          506.6719913482666
+        ],
+        [
+          60.5126953125,
+          506.6719913482666
+        ]
+      ]
+    },
+    {
+      "title": "Discuss in class: Can there be\ndifferent views within the same\nreligion?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.591796875,
+          655.9536533355713
+        ],
+        [
+          230.396484375,
+          655.9536533355713
+        ],
+        [
+          230.396484375,
+          694.15771484375
+        ],
+        [
+          78.591796875,
+          694.15771484375
+        ]
+      ]
+    },
+    {
+      "title": "Why is it Important to Separate Religion\nfrom the State?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          249.22265625,
+          77.4267578125
+        ],
+        [
+          537.29296875,
+          77.4267578125
+        ],
+        [
+          537.29296875,
+          114.75246620178223
+        ],
+        [
+          249.22265625,
+          114.75246620178223
+        ]
+      ]
+    },
+    {
+      "title": "What is Indian Secularism?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.69091796875,
+          394.033203125
+        ],
+        [
+          256.095703125,
+          394.033203125
+        ],
+        [
+          256.095703125,
+          412.35247230529785
+        ],
+        [
+          59.69091796875,
+          412.35247230529785
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          98.314453125,
+          81.1639404296875
+        ],
+        [
+          209.478515625,
+          81.1639404296875
+        ],
+        [
+          209.478515625,
+          111.96364784240723
+        ],
+        [
+          98.314453125,
+          111.96364784240723
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/civics_8_2"
+}

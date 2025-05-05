@@ -1,0 +1,2787 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIT IV\nBioremediation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.7236328125,
+          249.275390625
+        ],
+        [
+          243.3134765625,
+          249.275390625
+        ],
+        [
+          243.3134765625,
+          308.91796875
+        ],
+        [
+          78.7236328125,
+          308.91796875
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 11 Bioremediation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          95.1552963256836,
+          98.59248542785645
+        ],
+        [
+          393.0060729980469,
+          98.59248542785645
+        ],
+        [
+          393.0060729980469,
+          152.59248542785645
+        ],
+        [
+          95.1552963256836,
+          152.59248542785645
+        ]
+      ]
+    },
+    {
+      "title": "11.1 WASTE WATER TREATMENT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.81982421875,
+          636.9521484375
+        ],
+        [
+          307.2663879394531,
+          636.9521484375
+        ],
+        [
+          307.2663879394531,
+          653.0947742462158
+        ],
+        [
+          80.81982421875,
+          653.0947742462158
+        ]
+      ]
+    },
+    {
+      "title": "11.1.1 Composition of Sewage",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          227.630859375,
+          193.9339599609375
+        ],
+        [
+          450.603515625,
+          193.9339599609375
+        ],
+        [
+          450.603515625,
+          209.36641120910645
+        ],
+        [
+          227.630859375,
+          209.36641120910645
+        ]
+      ]
+    },
+    {
+      "title": "Box 1: Biochemical Oxygen Demand (BOD)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.98095703125,
+          171.090087890625
+        ],
+        [
+          346.259765625,
+          171.090087890625
+        ],
+        [
+          346.259765625,
+          183.4459400177002
+        ],
+        [
+          89.98095703125,
+          183.4459400177002
+        ]
+      ]
+    },
+    {
+      "title": "Calculation of Dilution factor",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.0512924194336,
+          498.16845703125
+        ],
+        [
+          245.33203125,
+          498.16845703125
+        ],
+        [
+          245.33203125,
+          510.65025520324707
+        ],
+        [
+          90.0512924194336,
+          510.65025520324707
+        ]
+      ]
+    },
+    {
+      "title": "Box 2: Common pathogenic organisms found in water (domestic waste \nwater) and the respective diseases",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          96.4248046875,
+          300.71724128723145
+        ],
+        [
+          526.177978515625,
+          300.71724128723145
+        ],
+        [
+          526.177978515625,
+          325.740234375
+        ],
+        [
+          96.4248046875,
+          325.740234375
+        ]
+      ]
+    },
+    {
+      "title": "11.1.2 Waste water Disposal Plant",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.431640625,
+          65.04290771484375
+        ],
+        [
+          333.216796875,
+          65.04290771484375
+        ],
+        [
+          333.216796875,
+          80.90936279296875
+        ],
+        [
+          80.431640625,
+          80.90936279296875
+        ]
+      ]
+    },
+    {
+      "title": "11.1.3 Primary or Physical Treatment",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.97509765625,
+          409.0869140625
+        ],
+        [
+          359.61328125,
+          409.0869140625
+        ],
+        [
+          359.61328125,
+          424.3798828125
+        ],
+        [
+          80.97509765625,
+          424.3798828125
+        ]
+      ]
+    },
+    {
+      "title": "11.1.4 Secondary or Biological Treatment",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.5869140625,
+          64.039306640625
+        ],
+        [
+          390.046875,
+          64.039306640625
+        ],
+        [
+          390.046875,
+          80.861572265625
+        ],
+        [
+          80.5869140625,
+          80.861572265625
+        ]
+      ]
+    },
+    {
+      "title": "Activated sludge process",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          81.04800415039062,
+          469.11181640625
+        ],
+        [
+          261.791015625,
+          469.11181640625
+        ],
+        [
+          261.791015625,
+          484.40478515625
+        ],
+        [
+          81.04800415039062,
+          484.40478515625
+        ]
+      ]
+    },
+    {
+      "title": "Trickling filter",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          226.69921875,
+          463.376953125
+        ],
+        [
+          338.185546875,
+          463.376953125
+        ],
+        [
+          338.185546875,
+          477.9052734375
+        ],
+        [
+          226.69921875,
+          477.9052734375
+        ]
+      ]
+    },
+    {
+      "title": "Box 3: Eutrophication",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          90.25050354003906,
+          74.0753173828125
+        ],
+        [
+          223.283203125,
+          74.0753173828125
+        ],
+        [
+          223.283203125,
+          86.7434253692627
+        ],
+        [
+          90.25050354003906,
+          86.7434253692627
+        ]
+      ]
+    },
+    {
+      "title": "Sewage Oxidation Ponds or Lagoons",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          227.7861328125,
+          65.37744140625
+        ],
+        [
+          494.92803955078125,
+          65.37744140625
+        ],
+        [
+          494.92803955078125,
+          81.052734375
+        ],
+        [
+          227.7861328125,
+          81.052734375
+        ]
+      ]
+    },
+    {
+      "title": "Anaerobic Sludge Digestion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          227.94140625,
+          354.0322265625
+        ],
+        [
+          428.5546875,
+          354.0322265625
+        ],
+        [
+          428.5546875,
+          369.70751953125
+        ],
+        [
+          227.94140625,
+          369.70751953125
+        ]
+      ]
+    },
+    {
+      "title": "11.1.5 Tertiary or Advanced Treatment",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.35400390625,
+          104.37451171875
+        ],
+        [
+          369.861328125,
+          104.37451171875
+        ],
+        [
+          369.861328125,
+          120.43212890625
+        ],
+        [
+          80.35400390625,
+          120.43212890625
+        ]
+      ]
+    },
+    {
+      "title": "11.2 SOLID WASTE MANAGEMENT",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.431640625,
+          624.7177734375
+        ],
+        [
+          312.720703125,
+          624.7177734375
+        ],
+        [
+          312.720703125,
+          643.4057636260986
+        ],
+        [
+          80.431640625,
+          643.4057636260986
+        ]
+      ]
+    },
+    {
+      "title": "Sources and types of solid wastes",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          228.251953125,
+          64.9951171875
+        ],
+        [
+          474.205078125,
+          64.9951171875
+        ],
+        [
+          474.205078125,
+          80.67041015625
+        ],
+        [
+          228.251953125,
+          80.67041015625
+        ]
+      ]
+    },
+    {
+      "title": "Table 11.2: Major sources and types of solid wastes",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          80.81982421875,
+          172.1414794921875
+        ],
+        [
+          390.046875,
+          172.1414794921875
+        ],
+        [
+          390.046875,
+          185.1405029296875
+        ],
+        [
+          80.81982421875,
+          185.1405029296875
+        ]
+      ]
+    },
+    {
+      "title": "11.2.1 Risks of solid waste",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          80.431640625,
+          239.143798828125
+        ],
+        [
+          277.939453125,
+          239.143798828125
+        ],
+        [
+          277.939453125,
+          254.36641120910645
+        ],
+        [
+          80.431640625,
+          254.36641120910645
+        ]
+      ]
+    },
+    {
+      "title": "Box 4",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          90.04800415039062,
+          73.74078369140625
+        ],
+        [
+          124.76220703125,
+          73.74078369140625
+        ],
+        [
+          124.76220703125,
+          86.7193775177002
+        ],
+        [
+          90.04800415039062,
+          86.7193775177002
+        ]
+      ]
+    },
+    {
+      "title": "Identification of the\ntypes of waste\nIdentification of the\nsources of waste\nDetermination of the\npotential health hazards\nfrom waste\nDetermination of the\nvolume of the waste\nIdentification of\nsafe collection\nIdentification of\nsafe transportation\nIdentification of\nsafe disposal\nFig.11.4: Stages of solid waste \nmanagement",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          77.1708984375,
+          216.77783203125
+        ],
+        [
+          252.0087890625,
+          216.77783203125
+        ],
+        [
+          252.0087890625,
+          675.56689453125
+        ],
+        [
+          77.1708984375,
+          675.56689453125
+        ]
+      ]
+    },
+    {
+      "title": "11.2.2 Solid waste management",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          228.6479949951172,
+          170.9945068359375
+        ],
+        [
+          461.47265625,
+          170.9945068359375
+        ],
+        [
+          461.47265625,
+          185.6787281036377
+        ],
+        [
+          228.6479949951172,
+          185.6787281036377
+        ]
+      ]
+    },
+    {
+      "title": "Strategies for solid waste management",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          260.23828125,
+          473.69970703125
+        ],
+        [
+          524.82421875,
+          473.69970703125
+        ],
+        [
+          524.82421875,
+          487.94798469543457
+        ],
+        [
+          260.23828125,
+          487.94798469543457
+        ]
+      ]
+    },
+    {
+      "title": "Sorting and management of solid waste",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          260.548828125,
+          633.8935546875
+        ],
+        [
+          530.968017578125,
+          633.8935546875
+        ],
+        [
+          530.968017578125,
+          648.1046619415283
+        ],
+        [
+          260.548828125,
+          648.1046619415283
+        ]
+      ]
+    },
+    {
+      "title": "Solid waste management at community level",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          80.8974609375,
+          460.70068359375
+        ],
+        [
+          388.8046875,
+          460.70068359375
+        ],
+        [
+          388.8046875,
+          475.50547981262207
+        ],
+        [
+          80.8974609375,
+          475.50547981262207
+        ]
+      ]
+    },
+    {
+      "title": "Managing special solid wastes",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          227.1650390625,
+          115.4619140625
+        ],
+        [
+          436.0078125,
+          115.4619140625
+        ],
+        [
+          436.0078125,
+          130.62837409973145
+        ],
+        [
+          227.1650390625,
+          130.62837409973145
+        ]
+      ]
+    },
+    {
+      "title": "Medical solid waste",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          228.251953125,
+          182.2730712890625
+        ],
+        [
+          361.3680114746094,
+          182.2730712890625
+        ],
+        [
+          361.3680114746094,
+          197.7590503692627
+        ],
+        [
+          228.251953125,
+          197.7590503692627
+        ]
+      ]
+    },
+    {
+      "title": "Slaughterhouse waste",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          228.5625,
+          401.82275390625
+        ],
+        [
+          381.662109375,
+          401.82275390625
+        ],
+        [
+          381.662109375,
+          416.9657459259033
+        ],
+        [
+          228.5625,
+          416.9657459259033
+        ]
+      ]
+    },
+    {
+      "title": "Industrial solid waste",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          227.009765625,
+          544.81201171875
+        ],
+        [
+          376.693359375,
+          544.81201171875
+        ],
+        [
+          376.693359375,
+          560.1344623565674
+        ],
+        [
+          227.009765625,
+          560.1344623565674
+        ]
+      ]
+    },
+    {
+      "title": "Disposal of toxic chemicals",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          80.12109375,
+          64.66058349609375
+        ],
+        [
+          268.93359375,
+          64.66058349609375
+        ],
+        [
+          268.93359375,
+          80.9963550567627
+        ],
+        [
+          80.12109375,
+          80.9963550567627
+        ]
+      ]
+    },
+    {
+      "title": "Composting, vermiculture and methane \nproduction",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          80.97509765625,
+          147.4815673828125
+        ],
+        [
+          358.681640625,
+          147.4815673828125
+        ],
+        [
+          358.681640625,
+          180.0925464630127
+        ],
+        [
+          80.97509765625,
+          180.0925464630127
+        ]
+      ]
+    },
+    {
+      "title": "Mechanism and procedure of composting",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          80.35400390625,
+          368.17822265625
+        ],
+        [
+          363.33984375,
+          368.17822265625
+        ],
+        [
+          363.33984375,
+          383.5433826446533
+        ],
+        [
+          80.35400390625,
+          383.5433826446533
+        ]
+      ]
+    },
+    {
+      "title": "Organisms involved in composting process",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          224.8359375,
+          551.3115234375
+        ],
+        [
+          520.4080810546875,
+          551.3115234375
+        ],
+        [
+          520.4080810546875,
+          565.505464553833
+        ],
+        [
+          224.8359375,
+          565.505464553833
+        ]
+      ]
+    },
+    {
+      "title": "11.3 MANAGEMENT AND DISPOSAL OF \nBIOMEDICAL WASTE",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          80.97509765625,
+          439.29052734375
+        ],
+        [
+          341.3324890136719,
+          439.29052734375
+        ],
+        [
+          341.3324890136719,
+          475.26597785949707
+        ],
+        [
+          80.97509765625,
+          475.26597785949707
+        ]
+      ]
+    },
+    {
+      "title": "Box 5",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          93.9000015258789,
+          71.876953125
+        ],
+        [
+          128.4111328125,
+          71.876953125
+        ],
+        [
+          128.4111328125,
+          84.9715576171875
+        ],
+        [
+          93.9000015258789,
+          84.9715576171875
+        ]
+      ]
+    },
+    {
+      "title": "WHO recommended segregation and collection scheme",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          88.9716796875,
+          96.10675048828125
+        ],
+        [
+          422.34375,
+          96.10675048828125
+        ],
+        [
+          422.34375,
+          108.771240234375
+        ],
+        [
+          88.9716796875,
+          108.771240234375
+        ]
+      ]
+    },
+    {
+      "title": "Box 6",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          98.9091796875,
+          551.3115234375
+        ],
+        [
+          135.8642578125,
+          551.3115234375
+        ],
+        [
+          135.8642578125,
+          563.6068134307861
+        ],
+        [
+          98.9091796875,
+          563.6068134307861
+        ]
+      ]
+    },
+    {
+      "title": "Mayapuri Radiological Accident",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          99.60791015625,
+          573.6118183135986
+        ],
+        [
+          290.671875,
+          573.6118183135986
+        ],
+        [
+          290.671875,
+          585.720703125
+        ],
+        [
+          99.60791015625,
+          585.720703125
+        ]
+      ]
+    },
+    {
+      "title": "Yellow category",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          80.431640625,
+          119.5718994140625
+        ],
+        [
+          176.8564453125,
+          119.5718994140625
+        ],
+        [
+          176.8564453125,
+          132.7620849609375
+        ],
+        [
+          80.431640625,
+          132.7620849609375
+        ]
+      ]
+    },
+    {
+      "title": "Red category",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          80.8974609375,
+          293.625
+        ],
+        [
+          160.86328125,
+          293.625
+        ],
+        [
+          160.86328125,
+          306.6240234375
+        ],
+        [
+          80.8974609375,
+          306.6240234375
+        ]
+      ]
+    },
+    {
+      "title": "White category",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          80.2763671875,
+          541.75341796875
+        ],
+        [
+          171.21051025390625,
+          541.75341796875
+        ],
+        [
+          171.21051025390625,
+          555.51708984375
+        ],
+        [
+          80.2763671875,
+          555.51708984375
+        ]
+      ]
+    },
+    {
+      "title": "Blue category",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          227.3203125,
+          120.1453857421875
+        ],
+        [
+          314.1499938964844,
+          120.1453857421875
+        ],
+        [
+          314.1499938964844,
+          132.9532470703125
+        ],
+        [
+          227.3203125,
+          132.9532470703125
+        ]
+      ]
+    },
+    {
+      "title": "MANAGEMENT AND DISPOSAL OF \nRADIOACTIVE WASTE",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          228.36000061035156,
+          383.662353515625
+        ],
+        [
+          482.03997802734375,
+          383.662353515625
+        ],
+        [
+          482.03997802734375,
+          415.2041015625
+        ],
+        [
+          228.36000061035156,
+          415.2041015625
+        ]
+      ]
+    },
+    {
+      "title": "11.4 BIOREMEDIATION OF PESTICIDES",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          228.36000061035156,
+          598.7197265625
+        ],
+        [
+          488.80078125,
+          598.7197265625
+        ],
+        [
+          488.80078125,
+          615.6683673858643
+        ],
+        [
+          228.36000061035156,
+          615.6683673858643
+        ]
+      ]
+    },
+    {
+      "title": "Box 7: The first pesticide",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          90.04800415039062,
+          74.12310791015625
+        ],
+        [
+          244.400390625,
+          74.12310791015625
+        ],
+        [
+          244.400390625,
+          86.7193775177002
+        ],
+        [
+          90.04800415039062,
+          86.7193775177002
+        ]
+      ]
+    },
+    {
+      "title": "Bioremediation of pesticides using \nmicroorganisms",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          81.052734375,
+          118.2337646484375
+        ],
+        [
+          339.427734375,
+          118.2337646484375
+        ],
+        [
+          339.427734375,
+          151.6871337890625
+        ],
+        [
+          81.052734375,
+          151.6871337890625
+        ]
+      ]
+    },
+    {
+      "title": "Table 11.5: Enzymes and their role in Pesticide Bioremediation",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          81.04847717285156,
+          485.93408203125
+        ],
+        [
+          464.888671875,
+          485.93408203125
+        ],
+        [
+          464.888671875,
+          500.46240234375
+        ],
+        [
+          81.04847717285156,
+          500.46240234375
+        ]
+      ]
+    },
+    {
+      "title": "Strategies for bioremediation",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          226.5439453125,
+          643.45166015625
+        ],
+        [
+          442.83984375,
+          643.45166015625
+        ],
+        [
+          442.83984375,
+          658.4664936065674
+        ],
+        [
+          226.5439453125,
+          658.4664936065674
+        ]
+      ]
+    },
+    {
+      "title": "Box 10: Superbug and Bioremediation",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          89.67041015625,
+          73.215087890625
+        ],
+        [
+          316.82330322265625,
+          73.215087890625
+        ],
+        [
+          316.82330322265625,
+          86.7193775177002
+        ],
+        [
+          89.67041015625,
+          86.7193775177002
+        ]
+      ]
+    },
+    {
+      "title": "Box 11",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          90.04800415039062,
+          69.55000495910645
+        ],
+        [
+          131.74951171875,
+          69.55000495910645
+        ],
+        [
+          131.74951171875,
+          81.57843017578125
+        ],
+        [
+          90.04800415039062,
+          81.57843017578125
+        ]
+      ]
+    },
+    {
+      "title": "Oilzapper: A solution for oil spills and treatment of oily sludge",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          89.2822265625,
+          92.18792724609375
+        ],
+        [
+          416.0480041503906,
+          92.18792724609375
+        ],
+        [
+          416.0480041503906,
+          102.75435066223145
+        ],
+        [
+          89.2822265625,
+          102.75435066223145
+        ]
+      ]
+    },
+    {
+      "title": "Phytoremediation",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          81.04800415039062,
+          622.2040882110596
+        ],
+        [
+          212.4140625,
+          622.2040882110596
+        ],
+        [
+          212.4140625,
+          636.56982421875
+        ],
+        [
+          81.04800415039062,
+          636.56982421875
+        ]
+      ]
+    },
+    {
+      "title": "Table 11.6: Microbes in Phytoremediation",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          81.04547119140625,
+          522.63720703125
+        ],
+        [
+          332.66546630859375,
+          522.63720703125
+        ],
+        [
+          332.66546630859375,
+          535.63623046875
+        ],
+        [
+          81.04547119140625,
+          535.63623046875
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          205.7373046875,
+          81.052734375
+        ],
+        [
+          285.2373046875,
+          81.052734375
+        ],
+        [
+          285.2373046875,
+          95.36641120910645
+        ],
+        [
+          205.7373046875,
+          95.36641120910645
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          201.22679138183594,
+          96.01116943359375
+        ],
+        [
+          289.119140625,
+          96.01116943359375
+        ],
+        [
+          289.119140625,
+          110.36641120910645
+        ],
+        [
+          201.22679138183594,
+          110.36641120910645
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          206
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          189
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_12_11"
+}

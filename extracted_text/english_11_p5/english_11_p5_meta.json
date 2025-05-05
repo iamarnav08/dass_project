@@ -1,0 +1,200 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The World is too\nMuch With Us",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.47940063476562,
+          138.83834266662598
+        ],
+        [
+          290.7590789794922,
+          138.83834266662598
+        ],
+        [
+          290.7590789794922,
+          181.22314453125
+        ],
+        [
+          141.47940063476562,
+          181.22314453125
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THE POET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.42962646484375,
+          87.15487098693848
+        ],
+        [
+          160.866943359375,
+          87.15487098693848
+        ],
+        [
+          160.866943359375,
+          101.0859375
+        ],
+        [
+          53.42962646484375,
+          101.0859375
+        ]
+      ]
+    },
+    {
+      "title": "UNDERSTANDING THE POEM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.2369384765625,
+          264.2759647369385
+        ],
+        [
+          177.71337890625,
+          264.2759647369385
+        ],
+        [
+          177.71337890625,
+          276.32373046875
+        ],
+        [
+          53.2369384765625,
+          276.32373046875
+        ]
+      ]
+    },
+    {
+      "title": "TRY THIS OUT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.51220703125,
+          335.55596351623535
+        ],
+        [
+          121.77880859375,
+          335.55596351623535
+        ],
+        [
+          121.77880859375,
+          348.48046875
+        ],
+        [
+          53.51220703125,
+          348.48046875
+        ]
+      ]
+    },
+    {
+      "title": "SUGGESTED READING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.48468017578125,
+          389.31597328186035
+        ],
+        [
+          150.076416015625,
+          389.31597328186035
+        ],
+        [
+          150.076416015625,
+          402.01611328125
+        ],
+        [
+          53.48468017578125,
+          402.01611328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_11_p5"
+}

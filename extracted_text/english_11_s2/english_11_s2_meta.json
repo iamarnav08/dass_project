@@ -1,0 +1,533 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A Pair of Mustachios\n2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.79540252685547,
+          131.47986602783203
+        ],
+        [
+          291.6796875,
+          131.47986602783203
+        ],
+        [
+          291.6796875,
+          162.4959716796875
+        ],
+        [
+          61.79540252685547,
+          162.4959716796875
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THE AUTHOR",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          54.96826171875,
+          445.07840728759766
+        ],
+        [
+          147.955078125,
+          445.07840728759766
+        ],
+        [
+          147.955078125,
+          458.2236328125
+        ],
+        [
+          54.96826171875,
+          458.2236328125
+        ]
+      ]
+    },
+    {
+      "title": "UNDERSTANDING THE TEXT",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          55.0517578125,
+          83.15833282470703
+        ],
+        [
+          177.01171875,
+          83.15833282470703
+        ],
+        [
+          177.01171875,
+          95.6300048828125
+        ],
+        [
+          55.0517578125,
+          95.6300048828125
+        ]
+      ]
+    },
+    {
+      "title": "TALKING ABOUT THE TEXT",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          54.9404296875,
+          208.9184341430664
+        ],
+        [
+          178.34765625,
+          208.9184341430664
+        ],
+        [
+          178.34765625,
+          221.608154296875
+        ],
+        [
+          54.9404296875,
+          221.608154296875
+        ]
+      ]
+    },
+    {
+      "title": "APPRECIATION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          54.63427734375,
+          361.07837677001953
+        ],
+        [
+          121.125,
+          361.07837677001953
+        ],
+        [
+          121.125,
+          373.84912109375
+        ],
+        [
+          54.63427734375,
+          373.84912109375
+        ]
+      ]
+    },
+    {
+      "title": "LANGUAGE WORK",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          54.55078125,
+          452.7583541870117
+        ],
+        [
+          134.150390625,
+          452.7583541870117
+        ],
+        [
+          134.150390625,
+          465.560546875
+        ],
+        [
+          54.55078125,
+          465.560546875
+        ]
+      ]
+    },
+    {
+      "title": "SUGGESTED READING",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          55.315399169921875,
+          83.15833282470703
+        ],
+        [
+          153.85546875,
+          83.15833282470703
+        ],
+        [
+          153.85546875,
+          95.880126953125
+        ],
+        [
+          55.315399169921875,
+          95.880126953125
+        ]
+      ]
+    },
+    {
+      "title": "F\n Read and Enjoy",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          55.9423828125,
+          138.6510009765625
+        ],
+        [
+          157.1953125,
+          138.6510009765625
+        ],
+        [
+          157.1953125,
+          150.65930938720703
+        ],
+        [
+          55.9423828125,
+          150.65930938720703
+        ]
+      ]
+    },
+    {
+      "title": "MAY THE BEST BEARD WIN",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          154.67550659179688,
+          174.59790802001953
+        ],
+        [
+          282.7734375,
+          174.59790802001953
+        ],
+        [
+          282.7734375,
+          187.258056640625
+        ],
+        [
+          154.67550659179688,
+          187.258056640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_11_s2"
+}

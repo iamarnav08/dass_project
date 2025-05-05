@@ -1,0 +1,379 @@
+{
+  "table_of_contents": [
+    {
+      "title": "1 How the Camel got his hump",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.53509521484375,
+          138.50561141967773
+        ],
+        [
+          398.671875,
+          138.50561141967773
+        ],
+        [
+          398.671875,
+          189.83092880249023
+        ],
+        [
+          103.53509521484375,
+          189.83092880249023
+        ]
+      ]
+    },
+    {
+      "title": "I",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          231.328125,
+          219.886962890625
+        ],
+        [
+          241.41796875,
+          219.886962890625
+        ],
+        [
+          241.41796875,
+          234.70373153686523
+        ],
+        [
+          231.328125,
+          234.70373153686523
+        ]
+      ]
+    },
+    {
+      "title": "Comprehension Check",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          25.9013671875,
+          462.919921875
+        ],
+        [
+          168.08203125,
+          462.919921875
+        ],
+        [
+          168.08203125,
+          476.11974716186523
+        ],
+        [
+          25.9013671875,
+          476.11974716186523
+        ]
+      ]
+    },
+    {
+      "title": "Comprehension Check",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          26.4000244140625,
+          403.880859375
+        ],
+        [
+          169.3125,
+          403.880859375
+        ],
+        [
+          169.3125,
+          418.759822845459
+        ],
+        [
+          26.4000244140625,
+          418.759822845459
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          264.796875,
+          49.770626068115234
+        ],
+        [
+          306.4769592285156,
+          49.770626068115234
+        ],
+        [
+          306.4769592285156,
+          67.08984375
+        ],
+        [
+          264.796875,
+          67.08984375
+        ]
+      ]
+    },
+    {
+      "title": "Think it Over",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          249.5390625,
+          314.07067489624023
+        ],
+        [
+          313.5234375,
+          314.07067489624023
+        ],
+        [
+          313.5234375,
+          332.933349609375
+        ],
+        [
+          249.5390625,
+          332.933349609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_8_1"
+}

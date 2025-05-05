@@ -1,0 +1,1257 @@
+{
+  "table_of_contents": [
+    {
+      "title": "LE T 'S B EG I N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          410.232421875,
+          169.4652099609375
+        ],
+        [
+          519.544921875,
+          169.4652099609375
+        ],
+        [
+          519.544921875,
+          193.58284187316895
+        ],
+        [
+          410.232421875,
+          193.58284187316895
+        ]
+      ]
+    },
+    {
+      "title": "READING COMPREHENSION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.587890625,
+          406.79296875
+        ],
+        [
+          395.326171875,
+          406.79296875
+        ],
+        [
+          395.326171875,
+          428.2801990509033
+        ],
+        [
+          214.587890625,
+          428.2801990509033
+        ]
+      ]
+    },
+    {
+      "title": "THE MIRACULOUS ESCAPE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          230.0,
+          495.4921875
+        ],
+        [
+          357.12890625,
+          495.4921875
+        ],
+        [
+          357.12890625,
+          510.0205078125
+        ],
+        [
+          230.0,
+          510.0205078125
+        ]
+      ]
+    },
+    {
+      "title": "Vocabulary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          219.0908203125,
+          454.58349609375
+        ],
+        [
+          312.5654296875,
+          454.58349609375
+        ],
+        [
+          312.5654296875,
+          474.46435546875
+        ],
+        [
+          219.0908203125,
+          474.46435546875
+        ]
+      ]
+    },
+    {
+      "title": "Common Error",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          95.8037109375,
+          208.50435066223145
+        ],
+        [
+          178.04580688476562,
+          208.50435066223145
+        ],
+        [
+          178.04580688476562,
+          222.5126953125
+        ],
+        [
+          95.8037109375,
+          222.5126953125
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.6181640625,
+          227.674072265625
+        ],
+        [
+          127.4794921875,
+          227.674072265625
+        ],
+        [
+          127.4794921875,
+          239.143798828125
+        ],
+        [
+          75.6181640625,
+          239.143798828125
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.9287109375,
+          273.935302734375
+        ],
+        [
+          119.0947265625,
+          273.935302734375
+        ],
+        [
+          119.0947265625,
+          285.787353515625
+        ],
+        [
+          75.9287109375,
+          285.787353515625
+        ]
+      ]
+    },
+    {
+      "title": "Grammar",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.2587890625,
+          233.026611328125
+        ],
+        [
+          137.572265625,
+          233.026611328125
+        ],
+        [
+          137.572265625,
+          258.260009765625
+        ],
+        [
+          53.2587890625,
+          258.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Reported Speech: Reporting questions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.57177734375,
+          265.906494140625
+        ],
+        [
+          293.50152587890625,
+          265.906494140625
+        ],
+        [
+          293.50152587890625,
+          279.04683113098145
+        ],
+        [
+          70.57177734375,
+          279.04683113098145
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          429.486328125,
+          356.70849609375
+        ],
+        [
+          473.1584777832031,
+          356.70849609375
+        ],
+        [
+          473.1584777832031,
+          368.560546875
+        ],
+        [
+          429.486328125,
+          368.560546875
+        ]
+      ]
+    },
+    {
+      "title": "The Dog and His Bone Notes",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.619873046875,
+          41.9600830078125
+        ],
+        [
+          562.4556274414062,
+          41.9600830078125
+        ],
+        [
+          562.4556274414062,
+          57.174455642700195
+        ],
+        [
+          71.619873046875,
+          57.174455642700195
+        ]
+      ]
+    },
+    {
+      "title": "Fun fact",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          485.6953125,
+          329.03294563293457
+        ],
+        [
+          557.39404296875,
+          329.03294563293457
+        ],
+        [
+          557.39404296875,
+          349.03294563293457
+        ],
+        [
+          485.6953125,
+          349.03294563293457
+        ]
+      ]
+    },
+    {
+      "title": "On and off",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          430.0,
+          371.23681640625
+        ],
+        [
+          483.2109375,
+          371.23681640625
+        ],
+        [
+          483.2109375,
+          382.70654296875
+        ],
+        [
+          430.0,
+          382.70654296875
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          430.0,
+          453.01655769348145
+        ],
+        [
+          473.1584777832031,
+          453.01655769348145
+        ],
+        [
+          473.1584777832031,
+          464.1416015625
+        ],
+        [
+          430.0,
+          464.1416015625
+        ]
+      ]
+    },
+    {
+      "title": "Off and on",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          427.623046875,
+          523.7841796875
+        ],
+        [
+          482.279296875,
+          523.7841796875
+        ],
+        [
+          482.279296875,
+          534.5170459747314
+        ],
+        [
+          427.623046875,
+          534.5170459747314
+        ]
+      ]
+    },
+    {
+      "title": "Accept / Except",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          101.0830078125,
+          167.1712646484375
+        ],
+        [
+          182.1357421875,
+          167.1712646484375
+        ],
+        [
+          182.1357421875,
+          178.6409912109375
+        ],
+        [
+          101.0830078125,
+          178.6409912109375
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          77.24853515625,
+          250.0400390625
+        ],
+        [
+          129.6905975341797,
+          250.0400390625
+        ],
+        [
+          129.6905975341797,
+          260.7451171875
+        ],
+        [
+          77.24853515625,
+          260.7451171875
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.62744140625,
+          308.53564453125
+        ],
+        [
+          121.15960693359375,
+          308.53564453125
+        ],
+        [
+          121.15960693359375,
+          318.8583984375
+        ],
+        [
+          76.62744140625,
+          318.8583984375
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.666259765625,
+          365.310791015625
+        ],
+        [
+          126.56510162353516,
+          365.310791015625
+        ],
+        [
+          126.56510162353516,
+          375.8157215118408
+        ],
+        [
+          76.666259765625,
+          375.8157215118408
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.93798828125,
+          422.8505859375
+        ],
+        [
+          118.70654296875,
+          422.8505859375
+        ],
+        [
+          118.70654296875,
+          433.5556640625
+        ],
+        [
+          76.93798828125,
+          433.5556640625
+        ]
+      ]
+    },
+    {
+      "title": "Listening",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          214.587890625,
+          496.63916015625
+        ],
+        [
+          288.1875,
+          496.63916015625
+        ],
+        [
+          288.1875,
+          516.6289539337158
+        ],
+        [
+          214.587890625,
+          516.6289539337158
+        ]
+      ]
+    },
+    {
+      "title": "The Brave Hearts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          229.0283203125,
+          594.51416015625
+        ],
+        [
+          333.5,
+          594.51416015625
+        ],
+        [
+          333.5,
+          606.7296009063721
+        ],
+        [
+          229.0283203125,
+          606.7296009063721
+        ]
+      ]
+    },
+    {
+      "title": "Fun fact",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          75.54052734375,
+          163.25244140625
+        ],
+        [
+          150.07177734375,
+          163.25244140625
+        ],
+        [
+          150.07177734375,
+          188.94771003723145
+        ],
+        [
+          75.54052734375,
+          188.94771003723145
+        ]
+      ]
+    },
+    {
+      "title": "Superfluous commas",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          86.953125,
+          190.8753662109375
+        ],
+        [
+          193.470703125,
+          190.8753662109375
+        ],
+        [
+          193.470703125,
+          202.058349609375
+        ],
+        [
+          86.953125,
+          202.058349609375
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          77.209716796875,
+          248.12841796875
+        ],
+        [
+          129.69329833984375,
+          248.12841796875
+        ],
+        [
+          129.69329833984375,
+          259.59814453125
+        ],
+        [
+          77.209716796875,
+          259.59814453125
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.78271484375,
+          305.668212890625
+        ],
+        [
+          121.16230773925781,
+          305.668212890625
+        ],
+        [
+          121.16230773925781,
+          317.137939453125
+        ],
+        [
+          76.78271484375,
+          317.137939453125
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          77.015625,
+          362.82568359375
+        ],
+        [
+          128.255859375,
+          362.82568359375
+        ],
+        [
+          128.255859375,
+          374.4223804473877
+        ],
+        [
+          77.015625,
+          374.4223804473877
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.78271484375,
+          409.46923828125
+        ],
+        [
+          121.16230773925781,
+          409.46923828125
+        ],
+        [
+          121.16230773925781,
+          420.93896484375
+        ],
+        [
+          76.78271484375,
+          420.93896484375
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.5498046875,
+          456.11279296875
+        ],
+        [
+          128.4111328125,
+          456.11279296875
+        ],
+        [
+          128.4111328125,
+          466.81941413879395
+        ],
+        [
+          76.5498046875,
+          466.81941413879395
+        ]
+      ]
+    },
+    {
+      "title": "Correct:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.31689453125,
+          502.3740234375
+        ],
+        [
+          118.86181640625,
+          502.3740234375
+        ],
+        [
+          118.86181640625,
+          513.0791015625
+        ],
+        [
+          76.31689453125,
+          513.0791015625
+        ]
+      ]
+    },
+    {
+      "title": "Writing",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          218.314453125,
+          633.7333850860596
+        ],
+        [
+          281.666015625,
+          633.7333850860596
+        ],
+        [
+          281.666015625,
+          649.56884765625
+        ],
+        [
+          218.314453125,
+          649.56884765625
+        ]
+      ]
+    },
+    {
+      "title": "Speaking",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          219.0908203125,
+          243.9228515625
+        ],
+        [
+          288.6533203125,
+          243.9228515625
+        ],
+        [
+          288.6533203125,
+          262.2744140625
+        ],
+        [
+          219.0908203125,
+          262.2744140625
+        ]
+      ]
+    },
+    {
+      "title": "Project",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.02587890625,
+          254.24560546875
+        ],
+        [
+          128.95458984375,
+          254.24560546875
+        ],
+        [
+          128.95458984375,
+          279.47900390625
+        ],
+        [
+          53.02587890625,
+          279.47900390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          27
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english3_9_5"
+}

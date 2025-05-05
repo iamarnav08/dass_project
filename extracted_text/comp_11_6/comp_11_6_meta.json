@@ -1,0 +1,1822 @@
+{
+  "table_of_contents": [
+    {
+      "title": "6.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.2763671875,
+          204.593017578125
+        ],
+        [
+          198.9052734375,
+          204.593017578125
+        ],
+        [
+          198.9052734375,
+          219.90298652648926
+        ],
+        [
+          80.2763671875,
+          219.90298652648926
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          443.4609375,
+          570.11474609375
+        ],
+        [
+          534.140625,
+          570.11474609375
+        ],
+        [
+          534.140625,
+          583.9286670684814
+        ],
+        [
+          443.4609375,
+          583.9286670684814
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-1 Program to print the difference of two \nnumbers.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          82.294921875,
+          88.5679931640625
+        ],
+        [
+          406.9519958496094,
+          88.5679931640625
+        ],
+        [
+          406.9519958496094,
+          117.02505683898926
+        ],
+        [
+          82.294921875,
+          117.02505683898926
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.60205078125,
+          229.761962890625
+        ],
+        [
+          138.89208984375,
+          229.761962890625
+        ],
+        [
+          138.89208984375,
+          243.9250202178955
+        ],
+        [
+          90.60205078125,
+          243.9250202178955
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Selection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          230.8916015625,
+          311.56103515625
+        ],
+        [
+          322.7502136230469,
+          311.56103515625
+        ],
+        [
+          322.7502136230469,
+          326.70312690734863
+        ],
+        [
+          230.8916015625,
+          326.70312690734863
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-2 Program to print the positive difference \nof two numbers.\n#Program 6-2\n#Program to print the positive difference of two numbers\nnum1 = int(input(\"Enter first number: \"))\nnum2 = int(input(\"Enter second number: \"))",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.841796875,
+          88.281982421875
+        ],
+        [
+          467.7001647949219,
+          88.281982421875
+        ],
+        [
+          467.7001647949219,
+          178.80386543273926
+        ],
+        [
+          74.841796875,
+          178.80386543273926
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.126953125,
+          257.600341796875
+        ],
+        [
+          133.66299438476562,
+          257.600341796875
+        ],
+        [
+          133.66299438476562,
+          271.599702835083
+        ],
+        [
+          89.126953125,
+          271.599702835083
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-3 Write a program to create a simple \ncalculator performing only four basic \noperations.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.2763671875,
+          432.06689453125
+        ],
+        [
+          409.33197021484375,
+          432.06689453125
+        ],
+        [
+          409.33197021484375,
+          473.9213581085205
+        ],
+        [
+          80.2763671875,
+          473.9213581085205
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          239.95199584960938,
+          88.61566162109375
+        ],
+        [
+          290.11199951171875,
+          88.61566162109375
+        ],
+        [
+          290.11199951171875,
+          102.4871826171875
+        ],
+        [
+          239.95199584960938,
+          102.4871826171875
+        ]
+      ]
+    },
+    {
+      "title": "6.3 Indentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          230.8916015625,
+          241.583740234375
+        ],
+        [
+          334.76953125,
+          241.583740234375
+        ],
+        [
+          334.76953125,
+          257.9460163116455
+        ],
+        [
+          230.8916015625,
+          257.9460163116455
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          91.19999694824219,
+          689.85791015625
+        ],
+        [
+          142.6962890625,
+          689.85791015625
+        ],
+        [
+          142.6962890625,
+          703.5368824005127
+        ],
+        [
+          91.19999694824219,
+          703.5368824005127
+        ]
+      ]
+    },
+    {
+      "title": "6.4 Repetition",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          81.5185546875,
+          89.85504150390625
+        ],
+        [
+          182.96029663085938,
+          89.85504150390625
+        ],
+        [
+          182.96029663085938,
+          103.98538398742676
+        ],
+        [
+          81.5185546875,
+          103.98538398742676
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-5 Write a program to print the first \nfive natural numbers.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.04345703125,
+          311.9423828125
+        ],
+        [
+          372.5759582519531,
+          311.9423828125
+        ],
+        [
+          372.5759582519531,
+          340.162109375
+        ],
+        [
+          80.04345703125,
+          340.162109375
+        ]
+      ]
+    },
+    {
+      "title": "6.4.1 The 'For' Loop",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          230.82003784179688,
+          335.5859375
+        ],
+        [
+          358.9921875,
+          335.5859375
+        ],
+        [
+          358.9921875,
+          348.55459785461426
+        ],
+        [
+          230.82003784179688,
+          348.55459785461426
+        ]
+      ]
+    },
+    {
+      "title": "(A) Syntax of the For Loop",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          315.6960144042969,
+          646.0029296875
+        ],
+        [
+          483.5520324707031,
+          646.0029296875
+        ],
+        [
+          483.5520324707031,
+          658.8736743927002
+        ],
+        [
+          315.6960144042969,
+          658.8736743927002
+        ]
+      ]
+    },
+    {
+      "title": "(B) The Range() Function",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          230.4755096435547,
+          157.29763984680176
+        ],
+        [
+          385.69921875,
+          157.29763984680176
+        ],
+        [
+          385.69921875,
+          169.29763984680176
+        ],
+        [
+          230.4755096435547,
+          169.29763984680176
+        ]
+      ]
+    },
+    {
+      "title": "Example 6.4",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          230.4755096435547,
+          422.15185546875
+        ],
+        [
+          304.646484375,
+          422.15185546875
+        ],
+        [
+          304.646484375,
+          434.6724262237549
+        ],
+        [
+          230.4755096435547,
+          434.6724262237549
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-9 Program to print the multiples of 10 for \nnumbers in a given range.\n#Program 6-9\n#Print multiples of 10 for numbers in a given range\nfor num in range(5):\n if num > 0:\n print(num * 10)\nOutput:\n10",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          81.04800415039062,
+          85.3265380859375
+        ],
+        [
+          440.1481628417969,
+          85.3265380859375
+        ],
+        [
+          440.1481628417969,
+          250.54541015625
+        ],
+        [
+          81.04800415039062,
+          250.54541015625
+        ]
+      ]
+    },
+    {
+      "title": "6.4.2 The 'While' Loop",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.2763671875,
+          297.83251953125
+        ],
+        [
+          221.8857421875,
+          297.83251953125
+        ],
+        [
+          221.8857421875,
+          312.8445453643799
+        ],
+        [
+          80.2763671875,
+          312.8445453643799
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-10 Program to print first 5 natural numbers \n using while loop.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          80.5869140625,
+          87.9959716796875
+        ],
+        [
+          408.21197509765625,
+          87.9959716796875
+        ],
+        [
+          408.21197509765625,
+          118.19168281555176
+        ],
+        [
+          80.5869140625,
+          118.19168281555176
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          91.22314453125,
+          229.18994140625
+        ],
+        [
+          138.73681640625,
+          229.18994140625
+        ],
+        [
+          138.73681640625,
+          243.20742988586426
+        ],
+        [
+          91.22314453125,
+          243.20742988586426
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-11 Program to find the factors of a whole \n number using while loop.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          82.294921875,
+          336.539306640625
+        ],
+        [
+          408.2240295410156,
+          336.539306640625
+        ],
+        [
+          408.2240295410156,
+          366.391695022583
+        ],
+        [
+          82.294921875,
+          366.391695022583
+        ]
+      ]
+    },
+    {
+      "title": "6.5 Break and Continue Statement",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          229.18359375,
+          676.12939453125
+        ],
+        [
+          459.93841552734375,
+          674.60400390625
+        ],
+        [
+          459.93841552734375,
+          691.0297107696533
+        ],
+        [
+          229.18359375,
+          691.0297107696533
+        ]
+      ]
+    },
+    {
+      "title": "6.5.1 Break Statement",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          79.0341796875,
+          261.22314453125
+        ],
+        [
+          226.72801208496094,
+          261.22314453125
+        ],
+        [
+          226.72801208496094,
+          274.4425983428955
+        ],
+        [
+          79.0341796875,
+          274.4425983428955
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-12 Program to demonstrate use of break\nstatement.",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          81.04800415039062,
+          376.7074909210205
+        ],
+        [
+          409.30078125,
+          376.7074909210205
+        ],
+        [
+          409.30078125,
+          403.4658203125
+        ],
+        [
+          81.04800415039062,
+          403.4658203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          90.60205078125,
+          185.0489501953125
+        ],
+        [
+          148.05322265625,
+          185.0489501953125
+        ],
+        [
+          148.05322265625,
+          196.203369140625
+        ],
+        [
+          90.60205078125,
+          196.203369140625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          89.126953125,
+          229.5712890625
+        ],
+        [
+          147.8203125,
+          229.5712890625
+        ],
+        [
+          147.8203125,
+          240.63037109375
+        ],
+        [
+          89.126953125,
+          240.63037109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          90.990234375,
+          282.769287109375
+        ],
+        [
+          149.5283203125,
+          282.769287109375
+        ],
+        [
+          149.5283203125,
+          293.447021484375
+        ],
+        [
+          90.990234375,
+          293.447021484375
+        ]
+      ]
+    },
+    {
+      "title": "6.5.2 Continue Statement",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          81.28564453125,
+          339.78076171875
+        ],
+        [
+          245.33203125,
+          339.78076171875
+        ],
+        [
+          245.33203125,
+          352.2444477081299
+        ],
+        [
+          81.28564453125,
+          352.2444477081299
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-15 Program to demonstrate the use of \n continue statement.",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          82.19999694824219,
+          602.5074634552002
+        ],
+        [
+          406.5479736328125,
+          602.5074634552002
+        ],
+        [
+          406.5479736328125,
+          629.2236328125
+        ],
+        [
+          82.19999694824219,
+          629.2236328125
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          89.748046875,
+          139.382568359375
+        ],
+        [
+          136.3679962158203,
+          139.382568359375
+        ],
+        [
+          136.3679962158203,
+          151.952486038208
+        ],
+        [
+          89.748046875,
+          151.952486038208
+        ]
+      ]
+    },
+    {
+      "title": "6.6 Nested Loops",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          230.42578125,
+          316.89990234375
+        ],
+        [
+          349.0546875,
+          316.89990234375
+        ],
+        [
+          349.0546875,
+          331.7460346221924
+        ],
+        [
+          230.42578125,
+          331.7460346221924
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-17 Program to print the pattern for a number \n input by the user.",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          79.9658203125,
+          157.115234375
+        ],
+        [
+          410.3760070800781,
+          157.115234375
+        ],
+        [
+          410.3760070800781,
+          184.2250690460205
+        ],
+        [
+          79.9658203125,
+          184.2250690460205
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          90.04800415039062,
+          122.221923828125
+        ],
+        [
+          136.7958984375,
+          122.221923828125
+        ],
+        [
+          136.7958984375,
+          135.4914264678955
+        ],
+        [
+          90.04800415039062,
+          135.4914264678955
+        ]
+      ]
+    },
+    {
+      "title": "Program 6-19 Write a program to calculate the factorial \nof a given number.",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          79.6552734375,
+          399.27099609375
+        ],
+        [
+          406.96795654296875,
+          399.27099609375
+        ],
+        [
+          406.96795654296875,
+          427.49072265625
+        ],
+        [
+          79.6552734375,
+          427.49072265625
+        ]
+      ]
+    },
+    {
+      "title": "Flow of Control 139",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          423.4883728027344,
+          60.39593505859375
+        ],
+        [
+          546.9613647460938,
+          60.39593505859375
+        ],
+        [
+          546.9613647460938,
+          71.99392890930176
+        ],
+        [
+          423.4883728027344,
+          71.99392890930176
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          90.44677734375,
+          93.239501953125
+        ],
+        [
+          150.69287109375,
+          93.239501953125
+        ],
+        [
+          150.69287109375,
+          107.68545722961426
+        ],
+        [
+          90.44677734375,
+          107.68545722961426
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          80.76399230957031,
+          509.86181640625
+        ],
+        [
+          139.435546875,
+          509.86181640625
+        ],
+        [
+          139.435546875,
+          524.6254901885986
+        ],
+        [
+          80.76399230957031,
+          524.6254901885986
+        ]
+      ]
+    },
+    {
+      "title": "Case Study-based Questions",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          81.13037109375,
+          583.4619140625
+        ],
+        [
+          266.138671875,
+          583.4619140625
+        ],
+        [
+          266.138671875,
+          598.4440021514893
+        ],
+        [
+          81.13037109375,
+          598.4440021514893
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Code",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Code",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/comp_11_6"
+}

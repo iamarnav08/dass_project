@@ -1,0 +1,1495 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Understanding\nQuadrilaterals",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          144.95999145507812,
+          73.3179931640625
+        ],
+        [
+          385.7115478515625,
+          73.3179931640625
+        ],
+        [
+          385.7115478515625,
+          153.3355712890625
+        ],
+        [
+          144.95999145507812,
+          153.3355712890625
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.10101318359375,
+          218.349853515625
+        ],
+        [
+          196.44775390625,
+          218.349853515625
+        ],
+        [
+          196.44775390625,
+          235.334716796875
+        ],
+        [
+          65.10101318359375,
+          235.334716796875
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 Convex and concave polygons",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.5072021484375,
+          291.384765625
+        ],
+        [
+          291.2744140625,
+          291.384765625
+        ],
+        [
+          291.2744140625,
+          306.10498046875
+        ],
+        [
+          65.5072021484375,
+          306.10498046875
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 Regular and irregular polygons",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.990234375,
+          669.95849609375
+        ],
+        [
+          293.280029296875,
+          669.95849609375
+        ],
+        [
+          293.280029296875,
+          685.05615234375
+        ],
+        [
+          64.990234375,
+          685.05615234375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Sum of the Measures of the Exterior Angles of a\nPolygon",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.3994140625,
+          78.46063232421875
+        ],
+        [
+          470.88378906250006,
+          78.46063232421875
+        ],
+        [
+          470.88378906250006,
+          109.93524169921875
+        ],
+        [
+          64.3994140625,
+          109.93524169921875
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          145.489501953125,
+          151.8258056640625
+        ],
+        [
+          213.12179565429688,
+          151.8258056640625
+        ],
+        [
+          213.12179565429688,
+          166.57525634765625
+        ],
+        [
+          145.489501953125,
+          166.57525634765625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Kinds of Quadrilaterals",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          143.27392578125,
+          361.400146484375
+        ],
+        [
+          361.58203125,
+          361.400146484375
+        ],
+        [
+          361.58203125,
+          378.0142822265625
+        ],
+        [
+          143.27392578125,
+          378.0142822265625
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 Trapezium",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          142.978515625,
+          399.71044921875
+        ],
+        [
+          257.0068359375,
+          399.71044921875
+        ],
+        [
+          257.0068359375,
+          413.29833984375
+        ],
+        [
+          142.978515625,
+          413.29833984375
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          143.52000427246094,
+          576.35302734375
+        ],
+        [
+          215.35400390625,
+          576.35302734375
+        ],
+        [
+          215.35400390625,
+          592.20556640625
+        ],
+        [
+          143.52000427246094,
+          592.20556640625
+        ]
+      ]
+    },
+    {
+      "title": "3.3.2 Kite",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.02716064453125,
+          213.6318359375
+        ],
+        [
+          134.88009643554688,
+          213.6318359375
+        ],
+        [
+          134.88009643554688,
+          227.99102783203125
+        ],
+        [
+          65.02716064453125,
+          227.99102783203125
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          143.52000427246094,
+          468.02734375
+        ],
+        [
+          210.24180603027344,
+          468.02734375
+        ],
+        [
+          210.24180603027344,
+          483.8552551269531
+        ],
+        [
+          143.52000427246094,
+          483.8552551269531
+        ]
+      ]
+    },
+    {
+      "title": "3.3.3 Parallelogram",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          143.86474609375,
+          84.78277587890625
+        ],
+        [
+          266.8807067871094,
+          84.78277587890625
+        ],
+        [
+          266.8807067871094,
+          98.6302490234375
+        ],
+        [
+          143.86474609375,
+          98.6302490234375
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          143.0399932861328,
+          351.7752380371094
+        ],
+        [
+          214.320068359375,
+          351.7752380371094
+        ],
+        [
+          214.320068359375,
+          365.7752380371094
+        ],
+        [
+          143.0399932861328,
+          365.7752380371094
+        ]
+      ]
+    },
+    {
+      "title": "It is a parallelogram.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.17486572265625,
+          84.8299560546875
+        ],
+        [
+          159.373779296875,
+          84.8299560546875
+        ],
+        [
+          159.373779296875,
+          98.49322509765625
+        ],
+        [
+          65.17486572265625,
+          98.49322509765625
+        ]
+      ]
+    },
+    {
+      "title": "A parallelogram is a quadrilateral whose opposite sides are parallel.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.137939453125,
+          99.833251953125
+        ],
+        [
+          402.8399963378906,
+          99.833251953125
+        ],
+        [
+          402.8399963378906,
+          113.043701171875
+        ],
+        [
+          65.137939453125,
+          113.043701171875
+        ]
+      ]
+    },
+    {
+      "title": "3.3.4 Elements of a parallelogram",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.137939453125,
+          116.7237548828125
+        ],
+        [
+          297.034912109375,
+          116.7237548828125
+        ],
+        [
+          297.034912109375,
+          130.55029296875
+        ],
+        [
+          65.137939453125,
+          130.55029296875
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          148.443603515625,
+          315.352294921875
+        ],
+        [
+          219.12179565429688,
+          315.352294921875
+        ],
+        [
+          219.12179565429688,
+          331.45526123046875
+        ],
+        [
+          148.443603515625,
+          331.45526123046875
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          152.72705078125,
+          564.27490234375
+        ],
+        [
+          245.19042968750003,
+          564.27490234375
+        ],
+        [
+          245.19042968750003,
+          579.8552551269531
+        ],
+        [
+          152.72705078125,
+          579.8552551269531
+        ]
+      ]
+    },
+    {
+      "title": "3.3.5 Angles of a parallelogram",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          142.3138427734375,
+          297.423828125
+        ],
+        [
+          348.72003173828125,
+          297.423828125
+        ],
+        [
+          348.72003173828125,
+          312.521484375
+        ],
+        [
+          142.3138427734375,
+          312.521484375
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          141.058349609375,
+          355.738525390625
+        ],
+        [
+          213.433837890625,
+          355.738525390625
+        ],
+        [
+          213.433837890625,
+          372.345947265625
+        ],
+        [
+          141.058349609375,
+          372.345947265625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          226.57958984375,
+          566.162109375
+        ],
+        [
+          321.8411865234375,
+          566.162109375
+        ],
+        [
+          321.8411865234375,
+          584.1752624511719
+        ],
+        [
+          226.57958984375,
+          584.1752624511719
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          200.2880859375,
+          83.17864990234375
+        ],
+        [
+          473.24707031250006,
+          83.17864990234375
+        ],
+        [
+          473.24707031250006,
+          101.79937744140625
+        ],
+        [
+          200.2880859375,
+          101.79937744140625
+        ]
+      ]
+    },
+    {
+      "title": "3.3.6 Diagonals of a parallelogram",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          143.99996948242188,
+          145.503662109375
+        ],
+        [
+          372.8076171875,
+          145.503662109375
+        ],
+        [
+          372.8076171875,
+          159.65771484375
+        ],
+        [
+          143.99996948242188,
+          159.65771484375
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          152.8800048828125,
+          218.1611328125
+        ],
+        [
+          220.819091796875,
+          218.1611328125
+        ],
+        [
+          220.819091796875,
+          234.013671875
+        ],
+        [
+          152.8800048828125,
+          234.013671875
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 3.3",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          222.0,
+          616.36181640625
+        ],
+        [
+          344.8824768066406,
+          616.36181640625
+        ],
+        [
+          344.8824768066406,
+          632.96923828125
+        ],
+        [
+          222.0,
+          632.96923828125
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Some Special Parallelograms",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          142.4615478515625,
+          257.79248046875
+        ],
+        [
+          405.302734375,
+          257.79248046875
+        ],
+        [
+          405.302734375,
+          273.615234375
+        ],
+        [
+          142.4615478515625,
+          273.615234375
+        ]
+      ]
+    },
+    {
+      "title": "3.4.1 Rhombus",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          141.2799072265625,
+          280.0615234375
+        ],
+        [
+          249.11976623535156,
+          280.0615234375
+        ],
+        [
+          249.11976623535156,
+          294.2311706542969
+        ],
+        [
+          141.2799072265625,
+          294.2311706542969
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          149.5513916015625,
+          132.48193359375
+        ],
+        [
+          221.705322265625,
+          132.48193359375
+        ],
+        [
+          221.705322265625,
+          148.57525634765625
+        ],
+        [
+          149.5513916015625,
+          148.57525634765625
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          149.75999450683594,
+          186.83349609375
+        ],
+        [
+          221.705322265625,
+          186.83349609375
+        ],
+        [
+          221.705322265625,
+          202.68603515625
+        ],
+        [
+          149.75999450683594,
+          202.68603515625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 3.4",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          144.0,
+          425.37646484375
+        ],
+        [
+          266.8824768066406,
+          425.37646484375
+        ],
+        [
+          266.8824768066406,
+          443.55950927734375
+        ],
+        [
+          144.0,
+          443.55950927734375
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          214.320068359375,
+          84.02789306640625
+        ],
+        [
+          469.111328125,
+          84.02789306640625
+        ],
+        [
+          469.111328125,
+          102.7584228515625
+        ],
+        [
+          214.320068359375,
+          102.7584228515625
+        ]
+      ]
+    },
+    {
+      "title": "WHAT HAVE WE DISCUSSED?",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          176.35986328125,
+          204.5732421875
+        ],
+        [
+          428.64013671875,
+          204.5732421875
+        ],
+        [
+          428.64013671875,
+          223.23834228515625
+        ],
+        [
+          176.35986328125,
+          223.23834228515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_8_3"
+}

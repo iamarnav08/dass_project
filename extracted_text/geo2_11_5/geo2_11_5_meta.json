@@ -1,0 +1,1709 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          406.40625,
+          92.950439453125
+        ],
+        [
+          481.11328125,
+          92.950439453125
+        ],
+        [
+          481.11328125,
+          165.5859375
+        ],
+        [
+          406.40625,
+          165.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 5",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.94384765625,
+          145.1751708984375
+        ],
+        [
+          166.5631866455078,
+          145.1751708984375
+        ],
+        [
+          166.5631866455078,
+          167.90590858459473
+        ],
+        [
+          58.94384765625,
+          167.90590858459473
+        ]
+      ]
+    },
+    {
+      "title": "Topographical Maps",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.0185546875,
+          205.44921875
+        ],
+        [
+          275.9677734375,
+          205.44921875
+        ],
+        [
+          275.9677734375,
+          227.90590858459473
+        ],
+        [
+          59.0185546875,
+          227.90590858459473
+        ]
+      ]
+    },
+    {
+      "title": "Glossary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          201.60000610351562,
+          96.16058349609375
+        ],
+        [
+          249.521484375,
+          96.16058349609375
+        ],
+        [
+          249.521484375,
+          106.749267578125
+        ],
+        [
+          201.60000610351562,
+          106.749267578125
+        ]
+      ]
+    },
+    {
+      "title": "METHODS OF RELIEF REPRESENTATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          192.0,
+          604.5538120269775
+        ],
+        [
+          415.669921875,
+          604.5538120269775
+        ],
+        [
+          415.669921875,
+          618.5538120269775
+        ],
+        [
+          192.0,
+          618.5538120269775
+        ]
+      ]
+    },
+    {
+      "title": "Practical Work in Geography",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          431.760009765625,
+          60.22613525390625
+        ],
+        [
+          551.7603149414062,
+          60.22613525390625
+        ],
+        [
+          551.7603149414062,
+          71.36208534240723
+        ],
+        [
+          431.760009765625,
+          71.36208534240723
+        ]
+      ]
+    },
+    {
+      "title": "CONTOURS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.09326171875,
+          104.1619873046875
+        ],
+        [
+          121.99658203125,
+          104.1619873046875
+        ],
+        [
+          121.99658203125,
+          119.59469032287598
+        ],
+        [
+          59.09326171875,
+          119.59469032287598
+        ]
+      ]
+    },
+    {
+      "title": "Some basic features of contour lines are",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.9150390625,
+          439.2626953125
+        ],
+        [
+          317.28155517578125,
+          439.2626953125
+        ],
+        [
+          317.28155517578125,
+          453.0615234375
+        ],
+        [
+          59.9150390625,
+          453.0615234375
+        ]
+      ]
+    },
+    {
+      "title": "Drawing of Contours and Their Cross Sections",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.0185546875,
+          599.86572265625
+        ],
+        [
+          355.60546875,
+          599.86572265625
+        ],
+        [
+          355.60546875,
+          614.047830581665
+        ],
+        [
+          59.0185546875,
+          614.047830581665
+        ]
+      ]
+    },
+    {
+      "title": "Types of slope",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          190.951171875,
+          102.724609375
+        ],
+        [
+          286.27734375,
+          102.724609375
+        ],
+        [
+          286.27734375,
+          117.24770545959473
+        ],
+        [
+          190.951171875,
+          117.24770545959473
+        ]
+      ]
+    },
+    {
+      "title": "54",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          77.5199966430664,
+          147.379150390625
+        ],
+        [
+          107.80224609375,
+          147.379150390625
+        ],
+        [
+          106.60693359375,
+          168.86684608459473
+        ],
+        [
+          76.42529296875,
+          168.86684608459473
+        ]
+      ]
+    },
+    {
+      "title": "Gentle Slope",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          158.5283203125,
+          197.974853515625
+        ],
+        [
+          229.68649291992188,
+          197.974853515625
+        ],
+        [
+          229.68649291992188,
+          209.89998817443848
+        ],
+        [
+          158.5283203125,
+          209.89998817443848
+        ]
+      ]
+    },
+    {
+      "title": "Steep Slope",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          382.560302734375,
+          198.5498046875
+        ],
+        [
+          445.4457092285156,
+          198.5498046875
+        ],
+        [
+          445.4457092285156,
+          209.89998817443848
+        ],
+        [
+          382.560302734375,
+          209.89998817443848
+        ]
+      ]
+    },
+    {
+      "title": "Concave Slope",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          92.11376953125,
+          121.7938232421875
+        ],
+        [
+          168.5390625,
+          121.7938232421875
+        ],
+        [
+          168.5390625,
+          133.1011962890625
+        ],
+        [
+          92.11376953125,
+          133.1011962890625
+        ]
+      ]
+    },
+    {
+      "title": "Convex Slope",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          307.9201965332031,
+          121.123046875
+        ],
+        [
+          376.80181884765625,
+          121.123046875
+        ],
+        [
+          376.80181884765625,
+          132.86001014709473
+        ],
+        [
+          307.9201965332031,
+          132.86001014709473
+        ]
+      ]
+    },
+    {
+      "title": "Types of Landform",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          147.09814453125,
+          103.4912109375
+        ],
+        [
+          269.0400085449219,
+          103.4912109375
+        ],
+        [
+          269.0400085449219,
+          117.67333984375
+        ],
+        [
+          147.09814453125,
+          117.67333984375
+        ]
+      ]
+    },
+    {
+      "title": "Conical Hill",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          159.4248046875,
+          169.227294921875
+        ],
+        [
+          222.00599670410156,
+          169.227294921875
+        ],
+        [
+          222.00599670410156,
+          181.57998085021973
+        ],
+        [
+          159.4248046875,
+          181.57998085021973
+        ]
+      ]
+    },
+    {
+      "title": "Plateau",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          362.64031982421875,
+          147.9541015625
+        ],
+        [
+          403.716796875,
+          147.9541015625
+        ],
+        [
+          403.716796875,
+          157.728271484375
+        ],
+        [
+          362.64031982421875,
+          157.728271484375
+        ]
+      ]
+    },
+    {
+      "title": "VALLEY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.653564453125,
+          103.3953857421875
+        ],
+        [
+          110.1181640625,
+          103.3953857421875
+        ],
+        [
+          110.1181640625,
+          117.24672889709473
+        ],
+        [
+          59.653564453125,
+          117.24672889709473
+        ]
+      ]
+    },
+    {
+      "title": "'V'-shaped Valley",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.0801010131836,
+          172.4853515625
+        ],
+        [
+          163.6083984375,
+          172.4853515625
+        ],
+        [
+          163.6083984375,
+          184.94002723693848
+        ],
+        [
+          76.0801010131836,
+          184.94002723693848
+        ]
+      ]
+    },
+    {
+      "title": "'U' \u2013 shaped Valley",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          291.6002197265625,
+          172.10205078125
+        ],
+        [
+          388.775390625,
+          172.10205078125
+        ],
+        [
+          388.775390625,
+          184.94002723693848
+        ],
+        [
+          291.6002197265625,
+          184.94002723693848
+        ]
+      ]
+    },
+    {
+      "title": "58",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.462646484375,
+          146.612548828125
+        ],
+        [
+          104.81396484375,
+          146.612548828125
+        ],
+        [
+          104.81396484375,
+          168.86684608459473
+        ],
+        [
+          76.462646484375,
+          168.86684608459473
+        ]
+      ]
+    },
+    {
+      "title": "Gorge",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          147.7705078125,
+          121.9854736328125
+        ],
+        [
+          179.4462890625,
+          121.9854736328125
+        ],
+        [
+          179.4462890625,
+          133.2928466796875
+        ],
+        [
+          147.7705078125,
+          133.2928466796875
+        ]
+      ]
+    },
+    {
+      "title": "Spur",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          364.0802917480469,
+          120.164794921875
+        ],
+        [
+          389.671875,
+          120.164794921875
+        ],
+        [
+          389.671875,
+          132.86001014709473
+        ],
+        [
+          364.0802917480469,
+          132.86001014709473
+        ]
+      ]
+    },
+    {
+      "title": "CLIFF",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          74.5576171875,
+          169.610595703125
+        ],
+        [
+          108.7734375,
+          169.610595703125
+        ],
+        [
+          108.7734375,
+          181.81997108459473
+        ],
+        [
+          74.5576171875,
+          181.81997108459473
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          300.1728515625,
+          700.29052734375
+        ],
+        [
+          329.607421875,
+          700.29052734375
+        ],
+        [
+          329.607421875,
+          706.42333984375
+        ],
+        [
+          300.1728515625,
+          706.42333984375
+        ]
+      ]
+    },
+    {
+      "title": "Steps for Drawing a Cross-section",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          189.755859375,
+          101.4788818359375
+        ],
+        [
+          409.9921875,
+          101.4788818359375
+        ],
+        [
+          409.9921875,
+          116.76674842834473
+        ],
+        [
+          189.755859375,
+          116.76674842834473
+        ]
+      ]
+    },
+    {
+      "title": "IDENTIFICATION OF CULTURAL FEATURES FROM\nTOPOGRAPHICAL SHEETS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          189.755859375,
+          491.77490234375
+        ],
+        [
+          465.275390625,
+          491.77490234375
+        ],
+        [
+          465.275390625,
+          523.0335330963135
+        ],
+        [
+          189.755859375,
+          523.0335330963135
+        ]
+      ]
+    },
+    {
+      "title": "Distribution Of Settlements",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          191.84765625,
+          612.5146484375
+        ],
+        [
+          366.9609375,
+          612.5146484375
+        ],
+        [
+          366.9609375,
+          627.2466526031494
+        ],
+        [
+          191.84765625,
+          627.2466526031494
+        ]
+      ]
+    },
+    {
+      "title": "Transport And Communication Pattern",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.466796875,
+          592.19970703125
+        ],
+        [
+          309.287109375,
+          592.19970703125
+        ],
+        [
+          309.287109375,
+          606.8479557037354
+        ],
+        [
+          59.466796875,
+          606.8479557037354
+        ]
+      ]
+    },
+    {
+      "title": "INTERPRETATION OF TOPOGRAPHICAL MAPS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          192.0,
+          104.832763671875
+        ],
+        [
+          440.173828125,
+          104.832763671875
+        ],
+        [
+          440.173828125,
+          119.59469032287598
+        ],
+        [
+          192.0,
+          119.59469032287598
+        ]
+      ]
+    },
+    {
+      "title": "MAP INTERPRETATION PROCEDURE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          59.0185546875,
+          473.37646484375
+        ],
+        [
+          258.3369140625,
+          473.37646484375
+        ],
+        [
+          258.3369140625,
+          489.1941165924072
+        ],
+        [
+          59.0185546875,
+          489.1941165924072
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          191.6982421875,
+          407.0654296875
+        ],
+        [
+          261.6240234375,
+          407.0654296875
+        ],
+        [
+          261.6240234375,
+          421.066370010376
+        ],
+        [
+          191.6982421875,
+          421.066370010376
+        ]
+      ]
+    },
+    {
+      "title": "Topographical Maps",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          60.0,
+          59.74700927734375
+        ],
+        [
+          155.5400390625,
+          59.74700927734375
+        ],
+        [
+          155.5400390625,
+          71.95858192443848
+        ],
+        [
+          60.0,
+          71.95858192443848
+        ]
+      ]
+    },
+    {
+      "title": "Exercise A",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          59.16796875,
+          310.09033203125
+        ],
+        [
+          127.001953125,
+          310.09033203125
+        ],
+        [
+          127.001953125,
+          324.84795570373535
+        ],
+        [
+          59.16796875,
+          324.84795570373535
+        ]
+      ]
+    },
+    {
+      "title": "Exercise B",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          58.94384765625,
+          450.76171875
+        ],
+        [
+          127.07666015625,
+          450.76171875
+        ],
+        [
+          127.07666015625,
+          465.4879398345947
+        ],
+        [
+          58.94384765625,
+          465.4879398345947
+        ]
+      ]
+    },
+    {
+      "title": "Exercise C",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          59.69091796875,
+          261.602783203125
+        ],
+        [
+          127.67431640625,
+          261.602783203125
+        ],
+        [
+          127.67431640625,
+          277.087854385376
+        ],
+        [
+          59.69091796875,
+          277.087854385376
+        ]
+      ]
+    },
+    {
+      "title": "Uttar Pradesh",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          300.239990234375,
+          105.599365234375
+        ],
+        [
+          376.224609375,
+          105.599365234375
+        ],
+        [
+          376.224609375,
+          117.99257850646973
+        ],
+        [
+          300.239990234375,
+          117.99257850646973
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo2_11_5"
+}

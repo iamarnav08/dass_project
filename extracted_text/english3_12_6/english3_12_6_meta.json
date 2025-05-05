@@ -1,0 +1,451 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Memories of Childhood",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          139.4399871826172,
+          203.27004623413086
+        ],
+        [
+          345.58001708984375,
+          203.27004623413086
+        ],
+        [
+          345.58001708984375,
+          228.27758789062497
+        ],
+        [
+          139.4399871826172,
+          228.27758789062497
+        ]
+      ]
+    },
+    {
+      "title": "Zitkala-Sa and Bama",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          191.72998046875,
+          239.59075546264648
+        ],
+        [
+          294.9697265625,
+          239.59075546264648
+        ],
+        [
+          294.9697265625,
+          255.20263671874997
+        ],
+        [
+          191.72998046875,
+          255.20263671874997
+        ]
+      ]
+    },
+    {
+      "title": "Before you read",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.9716796875,
+          276.107177734375
+        ],
+        [
+          167.7744140625,
+          276.107177734375
+        ],
+        [
+          167.7744140625,
+          288.39538192749023
+        ],
+        [
+          79.9716796875,
+          288.39538192749023
+        ]
+      ]
+    },
+    {
+      "title": "I. The Cutting of My Long Hair\n..........ZITKALA-SA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.09033203125,
+          81.48590087890625
+        ],
+        [
+          340.5618896484375,
+          81.48590087890625
+        ],
+        [
+          340.5618896484375,
+          98.11150741577148
+        ],
+        [
+          80.09033203125,
+          98.11150741577148
+        ]
+      ]
+    },
+    {
+      "title": "II. We Too are Human Beings\n..........BAMA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.386962890625,
+          372.6025390625
+        ],
+        [
+          314.6401672363281,
+          372.6025390625
+        ],
+        [
+          314.6401672363281,
+          388.99157333374023
+        ],
+        [
+          80.386962890625,
+          388.99157333374023
+        ]
+      ]
+    },
+    {
+      "title": "Reading with Insight",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          143.92529296875,
+          174.92919921875
+        ],
+        [
+          289.51171875,
+          174.92919921875
+        ],
+        [
+          289.51171875,
+          192.16253280639648
+        ],
+        [
+          143.92529296875,
+          192.16253280639648
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english3_12_6"
+}

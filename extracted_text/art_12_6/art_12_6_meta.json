@@ -1,0 +1,902 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Company Painting",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.11181640625,
+          219.645263671875
+        ],
+        [
+          188.501953125,
+          219.645263671875
+        ],
+        [
+          188.501953125,
+          244.6023120880127
+        ],
+        [
+          79.11181640625,
+          244.6023120880127
+        ]
+      ]
+    },
+    {
+      "title": "Raja Ravi Varma",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.0472106933594,
+          99.404296875
+        ],
+        [
+          398.12109375,
+          99.404296875
+        ],
+        [
+          398.12109375,
+          113.4195728302002
+        ],
+        [
+          305.0472106933594,
+          113.4195728302002
+        ]
+      ]
+    },
+    {
+      "title": "The Bengal School",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          230.115234375,
+          480.9638671875
+        ],
+        [
+          326.6953125,
+          480.9638671875
+        ],
+        [
+          326.6953125,
+          496.4459400177002
+        ],
+        [
+          230.115234375,
+          496.4459400177002
+        ]
+      ]
+    },
+    {
+      "title": "Abanindranath Tagore and E. B. Havell",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          79.73291015625,
+          172.89302253723145
+        ],
+        [
+          323.900390625,
+          172.89302253723145
+        ],
+        [
+          323.900390625,
+          184.89302253723145
+        ],
+        [
+          79.73291015625,
+          184.89302253723145
+        ]
+      ]
+    },
+    {
+      "title": "Shantiniketan \u2014 Early modernism",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.5869140625,
+          573.293046951294
+        ],
+        [
+          297.28802490234375,
+          573.293046951294
+        ],
+        [
+          297.28802490234375,
+          585.293046951294
+        ],
+        [
+          80.5869140625,
+          585.293046951294
+        ]
+      ]
+    },
+    {
+      "title": "Pan-Asianism and Modernism",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          79.5,
+          98.00227546691895
+        ],
+        [
+          242.53799438476562,
+          98.00227546691895
+        ],
+        [
+          242.53799438476562,
+          112.00227546691895
+        ],
+        [
+          79.5,
+          112.00227546691895
+        ]
+      ]
+    },
+    {
+      "title": "Different Concepts of Modernism: Western and Indian",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.50927734375,
+          579.22119140625
+        ],
+        [
+          359.57794189453125,
+          579.22119140625
+        ],
+        [
+          359.57794189453125,
+          593.302324295044
+        ],
+        [
+          80.50927734375,
+          593.302324295044
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          240.7637939453125,
+          437.68358039855957
+        ],
+        [
+          288.498046875,
+          437.68358039855957
+        ],
+        [
+          288.498046875,
+          449.68358039855957
+        ],
+        [
+          240.7637939453125,
+          449.68358039855957
+        ]
+      ]
+    },
+    {
+      "title": "Tiller of the Soil",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          165.9873046875,
+          97.2780933380127
+        ],
+        [
+          320.484375,
+          97.2780933380127
+        ],
+        [
+          320.484375,
+          115.2780933380127
+        ],
+        [
+          165.9873046875,
+          115.2780933380127
+        ]
+      ]
+    },
+    {
+      "title": "Rasa-Lila",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          352.16015625,
+          91.03804206848145
+        ],
+        [
+          433.7100830078125,
+          91.03804206848145
+        ],
+        [
+          433.7100830078125,
+          109.03804206848145
+        ],
+        [
+          352.16015625,
+          109.03804206848145
+        ]
+      ]
+    },
+    {
+      "title": "Radhika",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          209.17611694335938,
+          91.03804206848145
+        ],
+        [
+          276.8525390625,
+          91.03804206848145
+        ],
+        [
+          276.8525390625,
+          109.03804206848145
+        ],
+        [
+          209.17611694335938,
+          109.03804206848145
+        ]
+      ]
+    },
+    {
+      "title": "City in the Night",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          321.10546875,
+          90.7064208984375
+        ],
+        [
+          468.3046875,
+          90.7064208984375
+        ],
+        [
+          468.3046875,
+          109.0379810333252
+        ],
+        [
+          321.10546875,
+          109.0379810333252
+        ]
+      ]
+    },
+    {
+      "title": "Rama Vanquishing the Pride of\nthe Ocean",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          110.0888671875,
+          90.84979248046875
+        ],
+        [
+          377.00390625,
+          90.84979248046875
+        ],
+        [
+          377.00390625,
+          130.6380786895752
+        ],
+        [
+          110.0888671875,
+          130.6380786895752
+        ]
+      ]
+    },
+    {
+      "title": "Woman with Child",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          315.205078125,
+          90.802001953125
+        ],
+        [
+          469.857421875,
+          90.802001953125
+        ],
+        [
+          469.857421875,
+          109.03804206848145
+        ],
+        [
+          315.205078125,
+          109.03804206848145
+        ]
+      ]
+    },
+    {
+      "title": "Journey's End",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          181.359375,
+          91.0379810333252
+        ],
+        [
+          303.0423889160156,
+          91.0379810333252
+        ],
+        [
+          303.0423889160156,
+          109.0379810333252
+        ],
+        [
+          181.359375,
+          109.0379810333252
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/art_12_6"
+}

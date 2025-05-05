@@ -1,0 +1,580 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PLANNING AND\nSUSTAINABLE\nDEVELOPMENT IN\nINDIAN CONTEXT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.74658203125,
+          224.5107421875
+        ],
+        [
+          287.771484375,
+          224.5107421875
+        ],
+        [
+          287.771484375,
+          328.5986328125
+        ],
+        [
+          83.74658203125,
+          328.5986328125
+        ]
+      ]
+    },
+    {
+      "title": "Target Area Planning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.490234375,
+          63.1080322265625
+        ],
+        [
+          170.33203125,
+          63.1080322265625
+        ],
+        [
+          170.33203125,
+          76.19941139221191
+        ],
+        [
+          53.490234375,
+          76.19941139221191
+        ]
+      ]
+    },
+    {
+      "title": "Hill Area Development Programme",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.41552734375,
+          450.541015625
+        ],
+        [
+          242.15916442871094,
+          450.541015625
+        ],
+        [
+          242.15916442871094,
+          463.3191318511963
+        ],
+        [
+          53.41552734375,
+          463.3191318511963
+        ]
+      ]
+    },
+    {
+      "title": "Drought Prone Area Programme",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          294.046875,
+          112.4453125
+        ],
+        [
+          470.16033935546875,
+          112.4453125
+        ],
+        [
+          470.16033935546875,
+          124.91932106018066
+        ],
+        [
+          294.046875,
+          124.91932106018066
+        ]
+      ]
+    },
+    {
+      "title": "Case Study \u2013 Integrated Tribal Development\nProject in Bharmaur* Region",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.94189453125,
+          63.8203125
+        ],
+        [
+          315.861328125,
+          63.8203125
+        ],
+        [
+          315.861328125,
+          88.31348609924316
+        ],
+        [
+          84.94189453125,
+          88.31348609924316
+        ]
+      ]
+    },
+    {
+      "title": "Sustainable Development",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          83.74658203125,
+          403.0556640625
+        ],
+        [
+          253.6087188720703,
+          403.0556640625
+        ],
+        [
+          253.6087188720703,
+          417.45200538635254
+        ],
+        [
+          83.74658203125,
+          417.45200538635254
+        ]
+      ]
+    },
+    {
+      "title": "Case Study",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          83.671875,
+          293.26953125
+        ],
+        [
+          142.83984375,
+          293.26953125
+        ],
+        [
+          142.83984375,
+          305.2743625640869
+        ],
+        [
+          83.671875,
+          305.2743625640869
+        ]
+      ]
+    },
+    {
+      "title": "Indira Gandhi Canal (Nahar) Command\nArea",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          84.04541015625,
+          313.21337890625
+        ],
+        [
+          316.7578125,
+          313.21337890625
+        ],
+        [
+          316.7578125,
+          337.3202610015869
+        ],
+        [
+          84.04541015625,
+          337.3202610015869
+        ]
+      ]
+    },
+    {
+      "title": "Measures for Promotion of Sustainable\nDevelopment",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.26611328125,
+          104.087890625
+        ],
+        [
+          286.576171875,
+          104.087890625
+        ],
+        [
+          286.576171875,
+          129.2393283843994
+        ],
+        [
+          53.26611328125,
+          129.2393283843994
+        ]
+      ]
+    },
+    {
+      "title": "Project",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          293.5986328125,
+          548.55078125
+        ],
+        [
+          343.951171875,
+          548.55078125
+        ],
+        [
+          343.951171875,
+          561.466796875
+        ],
+        [
+          293.5986328125,
+          561.466796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo3_12_6"
+}

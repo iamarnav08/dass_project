@@ -1,0 +1,772 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BEFORE YOU READ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.173828125,
+          168.9825439453125
+        ],
+        [
+          208.072265625,
+          168.9825439453125
+        ],
+        [
+          208.072265625,
+          182.87064933776855
+        ],
+        [
+          107.173828125,
+          182.87064933776855
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.1123046875,
+          190.53515625
+        ],
+        [
+          145.93359375,
+          190.53515625
+        ],
+        [
+          145.93359375,
+          202.08137321472168
+        ],
+        [
+          107.1123046875,
+          202.08137321472168
+        ]
+      ]
+    },
+    {
+      "title": "First Flight",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.24755859375,
+          276.4795970916748
+        ],
+        [
+          74.15470123291016,
+          276.4795970916748
+        ],
+        [
+          74.15470123291016,
+          329.07568359375
+        ],
+        [
+          57.24755859375,
+          329.07568359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.0224609375,
+          423.67236328125
+        ],
+        [
+          151.34765625,
+          423.67236328125
+        ],
+        [
+          151.34765625,
+          437.09033203125
+        ],
+        [
+          34.0224609375,
+          437.09033203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          88.1015625,
+          54.510498046875
+        ],
+        [
+          222.71484375,
+          54.510498046875
+        ],
+        [
+          222.71484375,
+          70.8636474609375
+        ],
+        [
+          88.1015625,
+          70.8636474609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          85.4560546875,
+          389.45654296875
+        ],
+        [
+          133.13671875,
+          389.45654296875
+        ],
+        [
+          133.13671875,
+          405.55810546875
+        ],
+        [
+          85.4560546875,
+          405.55810546875
+        ]
+      ]
+    },
+    {
+      "title": "I. A Guide to Coping with the Death\nof a Loved One",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          173.99996948242188,
+          478.68603515625
+        ],
+        [
+          386.61328125,
+          478.68603515625
+        ],
+        [
+          386.61328125,
+          504.15710258483887
+        ],
+        [
+          173.99996948242188,
+          504.15710258483887
+        ]
+      ]
+    },
+    {
+      "title": "Feelings of Grief",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.61767578125,
+          54.00732421875
+        ],
+        [
+          140.642578125,
+          54.00732421875
+        ],
+        [
+          140.642578125,
+          65.7884349822998
+        ],
+        [
+          53.61767578125,
+          65.7884349822998
+        ]
+      ]
+    },
+    {
+      "title": "Helping Others Who Are Experiencing Grief",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.2177734375,
+          301.56884765625
+        ],
+        [
+          277.34765625,
+          301.56884765625
+        ],
+        [
+          277.34765625,
+          312.26859855651855
+        ],
+        [
+          53.2177734375,
+          312.26859855651855
+        ]
+      ]
+    },
+    {
+      "title": "II. Good Grief",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          184.80006408691406,
+          424.0078125
+        ],
+        [
+          264.9649353027344,
+          424.0078125
+        ],
+        [
+          264.9649353027344,
+          437.4382152557373
+        ],
+        [
+          184.80006408691406,
+          437.4382152557373
+        ]
+      ]
+    },
+    {
+      "title": "AMITAI ETZIONI",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          190.08006286621094,
+          440.03944206237793
+        ],
+        [
+          261.3515625,
+          440.03944206237793
+        ],
+        [
+          261.3515625,
+          451.85009765625
+        ],
+        [
+          190.08006286621094,
+          451.85009765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          91.0546875,
+          225.254150390625
+        ],
+        [
+          136.212890625,
+          225.254150390625
+        ],
+        [
+          136.212890625,
+          246.387451171875
+        ],
+        [
+          91.0546875,
+          246.387451171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          93.4541015625,
+          342.8291015625
+        ],
+        [
+          160.453125,
+          342.8291015625
+        ],
+        [
+          160.453125,
+          355.576171875
+        ],
+        [
+          93.4541015625,
+          355.576171875
+        ]
+      ]
+    },
+    {
+      "title": "WHAT WE HAVE DONE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          99.298828125,
+          364.2978515625
+        ],
+        [
+          204.134765625,
+          364.2978515625
+        ],
+        [
+          204.134765625,
+          375.0322265625
+        ],
+        [
+          99.298828125,
+          375.0322265625
+        ]
+      ]
+    },
+    {
+      "title": "WHAT YOU CAN DO",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          99.9140625,
+          398.84912109375
+        ],
+        [
+          193.18359375,
+          398.84912109375
+        ],
+        [
+          193.18359375,
+          409.58349609375
+        ],
+        [
+          99.9140625,
+          409.58349609375
+        ]
+      ]
+    },
+    {
+      "title": "Joy and Sorrow",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          250.80003356933594,
+          447.15380859375
+        ],
+        [
+          326.3203125,
+          447.15380859375
+        ],
+        [
+          326.3203125,
+          457.28565788269043
+        ],
+        [
+          250.80003356933594,
+          457.28565788269043
+        ]
+      ]
+    },
+    {
+      "title": "For Anne Gregory",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          179.525390625,
+          87.216796875
+        ],
+        [
+          377.5078125,
+          87.216796875
+        ],
+        [
+          377.5078125,
+          118.581298828125
+        ],
+        [
+          179.525390625,
+          118.581298828125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          31.40771484375,
+          52.833251953125
+        ],
+        [
+          74.3203125,
+          52.833251953125
+        ],
+        [
+          74.3203125,
+          69.43798828125
+        ],
+        [
+          31.40771484375,
+          69.43798828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_10_8"
+}

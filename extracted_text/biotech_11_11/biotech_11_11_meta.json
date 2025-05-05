@@ -1,0 +1,760 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Programming and \nSystems Biology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          228.9697265625,
+          213.23242187499997
+        ],
+        [
+          473.6351013183594,
+          213.23242187499997
+        ],
+        [
+          473.6351013183594,
+          272.5498046875
+        ],
+        [
+          228.9697265625,
+          272.5498046875
+        ]
+      ]
+    },
+    {
+      "title": "11.2 Systems Biology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.83909606933594,
+          439.64648437499994
+        ],
+        [
+          180.49951171875,
+          439.64648437499994
+        ],
+        [
+          180.49951171875,
+          451.27734374999994
+        ],
+        [
+          68.83909606933594,
+          451.27734374999994
+        ]
+      ]
+    },
+    {
+      "title": "11.1Programming in Biology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          217.96728515625,
+          402.2729778289795
+        ],
+        [
+          421.134521484375,
+          402.2729778289795
+        ],
+        [
+          421.134521484375,
+          417.2729778289795
+        ],
+        [
+          217.96728515625,
+          417.2729778289795
+        ]
+      ]
+    },
+    {
+      "title": "11.2 Systems Biology",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          218.59909057617188,
+          93.55294609069824
+        ],
+        [
+          375.8671875,
+          93.55294609069824
+        ],
+        [
+          375.8671875,
+          108.55294609069824
+        ],
+        [
+          218.59909057617188,
+          108.55294609069824
+        ]
+      ]
+    },
+    {
+      "title": "11.2.1 Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          218.59909057617188,
+          124.83789062499999
+        ],
+        [
+          352.23907470703125,
+          124.83789062499999
+        ],
+        [
+          352.23907470703125,
+          138.643217086792
+        ],
+        [
+          218.59909057617188,
+          138.643217086792
+        ]
+      ]
+    },
+    {
+      "title": "11.2.2 Historical perspective",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          218.59909057617188,
+          659.4697265625
+        ],
+        [
+          414.8991394042969,
+          659.4697265625
+        ],
+        [
+          414.8991394042969,
+          673.7456188201904
+        ],
+        [
+          218.59909057617188,
+          673.7456188201904
+        ]
+      ]
+    },
+    {
+      "title": "11.2.3 Theme behind the systems biology",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          217.96728515625,
+          146.74267578125
+        ],
+        [
+          501.51519775390625,
+          146.74267578125
+        ],
+        [
+          501.51519775390625,
+          159.96847343444824
+        ],
+        [
+          217.96728515625,
+          159.96847343444824
+        ]
+      ]
+    },
+    {
+      "title": "11.2.4 Protocol for systems \nbiology experiments",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          329.18115234375,
+          482.68066406249994
+        ],
+        [
+          546.7870483398438,
+          482.68066406249994
+        ],
+        [
+          546.7870483398438,
+          511.63354301452637
+        ],
+        [
+          329.18115234375,
+          511.63354301452637
+        ]
+      ]
+    },
+    {
+      "title": "(i) Minimum information",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.434326171875,
+          579.6044921875
+        ],
+        [
+          227.036865234375,
+          579.6044921875
+        ],
+        [
+          227.036865234375,
+          593.5615234375
+        ],
+        [
+          69.434326171875,
+          593.5615234375
+        ]
+      ]
+    },
+    {
+      "title": "(ii)File formats",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.63909912109375,
+          675.7529296875
+        ],
+        [
+          166.374755859375,
+          675.7529296875
+        ],
+        [
+          166.374755859375,
+          689.7099609375
+        ],
+        [
+          69.63909912109375,
+          689.7099609375
+        ]
+      ]
+    },
+    {
+      "title": "(iii) Ontologies",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          218.59909057617188,
+          134.5302734375
+        ],
+        [
+          310.447265625,
+          134.5302734375
+        ],
+        [
+          310.447265625,
+          147.90576171875
+        ],
+        [
+          218.59909057617188,
+          147.90576171875
+        ]
+      ]
+    },
+    {
+      "title": "Table 11.1 A resource matrix of software, tools and data resources",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          68.09619140625,
+          432.28027343749994
+        ],
+        [
+          470.13134765625,
+          432.28027343749994
+        ],
+        [
+          470.13134765625,
+          446.3852825164795
+        ],
+        [
+          68.09619140625,
+          446.3852825164795
+        ]
+      ]
+    },
+    {
+      "title": "11.2.5 Model-analysis methods",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.6165771484375,
+          177.564453125
+        ],
+        [
+          280.41357421875,
+          177.564453125
+        ],
+        [
+          280.41357421875,
+          191.57113456726074
+        ],
+        [
+          68.6165771484375,
+          191.57113456726074
+        ]
+      ]
+    },
+    {
+      "title": "(i) Sensitivity analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.542236328125,
+          260.71981620788574
+        ],
+        [
+          211.67909240722656,
+          260.71981620788574
+        ],
+        [
+          211.67909240722656,
+          272.74365234375
+        ],
+        [
+          68.542236328125,
+          272.74365234375
+        ]
+      ]
+    },
+    {
+      "title": "(ii) Bifurcation and phase-space analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.3935546875,
+          341.75341796875
+        ],
+        [
+          324.4791564941406,
+          341.75341796875
+        ],
+        [
+          324.4791564941406,
+          354.15966796875
+        ],
+        [
+          68.3935546875,
+          354.15966796875
+        ]
+      ]
+    },
+    {
+      "title": "(iii) Metabolic control analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.69091796875,
+          423.51986503601074
+        ],
+        [
+          258.7060546875,
+          423.51986503601074
+        ],
+        [
+          258.7060546875,
+          435.51986503601074
+        ],
+        [
+          68.69091796875,
+          435.51986503601074
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          187.18020629882812,
+          530.3671875
+        ],
+        [
+          264.504638671875,
+          530.3671875
+        ],
+        [
+          264.504638671875,
+          545.2624187469482
+        ],
+        [
+          187.18020629882812,
+          545.2624187469482
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          313.3238830566406,
+          255.68505859374997
+        ],
+        [
+          448.12646484375,
+          255.68505859374997
+        ],
+        [
+          448.12646484375,
+          282.01461601257324
+        ],
+        [
+          313.3238830566406,
+          282.01461601257324
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_11_11"
+}

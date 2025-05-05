@@ -1,0 +1,418 @@
+{
+  "table_of_contents": [
+    {
+      "title": "STRUCTURAL ORGANISATION IN\nANIMALS\nCHAPTER 7",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.6865234375,
+          226.53076171875
+        ],
+        [
+          489.48046875,
+          226.53076171875
+        ],
+        [
+          489.48046875,
+          333.6681709289551
+        ],
+        [
+          194.6865234375,
+          333.6681709289551
+        ]
+      ]
+    },
+    {
+      "title": "7.1 ORGAN AND ORGAN SYSTEM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.51998901367188,
+          640.87890625
+        ],
+        [
+          357.99609375,
+          640.87890625
+        ],
+        [
+          357.99609375,
+          654.6392402648926
+        ],
+        [
+          173.51998901367188,
+          654.6392402648926
+        ]
+      ]
+    },
+    {
+      "title": "7.2 FROGS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          191.99996948242188,
+          292.841796875
+        ],
+        [
+          259.2333984375,
+          292.841796875
+        ],
+        [
+          259.2333984375,
+          306.63823318481445
+        ],
+        [
+          191.99996948242188,
+          306.63823318481445
+        ]
+      ]
+    },
+    {
+      "title": "7.2.1 Morphology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          191.84765625,
+          503.6572265625
+        ],
+        [
+          304.8046875,
+          503.6572265625
+        ],
+        [
+          304.8046875,
+          515.9046821594238
+        ],
+        [
+          191.84765625,
+          515.9046821594238
+        ]
+      ]
+    },
+    {
+      "title": "7.2.2 Anatomy",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.09326171875,
+          196.441650390625
+        ],
+        [
+          158.16000366210938,
+          196.441650390625
+        ],
+        [
+          158.16000366210938,
+          209.1846809387207
+        ],
+        [
+          59.09326171875,
+          209.1846809387207
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          344.25,
+          304.67790603637695
+        ],
+        [
+          398.88299560546875,
+          304.67790603637695
+        ],
+        [
+          398.88299560546875,
+          317.67790603637695
+        ],
+        [
+          344.25,
+          317.67790603637695
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          340.365234375,
+          640.9180030822754
+        ],
+        [
+          401.7638854980469,
+          640.9180030822754
+        ],
+        [
+          401.7638854980469,
+          653.9180030822754
+        ],
+        [
+          340.365234375,
+          653.9180030822754
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_7"
+}

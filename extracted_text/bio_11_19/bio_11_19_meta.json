@@ -1,0 +1,994 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHEMICAL COORDINATION\nAND INTEGRATION\nCHAPTER 19",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          192.2958984375,
+          247.037353515625
+        ],
+        [
+          445.8515625,
+          247.037353515625
+        ],
+        [
+          445.8515625,
+          355.8745975494385
+        ],
+        [
+          192.2958984375,
+          355.8745975494385
+        ]
+      ]
+    },
+    {
+      "title": "19.1 ENDOCRINE GLANDS AND HORMONES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.3203125,
+          517.83935546875
+        ],
+        [
+          417.1640625,
+          517.83935546875
+        ],
+        [
+          417.1640625,
+          533.3423099517822
+        ],
+        [
+          173.3203125,
+          533.3423099517822
+        ]
+      ]
+    },
+    {
+      "title": "19.2 HUMAN ENDOCRINE SYSTEM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          345.4453125,
+          104.449462890625
+        ],
+        [
+          543.26953125,
+          104.449462890625
+        ],
+        [
+          543.26953125,
+          118.62166786193848
+        ],
+        [
+          345.4453125,
+          118.62166786193848
+        ]
+      ]
+    },
+    {
+      "title": "19.2.1 The Hypothalamus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          344.25,
+          362.027587890625
+        ],
+        [
+          519.5279541015625,
+          362.027587890625
+        ],
+        [
+          519.5279541015625,
+          374.6897830963135
+        ],
+        [
+          344.25,
+          374.6897830963135
+        ]
+      ]
+    },
+    {
+      "title": "19.2.2 The Pituitary Gland",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.98974609375,
+          104.3536376953125
+        ],
+        [
+          240.556640625,
+          104.3536376953125
+        ],
+        [
+          240.556640625,
+          117.64962196350098
+        ],
+        [
+          59.98974609375,
+          117.64962196350098
+        ]
+      ]
+    },
+    {
+      "title": "19.2.3 The Pineal Gland",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          280.001953125,
+          319.28955078125
+        ],
+        [
+          447.345703125,
+          319.28955078125
+        ],
+        [
+          447.345703125,
+          334.1298770904541
+        ],
+        [
+          280.001953125,
+          334.1298770904541
+        ]
+      ]
+    },
+    {
+      "title": "19.2.4 Thyroid Gland",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          280.8984375,
+          466.47705078125
+        ],
+        [
+          428.51953125,
+          466.47705078125
+        ],
+        [
+          428.51953125,
+          481.0098819732666
+        ],
+        [
+          280.8984375,
+          481.0098819732666
+        ]
+      ]
+    },
+    {
+      "title": "19.2.5 Parathyroid Gland",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.54150390625,
+          340.179443359375
+        ],
+        [
+          232.189453125,
+          340.179443359375
+        ],
+        [
+          232.189453125,
+          353.0898685455322
+        ],
+        [
+          59.54150390625,
+          353.0898685455322
+        ]
+      ]
+    },
+    {
+      "title": "19.2.6 Thymus",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.69091796875,
+          556.93603515625
+        ],
+        [
+          165.251953125,
+          556.93603515625
+        ],
+        [
+          165.251953125,
+          569.20166015625
+        ],
+        [
+          59.69091796875,
+          569.20166015625
+        ]
+      ]
+    },
+    {
+      "title": "19.2.7 Adrenal Gland",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          192.00010681152344,
+          104.64111328125
+        ],
+        [
+          337.67578125,
+          104.64111328125
+        ],
+        [
+          337.67578125,
+          117.64998817443848
+        ],
+        [
+          192.00010681152344,
+          117.64998817443848
+        ]
+      ]
+    },
+    {
+      "title": "19.2.8 Pancreas",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.765625,
+          439.64599609375
+        ],
+        [
+          171.826171875,
+          439.64599609375
+        ],
+        [
+          171.826171875,
+          452.4502811431885
+        ],
+        [
+          59.765625,
+          452.4502811431885
+        ]
+      ]
+    },
+    {
+      "title": "19.2.9 Testis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          192.0,
+          268.502197265625
+        ],
+        [
+          283.7373046875,
+          268.502197265625
+        ],
+        [
+          283.7373046875,
+          281.3296756744385
+        ],
+        [
+          192.0,
+          281.3296756744385
+        ]
+      ]
+    },
+    {
+      "title": "19.2.10 Ovary",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          192.0,
+          541.9873046875
+        ],
+        [
+          291.357421875,
+          541.9873046875
+        ],
+        [
+          291.357421875,
+          555.01953125
+        ],
+        [
+          192.0,
+          555.01953125
+        ]
+      ]
+    },
+    {
+      "title": "19.3 HORMONES OF HEART, KIDNEY AND GASTROINTESTINAL TRACT",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.0185546875,
+          206.2158203125
+        ],
+        [
+          421.9453125,
+          206.2158203125
+        ],
+        [
+          421.9453125,
+          220.38167762756348
+        ],
+        [
+          59.0185546875,
+          220.38167762756348
+        ]
+      ]
+    },
+    {
+      "title": "19.4 MECHANISM OF HORMONE ACTION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.765625,
+          539.6875
+        ],
+        [
+          289.86328125,
+          539.6875
+        ],
+        [
+          289.86328125,
+          552.7817325592041
+        ],
+        [
+          59.765625,
+          552.7817325592041
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          269.841796875,
+          546.5016117095947
+        ],
+        [
+          323.9830017089844,
+          546.5016117095947
+        ],
+        [
+          323.9830017089844,
+          559.5016269683838
+        ],
+        [
+          269.841796875,
+          559.5016269683838
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          276.0,
+          104.2578125
+        ],
+        [
+          336.779296875,
+          104.2578125
+        ],
+        [
+          336.779296875,
+          118.62166786193848
+        ],
+        [
+          276.0,
+          118.62166786193848
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          110.56640625,
+          313.731689453125
+        ],
+        [
+          166.447265625,
+          313.731689453125
+        ],
+        [
+          166.447265625,
+          325.230712890625
+        ],
+        [
+          110.56640625,
+          325.230712890625
+        ]
+      ]
+    },
+    {
+      "title": "Hormones Target gland",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          114.0000228881836,
+          313.92333984375
+        ],
+        [
+          355.306640625,
+          313.92333984375
+        ],
+        [
+          355.306640625,
+          326.18896484375
+        ],
+        [
+          114.0000228881836,
+          326.18896484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          4
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_19"
+}

@@ -1,0 +1,2052 @@
+{
+  "table_of_contents": [
+    {
+      "title": "3.1 PHYSICAL PROPERTIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.02294921875,
+          345.5615234375
+        ],
+        [
+          255.19921875,
+          345.5615234375
+        ],
+        [
+          255.19921875,
+          361.98046875
+        ],
+        [
+          77.02294921875,
+          361.98046875
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 Metals",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.798828125,
+          368.3493995666504
+        ],
+        [
+          153.7470703125,
+          368.3493995666504
+        ],
+        [
+          153.7470703125,
+          383.55419921875
+        ],
+        [
+          76.798828125,
+          383.55419921875
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.2451171875,
+          462.78515625
+        ],
+        [
+          189.3076171875,
+          462.78515625
+        ],
+        [
+          189.3076171875,
+          480.349609375
+        ],
+        [
+          103.2451171875,
+          480.349609375
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.39453125,
+          573.1357421875
+        ],
+        [
+          197.0771484375,
+          573.1357421875
+        ],
+        [
+          197.0771484375,
+          592.2275390625
+        ],
+        [
+          103.39453125,
+          592.2275390625
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          204.099609375,
+          105.38671875
+        ],
+        [
+          291.955078125,
+          105.38671875
+        ],
+        [
+          291.955078125,
+          121.423828125
+        ],
+        [
+          204.099609375,
+          121.423828125
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          206.61000061035156,
+          258.5029296875
+        ],
+        [
+          297.03515625,
+          258.5029296875
+        ],
+        [
+          297.03515625,
+          273.01987075805664
+        ],
+        [
+          206.61000061035156,
+          273.01987075805664
+        ]
+      ]
+    },
+    {
+      "title": "Figure 3.1\nMetals are good\nconductors of heat.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.5009765625,
+          616.6650390625
+        ],
+        [
+          145.3798828125,
+          616.6650390625
+        ],
+        [
+          145.3798828125,
+          648.7690773010254
+        ],
+        [
+          63.5009765625,
+          648.7690773010254
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.6",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          103.88999938964844,
+          70.0191650390625
+        ],
+        [
+          190.0546875,
+          70.0191650390625
+        ],
+        [
+          190.0546875,
+          88.0609130859375
+        ],
+        [
+          103.88999938964844,
+          88.0609130859375
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 Non-metals",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          77.5458984375,
+          273.7763671875
+        ],
+        [
+          185.2734375,
+          273.7763671875
+        ],
+        [
+          185.2734375,
+          288.8191261291504
+        ],
+        [
+          77.5458984375,
+          288.8191261291504
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.7",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          103.88999938964844,
+          387.75439453125
+        ],
+        [
+          190.951171875,
+          387.75439453125
+        ],
+        [
+          190.951171875,
+          404.74609375
+        ],
+        [
+          103.88999938964844,
+          404.74609375
+        ]
+      ]
+    },
+    {
+      "title": "Table 3.1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          77.994140625,
+          497.5322265625
+        ],
+        [
+          130.4384765625,
+          497.5322265625
+        ],
+        [
+          130.4384765625,
+          509.87680435180664
+        ],
+        [
+          77.994140625,
+          509.87680435180664
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.8",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          205.65000915527344,
+          252.3935546875
+        ],
+        [
+          290.3115234375,
+          252.3935546875
+        ],
+        [
+          290.3115234375,
+          267.6669921875
+        ],
+        [
+          205.65000915527344,
+          267.6669921875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 CHEMICAL PROPERTIES OF METALS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          180.20999145507812,
+          631.4293098449707
+        ],
+        [
+          439.27734375,
+          631.4293098449707
+        ],
+        [
+          439.27734375,
+          646.06640625
+        ],
+        [
+          180.20999145507812,
+          646.06640625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 What happens when Metals are burnt in Air?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.62060546875,
+          65.67578125
+        ],
+        [
+          382.798828125,
+          65.67578125
+        ],
+        [
+          382.798828125,
+          81.77048110961914
+        ],
+        [
+          77.62060546875,
+          81.77048110961914
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.9",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          103.6500015258789,
+          140.32470703125
+        ],
+        [
+          190.5029296875,
+          140.32470703125
+        ],
+        [
+          190.5029296875,
+          156.9345703125
+        ],
+        [
+          103.6500015258789,
+          156.9345703125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          101.4521484375,
+          223.56494140625
+        ],
+        [
+          522.3515625,
+          223.56494140625
+        ],
+        [
+          522.3515625,
+          239.98388671875
+        ],
+        [
+          101.4521484375,
+          239.98388671875
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 What happens when Metals react with Water?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          177.6533203125,
+          452.419376373291
+        ],
+        [
+          490.078125,
+          452.419376373291
+        ],
+        [
+          490.078125,
+          466.419376373291
+        ],
+        [
+          177.6533203125,
+          466.419376373291
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.10",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          197.525390625,
+          477.6767578125
+        ],
+        [
+          299.126953125,
+          477.6767578125
+        ],
+        [
+          299.126953125,
+          496.0048828125
+        ],
+        [
+          197.525390625,
+          496.0048828125
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3 What happens when Metals react with Acids?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          77.396484375,
+          641.484375
+        ],
+        [
+          388.775390625,
+          641.484375
+        ],
+        [
+          388.775390625,
+          655.7794532775879
+        ],
+        [
+          77.396484375,
+          655.7794532775879
+        ]
+      ]
+    },
+    {
+      "title": "Metal + Dilute acid \u2192 Salt + Hydrogen",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          197.525390625,
+          65.98062515258789
+        ],
+        [
+          391.9203796386719,
+          65.98062515258789
+        ],
+        [
+          391.9203796386719,
+          78.78860855102539
+        ],
+        [
+          197.525390625,
+          78.78860855102539
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.11",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          221.431640625,
+          105.0048828125
+        ],
+        [
+          314.6036376953125,
+          105.0048828125
+        ],
+        [
+          314.6036376953125,
+          120.85107421875
+        ],
+        [
+          221.431640625,
+          120.85107421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          92.4873046875,
+          464.3125
+        ],
+        [
+          521.15625,
+          464.3125
+        ],
+        [
+          521.15625,
+          487.22265625
+        ],
+        [
+          92.4873046875,
+          487.22265625
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.12",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          221.72999572753906,
+          618.1923828125
+        ],
+        [
+          317.35546875,
+          618.1923828125
+        ],
+        [
+          317.35546875,
+          633.4658203125
+        ],
+        [
+          221.72999572753906,
+          633.4658203125
+        ]
+      ]
+    },
+    {
+      "title": "3.2.5 The Reactivity Series",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.798828125,
+          429.5654296875
+        ],
+        [
+          238.46484375,
+          429.5654296875
+        ],
+        [
+          238.46484375,
+          444.8184242248535
+        ],
+        [
+          76.798828125,
+          444.8184242248535
+        ]
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          158.080078125,
+          73.7420654296875
+        ],
+        [
+          440.771484375,
+          73.7420654296875
+        ],
+        [
+          440.771484375,
+          96.6522216796875
+        ],
+        [
+          158.080078125,
+          96.6522216796875
+        ]
+      ]
+    },
+    {
+      "title": "3.3 HOW DO METALS AND NON-METALS REA ALS REACT?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          175.8603515625,
+          496.7685546875
+        ],
+        [
+          502.77374267578125,
+          496.7685546875
+        ],
+        [
+          502.77374267578125,
+          512.0419921875
+        ],
+        [
+          175.8603515625,
+          512.0419921875
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 Properties of Ionic Compounds",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          179.89453125,
+          284.849609375
+        ],
+        [
+          408.498046875,
+          284.849609375
+        ],
+        [
+          408.498046875,
+          299.859317779541
+        ],
+        [
+          179.89453125,
+          299.859317779541
+        ]
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          174.216796875,
+          362.3623046875
+        ],
+        [
+          456.310546875,
+          362.3623046875
+        ],
+        [
+          456.310546875,
+          387.181640625
+        ],
+        [
+          174.216796875,
+          387.181640625
+        ]
+      ]
+    },
+    {
+      "title": "3.4 OCCURRENCE OF METALS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          77.32177734375,
+          484.16796875
+        ],
+        [
+          278.208984375,
+          484.16796875
+        ],
+        [
+          278.208984375,
+          501.732421875
+        ],
+        [
+          77.32177734375,
+          501.732421875
+        ]
+      ]
+    },
+    {
+      "title": "3.4.1 Extraction of Metals",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          77.17236328125,
+          596.0458984375
+        ],
+        [
+          235.4765625,
+          596.0458984375
+        ],
+        [
+          235.4765625,
+          611.859073638916
+        ],
+        [
+          77.17236328125,
+          611.859073638916
+        ]
+      ]
+    },
+    {
+      "title": "3.4.2 Enrichment of Ores",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          179.595703125,
+          632.7021484375
+        ],
+        [
+          334.6875,
+          632.7021484375
+        ],
+        [
+          334.6875,
+          648.3383522033691
+        ],
+        [
+          179.595703125,
+          648.3383522033691
+        ]
+      ]
+    },
+    {
+      "title": "3.4.3 Extracting Metals Low in the Activity Series",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          77.5458984375,
+          116.555419921875
+        ],
+        [
+          372.9375,
+          116.555419921875
+        ],
+        [
+          372.9375,
+          132.0992774963379
+        ],
+        [
+          77.5458984375,
+          132.0992774963379
+        ]
+      ]
+    },
+    {
+      "title": "2HgS(s) + 3O (g) 2HgO(s) + 2SO (g) 2 2 Heat\u2192",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          96.59619140625,
+          207.18002700805664
+        ],
+        [
+          311.9765625,
+          207.18002700805664
+        ],
+        [
+          311.9765625,
+          222.58102798461914
+        ],
+        [
+          96.59619140625,
+          222.58102798461914
+        ]
+      ]
+    },
+    {
+      "title": "3.4.4 Extracting Metals in the Middle of the Activity Series",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          77.2470703125,
+          326.27880859375
+        ],
+        [
+          430.91015625,
+          326.27880859375
+        ],
+        [
+          430.91015625,
+          342.33935928344727
+        ],
+        [
+          77.2470703125,
+          342.33935928344727
+        ]
+      ]
+    },
+    {
+      "title": "ZnCO (s) ZnO(s) + CO (g) 3 2 Heat\u2192",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          97.92009735107422,
+          539.5843849182129
+        ],
+        [
+          262.669921875,
+          539.5843849182129
+        ],
+        [
+          262.669921875,
+          554.9805183410645
+        ],
+        [
+          97.92009735107422,
+          554.9805183410645
+        ]
+      ]
+    },
+    {
+      "title": "ZnO(s) + C(s) \u2192 Zn(s) + CO(g)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          94.4296875,
+          599.7406044006348
+        ],
+        [
+          242.947265625,
+          599.7406044006348
+        ],
+        [
+          242.947265625,
+          613.6103515625
+        ],
+        [
+          94.4296875,
+          613.6103515625
+        ]
+      ]
+    },
+    {
+      "title": "3MnO2\n(s) + 4Al(s) \u2192 3Mn(l) + 2Al2O3\n(s) + Heat",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          197.2265625,
+          110.86056900024414
+        ],
+        [
+          427.4397888183594,
+          110.86056900024414
+        ],
+        [
+          427.4397888183594,
+          126.18094253540039
+        ],
+        [
+          197.2265625,
+          126.18094253540039
+        ]
+      ]
+    },
+    {
+      "title": "3.4.5 Extracting Metals towards the Top of the\nActivity Series",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          218.2939453125,
+          252.58447265625
+        ],
+        [
+          536.6953125,
+          252.58447265625
+        ],
+        [
+          536.6953125,
+          285.2191505432129
+        ],
+        [
+          218.2939453125,
+          285.2191505432129
+        ]
+      ]
+    },
+    {
+      "title": "At cathode Na+ + e\u2013 \u2192 Na\nAt anode 2Cl\u2013 \u2192 Cl2\n + 2e\u2013",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          196.03125,
+          426.1284828186035
+        ],
+        [
+          377.12109375,
+          426.1284828186035
+        ],
+        [
+          377.12109375,
+          454.7408790588379
+        ],
+        [
+          196.03125,
+          454.7408790588379
+        ]
+      ]
+    },
+    {
+      "title": "3.4.6 Refining of Metals",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          251.52001953125,
+          499.44140625
+        ],
+        [
+          396.544921875,
+          499.44140625
+        ],
+        [
+          396.544921875,
+          514.4192543029785
+        ],
+        [
+          251.52001953125,
+          514.4192543029785
+        ]
+      ]
+    },
+    {
+      "title": "Figure 3.12",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          62.417724609375,
+          613.9921875
+        ],
+        [
+          120.7265625,
+          613.9921875
+        ],
+        [
+          120.7265625,
+          626.8240852355957
+        ],
+        [
+          62.417724609375,
+          626.8240852355957
+        ]
+      ]
+    },
+    {
+      "title": "3.5 CORROSION",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          77.5458984375,
+          247.0478515625
+        ],
+        [
+          190.5029296875,
+          247.0478515625
+        ],
+        [
+          190.5029296875,
+          263.8486328125
+        ],
+        [
+          77.5458984375,
+          263.8486328125
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3.14",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          97.34326171875,
+          412.7646484375
+        ],
+        [
+          195.134765625,
+          412.7646484375
+        ],
+        [
+          195.134765625,
+          431.8564453125
+        ],
+        [
+          97.34326171875,
+          431.8564453125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 3.13",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          370.69500732421875,
+          627.3564453125
+        ],
+        [
+          426.7265625,
+          627.3564453125
+        ],
+        [
+          426.7265625,
+          638.8115234375
+        ],
+        [
+          370.69500732421875,
+          638.8115234375
+        ]
+      ]
+    },
+    {
+      "title": "3.5.1 Prevention of Corrosion",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          179.595703125,
+          65.86669921875
+        ],
+        [
+          360.984375,
+          65.86669921875
+        ],
+        [
+          360.984375,
+          81.69839859008789
+        ],
+        [
+          179.595703125,
+          81.69839859008789
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          103.5439453125,
+          347.470703125
+        ],
+        [
+          521.15625,
+          347.470703125
+        ],
+        [
+          521.15625,
+          368.853515625
+        ],
+        [
+          103.5439453125,
+          368.853515625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          201.708984375,
+          550.607421875
+        ],
+        [
+          525.041015625,
+          550.607421875
+        ],
+        [
+          525.041015625,
+          565.880859375
+        ],
+        [
+          201.708984375,
+          565.880859375
+        ]
+      ]
+    },
+    {
+      "title": "The wonder of ancient Indian metallurgy",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          246.6826171875,
+          581.5361328125
+        ],
+        [
+          477.52734375,
+          581.5361328125
+        ],
+        [
+          477.52734375,
+          592.9912109375
+        ],
+        [
+          246.6826171875,
+          592.9912109375
+        ]
+      ]
+    },
+    {
+      "title": "What you have learnt",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          112.55999755859375,
+          306.04150390625
+        ],
+        [
+          332.595703125,
+          306.04150390625
+        ],
+        [
+          332.595703125,
+          328.95166015625
+        ],
+        [
+          112.55999755859375,
+          328.95166015625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          98.83740234375,
+          178.3173828125
+        ],
+        [
+          355.306640625,
+          178.3173828125
+        ],
+        [
+          355.306640625,
+          202.7548828125
+        ],
+        [
+          98.83740234375,
+          202.7548828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_10_3"
+}

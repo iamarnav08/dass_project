@@ -1,0 +1,212 @@
+{
+  "table_of_contents": [
+    {
+      "title": "About the poet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.8603515625,
+          165.6641845703125
+        ],
+        [
+          180.96771240234375,
+          165.6641845703125
+        ],
+        [
+          180.96771240234375,
+          177.586669921875
+        ],
+        [
+          103.8603515625,
+          177.586669921875
+        ]
+      ]
+    },
+    {
+      "title": "Before you read",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.11998748779297,
+          298.979248046875
+        ],
+        [
+          188.8681640625,
+          298.979248046875
+        ],
+        [
+          188.8681640625,
+          311.19078826904297
+        ],
+        [
+          93.11998748779297,
+          311.19078826904297
+        ]
+      ]
+    },
+    {
+      "title": "Think it out",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.66748046875,
+          502.99193572998047
+        ],
+        [
+          136.1953125,
+          502.99193572998047
+        ],
+        [
+          136.1953125,
+          522.921875
+        ],
+        [
+          74.66748046875,
+          522.921875
+        ]
+      ]
+    },
+    {
+      "title": "Try this out",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.1199951171875,
+          79.87267303466797
+        ],
+        [
+          130.482421875,
+          79.87267303466797
+        ],
+        [
+          130.482421875,
+          97.9644775390625
+        ],
+        [
+          69.1199951171875,
+          97.9644775390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          18
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_12_po2"
+}

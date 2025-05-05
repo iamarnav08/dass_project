@@ -1,0 +1,584 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit-II\nChapter-3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.268310546875,
+          65.9590015411377
+        ],
+        [
+          128.197265625,
+          65.9590015411377
+        ],
+        [
+          128.197265625,
+          99.497314453125
+        ],
+        [
+          62.268310546875,
+          99.497314453125
+        ]
+      ]
+    },
+    {
+      "title": "Human Development",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.99609375,
+          253.30078125
+        ],
+        [
+          260.876953125,
+          253.30078125
+        ],
+        [
+          260.876953125,
+          276.40352058410645
+        ],
+        [
+          51.99609375,
+          276.40352058410645
+        ]
+      ]
+    },
+    {
+      "title": "GROWTH AND DEVELOPMENT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          296.736328125,
+          259.24951171875
+        ],
+        [
+          479.2250061035156,
+          259.24951171875
+        ],
+        [
+          479.2250061035156,
+          275.36865234375
+        ],
+        [
+          296.736328125,
+          275.36865234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          274.623046875,
+          437.9033203125
+        ],
+        [
+          374.431640625,
+          437.9033203125
+        ],
+        [
+          374.431640625,
+          455.5576171875
+        ],
+        [
+          274.623046875,
+          455.5576171875
+        ]
+      ]
+    },
+    {
+      "title": "THE FOUR PILLARS OF HUMAN\nDEVELOPMENT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.373046875,
+          518.5303821563721
+        ],
+        [
+          274.025390625,
+          518.5303821563721
+        ],
+        [
+          274.025390625,
+          547.283203125
+        ],
+        [
+          83.373046875,
+          547.283203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          327.216796875,
+          604.4677734375
+        ],
+        [
+          415.669921875,
+          604.4677734375
+        ],
+        [
+          415.669921875,
+          623.6572265625
+        ],
+        [
+          327.216796875,
+          623.6572265625
+        ]
+      ]
+    },
+    {
+      "title": "APPROACHES TO HUMAN\nDEVELOPMENT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.66845703125,
+          63.009416580200195
+        ],
+        [
+          212.466796875,
+          63.009416580200195
+        ],
+        [
+          212.466796875,
+          90.862060546875
+        ],
+        [
+          52.66845703125,
+          90.862060546875
+        ]
+      ]
+    },
+    {
+      "title": "MEASURING HUMAN DEVELOPMENT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.96728515625,
+          172.9293384552002
+        ],
+        [
+          274.623046875,
+          172.9293384552002
+        ],
+        [
+          274.623046875,
+          187.09716796875
+        ],
+        [
+          52.96728515625,
+          187.09716796875
+        ]
+      ]
+    },
+    {
+      "title": "INTERNATIONAL COMPARISONS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          325.125,
+          267.2494068145752
+        ],
+        [
+          524.14453125,
+          267.2494068145752
+        ],
+        [
+          524.14453125,
+          281.50927734375
+        ],
+        [
+          325.125,
+          281.50927734375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.98828125,
+          178.365966796875
+        ],
+        [
+          509.203125,
+          178.365966796875
+        ],
+        [
+          509.203125,
+          238.90869140625
+        ],
+        [
+          308.98828125,
+          238.90869140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          14
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_12_3"
+}

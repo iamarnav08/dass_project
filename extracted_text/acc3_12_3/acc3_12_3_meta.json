@@ -1,0 +1,1650 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USE OF SPREADSHEET\nIN BUSINESS\nAPPLICATIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.076171875,
+          74.51140213012695
+        ],
+        [
+          457.505859375,
+          74.51140213012695
+        ],
+        [
+          457.505859375,
+          242.671142578125
+        ],
+        [
+          57.076171875,
+          242.671142578125
+        ]
+      ]
+    },
+    {
+      "title": "Learning Objectives",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.51801681518555,
+          282.44384765625
+        ],
+        [
+          181.986328125,
+          282.44384765625
+        ],
+        [
+          181.986328125,
+          297.81494140625
+        ],
+        [
+          61.51801681518555,
+          297.81494140625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          270.439453125,
+          283.404541015625
+        ],
+        [
+          368.6441955566406,
+          283.404541015625
+        ],
+        [
+          368.6441955566406,
+          299.2675666809082
+        ],
+        [
+          270.439453125,
+          299.2675666809082
+        ]
+      ]
+    },
+    {
+      "title": "3.1 PAYROLL ACCOUNTING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          258.1875,
+          410.408203125
+        ],
+        [
+          472.1484375,
+          410.408203125
+        ],
+        [
+          472.1484375,
+          427.42753982543945
+        ],
+        [
+          258.1875,
+          427.42753982543945
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 PAYROLL COMPONENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          160.171875,
+          156.14763259887695
+        ],
+        [
+          338.2734375,
+          156.14763259887695
+        ],
+        [
+          338.2734375,
+          170.14763259887695
+        ],
+        [
+          160.171875,
+          170.14763259887695
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 DEDUCTIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          161.5166015625,
+          544.9052734375
+        ],
+        [
+          261.6240234375,
+          544.9052734375
+        ],
+        [
+          261.6240234375,
+          556.5124092102051
+        ],
+        [
+          161.5166015625,
+          556.5124092102051
+        ]
+      ]
+    },
+    {
+      "title": "Use of Spreadsheet in Business Application",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.0,
+          65.71142578125
+        ],
+        [
+          242.947265625,
+          65.71142578125
+        ],
+        [
+          242.947265625,
+          76.0869140625
+        ],
+        [
+          60.0,
+          76.0869140625
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 ELEMENTS USED IN PAYROLL CALCULATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.54150390625,
+          195.74760818481445
+        ],
+        [
+          352.01953125,
+          195.74760818481445
+        ],
+        [
+          352.01953125,
+          209.74760818481445
+        ],
+        [
+          59.54150390625,
+          209.74760818481445
+        ]
+      ]
+    },
+    {
+      "title": "Dearness Allowance (DA) \u2013",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.39208984375,
+          373.4322700500488
+        ],
+        [
+          215.288818359375,
+          373.4322700500488
+        ],
+        [
+          215.288818359375,
+          384.4322700500488
+        ],
+        [
+          59.39208984375,
+          384.4322700500488
+        ]
+      ]
+    },
+    {
+      "title": "Transport Allowance (TRA) \u2013",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.39208984375,
+          449.6044921875
+        ],
+        [
+          228.90234375,
+          449.6044921875
+        ],
+        [
+          228.90234375,
+          461.2323188781738
+        ],
+        [
+          59.39208984375,
+          461.2323188781738
+        ]
+      ]
+    },
+    {
+      "title": "Net Salary (NS) = Total Earnings (TE) \u2013 Total Deductions (TD)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          173.1708984375,
+          132.8638916015625
+        ],
+        [
+          537.29296875,
+          132.8638916015625
+        ],
+        [
+          537.29296875,
+          144.5407600402832
+        ],
+        [
+          173.1708984375,
+          144.5407600402832
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2.1 Template Design",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          160.0224609375,
+          153.0384521484375
+        ],
+        [
+          313.171875,
+          153.0384521484375
+        ],
+        [
+          313.171875,
+          165.0839729309082
+        ],
+        [
+          160.0224609375,
+          165.0839729309082
+        ]
+      ]
+    },
+    {
+      "title": "Example Example",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          161.068359375,
+          292.5705757141113
+        ],
+        [
+          214.259765625,
+          292.5705757141113
+        ],
+        [
+          214.259765625,
+          303.90056228637695
+        ],
+        [
+          161.068359375,
+          303.90056228637695
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          172.125,
+          555.7757148742676
+        ],
+        [
+          209.1796875,
+          555.7757148742676
+        ],
+        [
+          209.1796875,
+          566.80908203125
+        ],
+        [
+          172.125,
+          566.80908203125
+        ]
+      ]
+    },
+    {
+      "title": "Use of Spreadsheet in Business Application",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          64.99090576171875
+        ],
+        [
+          242.7978515625,
+          64.99090576171875
+        ],
+        [
+          242.7978515625,
+          76.0051155090332
+        ],
+        [
+          60.0,
+          76.0051155090332
+        ]
+      ]
+    },
+    {
+      "title": "3.2 ASSET ACCOUNTING",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.94384765625,
+          87.3270263671875
+        ],
+        [
+          253.107421875,
+          87.3270263671875
+        ],
+        [
+          253.107421875,
+          102.22758865356445
+        ],
+        [
+          58.94384765625,
+          102.22758865356445
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.831787109375,
+          150.6275520324707
+        ],
+        [
+          189.9052734375,
+          150.6275520324707
+        ],
+        [
+          189.9052734375,
+          164.6275520324707
+        ],
+        [
+          58.831787109375,
+          164.6275520324707
+        ]
+      ]
+    },
+    {
+      "title": "Total Amount of Depreciation = Acquisition Cost \u2013 Salvage Value\n(Over Life of the Asset)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.765625,
+          346.55217361450195
+        ],
+        [
+          451.828125,
+          346.55217361450195
+        ],
+        [
+          451.828125,
+          370.7521858215332
+        ],
+        [
+          59.765625,
+          370.7521858215332
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 COMPUTERISED ASSET ACCOUNTING",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.39208984375,
+          620.5474739074707
+        ],
+        [
+          312.0039978027344,
+          620.5474739074707
+        ],
+        [
+          312.0039978027344,
+          634.5474739074707
+        ],
+        [
+          59.39208984375,
+          634.5474739074707
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2.1 Straight Line Method (SLM)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          159.7236328125,
+          279.75390625
+        ],
+        [
+          381.1202087402344,
+          279.75390625
+        ],
+        [
+          381.1202087402344,
+          292.2840156555176
+        ],
+        [
+          159.7236328125,
+          292.2840156555176
+        ]
+      ]
+    },
+    {
+      "title": "Example Example",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          161.96484375,
+          526.495777130127
+        ],
+        [
+          213.662109375,
+          526.495777130127
+        ],
+        [
+          213.662109375,
+          538.37255859375
+        ],
+        [
+          161.96484375,
+          538.37255859375
+        ]
+      ]
+    },
+    {
+      "title": "Use of Spreadsheet in Business Application",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          60.0,
+          65.18304443359375
+        ],
+        [
+          242.6484375,
+          65.18304443359375
+        ],
+        [
+          242.6484375,
+          76.0051155090332
+        ],
+        [
+          60.0,
+          76.0051155090332
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2.2 Written Down Value (WDV) Method",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          158.9765625,
+          132.383544921875
+        ],
+        [
+          427.025390625,
+          132.383544921875
+        ],
+        [
+          427.025390625,
+          145.8840217590332
+        ],
+        [
+          158.9765625,
+          145.8840217590332
+        ]
+      ]
+    },
+    {
+      "title": "Use of Spreadsheet in Business Application",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          60.0,
+          65.0389404296875
+        ],
+        [
+          244.44140625,
+          65.0389404296875
+        ],
+        [
+          244.44140625,
+          76.0051155090332
+        ],
+        [
+          60.0,
+          76.0051155090332
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2.3 Schedule Forming Part of the Balance Sheet",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          160.6201171875,
+          173.0208740234375
+        ],
+        [
+          484.69921875,
+          173.0208740234375
+        ],
+        [
+          484.69921875,
+          185.48405838012695
+        ],
+        [
+          160.6201171875,
+          185.48405838012695
+        ]
+      ]
+    },
+    {
+      "title": "Use of Spreadsheet in Business Application",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          60.0,
+          65.37518310546875
+        ],
+        [
+          244.142578125,
+          65.37518310546875
+        ],
+        [
+          244.142578125,
+          76.71136474609375
+        ],
+        [
+          60.0,
+          76.71136474609375
+        ]
+      ]
+    },
+    {
+      "title": "3.3 LOAN REPAYMENT SCHEDULE",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.09326171875,
+          291.66650390625
+        ],
+        [
+          326.3203125,
+          291.66650390625
+        ],
+        [
+          326.3203125,
+          307.1865119934082
+        ],
+        [
+          59.09326171875,
+          307.1865119934082
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 LOAN",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.3173828125,
+          316.26025390625
+        ],
+        [
+          137.6103515625,
+          316.26025390625
+        ],
+        [
+          137.6103515625,
+          331.1865119934082
+        ],
+        [
+          59.3173828125,
+          331.1865119934082
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1.1 Calculating Interest and Repayments of Loan",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.16796875,
+          398.49560546875
+        ],
+        [
+          386.982421875,
+          398.49560546875
+        ],
+        [
+          386.982421875,
+          412.0429878234863
+        ],
+        [
+          59.16796875,
+          412.0429878234863
+        ]
+      ]
+    },
+    {
+      "title": "Computerised Accounting System",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          410.1600036621094,
+          67.056396484375
+        ],
+        [
+          552.533203125,
+          67.056396484375
+        ],
+        [
+          552.533203125,
+          77.047607421875
+        ],
+        [
+          410.1600036621094,
+          77.047607421875
+        ]
+      ]
+    },
+    {
+      "title": "Example 1",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          159.4248046875,
+          398.2607612609863
+        ],
+        [
+          224.56729125976562,
+          398.2607612609863
+        ],
+        [
+          224.56729125976562,
+          409.6396484375
+        ],
+        [
+          159.4248046875,
+          409.6396484375
+        ]
+      ]
+    },
+    {
+      "title": "Example 2",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          160.3212890625,
+          459.97998046875
+        ],
+        [
+          228.1552734375,
+          459.97998046875
+        ],
+        [
+          228.1552734375,
+          471.1808052062988
+        ],
+        [
+          160.3212890625,
+          471.1808052062988
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          247.728515625,
+          97.65447998046875
+        ],
+        [
+          324.228515625,
+          97.65447998046875
+        ],
+        [
+          324.228515625,
+          112.208984375
+        ],
+        [
+          247.728515625,
+          112.208984375
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          59.6162109375,
+          443.84033203125
+        ],
+        [
+          140.44921875,
+          443.84033203125
+        ],
+        [
+          140.44921875,
+          458.1466865539551
+        ],
+        [
+          59.6162109375,
+          458.1466865539551
+        ]
+      ]
+    },
+    {
+      "title": "Q1. MULTIPLE CHOICE QUESTIONS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          59.98974609375,
+          473.81396484375
+        ],
+        [
+          264.7225036621094,
+          473.81396484375
+        ],
+        [
+          264.7225036621094,
+          488.1466865539551
+        ],
+        [
+          59.98974609375,
+          488.1466865539551
+        ]
+      ]
+    },
+    {
+      "title": "Computerised Accounting System",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          409.9921875,
+          67.20050048828125
+        ],
+        [
+          554.625,
+          67.20050048828125
+        ],
+        [
+          554.625,
+          76.61529541015625
+        ],
+        [
+          409.9921875,
+          76.61529541015625
+        ]
+      ]
+    },
+    {
+      "title": "Q2. ANSWER THE FOLLOWING QUESTIONS",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          161.3671875,
+          627.2675819396973
+        ],
+        [
+          403.41796875,
+          627.2675819396973
+        ],
+        [
+          403.41796875,
+          641.2675819396973
+        ],
+        [
+          161.3671875,
+          641.2675819396973
+        ]
+      ]
+    },
+    {
+      "title": "Use of Spreadsheet in Business Application",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          60.0,
+          65.56732177734375
+        ],
+        [
+          243.544921875,
+          65.56732177734375
+        ],
+        [
+          243.544921875,
+          76.0051155090332
+        ],
+        [
+          60.0,
+          76.0051155090332
+        ]
+      ]
+    },
+    {
+      "title": "SKILL REVIEW",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          59.6162109375,
+          241.134033203125
+        ],
+        [
+          172.125,
+          241.134033203125
+        ],
+        [
+          172.125,
+          256.30754470825195
+        ],
+        [
+          59.6162109375,
+          256.30754470825195
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/acc3_12_3"
+}

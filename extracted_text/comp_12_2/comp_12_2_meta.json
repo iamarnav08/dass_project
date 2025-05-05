@@ -1,0 +1,1922 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2 File Handling in \nPython",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          110.57539367675781,
+          84.43450927734375
+        ],
+        [
+          399.1964111328125,
+          84.43450927734375
+        ],
+        [
+          399.1964111328125,
+          173.126220703125
+        ],
+        [
+          110.57539367675781,
+          173.126220703125
+        ]
+      ]
+    },
+    {
+      "title": "In this Chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.36219787597656,
+          371.6064453125
+        ],
+        [
+          204.029296875,
+          371.6064453125
+        ],
+        [
+          204.029296875,
+          393.17626953125
+        ],
+        [
+          86.36219787597656,
+          393.17626953125
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Introduction to Files",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          266.138671875,
+          428.369140625
+        ],
+        [
+          435.697265625,
+          428.369140625
+        ],
+        [
+          435.697265625,
+          443.11653327941895
+        ],
+        [
+          266.138671875,
+          443.11653327941895
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Types of Files",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          231.5126953125,
+          104.1595458984375
+        ],
+        [
+          359.302734375,
+          104.1595458984375
+        ],
+        [
+          359.302734375,
+          119.0370044708252
+        ],
+        [
+          231.5126953125,
+          119.0370044708252
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1 Text file",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          229.3388671875,
+          264.51416015625
+        ],
+        [
+          320.173828125,
+          264.51416015625
+        ],
+        [
+          320.173828125,
+          277.5272388458252
+        ],
+        [
+          229.3388671875,
+          277.5272388458252
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2 Binary Files",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          79.6552734375,
+          47.373199462890625
+        ],
+        [
+          191.92799377441406,
+          47.373199462890625
+        ],
+        [
+          191.92799377441406,
+          60.935503005981445
+        ],
+        [
+          79.6552734375,
+          60.935503005981445
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Opening and Closing a Text File",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.19873046875,
+          314.84375
+        ],
+        [
+          322.037109375,
+          314.84375
+        ],
+        [
+          322.037109375,
+          329.64293098449707
+        ],
+        [
+          80.19873046875,
+          329.64293098449707
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1 Opening a file",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.7421875,
+          460.53466796875
+        ],
+        [
+          203.92800903320312,
+          460.53466796875
+        ],
+        [
+          203.92800903320312,
+          473.73314094543457
+        ],
+        [
+          80.7421875,
+          473.73314094543457
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2.2",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          111.0205078125,
+          84.38720703125
+        ],
+        [
+          178.44509887695312,
+          84.38720703125
+        ],
+        [
+          178.44509887695312,
+          96.51082038879395
+        ],
+        [
+          111.0205078125,
+          96.51082038879395
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.1 File Open Modes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          81.4800033569336,
+          401.123046875
+        ],
+        [
+          241.51998901367188,
+          401.123046875
+        ],
+        [
+          241.51998901367188,
+          413.5959644317627
+        ],
+        [
+          81.4800033569336,
+          413.5959644317627
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2 Closing a file",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.81982421875,
+          127.2430419921875
+        ],
+        [
+          200.61328125,
+          127.2430419921875
+        ],
+        [
+          200.61328125,
+          142.1905517578125
+        ],
+        [
+          80.81982421875,
+          142.1905517578125
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3 Opening a file using with clause",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.8974609375,
+          353.253173828125
+        ],
+        [
+          316.9130859375,
+          353.253173828125
+        ],
+        [
+          316.9130859375,
+          368.389892578125
+        ],
+        [
+          80.8974609375,
+          368.389892578125
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Writing to a Text File",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          81.2080078125,
+          615.68603515625
+        ],
+        [
+          261.6357421875,
+          615.68603515625
+        ],
+        [
+          261.6357421875,
+          631.217119216919
+        ],
+        [
+          81.2080078125,
+          631.217119216919
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          82.4501953125,
+          47.042083740234375
+        ],
+        [
+          193.78125,
+          47.042083740234375
+        ],
+        [
+          193.78125,
+          60.16845703125
+        ],
+        [
+          82.4501953125,
+          60.16845703125
+        ]
+      ]
+    },
+    {
+      "title": "2.4.1 The write() method",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.494140625,
+          154.583740234375
+        ],
+        [
+          387.251953125,
+          154.583740234375
+        ],
+        [
+          387.251953125,
+          169.33760261535645
+        ],
+        [
+          229.494140625,
+          169.33760261535645
+        ]
+      ]
+    },
+    {
+      "title": "2.4.2 The writelines() method",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          230.95199584960938,
+          634.60693359375
+        ],
+        [
+          416.75390625,
+          634.60693359375
+        ],
+        [
+          416.75390625,
+          648.98681640625
+        ],
+        [
+          230.95199584960938,
+          648.98681640625
+        ]
+      ]
+    },
+    {
+      "title": "2.5 Reading from a Text File",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          79.9658203125,
+          324.871826171875
+        ],
+        [
+          277.1150817871094,
+          324.871826171875
+        ],
+        [
+          277.1150817871094,
+          341.71385383605957
+        ],
+        [
+          79.9658203125,
+          341.71385383605957
+        ]
+      ]
+    },
+    {
+      "title": "2.5.1 The read() method",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          79.810546875,
+          413.232421875
+        ],
+        [
+          233.0654296875,
+          413.232421875
+        ],
+        [
+          233.0654296875,
+          429.1259765625
+        ],
+        [
+          79.810546875,
+          429.1259765625
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2.3",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          455.572265625,
+          47.278594970703125
+        ],
+        [
+          523.271484375,
+          47.278594970703125
+        ],
+        [
+          523.271484375,
+          62.48626708984375
+        ],
+        [
+          455.572265625,
+          62.48626708984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          422.34375,
+          177.8564453125
+        ],
+        [
+          537.8671875,
+          177.8564453125
+        ],
+        [
+          537.8671875,
+          193.939208984375
+        ],
+        [
+          422.34375,
+          193.939208984375
+        ]
+      ]
+    },
+    {
+      "title": "2.5.2 The readline([n]) method",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          230.52000427246094,
+          46.947479248046875
+        ],
+        [
+          421.412109375,
+          46.947479248046875
+        ],
+        [
+          421.412109375,
+          61.0198974609375
+        ],
+        [
+          230.52000427246094,
+          61.0198974609375
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2.4",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          116.14453125,
+          277.38037109375
+        ],
+        [
+          181.98046875,
+          277.38037109375
+        ],
+        [
+          181.98046875,
+          288.73291015625
+        ],
+        [
+          116.14453125,
+          288.73291015625
+        ]
+      ]
+    },
+    {
+      "title": "2.5.3 The readlines() method",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          230.52000427246094,
+          389.013671875
+        ],
+        [
+          410.54296875,
+          389.013671875
+        ],
+        [
+          410.54296875,
+          401.8798828125
+        ],
+        [
+          230.52000427246094,
+          401.8798828125
+        ]
+      ]
+    },
+    {
+      "title": "Program 2-1 Writing and reading to a text file",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.35400390625,
+          409.4482421875
+        ],
+        [
+          336.0729064941406,
+          409.4482421875
+        ],
+        [
+          336.0729064941406,
+          421.5576171875
+        ],
+        [
+          80.35400390625,
+          421.5576171875
+        ]
+      ]
+    },
+    {
+      "title": "Output of Program 2-1:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          236.4814453125,
+          46.947479248046875
+        ],
+        [
+          377.314453125,
+          46.947479248046875
+        ],
+        [
+          377.314453125,
+          60.918413162231445
+        ],
+        [
+          236.4814453125,
+          60.918413162231445
+        ]
+      ]
+    },
+    {
+      "title": "2.6 Setting Offsets in a File",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          228.4072265625,
+          169.15283203125
+        ],
+        [
+          424.20703125,
+          169.15283203125
+        ],
+        [
+          424.20703125,
+          184.7569751739502
+        ],
+        [
+          228.4072265625,
+          184.7569751739502
+        ]
+      ]
+    },
+    {
+      "title": "2.6.1 The tell() method",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          230.52000427246094,
+          257.135009765625
+        ],
+        [
+          374.51953125,
+          257.135009765625
+        ],
+        [
+          374.51953125,
+          271.2472095489502
+        ],
+        [
+          230.52000427246094,
+          271.2472095489502
+        ]
+      ]
+    },
+    {
+      "title": "2.6.2 The seek() method",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          230.52000427246094,
+          373.876953125
+        ],
+        [
+          382.283203125,
+          373.876953125
+        ],
+        [
+          382.283203125,
+          387.87841796875
+        ],
+        [
+          230.52000427246094,
+          387.87841796875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          80.8974609375,
+          421.5576171875
+        ],
+        [
+          190.0546875,
+          421.5576171875
+        ],
+        [
+          190.0546875,
+          434.423828125
+        ],
+        [
+          80.8974609375,
+          434.423828125
+        ]
+      ]
+    },
+    {
+      "title": "2.7 CREATING AND TRAVERSING A TEXT FILE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.2763671875,
+          456.75048828125
+        ],
+        [
+          350.2989807128906,
+          456.75048828125
+        ],
+        [
+          350.2989807128906,
+          471.88720703125
+        ],
+        [
+          80.2763671875,
+          471.88720703125
+        ]
+      ]
+    },
+    {
+      "title": "2.7.1 Creating a file and writing data",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.5869140625,
+          578.22265625
+        ],
+        [
+          313.4970703125,
+          578.22265625
+        ],
+        [
+          313.4970703125,
+          591.845703125
+        ],
+        [
+          80.5869140625,
+          591.845703125
+        ]
+      ]
+    },
+    {
+      "title": "Program 2-3 To create a text file and write data in it",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          82.19999694824219,
+          141.6229248046875
+        ],
+        [
+          372.03515625,
+          141.6229248046875
+        ],
+        [
+          372.03515625,
+          153.5430908203125
+        ],
+        [
+          82.19999694824219,
+          153.5430908203125
+        ]
+      ]
+    },
+    {
+      "title": "Output of Program 2-3:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          90.369140625,
+          299.896240234375
+        ],
+        [
+          229.494140625,
+          299.896240234375
+        ],
+        [
+          229.494140625,
+          313.1821765899658
+        ],
+        [
+          90.369140625,
+          313.1821765899658
+        ]
+      ]
+    },
+    {
+      "title": "2.7.2 Traversing a file and displaying data",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          230.42578125,
+          425.341796875
+        ],
+        [
+          493.8000183105469,
+          425.341796875
+        ],
+        [
+          493.8000183105469,
+          438.4496021270752
+        ],
+        [
+          230.42578125,
+          438.4496021270752
+        ]
+      ]
+    },
+    {
+      "title": "Program 2-4 To display data from a text file",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          81.2080078125,
+          506.70166015625
+        ],
+        [
+          326.6953125,
+          506.70166015625
+        ],
+        [
+          326.6953125,
+          518.05419921875
+        ],
+        [
+          81.2080078125,
+          518.05419921875
+        ]
+      ]
+    },
+    {
+      "title": "2.8 The Pickle Module",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          229.9599609375,
+          48.39019775390625
+        ],
+        [
+          385.1742248535156,
+          48.39019775390625
+        ],
+        [
+          385.1742248535156,
+          62.436479568481445
+        ],
+        [
+          229.9599609375,
+          62.436479568481445
+        ]
+      ]
+    },
+    {
+      "title": "2.8.1 The dump() method",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          230.95999145507812,
+          560.43701171875
+        ],
+        [
+          389.42578125,
+          560.43701171875
+        ],
+        [
+          389.42578125,
+          573.6608600616455
+        ],
+        [
+          230.95999145507812,
+          573.6608600616455
+        ]
+      ]
+    },
+    {
+      "title": "Program 2-6 Pickling data in Python",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          79.73291015625,
+          108.7005615234375
+        ],
+        [
+          287.56640625,
+          108.7005615234375
+        ],
+        [
+          287.56640625,
+          122.3236083984375
+        ],
+        [
+          79.73291015625,
+          122.3236083984375
+        ]
+      ]
+    },
+    {
+      "title": "2.8.2 The load() method",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          80.12109375,
+          223.077392578125
+        ],
+        [
+          232.2890625,
+          223.077392578125
+        ],
+        [
+          232.2890625,
+          237.7332935333252
+        ],
+        [
+          80.12109375,
+          237.7332935333252
+        ]
+      ]
+    },
+    {
+      "title": "Output of Program 2-7:",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          89.4375,
+          502.91748046875
+        ],
+        [
+          229.8046875,
+          502.91748046875
+        ],
+        [
+          229.8046875,
+          517.142168045044
+        ],
+        [
+          89.4375,
+          517.142168045044
+        ]
+      ]
+    },
+    {
+      "title": "2.8.3 File handling using pickle module",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          80.81982421875,
+          590.71044921875
+        ],
+        [
+          331.6640625,
+          590.71044921875
+        ],
+        [
+          331.6640625,
+          605.1355609893799
+        ],
+        [
+          80.81982421875,
+          605.1355609893799
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          470.00579833984375,
+          47.82257080078125
+        ],
+        [
+          510.228515625,
+          47.82257080078125
+        ],
+        [
+          510.228515625,
+          63.142351150512695
+        ],
+        [
+          470.00579833984375,
+          63.142351150512695
+        ]
+      ]
+    },
+    {
+      "title": "Program 2-8\t To perform basic operations on a binary file using pickle module",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          81.052734375,
+          103.118896484375
+        ],
+        [
+          509.0404968261719,
+          103.118896484375
+        ],
+        [
+          509.0404968261719,
+          114.66064453125
+        ],
+        [
+          81.052734375,
+          114.66064453125
+        ]
+      ]
+    },
+    {
+      "title": "Output of Program 2-8:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          90.4800033569336,
+          62.10784912109375
+        ],
+        [
+          228.873046875,
+          62.10784912109375
+        ],
+        [
+          228.873046875,
+          76.20344734191895
+        ],
+        [
+          90.4800033569336,
+          76.20344734191895
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          88.3505859375,
+          580.0374622344971
+        ],
+        [
+          154.09449768066406,
+          580.0374622344971
+        ],
+        [
+          154.09449768066406,
+          596.0374622344971
+        ],
+        [
+          88.3505859375,
+          596.0374622344971
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          128.1005859375,
+          48.81591796875
+        ],
+        [
+          168.9375,
+          48.81591796875
+        ],
+        [
+          168.9375,
+          62.876359939575195
+        ],
+        [
+          128.1005859375,
+          62.876359939575195
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          469.236328125,
+          48.10638427734375
+        ],
+        [
+          510.849609375,
+          48.10638427734375
+        ],
+        [
+          510.849609375,
+          63.142351150512695
+        ],
+        [
+          469.236328125,
+          63.142351150512695
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          104.8095703125,
+          212.6708984375
+        ],
+        [
+          195.64453125,
+          212.6708984375
+        ],
+        [
+          195.64453125,
+          231.21337890625
+        ],
+        [
+          104.8095703125,
+          231.21337890625
+        ]
+      ]
+    },
+    {
+      "title": "2. Write the use and syntax for the following methods:",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          85.400390625,
+          299.32861328125
+        ],
+        [
+          384.767578125,
+          299.32861328125
+        ],
+        [
+          384.767578125,
+          312.19482421875
+        ],
+        [
+          85.400390625,
+          312.19482421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Code",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Code",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Code",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/comp_12_2"
+}

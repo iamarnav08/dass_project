@@ -1,0 +1,3292 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Basic \nProcesses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.95878791809082,
+          214.20166015624997
+        ],
+        [
+          345.6298828125,
+          214.20166015624997
+        ],
+        [
+          345.6298828125,
+          272.4806709289551
+        ],
+        [
+          214.95878791809082,
+          272.4806709289551
+        ]
+      ]
+    },
+    {
+      "title": "7.1 DNA As The Genetic Material",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.17236328125,
+          402.427734375
+        ],
+        [
+          467.04345703125,
+          402.427734375
+        ],
+        [
+          467.04345703125,
+          417.5663948059082
+        ],
+        [
+          214.17236328125,
+          417.5663948059082
+        ]
+      ]
+    },
+    {
+      "title": "7.1.1 Discovery of the transforming principle",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.365478515625,
+          96.9722900390625
+        ],
+        [
+          373.9892578125,
+          96.9722900390625
+        ],
+        [
+          373.9892578125,
+          110.68701171874999
+        ],
+        [
+          63.365478515625,
+          110.68701171874999
+        ]
+      ]
+    },
+    {
+      "title": "7.1.2 Biochemical characterisation of \ntransforming principle",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          214.47879219055176,
+          351.83349609375
+        ],
+        [
+          474.72412109375,
+          351.83349609375
+        ],
+        [
+          474.72412109375,
+          382.6646308898926
+        ],
+        [
+          214.47879219055176,
+          382.6646308898926
+        ]
+      ]
+    },
+    {
+      "title": "7.1.3 The Hershey \u2013 Chase experiment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.51318359375,
+          419.8740234375
+        ],
+        [
+          329.0869140625,
+          419.8740234375
+        ],
+        [
+          329.0869140625,
+          435.5478096008301
+        ],
+        [
+          63.51318359375,
+          435.5478096008301
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Prokaryotic and Eukaryotic Gene\nOrganisation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.5870361328125,
+          98.571533203125
+        ],
+        [
+          339.42626953125,
+          98.571533203125
+        ],
+        [
+          339.42626953125,
+          131.76625442504883
+        ],
+        [
+          63.5870361328125,
+          131.76625442504883
+        ]
+      ]
+    },
+    {
+      "title": "Biotechnology",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          470.58837890625,
+          65.9566650390625
+        ],
+        [
+          537.35107421875,
+          65.9566650390625
+        ],
+        [
+          537.35107421875,
+          76.94905471801758
+        ],
+        [
+          470.58837890625,
+          76.94905471801758
+        ]
+      ]
+    },
+    {
+      "title": "Nuclear Genome",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          213.876953125,
+          604.8046875
+        ],
+        [
+          326.42822265625,
+          604.8046875
+        ],
+        [
+          326.42822265625,
+          618.6458168029785
+        ],
+        [
+          213.876953125,
+          618.6458168029785
+        ]
+      ]
+    },
+    {
+      "title": "Organellar Genomes",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          64.3255615234375,
+          264.408203125
+        ],
+        [
+          202.35595703125,
+          264.408203125
+        ],
+        [
+          202.35595703125,
+          279.0645942687988
+        ],
+        [
+          64.3255615234375,
+          279.0645942687988
+        ]
+      ]
+    },
+    {
+      "title": "7.3 DNA Replication",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          64.842529296875,
+          620.7001953125
+        ],
+        [
+          221.705322265625,
+          620.7001953125
+        ],
+        [
+          221.705322265625,
+          637.5767860412598
+        ],
+        [
+          64.842529296875,
+          637.5767860412598
+        ]
+      ]
+    },
+    {
+      "title": "7.3.1 Messelson and Stahl experiment",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          215.03880500793457,
+          528.81640625
+        ],
+        [
+          475.6103515625,
+          528.81640625
+        ],
+        [
+          475.6103515625,
+          543.1646308898926
+        ],
+        [
+          215.03880500793457,
+          543.1646308898926
+        ]
+      ]
+    },
+    {
+      "title": "Box 1",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          93.9404296875,
+          432.55046463012695
+        ],
+        [
+          127.98478889465332,
+          432.55046463012695
+        ],
+        [
+          127.98478889465332,
+          444.05046463012695
+        ],
+        [
+          93.9404296875,
+          444.05046463012695
+        ]
+      ]
+    },
+    {
+      "title": "Density Gradient Centrifugation",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          82.11930274963379,
+          459.13713455200195
+        ],
+        [
+          260.5517578125,
+          459.13713455200195
+        ],
+        [
+          260.5517578125,
+          469.63713455200195
+        ],
+        [
+          82.11930274963379,
+          469.63713455200195
+        ]
+      ]
+    },
+    {
+      "title": "7.3.2 Interpretation of results by Messelson\nand Stahl",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          214.47879219055176,
+          360.36279296875
+        ],
+        [
+          512.83203125,
+          360.36279296875
+        ],
+        [
+          512.83203125,
+          391.0285224914551
+        ],
+        [
+          214.47879219055176,
+          391.0285224914551
+        ]
+      ]
+    },
+    {
+      "title": "7.3.3 The machinery of replication",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          214.17236328125,
+          606.7431640625
+        ],
+        [
+          452.86376953125,
+          606.7431640625
+        ],
+        [
+          452.86376953125,
+          622.2509765625
+        ],
+        [
+          214.17236328125,
+          622.2509765625
+        ]
+      ]
+    },
+    {
+      "title": "(i) DNA Polymerases",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          64.21478271484375,
+          150.25410842895508
+        ],
+        [
+          195.32579231262207,
+          150.25410842895508
+        ],
+        [
+          195.32579231262207,
+          163.36244583129883
+        ],
+        [
+          64.21478271484375,
+          163.36244583129883
+        ]
+      ]
+    },
+    {
+      "title": "(ii) Primase",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          64.547119140625,
+          467.8565254211426
+        ],
+        [
+          136.77490234375,
+          467.8565254211426
+        ],
+        [
+          136.77490234375,
+          480.9649238586426
+        ],
+        [
+          64.547119140625,
+          480.9649238586426
+        ]
+      ]
+    },
+    {
+      "title": "(iii) Helicases",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          64.4732666015625,
+          596.9589424133301
+        ],
+        [
+          151.8408203125,
+          596.9589424133301
+        ],
+        [
+          151.8408203125,
+          610.0673408508301
+        ],
+        [
+          64.4732666015625,
+          610.0673408508301
+        ]
+      ]
+    },
+    {
+      "title": "(iv) Topoisomerase",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          64.55880165100098,
+          682.5613288879395
+        ],
+        [
+          180.052490234375,
+          682.5613288879395
+        ],
+        [
+          180.052490234375,
+          695.6697273254395
+        ],
+        [
+          64.55880165100098,
+          695.6697273254395
+        ]
+      ]
+    },
+    {
+      "title": "(v) Single strand binding (SSB) proteins",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          214.320068359375,
+          148.390380859375
+        ],
+        [
+          461.7388324737549,
+          148.390380859375
+        ],
+        [
+          461.7388324737549,
+          163.898193359375
+        ],
+        [
+          214.320068359375,
+          163.898193359375
+        ]
+      ]
+    },
+    {
+      "title": "(vi) DNA ligase",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          214.47879219055176,
+          248.70654296874997
+        ],
+        [
+          308.70361328125,
+          248.70654296874997
+        ],
+        [
+          308.70361328125,
+          263.82666015625
+        ],
+        [
+          214.47879219055176,
+          263.82666015625
+        ]
+      ]
+    },
+    {
+      "title": "7.3.4 Mechanism of DNA replication in bacteria",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          214.47879219055176,
+          319.26708984375
+        ],
+        [
+          540.009765625,
+          319.26708984375
+        ],
+        [
+          540.009765625,
+          334.77490234375
+        ],
+        [
+          214.47879219055176,
+          334.77490234375
+        ]
+      ]
+    },
+    {
+      "title": "7.4 Gene Expression",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          215.03880500793457,
+          98.04640579223633
+        ],
+        [
+          367.490234375,
+          98.04640579223633
+        ],
+        [
+          367.490234375,
+          113.04640579223633
+        ],
+        [
+          215.03880500793457,
+          113.04640579223633
+        ]
+      ]
+    },
+    {
+      "title": "7.4.1 Transcription",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          64.51019287109375,
+          668.7744140625
+        ],
+        [
+          196.300048828125,
+          668.7744140625
+        ],
+        [
+          196.300048828125,
+          682.7314453125
+        ],
+        [
+          64.51019287109375,
+          682.7314453125
+        ]
+      ]
+    },
+    {
+      "title": "7.4.2 RNA polymerase",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          214.17236328125,
+          308.60546875
+        ],
+        [
+          364.23880195617676,
+          308.60546875
+        ],
+        [
+          364.23880195617676,
+          322.56462478637695
+        ],
+        [
+          214.17236328125,
+          322.56462478637695
+        ]
+      ]
+    },
+    {
+      "title": "7.4.3 Transcription unit",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          64.10400390625,
+          178.7275390625
+        ],
+        [
+          230.71533203125,
+          178.7275390625
+        ],
+        [
+          230.71533203125,
+          193.06453323364258
+        ],
+        [
+          64.10400390625,
+          193.06453323364258
+        ]
+      ]
+    },
+    {
+      "title": "7.4.4 Initiation",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          64.69482421875,
+          579.216796875
+        ],
+        [
+          172.89880561828613,
+          579.216796875
+        ],
+        [
+          172.89880561828613,
+          594.724609375
+        ],
+        [
+          64.69482421875,
+          594.724609375
+        ]
+      ]
+    },
+    {
+      "title": "7.4.5 Elongation",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          214.910888671875,
+          248.51269531249997
+        ],
+        [
+          331.77881050109863,
+          248.51269531249997
+        ],
+        [
+          331.77881050109863,
+          264.5645942687988
+        ],
+        [
+          214.910888671875,
+          264.5645942687988
+        ]
+      ]
+    },
+    {
+      "title": "7.4.6 Termination",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          64.6209716796875,
+          222.53710937499997
+        ],
+        [
+          192.65880012512207,
+          222.53710937499997
+        ],
+        [
+          192.65880012512207,
+          238.18013381958008
+        ],
+        [
+          64.6209716796875,
+          238.18013381958008
+        ]
+      ]
+    },
+    {
+      "title": "7.4.7 Transcription in eukaryotes",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          64.3255615234375,
+          531.142578125
+        ],
+        [
+          297.47802734375,
+          531.142578125
+        ],
+        [
+          297.47802734375,
+          545.3214302062988
+        ],
+        [
+          64.3255615234375,
+          545.3214302062988
+        ]
+      ]
+    },
+    {
+      "title": "1. Capping",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          213.876953125,
+          486.94531249999994
+        ],
+        [
+          284.775390625,
+          486.94531249999994
+        ],
+        [
+          284.775390625,
+          500.2027473449707
+        ],
+        [
+          213.876953125,
+          500.2027473449707
+        ]
+      ]
+    },
+    {
+      "title": "2. Splicing",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          214.59880256652832,
+          600.5228157043457
+        ],
+        [
+          279.014892578125,
+          600.5228157043457
+        ],
+        [
+          279.014892578125,
+          612.5228157043457
+        ],
+        [
+          214.59880256652832,
+          612.5228157043457
+        ]
+      ]
+    },
+    {
+      "title": "3. Poly-A tail",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          214.59880256652832,
+          683.5068359375
+        ],
+        [
+          293.6376953125,
+          683.5068359375
+        ],
+        [
+          293.6376953125,
+          695.8428153991699
+        ],
+        [
+          214.59880256652832,
+          695.8428153991699
+        ]
+      ]
+    },
+    {
+      "title": "7.5 Genetic Code",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          63.5870361328125,
+          153.72119140625
+        ],
+        [
+          196.44775390625,
+          153.72119140625
+        ],
+        [
+          196.44775390625,
+          169.97426223754883
+        ],
+        [
+          63.5870361328125,
+          169.97426223754883
+        ]
+      ]
+    },
+    {
+      "title": "7.6 Translation",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          64.3255615234375,
+          314.80859375
+        ],
+        [
+          184.3359375,
+          314.80859375
+        ],
+        [
+          184.3359375,
+          330.93974685668945
+        ],
+        [
+          64.3255615234375,
+          330.93974685668945
+        ]
+      ]
+    },
+    {
+      "title": "Charging of tRNA",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          64.95330810546875,
+          573.4013671875
+        ],
+        [
+          184.63134765625,
+          573.4013671875
+        ],
+        [
+          184.63134765625,
+          588.3990364074707
+        ],
+        [
+          64.95330810546875,
+          588.3990364074707
+        ]
+      ]
+    },
+    {
+      "title": "Initiation of Translation",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          64.0301513671875,
+          386.919921875
+        ],
+        [
+          230.419921875,
+          386.919921875
+        ],
+        [
+          230.419921875,
+          400.4646186828613
+        ],
+        [
+          64.0301513671875,
+          400.4646186828613
+        ]
+      ]
+    },
+    {
+      "title": "Elongation",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          214.03880500793457,
+          596.6630859375
+        ],
+        [
+          291.77881050109863,
+          596.6630859375
+        ],
+        [
+          291.77881050109863,
+          609.9646186828613
+        ],
+        [
+          214.03880500793457,
+          609.9646186828613
+        ]
+      ]
+    },
+    {
+      "title": "Termination",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          64.14093017578125,
+          550.1396484375
+        ],
+        [
+          150.36376953125,
+          550.1396484375
+        ],
+        [
+          150.36376953125,
+          563.5597114562988
+        ],
+        [
+          64.14093017578125,
+          563.5597114562988
+        ]
+      ]
+    },
+    {
+      "title": "Polyribosomes",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          213.58154296875,
+          389.82763671875
+        ],
+        [
+          314.02099609375,
+          389.82763671875
+        ],
+        [
+          314.02099609375,
+          403.5560188293457
+        ],
+        [
+          213.58154296875,
+          403.5560188293457
+        ]
+      ]
+    },
+    {
+      "title": "7.7 Gene Mutation",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          63.8824462890625,
+          96.9722900390625
+        ],
+        [
+          206.787109375,
+          96.9722900390625
+        ],
+        [
+          206.787109375,
+          112.92634963989258
+        ],
+        [
+          63.8824462890625,
+          112.92634963989258
+        ]
+      ]
+    },
+    {
+      "title": "7.7.1 Molecular mechanism of mutation",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          64.7686767578125,
+          453.21582031249994
+        ],
+        [
+          336.9588031768799,
+          453.21582031249994
+        ],
+        [
+          336.9588031768799,
+          468.3646125793457
+        ],
+        [
+          64.7686767578125,
+          468.3646125793457
+        ]
+      ]
+    },
+    {
+      "title": "7.8 DNA Repair",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          213.58154296875,
+          400.1015625
+        ],
+        [
+          339.42626953125,
+          400.1015625
+        ],
+        [
+          339.42626953125,
+          416.4743843078613
+        ],
+        [
+          213.58154296875,
+          416.4743843078613
+        ]
+      ]
+    },
+    {
+      "title": "7.9 Recombination",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": [
+        [
+          214.320068359375,
+          257.23583984375
+        ],
+        [
+          352.42431640625,
+          257.23583984375
+        ],
+        [
+          352.42431640625,
+          273.5699043273926
+        ],
+        [
+          214.320068359375,
+          273.5699043273926
+        ]
+      ]
+    },
+    {
+      "title": "7.10 Regulation of Gene Expression",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          213.58154296875,
+          240.95263671874997
+        ],
+        [
+          477.08740234375,
+          240.95263671874997
+        ],
+        [
+          477.08740234375,
+          256.9742622375488
+        ],
+        [
+          213.58154296875,
+          256.9742622375488
+        ]
+      ]
+    },
+    {
+      "title": "7.10.1 Regulation of gene expression in bacteria",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": [
+        [
+          64.10400390625,
+          381.1044921875
+        ],
+        [
+          391.123046875,
+          381.1044921875
+        ],
+        [
+          391.123046875,
+          395.5045967102051
+        ],
+        [
+          64.10400390625,
+          395.5045967102051
+        ]
+      ]
+    },
+    {
+      "title": "Biotechnology",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          469.7021484375,
+          65.811279296875
+        ],
+        [
+          537.646484375,
+          65.811279296875
+        ],
+        [
+          537.646484375,
+          76.94905471801758
+        ],
+        [
+          469.7021484375,
+          76.94905471801758
+        ]
+      ]
+    },
+    {
+      "title": "7.10.2 The Lac operon \u2013 an inducible operon",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": [
+        [
+          63.80859375,
+          450.11425781249994
+        ],
+        [
+          370.4443359375,
+          450.11425781249994
+        ],
+        [
+          370.4443359375,
+          465.6285591125488
+        ],
+        [
+          63.80859375,
+          465.6285591125488
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": [
+        [
+          330.859375,
+          111.94702148437499
+        ],
+        [
+          417.119140625,
+          111.94702148437499
+        ],
+        [
+          417.119140625,
+          128.01759719848633
+        ],
+        [
+          330.859375,
+          128.01759719848633
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": [
+        [
+          307.52197265625,
+          95.663818359375
+        ],
+        [
+          443.20352363586426,
+          95.663818359375
+        ],
+        [
+          443.20352363586426,
+          122.78804397583008
+        ],
+        [
+          307.52197265625,
+          122.78804397583008
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 47,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 48,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 49,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 50,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 51,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 52,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_11_7"
+}

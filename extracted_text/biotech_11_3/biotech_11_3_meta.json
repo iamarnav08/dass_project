@@ -1,0 +1,2607 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Biomolecules",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.41230392456055,
+          246.263671875
+        ],
+        [
+          389.2412109375,
+          246.263671875
+        ],
+        [
+          389.2412109375,
+          272.98095703125
+        ],
+        [
+          215.41230392456055,
+          272.98095703125
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Carbohydrates",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.9723014831543,
+          608.689453125
+        ],
+        [
+          356.853515625,
+          608.689453125
+        ],
+        [
+          356.853515625,
+          623.8120002746582
+        ],
+        [
+          215.9723014831543,
+          623.8120002746582
+        ]
+      ]
+    },
+    {
+      "title": "(A)\t Classification of carbohydrates",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.8795166015625,
+          232.71142578125
+        ],
+        [
+          302.0888671875,
+          232.71142578125
+        ],
+        [
+          302.0888671875,
+          248.56459426879883
+        ],
+        [
+          65.8795166015625,
+          248.56459426879883
+        ]
+      ]
+    },
+    {
+      "title": "1. Monosaccharides",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.7322998046875,
+          335.70849609375
+        ],
+        [
+          191.67626953125,
+          335.70849609375
+        ],
+        [
+          191.67626953125,
+          349.7133674621582
+        ],
+        [
+          65.7322998046875,
+          349.7133674621582
+        ]
+      ]
+    },
+    {
+      "title": "2. Oligosaccharides",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.40430068969727,
+          634.2451171875
+        ],
+        [
+          191.529052734375,
+          634.2451171875
+        ],
+        [
+          191.529052734375,
+          649.1062355041504
+        ],
+        [
+          66.40430068969727,
+          649.1062355041504
+        ]
+      ]
+    },
+    {
+      "title": "3. Polysaccharides",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          215.41230392456055,
+          95.5433349609375
+        ],
+        [
+          333.00439453125,
+          95.5433349609375
+        ],
+        [
+          333.00439453125,
+          108.69490432739258
+        ],
+        [
+          215.41230392456055,
+          108.69490432739258
+        ]
+      ]
+    },
+    {
+      "title": "(B)\t Structure and properties of carbohydrates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          215.41230392456055,
+          372.686767578125
+        ],
+        [
+          525.56396484375,
+          372.686767578125
+        ],
+        [
+          525.56396484375,
+          387.0510139465332
+        ],
+        [
+          215.41230392456055,
+          387.0510139465332
+        ]
+      ]
+    },
+    {
+      "title": "(a) Monosaccharides",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          213.7587890625,
+          400.3720703125
+        ],
+        [
+          345.6650390625,
+          400.3720703125
+        ],
+        [
+          345.6650390625,
+          413.19975662231445
+        ],
+        [
+          213.7587890625,
+          413.19975662231445
+        ]
+      ]
+    },
+    {
+      "title": "(b) Disaccharides",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          215.41230392456055,
+          532.40966796875
+        ],
+        [
+          321.0122947692871,
+          532.40966796875
+        ],
+        [
+          321.0122947692871,
+          545.57470703125
+        ],
+        [
+          215.41230392456055,
+          545.57470703125
+        ]
+      ]
+    },
+    {
+      "title": "(c) Polysaccharides",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          65.3642578125,
+          607.9150390625
+        ],
+        [
+          186.08203125,
+          607.9150390625
+        ],
+        [
+          186.08203125,
+          621.8544921875
+        ],
+        [
+          65.3642578125,
+          621.8544921875
+        ]
+      ]
+    },
+    {
+      "title": "Examples of some common polysaccharides",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          213.611572265625,
+          585.45703125
+        ],
+        [
+          515.2587890625,
+          585.45703125
+        ],
+        [
+          515.2587890625,
+          600.1454200744629
+        ],
+        [
+          213.611572265625,
+          600.1454200744629
+        ]
+      ]
+    },
+    {
+      "title": "(a) Starch",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          214.9365234375,
+          613.3359375
+        ],
+        [
+          276.47314453125,
+          613.3359375
+        ],
+        [
+          276.47314453125,
+          626.5009765625
+        ],
+        [
+          214.9365234375,
+          626.5009765625
+        ]
+      ]
+    },
+    {
+      "title": "(b) Glycogen",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          66.84430313110352,
+          586.61865234375
+        ],
+        [
+          146.480712890625,
+          586.61865234375
+        ],
+        [
+          146.480712890625,
+          600.6937446594238
+        ],
+        [
+          66.84430313110352,
+          600.6937446594238
+        ]
+      ]
+    },
+    {
+      "title": "(c) Cellulose",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          215.85229110717773,
+          97.769775390625
+        ],
+        [
+          292.814208984375,
+          97.769775390625
+        ],
+        [
+          292.814208984375,
+          110.01491165161133
+        ],
+        [
+          215.85229110717773,
+          110.01491165161133
+        ]
+      ]
+    },
+    {
+      "title": "(d) Chitin",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          215.85229110717773,
+          418.9580078125
+        ],
+        [
+          276.914794921875,
+          418.9580078125
+        ],
+        [
+          276.914794921875,
+          431.6173286437988
+        ],
+        [
+          215.85229110717773,
+          431.6173286437988
+        ]
+      ]
+    },
+    {
+      "title": "(e) Peptidoglycan",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          215.85229110717773,
+          580.810546875
+        ],
+        [
+          323.58251953125,
+          580.810546875
+        ],
+        [
+          323.58251953125,
+          593.0197334289551
+        ],
+        [
+          215.85229110717773,
+          593.0197334289551
+        ]
+      ]
+    },
+    {
+      "title": "Box 1",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          93.9979248046875,
+          153.13649368286133
+        ],
+        [
+          133.0642967224121,
+          153.13649368286133
+        ],
+        [
+          133.0642967224121,
+          164.63649368286133
+        ],
+        [
+          93.9979248046875,
+          164.63649368286133
+        ]
+      ]
+    },
+    {
+      "title": "Agar",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          78.9818115234375,
+          175.28090286254883
+        ],
+        [
+          111.50230026245117,
+          175.28090286254883
+        ],
+        [
+          111.50230026245117,
+          187.28090286254883
+        ],
+        [
+          78.9818115234375,
+          187.28090286254883
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Fatty Acids and Lipids",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          65.1434326171875,
+          335.8062934875488
+        ],
+        [
+          260.57373046875,
+          335.8062934875488
+        ],
+        [
+          260.57373046875,
+          350.8062934875488
+        ],
+        [
+          65.1434326171875,
+          350.8062934875488
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 3.11: Structure of a fatty acid (stearic acid)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          65.5850830078125,
+          666.7705078125
+        ],
+        [
+          292.6669921875,
+          666.7705078125
+        ],
+        [
+          292.6669921875,
+          677.6123046875
+        ],
+        [
+          65.5850830078125,
+          677.6123046875
+        ]
+      ]
+    },
+    {
+      "title": "Classification of lipids",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          214.9365234375,
+          647.41015625
+        ],
+        [
+          368.0419921875,
+          647.41015625
+        ],
+        [
+          368.0419921875,
+          662.1240234375
+        ],
+        [
+          214.9365234375,
+          662.1240234375
+        ]
+      ]
+    },
+    {
+      "title": "1.\t Simple Lipids",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          215.41230392456055,
+          674.5146484375
+        ],
+        [
+          325.6435546875,
+          674.5146484375
+        ],
+        [
+          325.6435546875,
+          687.9312553405762
+        ],
+        [
+          215.41230392456055,
+          687.9312553405762
+        ]
+      ]
+    },
+    {
+      "title": "2.\t Compound lipids",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          65.10662841796875,
+          327.383544921875
+        ],
+        [
+          197.712158203125,
+          327.383544921875
+        ],
+        [
+          197.712158203125,
+          340.9565620422363
+        ],
+        [
+          65.10662841796875,
+          340.9565620422363
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Amino Acids",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          64.628173828125,
+          95.68853759765625
+        ],
+        [
+          185.96007919311523,
+          95.68853759765625
+        ],
+        [
+          185.96007919311523,
+          112.36623001098633
+        ],
+        [
+          64.628173828125,
+          112.36623001098633
+        ]
+      ]
+    },
+    {
+      "title": "Table 3.4: 20 standard amino acids along with their three letter and one letter\nsymbol",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          65.06982421875,
+          561.4501953125
+        ],
+        [
+          539.69677734375,
+          561.4501953125
+        ],
+        [
+          539.69677734375,
+          589.3291015625
+        ],
+        [
+          65.06982421875,
+          589.3291015625
+        ]
+      ]
+    },
+    {
+      "title": "Nomenclature",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          215.23095703125,
+          428.63818359375
+        ],
+        [
+          310.61230087280273,
+          428.63818359375
+        ],
+        [
+          310.61230087280273,
+          443.6909370422363
+        ],
+        [
+          215.23095703125,
+          443.6909370422363
+        ]
+      ]
+    },
+    {
+      "title": "Electrochemical properties of amino acids",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          214.64208984375,
+          661.73681640625
+        ],
+        [
+          481.98779296875,
+          661.73681640625
+        ],
+        [
+          481.98779296875,
+          675.6396369934082
+        ],
+        [
+          214.64208984375,
+          675.6396369934082
+        ]
+      ]
+    },
+    {
+      "title": "Non-standard and non-protein amino acids",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          64.9962158203125,
+          164.756591796875
+        ],
+        [
+          335.94873046875,
+          164.756591796875
+        ],
+        [
+          335.94873046875,
+          177.29091262817383
+        ],
+        [
+          64.9962158203125,
+          177.29091262817383
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Protein Structure",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          65.3642578125,
+          360.683349609375
+        ],
+        [
+          233.927490234375,
+          360.683349609375
+        ],
+        [
+          233.927490234375,
+          376.05437088012695
+        ],
+        [
+          65.3642578125,
+          376.05437088012695
+        ]
+      ]
+    },
+    {
+      "title": "3.4.1 Primary structure of proteins",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          214.05322265625,
+          174.1463623046875
+        ],
+        [
+          456.66650390625,
+          174.1463623046875
+        ],
+        [
+          456.66650390625,
+          188.56453323364258
+        ],
+        [
+          214.05322265625,
+          188.56453323364258
+        ]
+      ]
+    },
+    {
+      "title": "Box 2",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          99.22412109375,
+          577.590503692627
+        ],
+        [
+          135.99828720092773,
+          577.590503692627
+        ],
+        [
+          135.99828720092773,
+          589.090503692627
+        ],
+        [
+          99.22412109375,
+          589.090503692627
+        ]
+      ]
+    },
+    {
+      "title": "Conformation of peptide bond",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          81.53229904174805,
+          607.9150390625
+        ],
+        [
+          248.20751953125,
+          607.9150390625
+        ],
+        [
+          248.20751953125,
+          618.6392250061035
+        ],
+        [
+          81.53229904174805,
+          618.6392250061035
+        ]
+      ]
+    },
+    {
+      "title": "The flexibility of polypeptide backbone",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          82.883056640625,
+          104.4490966796875
+        ],
+        [
+          297.2322654724121,
+          104.4490966796875
+        ],
+        [
+          297.2322654724121,
+          116.11922073364258
+        ],
+        [
+          82.883056640625,
+          116.11922073364258
+        ]
+      ]
+    },
+    {
+      "title": "Ramachandran Plot",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          82.588623046875,
+          645.47412109375
+        ],
+        [
+          192.706787109375,
+          645.47412109375
+        ],
+        [
+          192.706787109375,
+          656.31591796875
+        ],
+        [
+          82.588623046875,
+          656.31591796875
+        ]
+      ]
+    },
+    {
+      "title": "A Ramachandran Plot",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          75.66943359375,
+          583.908203125
+        ],
+        [
+          182.25439453125,
+          583.908203125
+        ],
+        [
+          182.25439453125,
+          596.298828125
+        ],
+        [
+          75.66943359375,
+          596.298828125
+        ]
+      ]
+    },
+    {
+      "title": "3.4.2 Secondary structure of proteins",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          211.10888671875,
+          94.3817138671875
+        ],
+        [
+          469.0843162536621,
+          94.3817138671875
+        ],
+        [
+          469.0843162536621,
+          109.42537307739258
+        ],
+        [
+          211.10888671875,
+          109.42537307739258
+        ]
+      ]
+    },
+    {
+      "title": "Helix",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          214.28429794311523,
+          183.5361328125
+        ],
+        [
+          258.80712890625,
+          183.5361328125
+        ],
+        [
+          258.80712890625,
+          197.02779006958008
+        ],
+        [
+          214.28429794311523,
+          197.02779006958008
+        ]
+      ]
+    },
+    {
+      "title": "\u03b2 Pleated sheet",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          64.8489990234375,
+          92.68768310546875
+        ],
+        [
+          163.41064453125,
+          92.68768310546875
+        ],
+        [
+          163.41064453125,
+          108.13490676879883
+        ],
+        [
+          64.8489990234375,
+          108.13490676879883
+        ]
+      ]
+    },
+    {
+      "title": "3.4.3 Tertiary structure of protein",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          64.5545654296875,
+          542.8642578125
+        ],
+        [
+          299.7333984375,
+          542.8642578125
+        ],
+        [
+          299.7333984375,
+          558.6910285949707
+        ],
+        [
+          64.5545654296875,
+          558.6910285949707
+        ]
+      ]
+    },
+    {
+      "title": "3.4.4 Quaternary structure of protein",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          215.85229110717773,
+          514.2109375
+        ],
+        [
+          470.21044921875,
+          514.2109375
+        ],
+        [
+          470.21044921875,
+          528.7646369934082
+        ],
+        [
+          215.85229110717773,
+          528.7646369934082
+        ]
+      ]
+    },
+    {
+      "title": "Biomolecules",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          65.217041015625,
+          64.9539794921875
+        ],
+        [
+          127.24479293823242,
+          64.9539794921875
+        ],
+        [
+          127.24479293823242,
+          75.81807327270508
+        ],
+        [
+          65.217041015625,
+          75.81807327270508
+        ]
+      ]
+    },
+    {
+      "title": "3.5 Nucleic Acids",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          64.95941162109375,
+          259.4119453430176
+        ],
+        [
+          198.4482421875,
+          259.4119453430176
+        ],
+        [
+          198.4482421875,
+          274.4119453430176
+        ],
+        [
+          64.95941162109375,
+          274.4119453430176
+        ]
+      ]
+    },
+    {
+      "title": "3.5.1Polynucleotide chain",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          215.41230392456055,
+          221.482421875
+        ],
+        [
+          395.71875,
+          221.482421875
+        ],
+        [
+          395.71875,
+          236.06459426879883
+        ],
+        [
+          215.41230392456055,
+          236.06459426879883
+        ]
+      ]
+    },
+    {
+      "title": "3.5.2\t Types of RNA",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          275.1469078063965,
+          480.9111328125
+        ],
+        [
+          409.55712890625,
+          480.9111328125
+        ],
+        [
+          409.55712890625,
+          494.3646125793457
+        ],
+        [
+          275.1469078063965,
+          494.3646125793457
+        ]
+      ]
+    },
+    {
+      "title": "Messenger RNA (mRNA)",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          273.8232421875,
+          508.015625
+        ],
+        [
+          422.2177734375,
+          508.015625
+        ],
+        [
+          422.2177734375,
+          520.5133857727051
+        ],
+        [
+          273.8232421875,
+          520.5133857727051
+        ]
+      ]
+    },
+    {
+      "title": "Ribosomal RNA (rRNA)",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          65.5850830078125,
+          95.9305419921875
+        ],
+        [
+          207.57568359375,
+          95.9305419921875
+        ],
+        [
+          207.57568359375,
+          109.01491165161133
+        ],
+        [
+          65.5850830078125,
+          109.01491165161133
+        ]
+      ]
+    },
+    {
+      "title": "Transfer RNA (tRNA)",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          65.4378662109375,
+          194.571533203125
+        ],
+        [
+          196.0927734375,
+          194.571533203125
+        ],
+        [
+          196.0927734375,
+          207.41731643676758
+        ],
+        [
+          65.4378662109375,
+          207.41731643676758
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          178.72119140625,
+          358.16650390625
+        ],
+        [
+          262.2660789489746,
+          358.16650390625
+        ],
+        [
+          262.2660789489746,
+          374.2251777648926
+        ],
+        [
+          178.72119140625,
+          374.2251777648926
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          159.5830078125,
+          313.444091796875
+        ],
+        [
+          297.67236328125,
+          313.444091796875
+        ],
+        [
+          297.67236328125,
+          340.4279365539551
+        ],
+        [
+          159.5830078125,
+          340.4279365539551
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_11_3"
+}

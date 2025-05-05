@@ -1,0 +1,1780 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.431640625,
+          83.6334228515625
+        ],
+        [
+          200.4580078125,
+          83.6334228515625
+        ],
+        [
+          200.4580078125,
+          110.3547534942627
+        ],
+        [
+          80.431640625,
+          110.3547534942627
+        ]
+      ]
+    },
+    {
+      "title": "Encoding Schemes and \nNumber System",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.02392578125,
+          129.799072265625
+        ],
+        [
+          410.9529113769531,
+          129.799072265625
+        ],
+        [
+          410.9529113769531,
+          192.6850757598877
+        ],
+        [
+          103.02392578125,
+          192.6850757598877
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.35400390625,
+          203.205322265625
+        ],
+        [
+          193.470703125,
+          203.205322265625
+        ],
+        [
+          193.470703125,
+          219.15608406066895
+        ],
+        [
+          80.35400390625,
+          219.15608406066895
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          441.908203125,
+          596.42578125
+        ],
+        [
+          533.208984375,
+          596.42578125
+        ],
+        [
+          533.208984375,
+          610.189453125
+        ],
+        [
+          441.908203125,
+          610.189453125
+        ]
+      ]
+    },
+    {
+      "title": "2.1.1 American Standard Code for Information \nInterchange (ASCII)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          227.3203125,
+          231.6884765625
+        ],
+        [
+          558.6000366210938,
+          231.6884765625
+        ],
+        [
+          558.6000366210938,
+          258.09565925598145
+        ],
+        [
+          227.3203125,
+          258.09565925598145
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.2 ASCII and Binary values for word DATA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          102.42179870605469,
+          272.788330078125
+        ],
+        [
+          387.76177978515625,
+          272.788330078125
+        ],
+        [
+          387.76177978515625,
+          285.022705078125
+        ],
+        [
+          102.42179870605469,
+          285.022705078125
+        ]
+      ]
+    },
+    {
+      "title": "2.1.2 Indian Script Code for Information Interchange \n(ISCII)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          79.810546875,
+          348.6796875
+        ],
+        [
+          409.2879638671875,
+          348.6796875
+        ],
+        [
+          409.2879638671875,
+          376.85127449035645
+        ],
+        [
+          79.810546875,
+          376.85127449035645
+        ]
+      ]
+    },
+    {
+      "title": "2.1.3 UNICODE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          79.810546875,
+          528.3720703125
+        ],
+        [
+          176.25808715820312,
+          528.3720703125
+        ],
+        [
+          176.25808715820312,
+          541.5331592559814
+        ],
+        [
+          79.810546875,
+          541.5331592559814
+        ]
+      ]
+    },
+    {
+      "title": "Think and Reflect",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          433.2401123046875,
+          317.1352710723877
+        ],
+        [
+          545.94140625,
+          317.1352710723877
+        ],
+        [
+          545.94140625,
+          329.1352710723877
+        ],
+        [
+          433.2401123046875,
+          329.1352710723877
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2.1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          483.83203125,
+          490.1396484375
+        ],
+        [
+          547.6063842773438,
+          490.1396484375
+        ],
+        [
+          547.6063842773438,
+          501.609375
+        ],
+        [
+          483.83203125,
+          501.609375
+        ]
+      ]
+    },
+    {
+      "title": "Think and Reflect",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          432.28125,
+          659.2951526641846
+        ],
+        [
+          547.18359375,
+          659.2951526641846
+        ],
+        [
+          547.18359375,
+          671.2951526641846
+        ],
+        [
+          432.28125,
+          671.2951526641846
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Number System",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          225.45703125,
+          454.9658203125
+        ],
+        [
+          360.234375,
+          454.9658203125
+        ],
+        [
+          360.234375,
+          469.494140625
+        ],
+        [
+          225.45703125,
+          469.494140625
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1 Decimal Number System",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          79.810546875,
+          572.7216796875
+        ],
+        [
+          270.486328125,
+          572.7216796875
+        ],
+        [
+          270.486328125,
+          586.6957416534424
+        ],
+        [
+          79.810546875,
+          586.6957416534424
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2 Binary Number System",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.3388671875,
+          222.89501953125
+        ],
+        [
+          410.7120056152344,
+          222.89501953125
+        ],
+        [
+          410.7120056152344,
+          236.8152027130127
+        ],
+        [
+          229.3388671875,
+          236.8152027130127
+        ]
+      ]
+    },
+    {
+      "title": "2.2.3 Octal Number System",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.4755859375,
+          630.8349609375
+        ],
+        [
+          406.8719787597656,
+          630.8349609375
+        ],
+        [
+          406.8719787597656,
+          644.7191791534424
+        ],
+        [
+          227.4755859375,
+          644.7191791534424
+        ]
+      ]
+    },
+    {
+      "title": "2.2.4 Hexadecimal Number System",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.04345703125,
+          215.439697265625
+        ],
+        [
+          299.677734375,
+          215.439697265625
+        ],
+        [
+          299.677734375,
+          228.6956958770752
+        ],
+        [
+          80.04345703125,
+          228.6956958770752
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.6 Decimal and binary equivalent of \nhexadecimal numbers 0\u20139, A\u2013F",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          119.95600128173828,
+          433.5556640625
+        ],
+        [
+          369.87603759765625,
+          433.5556640625
+        ],
+        [
+          369.87603759765625,
+          458.7646656036377
+        ],
+        [
+          119.95600128173828,
+          458.7646656036377
+        ]
+      ]
+    },
+    {
+      "title": "2.2.5 Applications of Hexadecimal Number System",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          227.009765625,
+          88.0301513671875
+        ],
+        [
+          549.357421875,
+          88.0301513671875
+        ],
+        [
+          549.357421875,
+          101.2975025177002
+        ],
+        [
+          227.009765625,
+          101.2975025177002
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.7 Colour codes in decimal, binary\nand hexadecimal numbers",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          156.43798828125,
+          511.16748046875
+        ],
+        [
+          396.87890625,
+          511.16748046875
+        ],
+        [
+          396.87890625,
+          535.8471546173096
+        ],
+        [
+          156.43798828125,
+          535.8471546173096
+        ]
+      ]
+    },
+    {
+      "title": "Yellow (255,255,0) (11111111,11111111,00000000) (FF,FF,00)\nGrey (128,128,128) (10000000,10000000,10000000) (80, 80, 80)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          104.52960205078125,
+          593.7548847198486
+        ],
+        [
+          490.353515625,
+          593.7548847198486
+        ],
+        [
+          490.353515625,
+          635.04052734375
+        ],
+        [
+          104.52960205078125,
+          635.04052734375
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Conversion between Number Systems",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          230.2705078125,
+          637.6362171173096
+        ],
+        [
+          499.2007141113281,
+          637.6362171173096
+        ],
+        [
+          499.2007141113281,
+          651.6362171173096
+        ],
+        [
+          230.2705078125,
+          651.6362171173096
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1 Conversion from Decimal to other Number \nSystems",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.5869140625,
+          154.3634033203125
+        ],
+        [
+          409.13995361328125,
+          154.3634033203125
+        ],
+        [
+          409.13995361328125,
+          183.4200439453125
+        ],
+        [
+          80.5869140625,
+          183.4200439453125
+        ]
+      ]
+    },
+    {
+      "title": "(A) Decimal to Binary Conversion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.2763671875,
+          363.2080078125
+        ],
+        [
+          295.1748046875,
+          363.2080078125
+        ],
+        [
+          295.1748046875,
+          376.8707447052002
+        ],
+        [
+          80.2763671875,
+          376.8707447052002
+        ]
+      ]
+    },
+    {
+      "title": "(B) Decimal to Octal Conversion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          229.3388671875,
+          269.729736328125
+        ],
+        [
+          438.4921875,
+          269.729736328125
+        ],
+        [
+          438.4921875,
+          284.06648445129395
+        ],
+        [
+          229.3388671875,
+          284.06648445129395
+        ]
+      ]
+    },
+    {
+      "title": "(C) Decimal to Hexadecimal Conversion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          230.52000427246094,
+          667.92041015625
+        ],
+        [
+          481.96875,
+          667.92041015625
+        ],
+        [
+          481.96875,
+          681.68408203125
+        ],
+        [
+          230.52000427246094,
+          681.68408203125
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2 Conversion from other Number Systems to \nDecimal Number System",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.8974609375,
+          419.7919921875
+        ],
+        [
+          409.1039733886719,
+          419.7919921875
+        ],
+        [
+          409.1039733886719,
+          447.3193359375
+        ],
+        [
+          80.8974609375,
+          447.3193359375
+        ]
+      ]
+    },
+    {
+      "title": "(A) Binary Number to Decimal Number",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.5869140625,
+          670.21435546875
+        ],
+        [
+          325.453125,
+          670.21435546875
+        ],
+        [
+          325.453125,
+          683.4162693023682
+        ],
+        [
+          80.5869140625,
+          683.4162693023682
+        ]
+      ]
+    },
+    {
+      "title": "Example 2.6 Convert (1101)2 into decimal number.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          119.560546875,
+          122.64863777160645
+        ],
+        [
+          424.0950622558594,
+          122.64863777160645
+        ],
+        [
+          424.0950622558594,
+          137.5299243927002
+        ],
+        [
+          119.560546875,
+          137.5299243927002
+        ]
+      ]
+    },
+    {
+      "title": "(B) Octal Number to Decimal Number",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          231.0,
+          226.5083179473877
+        ],
+        [
+          466.130859375,
+          226.5083179473877
+        ],
+        [
+          466.130859375,
+          238.5083179473877
+        ],
+        [
+          231.0,
+          238.5083179473877
+        ]
+      ]
+    },
+    {
+      "title": "(C) Hexadecimal Number to Decimal Number",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          230.8916015625,
+          401.05810546875
+        ],
+        [
+          514.88671875,
+          401.05810546875
+        ],
+        [
+          514.88671875,
+          413.74666023254395
+        ],
+        [
+          230.8916015625,
+          413.74666023254395
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3 Conversion from Binary Number to Octal/\nHexadecimal Number and Vice-Versa",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          231.0,
+          638.9414386749268
+        ],
+        [
+          555.2578125,
+          638.9414386749268
+        ],
+        [
+          555.2578125,
+          665.3414325714111
+        ],
+        [
+          231.0,
+          665.3414325714111
+        ]
+      ]
+    },
+    {
+      "title": "(A) Binary Number to Octal Number",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.19873046875,
+          87.55224609375
+        ],
+        [
+          308.373046875,
+          87.55224609375
+        ],
+        [
+          308.373046875,
+          101.507080078125
+        ],
+        [
+          80.19873046875,
+          101.507080078125
+        ]
+      ]
+    },
+    {
+      "title": "(B) Octal Number to Binary Number",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.5869140625,
+          333.577880859375
+        ],
+        [
+          308.2177734375,
+          333.577880859375
+        ],
+        [
+          308.2177734375,
+          347.341552734375
+        ],
+        [
+          80.5869140625,
+          347.341552734375
+        ]
+      ]
+    },
+    {
+      "title": "(C) Binary Number to Hexadecimal Number",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.8974609375,
+          516.1376953125
+        ],
+        [
+          359.61328125,
+          516.1376953125
+        ],
+        [
+          359.61328125,
+          531.4495716094971
+        ],
+        [
+          80.8974609375,
+          531.4495716094971
+        ]
+      ]
+    },
+    {
+      "title": "Think and Reflect",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          432.591796875,
+          378.309814453125
+        ],
+        [
+          548.115234375,
+          378.309814453125
+        ],
+        [
+          548.115234375,
+          392.64697265625
+        ],
+        [
+          432.591796875,
+          392.64697265625
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2.5",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          144.07850646972656,
+          141.651123046875
+        ],
+        [
+          205.6785125732422,
+          141.651123046875
+        ],
+        [
+          205.6785125732422,
+          154.5490894317627
+        ],
+        [
+          144.07850646972656,
+          154.5490894317627
+        ]
+      ]
+    },
+    {
+      "title": "2.3.4 Conversion of a Number with Fractional Part",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          228.873046875,
+          332.6220703125
+        ],
+        [
+          546.873046875,
+          332.6220703125
+        ],
+        [
+          546.873046875,
+          346.00341796875
+        ],
+        [
+          228.873046875,
+          346.00341796875
+        ]
+      ]
+    },
+    {
+      "title": "(A) Decimal Number with Fractional Part to another \nNumber System",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          229.82000732421875,
+          409.46923828125
+        ],
+        [
+          558.6080322265625,
+          409.46923828125
+        ],
+        [
+          558.6080322265625,
+          437.76123046875
+        ],
+        [
+          229.82000732421875,
+          437.76123046875
+        ]
+      ]
+    },
+    {
+      "title": "(B) Non-decimal Number with Fractional Part to \nDecimal Number System",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          79.6552734375,
+          649.1865234375
+        ],
+        [
+          409.83599853515625,
+          649.1865234375
+        ],
+        [
+          409.83599853515625,
+          679.5690479278564
+        ],
+        [
+          79.6552734375,
+          679.5690479278564
+        ]
+      ]
+    },
+    {
+      "title": "Example 2.17 Convert (100101.101)2 into decimal.",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          80.35400390625,
+          125.78466796875
+        ],
+        [
+          380.109375,
+          125.78466796875
+        ],
+        [
+          380.109375,
+          141.72041511535645
+        ],
+        [
+          80.35400390625,
+          141.72041511535645
+        ]
+      ]
+    },
+    {
+      "title": "(C) Fractional Binary Number to Octal or \nHexadecimal Number",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          226.2333984375,
+          447.3193359375
+        ],
+        [
+          559.6362915039062,
+          447.3193359375
+        ],
+        [
+          559.6362915039062,
+          476.3759765625
+        ],
+        [
+          226.2333984375,
+          476.3759765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          571
+        ],
+        [
+          "Line",
+          283
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          577
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/comp_11_2"
+}

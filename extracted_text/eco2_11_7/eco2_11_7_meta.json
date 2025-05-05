@@ -1,0 +1,1447 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.2646484375,
+          107.52720642089844
+        ],
+        [
+          107.2353515625,
+          107.52720642089844
+        ],
+        [
+          107.2353515625,
+          123.12724304199219
+        ],
+        [
+          50.2646484375,
+          123.12724304199219
+        ]
+      ]
+    },
+    {
+      "title": "Index Numbers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.046875,
+          151.0931396484375
+        ],
+        [
+          453.796875,
+          151.0931396484375
+        ],
+        [
+          453.796875,
+          172.04368591308594
+        ],
+        [
+          312.046875,
+          172.04368591308594
+        ]
+      ]
+    },
+    {
+      "title": "Studying this chapter should\nenable you to:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.0771484375,
+          354.6240234375
+        ],
+        [
+          234.28125,
+          354.6240234375
+        ],
+        [
+          234.28125,
+          377.94606018066406
+        ],
+        [
+          62.0771484375,
+          377.94606018066406
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.6337890625,
+          473.671875
+        ],
+        [
+          138.796875,
+          473.671875
+        ],
+        [
+          138.796875,
+          486.7261199951172
+        ],
+        [
+          50.6337890625,
+          486.7261199951172
+        ]
+      ]
+    },
+    {
+      "title": "Case 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          261.10546875,
+          552.4072265625
+        ],
+        [
+          298.01953125,
+          552.4072265625
+        ],
+        [
+          298.01953125,
+          564.375
+        ],
+        [
+          261.10546875,
+          564.375
+        ]
+      ]
+    },
+    {
+      "title": "Case 2",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.7568359375,
+          149.9908447265625
+        ],
+        [
+          88.5322265625,
+          149.9908447265625
+        ],
+        [
+          88.5322265625,
+          162.0367889404297
+        ],
+        [
+          50.7568359375,
+          162.0367889404297
+        ]
+      ]
+    },
+    {
+      "title": "Case 3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.41845703125,
+          268.01513671875
+        ],
+        [
+          87.609375,
+          268.01513671875
+        ],
+        [
+          87.609375,
+          279.6358184814453
+        ],
+        [
+          50.41845703125,
+          279.6358184814453
+        ]
+      ]
+    },
+    {
+      "title": "2. WHAT IS AN INDEX NUMBER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.2646484375,
+          399.345703125
+        ],
+        [
+          196.3828125,
+          399.345703125
+        ],
+        [
+          196.3828125,
+          411.3661346435547
+        ],
+        [
+          50.2646484375,
+          411.3661346435547
+        ]
+      ]
+    },
+    {
+      "title": "3. CONSTRUCTION OF AN INDEX NUMBER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.080078125,
+          76.53076171875
+        ],
+        [
+          243.755859375,
+          76.53076171875
+        ],
+        [
+          243.755859375,
+          88.08714294433594
+        ],
+        [
+          50.080078125,
+          88.08714294433594
+        ]
+      ]
+    },
+    {
+      "title": "Example 1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.6337890625,
+          169.595947265625
+        ],
+        [
+          105.11858367919922,
+          169.595947265625
+        ],
+        [
+          105.11858367919922,
+          180.75584411621094
+        ],
+        [
+          50.6337890625,
+          180.75584411621094
+        ]
+      ]
+    },
+    {
+      "title": "The Aggregative Method",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          259.875,
+          75.6646728515625
+        ],
+        [
+          393.8399963378906,
+          75.6646728515625
+        ],
+        [
+          393.8399963378906,
+          87.11546325683594
+        ],
+        [
+          259.875,
+          87.11546325683594
+        ]
+      ]
+    },
+    {
+      "title": "Example 2",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.880001068115234,
+          409.10888671875
+        ],
+        [
+          107.3583984375,
+          409.10888671875
+        ],
+        [
+          107.3583984375,
+          420.27687072753906
+        ],
+        [
+          50.880001068115234,
+          420.27687072753906
+        ]
+      ]
+    },
+    {
+      "title": "Method of Averaging relatives",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.6337890625,
+          213.687744140625
+        ],
+        [
+          214.56011962890625,
+          213.687744140625
+        ],
+        [
+          214.56011962890625,
+          225.11524963378906
+        ],
+        [
+          50.6337890625,
+          225.11524963378906
+        ]
+      ]
+    },
+    {
+      "title": "Example 3",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          260.3671875,
+          422.6513671875
+        ],
+        [
+          315.4921875,
+          422.6513671875
+        ],
+        [
+          315.4921875,
+          433.359375
+        ],
+        [
+          260.3671875,
+          433.359375
+        ]
+      ]
+    },
+    {
+      "title": "Activity ActivityActivity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          126.5815200805664,
+          300.611572265625
+        ],
+        [
+          168.08203125,
+          300.611572265625
+        ],
+        [
+          168.08203125,
+          310.50608825683594
+        ],
+        [
+          126.5815200805664,
+          310.50608825683594
+        ]
+      ]
+    },
+    {
+      "title": "4. SOME IMPORTANT INDEX NUMBERS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.7568359375,
+          420.44677734375
+        ],
+        [
+          235.7578125,
+          420.44677734375
+        ],
+        [
+          235.7578125,
+          432.2461395263672
+        ],
+        [
+          50.7568359375,
+          432.2461395263672
+        ]
+      ]
+    },
+    {
+      "title": "Consumer price index",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.54150390625,
+          438.3984375
+        ],
+        [
+          174.603515625,
+          438.3984375
+        ],
+        [
+          174.603515625,
+          449.99436950683594
+        ],
+        [
+          50.54150390625,
+          449.99436950683594
+        ]
+      ]
+    },
+    {
+      "title": "Example 4",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          260.859375,
+          248.2557830810547
+        ],
+        [
+          315.984375,
+          248.2557830810547
+        ],
+        [
+          315.984375,
+          258.7557830810547
+        ],
+        [
+          260.859375,
+          258.7557830810547
+        ]
+      ]
+    },
+    {
+      "title": "Consumer Price Index Number",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.818359375,
+          74.52301025390625
+        ],
+        [
+          222.099609375,
+          74.52301025390625
+        ],
+        [
+          222.099609375,
+          87.11534118652344
+        ],
+        [
+          50.818359375,
+          87.11534118652344
+        ]
+      ]
+    },
+    {
+      "title": "Wholesale Price Index",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          260.859375,
+          524.0625
+        ],
+        [
+          382.921875,
+          524.0625
+        ],
+        [
+          382.921875,
+          534.9553527832031
+        ],
+        [
+          260.859375,
+          534.9553527832031
+        ]
+      ]
+    },
+    {
+      "title": "Index of Industrial production",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          259.875,
+          128.7322998046875
+        ],
+        [
+          428.6953125,
+          128.7322998046875
+        ],
+        [
+          428.6953125,
+          139.91526794433594
+        ],
+        [
+          259.875,
+          139.91526794433594
+        ]
+      ]
+    },
+    {
+      "title": "Human Development Index",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.2646484375,
+          504.22119140625
+        ],
+        [
+          201.11903381347656,
+          504.22119140625
+        ],
+        [
+          201.11903381347656,
+          516.81884765625
+        ],
+        [
+          50.2646484375,
+          516.81884765625
+        ]
+      ]
+    },
+    {
+      "title": "SENSEX",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          261.1199951171875,
+          76.25518798828125
+        ],
+        [
+          299.2828063964844,
+          76.25518798828125
+        ],
+        [
+          299.2828063964844,
+          88.08714294433594
+        ],
+        [
+          261.1199951171875,
+          88.08714294433594
+        ]
+      ]
+    },
+    {
+      "title": "5. ISSUES IN THE CONSTRUCTION OF AN\nINDEX NUMBER",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.95703125,
+          113.69384765625
+        ],
+        [
+          243.87890625,
+          113.69384765625
+        ],
+        [
+          243.87890625,
+          138.35105895996094
+        ],
+        [
+          49.95703125,
+          138.35105895996094
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          335.1796875,
+          211.798095703125
+        ],
+        [
+          377.4275207519531,
+          211.798095703125
+        ],
+        [
+          377.4275207519531,
+          222.506103515625
+        ],
+        [
+          335.1796875,
+          222.506103515625
+        ]
+      ]
+    },
+    {
+      "title": "6. INDEX NUMBER IN ECONOMICS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          260.8810119628906,
+          331.9463348388672
+        ],
+        [
+          418.8515625,
+          331.9463348388672
+        ],
+        [
+          418.8515625,
+          343.4463348388672
+        ],
+        [
+          260.8810119628906,
+          343.4463348388672
+        ]
+      ]
+    },
+    {
+      "title": "Where can we get these index\nnumbers?",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          260.61328125,
+          195.263671875
+        ],
+        [
+          456.01171875,
+          195.263671875
+        ],
+        [
+          456.01171875,
+          220.0752410888672
+        ],
+        [
+          260.61328125,
+          220.0752410888672
+        ]
+      ]
+    },
+    {
+      "title": "Activity ActivityActivity",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          336.41015625,
+          309.744873046875
+        ],
+        [
+          379.23046875,
+          309.744873046875
+        ],
+        [
+          379.23046875,
+          321.712646484375
+        ],
+        [
+          336.41015625,
+          321.712646484375
+        ]
+      ]
+    },
+    {
+      "title": "7. CONCLUSION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          261.1209716796875,
+          419.81689453125
+        ],
+        [
+          336.65625,
+          419.81689453125
+        ],
+        [
+          336.65625,
+          433.20606994628906
+        ],
+        [
+          261.1209716796875,
+          433.20606994628906
+        ]
+      ]
+    },
+    {
+      "title": "Recap",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          236.302001953125,
+          88.18359375
+        ],
+        [
+          269.71875,
+          88.18359375
+        ],
+        [
+          269.71875,
+          98.10606384277344
+        ],
+        [
+          236.302001953125,
+          98.10606384277344
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          220.0078125,
+          263.60595703125
+        ],
+        [
+          284.9765625,
+          263.60595703125
+        ],
+        [
+          284.9765625,
+          275.0217742919922
+        ],
+        [
+          220.0078125,
+          275.0217742919922
+        ]
+      ]
+    },
+    {
+      "title": "104 STATISTICS FOR ECONOMICS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          49.92000198364258,
+          49.87884521484375
+        ],
+        [
+          452.8805236816406,
+          49.87884521484375
+        ],
+        [
+          452.8805236816406,
+          60.53630065917969
+        ],
+        [
+          49.92000198364258,
+          60.53630065917969
+        ]
+      ]
+    },
+    {
+      "title": "Activity ActivityActivity",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          230.50149536132812,
+          369.42626953125
+        ],
+        [
+          272.1796875,
+          369.42626953125
+        ],
+        [
+          272.1796875,
+          379.86705017089844
+        ],
+        [
+          230.50149536132812,
+          379.86705017089844
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/eco2_11_7"
+}

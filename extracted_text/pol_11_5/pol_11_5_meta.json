@@ -1,0 +1,665 @@
+{
+  "table_of_contents": [
+    {
+      "title": "LET'S DO ITDo",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          332.2265625,
+          89.16217803955078
+        ],
+        [
+          443.04119873046875,
+          89.16217803955078
+        ],
+        [
+          443.04119873046875,
+          129.96381378173828
+        ],
+        [
+          332.2265625,
+          129.96381378173828
+        ]
+      ]
+    },
+    {
+      "title": "5.2 WHERE DO RIGHTS COME FROM?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.712890625,
+          249.32031249999997
+        ],
+        [
+          273.7203063964844,
+          249.32031249999997
+        ],
+        [
+          273.7203063964844,
+          266.2957534790039
+        ],
+        [
+          41.712890625,
+          266.2957534790039
+        ]
+      ]
+    },
+    {
+      "title": "KANT ON HUMAN DIGNITY",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.0,
+          99.79443359375
+        ],
+        [
+          218.16351318359375,
+          99.79443359375
+        ],
+        [
+          218.16351318359375,
+          113.88379669189453
+        ],
+        [
+          60.0,
+          113.88379669189453
+        ]
+      ]
+    },
+    {
+      "title": "5.3 LEGAL RIGHTS AND THE STATE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.58984375,
+          434.32128906249994
+        ],
+        [
+          251.75390625,
+          434.32128906249994
+        ],
+        [
+          251.75390625,
+          449.41585540771484
+        ],
+        [
+          41.58984375,
+          449.41585540771484
+        ]
+      ]
+    },
+    {
+      "title": "LET'S DO ITDo",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          328.04296875,
+          111.96216583251953
+        ],
+        [
+          438.2411804199219,
+          111.96216583251953
+        ],
+        [
+          438.2411804199219,
+          149.16382598876953
+        ],
+        [
+          328.04296875,
+          149.16382598876953
+        ]
+      ]
+    },
+    {
+      "title": "5.4 KINDS OF RIGHTS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.999977111816406,
+          301.041015625
+        ],
+        [
+          175.7109375,
+          301.041015625
+        ],
+        [
+          175.7109375,
+          316.93570709228516
+        ],
+        [
+          41.999977111816406,
+          316.93570709228516
+        ]
+      ]
+    },
+    {
+      "title": "LET'S DEBATE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          72.95999908447266,
+          153.1728515625
+        ],
+        [
+          153.0703125,
+          153.1728515625
+        ],
+        [
+          153.0703125,
+          167.16382598876953
+        ],
+        [
+          72.95999908447266,
+          167.16382598876953
+        ]
+      ]
+    },
+    {
+      "title": "LET'S THINK",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          164.39999389648438,
+          411.11328125
+        ],
+        [
+          248.677734375,
+          411.11328125
+        ],
+        [
+          248.677734375,
+          424.4438247680664
+        ],
+        [
+          164.39999389648438,
+          424.4438247680664
+        ]
+      ]
+    },
+    {
+      "title": "5.5 RIGHTS AND RESPONSIBILITIES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.5283203125,
+          93.5780029296875
+        ],
+        [
+          249.78515625,
+          93.5780029296875
+        ],
+        [
+          249.78515625,
+          109.09583282470703
+        ],
+        [
+          41.5283203125,
+          109.09583282470703
+        ]
+      ]
+    },
+    {
+      "title": "PREAMBLE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          196.55999755859375,
+          184.86756134033203
+        ],
+        [
+          258.15234375,
+          184.86756134033203
+        ],
+        [
+          258.15234375,
+          195.27880859375
+        ],
+        [
+          196.55999755859375,
+          195.27880859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/pol_11_5"
+}

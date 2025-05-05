@@ -1,0 +1,647 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.965087890625,
+          139.656494140625
+        ],
+        [
+          106.356201171875,
+          139.656494140625
+        ],
+        [
+          106.356201171875,
+          150.0257911682129
+        ],
+        [
+          42.965087890625,
+          150.0257911682129
+        ]
+      ]
+    },
+    {
+      "title": "Y\nou have already learnt that the air\ncontains water vapour. It varies from\nzero to four per cent by volume of the\natmosphere and plays an important role in the\nweather phenomena. Water is present in the\natmosphere in three forms namely \u2013 gaseous,\nliquid and solid. The moisture in the\natmosphere is derived from water bodies\nthrough evaporation and from plants through\ntranspiration. Thus, there is a continuous\nexchange of water between the atmosphere, the\noceans and the continents through the\nprocesses of evaporation, transpiration,\ncondensation and precipitation.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.7677001953125,
+          250.8662109375
+        ],
+        [
+          273.00439453125,
+          250.8662109375
+        ],
+        [
+          273.00439453125,
+          421.8334083557129
+        ],
+        [
+          41.7677001953125,
+          421.8334083557129
+        ]
+      ]
+    },
+    {
+      "title": "WATER IN THE ATMOSPHERE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.94929122924805,
+          171.9001808166504
+        ],
+        [
+          518.9619140625,
+          171.9001808166504
+        ],
+        [
+          518.9619140625,
+          193.495361328125
+        ],
+        [
+          302.94929122924805,
+          193.495361328125
+        ]
+      ]
+    },
+    {
+      "title": "Dew",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.119873046875,
+          289.0498046875
+        ],
+        [
+          65.222412109375,
+          289.0498046875
+        ],
+        [
+          65.222412109375,
+          300.8702735900879
+        ],
+        [
+          42.119873046875,
+          300.8702735900879
+        ]
+      ]
+    },
+    {
+      "title": "Frost",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.0494384765625,
+          431.0927734375
+        ],
+        [
+          71.702392578125,
+          431.0927734375
+        ],
+        [
+          71.702392578125,
+          442.95032119750977
+        ],
+        [
+          42.0494384765625,
+          442.95032119750977
+        ]
+      ]
+    },
+    {
+      "title": "Fog and Mist",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.9085693359375,
+          585.736328125
+        ],
+        [
+          114.1744384765625,
+          585.736328125
+        ],
+        [
+          114.1744384765625,
+          597.2703590393066
+        ],
+        [
+          41.9085693359375,
+          597.2703590393066
+        ]
+      ]
+    },
+    {
+      "title": "Clouds",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.077392578125,
+          263.8486328125
+        ],
+        [
+          326.81640625,
+          263.8486328125
+        ],
+        [
+          326.81640625,
+          276.39011001586914
+        ],
+        [
+          288.077392578125,
+          276.39011001586914
+        ]
+      ]
+    },
+    {
+      "title": "Cirrus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.5492973327637,
+          418.8740234375
+        ],
+        [
+          325.40771484375,
+          418.8740234375
+        ],
+        [
+          325.40771484375,
+          430.6487159729004
+        ],
+        [
+          288.5492973327637,
+          430.6487159729004
+        ]
+      ]
+    },
+    {
+      "title": "Cumulus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.5492973327637,
+          499.0595703125
+        ],
+        [
+          334.705078125,
+          499.0595703125
+        ],
+        [
+          334.705078125,
+          510.8087501525879
+        ],
+        [
+          288.5492973327637,
+          510.8087501525879
+        ]
+      ]
+    },
+    {
+      "title": "Stratus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          287.232177734375,
+          579.2451171875
+        ],
+        [
+          327.3798828125,
+          579.2451171875
+        ],
+        [
+          327.3798828125,
+          590.7287635803223
+        ],
+        [
+          287.232177734375,
+          590.7287635803223
+        ]
+      ]
+    },
+    {
+      "title": "Nimbus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          287.795654296875,
+          671.6494140625
+        ],
+        [
+          327.943359375,
+          671.6494140625
+        ],
+        [
+          327.943359375,
+          683.3687553405762
+        ],
+        [
+          287.795654296875,
+          683.3687553405762
+        ]
+      ]
+    },
+    {
+      "title": "Precipitation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.5492973327637,
+          90.5428466796875
+        ],
+        [
+          359.1128959655762,
+          90.5428466796875
+        ],
+        [
+          359.1128959655762,
+          103.11038589477539
+        ],
+        [
+          288.5492973327637,
+          103.11038589477539
+        ]
+      ]
+    },
+    {
+      "title": "Types of Rainfall",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.077392578125,
+          558.244140625
+        ],
+        [
+          382.037109375,
+          558.244140625
+        ],
+        [
+          382.037109375,
+          571.2265625
+        ],
+        [
+          288.077392578125,
+          571.2265625
+        ]
+      ]
+    },
+    {
+      "title": "Convectional Rain",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.5496025085449,
+          622.0107421875
+        ],
+        [
+          382.3964042663574,
+          622.0107421875
+        ],
+        [
+          382.3964042663574,
+          635.1295967102051
+        ],
+        [
+          288.5496025085449,
+          635.1295967102051
+        ]
+      ]
+    },
+    {
+      "title": "Orographic Rain",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.29595947265625,
+          169.057861328125
+        ],
+        [
+          126.641357421875,
+          169.057861328125
+        ],
+        [
+          126.641357421875,
+          180.32907485961914
+        ],
+        [
+          42.29595947265625,
+          180.32907485961914
+        ]
+      ]
+    },
+    {
+      "title": "Cyclonic Rain",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.119873046875,
+          374.77197265625
+        ],
+        [
+          113.117919921875,
+          374.77197265625
+        ],
+        [
+          113.117919921875,
+          385.76889419555664
+        ],
+        [
+          42.119873046875,
+          385.76889419555664
+        ]
+      ]
+    },
+    {
+      "title": "World Distribution of Rainfall",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.697265625,
+          457.0576171875
+        ],
+        [
+          208.39623641967773,
+          457.0576171875
+        ],
+        [
+          208.39623641967773,
+          468.3902931213379
+        ],
+        [
+          41.697265625,
+          468.3902931213379
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          242.294921875,
+          613.9921875
+        ],
+        [
+          322.30859375,
+          613.9921875
+        ],
+        [
+          322.30859375,
+          623.6549110412598
+        ],
+        [
+          242.294921875,
+          623.6549110412598
+        ]
+      ]
+    },
+    {
+      "title": "Project Work",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.29541015625,
+          427.2744140625
+        ],
+        [
+          147.489990234375,
+          427.2744140625
+        ],
+        [
+          147.489990234375,
+          438.13562393188477
+        ],
+        [
+          80.29541015625,
+          438.13562393188477
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_11_10"
+}

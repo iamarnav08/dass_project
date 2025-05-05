@@ -1,0 +1,855 @@
+{
+  "table_of_contents": [
+    {
+      "title": "9.1 Force of Friction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          327.3046875,
+          179.576416015625
+        ],
+        [
+          485.419921875,
+          179.576416015625
+        ],
+        [
+          485.419921875,
+          197.51824760437012
+        ],
+        [
+          327.3046875,
+          197.51824760437012
+        ]
+      ]
+    },
+    {
+      "title": "Activity 9.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          327.8399963378906,
+          203.916015625
+        ],
+        [
+          416.40179443359375,
+          203.916015625
+        ],
+        [
+          416.40179443359375,
+          220.31811332702637
+        ],
+        [
+          327.8399963378906,
+          220.31811332702637
+        ]
+      ]
+    },
+    {
+      "title": "9.2 Factors affecting Friction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.597412109375,
+          291.69189453125
+        ],
+        [
+          295.927734375,
+          291.69189453125
+        ],
+        [
+          295.927734375,
+          308.8774700164795
+        ],
+        [
+          73.597412109375,
+          308.8774700164795
+        ]
+      ]
+    },
+    {
+      "title": "Activity 9.2",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.289794921875,
+          314.498291015625
+        ],
+        [
+          162.7218017578125,
+          314.498291015625
+        ],
+        [
+          162.7218017578125,
+          331.6781597137451
+        ],
+        [
+          73.289794921875,
+          331.6781597137451
+        ]
+      ]
+    },
+    {
+      "title": "Spring Balance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          390.05859375,
+          159.5489501953125
+        ],
+        [
+          482.958984375,
+          159.5489501953125
+        ],
+        [
+          482.958984375,
+          172.76104545593262
+        ],
+        [
+          390.05859375,
+          172.76104545593262
+        ]
+      ]
+    },
+    {
+      "title": "Activity 9.3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.921875,
+          521.2890625
+        ],
+        [
+          409.9217834472656,
+          521.2890625
+        ],
+        [
+          409.9217834472656,
+          538.0781536102295
+        ],
+        [
+          319.921875,
+          538.0781536102295
+        ]
+      ]
+    },
+    {
+      "title": "9.3 Friction : A Necessary\nEvil",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          321.15234375,
+          133.77197265625
+        ],
+        [
+          522.94921875,
+          133.77197265625
+        ],
+        [
+          522.94921875,
+          167.27728080749512
+        ],
+        [
+          321.15234375,
+          167.27728080749512
+        ]
+      ]
+    },
+    {
+      "title": "9.4 Increasing and Reducing\nFriction",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          73.212890625,
+          78.193359375
+        ],
+        [
+          297.4658203125,
+          78.193359375
+        ],
+        [
+          297.4658203125,
+          112.07714653015137
+        ],
+        [
+          73.212890625,
+          112.07714653015137
+        ]
+      ]
+    },
+    {
+      "title": "9.5 Wheels Reduce Friction",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          79.6728515625,
+          305.107421875
+        ],
+        [
+          286.3916015625,
+          305.107421875
+        ],
+        [
+          286.3916015625,
+          322.0774517059326
+        ],
+        [
+          79.6728515625,
+          322.0774517059326
+        ]
+      ]
+    },
+    {
+      "title": "Activity 9.4",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          327.8399963378906,
+          77.66632080078125
+        ],
+        [
+          416.513671875,
+          77.66632080078125
+        ],
+        [
+          416.513671875,
+          95.27715873718262
+        ],
+        [
+          327.8399963378906,
+          95.27715873718262
+        ]
+      ]
+    },
+    {
+      "title": "9.6 Fluid Friction",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          73.2513427734375,
+          417.7978515625
+        ],
+        [
+          208.41064453125,
+          417.7978515625
+        ],
+        [
+          208.41064453125,
+          434.3981304168701
+        ],
+        [
+          73.2513427734375,
+          434.3981304168701
+        ]
+      ]
+    },
+    {
+      "title": "KEYWORDS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.81999969482422,
+          80.74810600280762
+        ],
+        [
+          153.116455078125,
+          80.74810600280762
+        ],
+        [
+          153.116455078125,
+          93.333740234375
+        ],
+        [
+          80.81999969482422,
+          93.333740234375
+        ]
+      ]
+    },
+    {
+      "title": "A riddle for you",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          132.0,
+          470.693359375
+        ],
+        [
+          229.63623046875,
+          470.693359375
+        ],
+        [
+          229.63623046875,
+          485.97408866882324
+        ],
+        [
+          132.0,
+          485.97408866882324
+        ]
+      ]
+    },
+    {
+      "title": "WHAT YOU HAVE LEARNT",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          266.56500244140625,
+          82.601318359375
+        ],
+        [
+          410.0537109375,
+          82.601318359375
+        ],
+        [
+          410.0537109375,
+          95.05859375
+        ],
+        [
+          266.56500244140625,
+          95.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          110.665283203125,
+          79.2474365234375
+        ],
+        [
+          180.72509765625,
+          79.2474365234375
+        ],
+        [
+          180.72509765625,
+          95.27715873718262
+        ],
+        [
+          110.665283203125,
+          95.27715873718262
+        ]
+      ]
+    },
+    {
+      "title": "Extended Learning \u2014 Activities and Projects",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          130.58349609375,
+          82.84088134765625
+        ],
+        [
+          463.6922607421875,
+          82.84088134765625
+        ],
+        [
+          463.6922607421875,
+          99.59716606140137
+        ],
+        [
+          130.58349609375,
+          99.59716606140137
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 9.18",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          308.5400390625,
+          625.93017578125
+        ],
+        [
+          356.1635437011719,
+          625.93017578125
+        ],
+        [
+          356.1635437011719,
+          638.96240234375
+        ],
+        [
+          308.5400390625,
+          638.96240234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_8_9"
+}

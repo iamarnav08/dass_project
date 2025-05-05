@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A new deal for old cities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          134.88011169433594,
+          295.26806640625
+        ],
+        [
+          334.546875,
+          295.26806640625
+        ],
+        [
+          334.546875,
+          313.55776596069336
+        ],
+        [
+          134.88011169433594,
+          313.55776596069336
+        ]
+      ]
+    },
+    {
+      "title": "Urban Decay",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.525390625,
+          520.1943359375
+        ],
+        [
+          132.99609375,
+          520.1943359375
+        ],
+        [
+          132.99609375,
+          530.9130859375
+        ],
+        [
+          71.525390625,
+          530.9130859375
+        ]
+      ]
+    },
+    {
+      "title": "SUB-TITLING 87",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.58251953125,
+          58.45068359375
+        ],
+        [
+          396.00128173828125,
+          58.45068359375
+        ],
+        [
+          396.00128173828125,
+          69.57052230834961
+        ],
+        [
+          71.58251953125,
+          69.57052230834961
+        ]
+      ]
+    },
+    {
+      "title": "Activity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.78271484375,
+          359.4130859375
+        ],
+        [
+          116.60009765625,
+          359.4130859375
+        ],
+        [
+          116.60009765625,
+          370.6076316833496
+        ],
+        [
+          70.78271484375,
+          370.6076316833496
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_11_w3"
+}

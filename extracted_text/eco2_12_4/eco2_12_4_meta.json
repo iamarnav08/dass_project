@@ -1,0 +1,1089 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Determination of Income and\nEmployment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.9033203125,
+          120.2955322265625
+        ],
+        [
+          368.9697265625,
+          120.2955322265625
+        ],
+        [
+          368.9697265625,
+          190.2191162109375
+        ],
+        [
+          45.9033203125,
+          190.2191162109375
+        ]
+      ]
+    },
+    {
+      "title": "4.1 AGGREGATE DEMAND AND ITS COMPONENTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.4727783203125,
+          567.47900390625
+        ],
+        [
+          287.91259765625,
+          567.47900390625
+        ],
+        [
+          287.91259765625,
+          580.843936920166
+        ],
+        [
+          41.4727783203125,
+          580.843936920166
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1. Consumption",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          136.983642578125,
+          291.63720703125
+        ],
+        [
+          249.12719726562497,
+          291.63720703125
+        ],
+        [
+          249.12719726562497,
+          302.78496170043945
+        ],
+        [
+          136.983642578125,
+          302.78496170043945
+        ]
+      ]
+    },
+    {
+      "title": "Some Definitions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          191.79470443725586,
+          493.8955078125
+        ],
+        [
+          287.0741996765137,
+          493.8955078125
+        ],
+        [
+          287.0741996765137,
+          506.5463447570801
+        ],
+        [
+          191.79470443725586,
+          506.5463447570801
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2. Investment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          138.27470016479492,
+          66.69708251953125
+        ],
+        [
+          236.19873046874997,
+          66.69708251953125
+        ],
+        [
+          236.19873046874997,
+          78.38542556762695
+        ],
+        [
+          138.27470016479492,
+          78.38542556762695
+        ]
+      ]
+    },
+    {
+      "title": "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          138.27470016479492,
+          295.2440071105957
+        ],
+        [
+          416.4359245300293,
+          295.2440071105957
+        ],
+        [
+          416.4359245300293,
+          307.2440071105957
+        ],
+        [
+          138.27470016479492,
+          307.2440071105957
+        ]
+      ]
+    },
+    {
+      "title": "4.3 DETERMINATION OF EQUILIBRIUM INCOME IN THE SHORT RUN",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.690673828125,
+          444.5830078125
+        ],
+        [
+          367.2265625,
+          444.5830078125
+        ],
+        [
+          367.2265625,
+          457.9640693664551
+        ],
+        [
+          41.690673828125,
+          457.9640693664551
+        ]
+      ]
+    },
+    {
+      "title": "4.3.1 Macroeconomic Equilibrium with Price Level Fixed",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.690673828125,
+          636.82470703125
+        ],
+        [
+          352.7001953125,
+          636.82470703125
+        ],
+        [
+          352.7001953125,
+          650.0664100646973
+        ],
+        [
+          41.690673828125,
+          650.0664100646973
+        ]
+      ]
+    },
+    {
+      "title": "(A) Graphical Method",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.9085693359375,
+          658.39892578125
+        ],
+        [
+          160.9521484375,
+          658.39892578125
+        ],
+        [
+          160.9521484375,
+          671.49755859375
+        ],
+        [
+          41.9085693359375,
+          671.49755859375
+        ]
+      ]
+    },
+    {
+      "title": "Consumption Function \u2013\nGraphical Representation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.2183837890625,
+          336.519287109375
+        ],
+        [
+          301.71540451049805,
+          336.519287109375
+        ],
+        [
+          301.71540451049805,
+          360.7565498352051
+        ],
+        [
+          138.2183837890625,
+          360.7565498352051
+        ]
+      ]
+    },
+    {
+      "title": "Investment Function \u2013\nGraphical Representation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.27470016479492,
+          500.0595703125
+        ],
+        [
+          301.7140922546387,
+          500.0595703125
+        ],
+        [
+          301.7140922546387,
+          523.9565620422363
+        ],
+        [
+          138.27470016479492,
+          523.9565620422363
+        ]
+      ]
+    },
+    {
+      "title": "shown as I = I",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.27470016479492,
+          595.98779296875
+        ],
+        [
+          209.1796875,
+          595.98779296875
+        ],
+        [
+          209.1796875,
+          610.0998268127441
+        ],
+        [
+          138.27470016479492,
+          610.0998268127441
+        ]
+      ]
+    },
+    {
+      "title": "Aggregate Demand: Graphical Representation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.6180419921875,
+          65.9747314453125
+        ],
+        [
+          304.76318359375,
+          65.9747314453125
+        ],
+        [
+          304.76318359375,
+          78.03557205200195
+        ],
+        [
+          41.6180419921875,
+          78.03557205200195
+        ]
+      ]
+    },
+    {
+      "title": "Supply Side of Macroeconomic Equilibrium",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.9085693359375,
+          328.236328125
+        ],
+        [
+          282.392578125,
+          328.236328125
+        ],
+        [
+          282.392578125,
+          340.17919921875
+        ],
+        [
+          41.9085693359375,
+          340.17919921875
+        ]
+      ]
+    },
+    {
+      "title": "Equilibrium",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.1990966796875,
+          637.98046875
+        ],
+        [
+          107.7130126953125,
+          637.98046875
+        ],
+        [
+          107.7130126953125,
+          650.30859375
+        ],
+        [
+          42.1990966796875,
+          650.30859375
+        ]
+      ]
+    },
+    {
+      "title": "(B) Algebraic Method",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          137.3468017578125,
+          110.953125
+        ],
+        [
+          255.66406249999997,
+          110.953125
+        ],
+        [
+          255.66406249999997,
+          122.43547439575195
+        ],
+        [
+          137.3468017578125,
+          122.43547439575195
+        ]
+      ]
+    },
+    {
+      "title": "4.3.2 Effect of an Autonomous Change in Aggregate Demand on Income\nand Output",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          137.7099609375,
+          372.347900390625
+        ],
+        [
+          535.732421875,
+          372.347900390625
+        ],
+        [
+          535.732421875,
+          396.3863716125488
+        ],
+        [
+          137.7099609375,
+          396.3863716125488
+        ]
+      ]
+    },
+    {
+      "title": "4.3.3 The Multiplier Mechanism",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.0538330078125,
+          394.5
+        ],
+        [
+          218.76708984375,
+          394.5
+        ],
+        [
+          218.76708984375,
+          406.7064094543457
+        ],
+        [
+          42.0538330078125,
+          406.7064094543457
+        ]
+      ]
+    },
+    {
+      "title": "Paradox of Thrift",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.70336914062499,
+          80.1328125
+        ],
+        [
+          147.1639060974121,
+          80.1328125
+        ],
+        [
+          147.1639060974121,
+          91.3336067199707
+        ],
+        [
+          59.70336914062499,
+          91.3336067199707
+        ]
+      ]
+    },
+    {
+      "title": "4.4 SOME MORE CONCEPTS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          138.27470016479492,
+          377.16357421875
+        ],
+        [
+          281.52099609375,
+          377.16357421875
+        ],
+        [
+          281.52099609375,
+          390.2840461730957
+        ],
+        [
+          138.27470016479492,
+          390.2840461730957
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Readings",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          190.11469650268555,
+          549.75732421875
+        ],
+        [
+          292.12348556518555,
+          549.75732421875
+        ],
+        [
+          292.12348556518555,
+          561.31494140625
+        ],
+        [
+          190.11469650268555,
+          561.31494140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/eco2_12_4"
+}

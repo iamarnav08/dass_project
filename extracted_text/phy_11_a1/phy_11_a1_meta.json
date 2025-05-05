@@ -1,0 +1,1505 @@
+{
+  "table_of_contents": [
+    {
+      "title": "APPENDICES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          294.7200012207031,
+          169.33861541748047
+        ],
+        [
+          399.3623046875,
+          169.33861541748047
+        ],
+        [
+          399.3623046875,
+          189.33861541748047
+        ],
+        [
+          294.7200012207031,
+          189.33861541748047
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          308.8799743652344,
+          250.45703125
+        ],
+        [
+          389.0810546875,
+          250.45703125
+        ],
+        [
+          389.0810546875,
+          261.22081756591797
+        ],
+        [
+          308.8799743652344,
+          261.22081756591797
+        ]
+      ]
+    },
+    {
+      "title": "THE GREEK ALPHABET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          287.5199890136719,
+          266.37109375
+        ],
+        [
+          406.109375,
+          266.37109375
+        ],
+        [
+          406.109375,
+          276.82079315185547
+        ],
+        [
+          287.5199890136719,
+          276.82079315185547
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          307.44000244140625,
+          444.078125
+        ],
+        [
+          386.83203125,
+          444.078125
+        ],
+        [
+          386.83203125,
+          455.6207809448242
+        ],
+        [
+          307.44000244140625,
+          455.6207809448242
+        ]
+      ]
+    },
+    {
+      "title": "COMMON SI PREFIXES AND SYMBOLS FOR MULTIPLES AND SUB-MULTIPLES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          162.72000122070312,
+          463.0234375
+        ],
+        [
+          568.3603515625,
+          463.0234375
+        ],
+        [
+          568.3603515625,
+          473.6207809448242
+        ],
+        [
+          162.72000122070312,
+          473.6207809448242
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 3\nSOME IMPORTANT CONSTANTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          229.6800079345703,
+          72.0869140625
+        ],
+        [
+          391.6887512207031,
+          72.0869140625
+        ],
+        [
+          391.6887512207031,
+          99.69988250732422
+        ],
+        [
+          229.6800079345703,
+          99.69988250732422
+        ]
+      ]
+    },
+    {
+      "title": "Other useful constants",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          247.392578125,
+          483.86328125
+        ],
+        [
+          385.2255859375,
+          483.86328125
+        ],
+        [
+          385.2255859375,
+          495.98828125
+        ],
+        [
+          247.392578125,
+          495.98828125
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 4\nCONVERSION FACTORS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          284.01953125,
+          73.46044921875
+        ],
+        [
+          407.39453125,
+          73.46044921875
+        ],
+        [
+          407.39453125,
+          95.61986541748047
+        ],
+        [
+          284.01953125,
+          95.61986541748047
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          120.32275390625,
+          145.9736328125
+        ],
+        [
+          156.62841796875,
+          145.9736328125
+        ],
+        [
+          156.62841796875,
+          156.2041015625
+        ],
+        [
+          120.32275390625,
+          156.2041015625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          120.081787109375,
+          292.13671875
+        ],
+        [
+          144.017822265625,
+          292.13671875
+        ],
+        [
+          144.017822265625,
+          302.3671875
+        ],
+        [
+          120.081787109375,
+          302.3671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          119.51953125,
+          411.87109375
+        ],
+        [
+          156.62841796875,
+          411.87109375
+        ],
+        [
+          156.62841796875,
+          422.48046875
+        ],
+        [
+          119.51953125,
+          422.48046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          119.8408203125,
+          521.375
+        ],
+        [
+          151.3271484375,
+          521.375
+        ],
+        [
+          151.3271484375,
+          531.984375
+        ],
+        [
+          119.8408203125,
+          531.984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          121.366943359375,
+          589.578125
+        ],
+        [
+          201.76953125,
+          589.578125
+        ],
+        [
+          201.76953125,
+          600.1875
+        ],
+        [
+          121.366943359375,
+          600.1875
+        ]
+      ]
+    },
+    {
+      "title": "Length Angle and Angular Speed",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          121.67998504638672,
+          145.310546875
+        ],
+        [
+          502.8173828125,
+          145.310546875
+        ],
+        [
+          502.8173828125,
+          156.109375
+        ],
+        [
+          121.67998504638672,
+          156.109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          376.55078125,
+          244.205078125
+        ],
+        [
+          402.896484375,
+          244.205078125
+        ],
+        [
+          402.896484375,
+          254.814453125
+        ],
+        [
+          376.55078125,
+          254.814453125
+        ]
+      ]
+    },
+    {
+      "title": "Speed Pressure",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          121.68020629882812,
+          521.6999740600586
+        ],
+        [
+          418.318359375,
+          521.6999740600586
+        ],
+        [
+          418.318359375,
+          533.12109375
+        ],
+        [
+          121.68020629882812,
+          533.12109375
+        ]
+      ]
+    },
+    {
+      "title": "Energy Power",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.739990234375,
+          72.70263671875
+        ],
+        [
+          368.4020080566406,
+          72.70263671875
+        ],
+        [
+          368.4020080566406,
+          83.61986541748047
+        ],
+        [
+          84.739990234375,
+          83.61986541748047
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          337.353515625,
+          72.37109375
+        ],
+        [
+          367.5546875,
+          72.37109375
+        ],
+        [
+          367.5546875,
+          83.0751953125
+        ],
+        [
+          337.353515625,
+          83.0751953125
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 5\nMATHEMATICAL FORMULAE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          238.55712890625,
+          247.14086151123047
+        ],
+        [
+          384.26171875,
+          247.14086151123047
+        ],
+        [
+          384.26171875,
+          269.14086151123047
+        ],
+        [
+          238.55712890625,
+          269.14086151123047
+        ]
+      ]
+    },
+    {
+      "title": "Geometry",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.33837890625,
+          279.6328125
+        ],
+        [
+          135.843505859375,
+          279.6328125
+        ],
+        [
+          135.843505859375,
+          290.74083709716797
+        ],
+        [
+          84.33837890625,
+          290.74083709716797
+        ]
+      ]
+    },
+    {
+      "title": "Quadratic Formula",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.8203125,
+          451.65625
+        ],
+        [
+          182.97412109375,
+          451.65625
+        ],
+        [
+          182.97412109375,
+          463.78084564208984
+        ],
+        [
+          84.8203125,
+          463.78084564208984
+        ]
+      ]
+    },
+    {
+      "title": "Pythagorean Theorem",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          321.1199951171875,
+          368.486328125
+        ],
+        [
+          435.66796875,
+          368.486328125
+        ],
+        [
+          435.66796875,
+          379.853515625
+        ],
+        [
+          321.1199951171875,
+          379.853515625
+        ]
+      ]
+    },
+    {
+      "title": "Triangles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.02392578125,
+          556.61328125
+        ],
+        [
+          370.4462890625,
+          556.61328125
+        ],
+        [
+          370.4462890625,
+          568.1808547973633
+        ],
+        [
+          315.02392578125,
+          568.1808547973633
+        ]
+      ]
+    },
+    {
+      "title": "Mathematical Signs and Symbols",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          119.51953125,
+          196.462890625
+        ],
+        [
+          291.6146240234375,
+          196.462890625
+        ],
+        [
+          291.6146240234375,
+          206.73986053466797
+        ],
+        [
+          119.51953125,
+          206.73986053466797
+        ]
+      ]
+    },
+    {
+      "title": "Trigonometric Identities",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          120.724365234375,
+          403.9140625
+        ],
+        [
+          248.8910675048828,
+          403.9140625
+        ],
+        [
+          248.8910675048828,
+          414.1008529663086
+        ],
+        [
+          120.724365234375,
+          414.1008529663086
+        ]
+      ]
+    },
+    {
+      "title": "Binomial Theorem",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          354.703125,
+          202.3359375
+        ],
+        [
+          451.732421875,
+          202.3359375
+        ],
+        [
+          451.732421875,
+          213.46086883544922
+        ],
+        [
+          354.703125,
+          213.46086883544922
+        ]
+      ]
+    },
+    {
+      "title": "Exponential Expansion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          354.703125,
+          305.77734375
+        ],
+        [
+          475.5078125,
+          305.77734375
+        ],
+        [
+          475.5078125,
+          316.42086029052734
+        ],
+        [
+          354.703125,
+          316.42086029052734
+        ]
+      ]
+    },
+    {
+      "title": "Logarithmic Expansion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          354.7200012207031,
+          362.82088470458984
+        ],
+        [
+          474.865234375,
+          362.82088470458984
+        ],
+        [
+          474.865234375,
+          373.22265625
+        ],
+        [
+          354.7200012207031,
+          373.22265625
+        ]
+      ]
+    },
+    {
+      "title": "Trigonometric Expansion\n(\u03b8 in radians)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          353.7392578125,
+          418.9808578491211
+        ],
+        [
+          488.0380859375,
+          418.9808578491211
+        ],
+        [
+          488.0380859375,
+          445.0608444213867
+        ],
+        [
+          353.7392578125,
+          445.0608444213867
+        ]
+      ]
+    },
+    {
+      "title": "Products of Vectors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          354.060546875,
+          545.24609375
+        ],
+        [
+          456.23046875,
+          545.24609375
+        ],
+        [
+          456.23046875,
+          555.9408493041992
+        ],
+        [
+          354.060546875,
+          555.9408493041992
+        ]
+      ]
+    },
+    {
+      "title": "A 6.2 SI Derived Units with special names",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          234.2197265625,
+          72.560546875
+        ],
+        [
+          456.5517578125,
+          72.560546875
+        ],
+        [
+          456.5517578125,
+          83.39940643310547
+        ],
+        [
+          234.2197265625,
+          83.39940643310547
+        ]
+      ]
+    },
+    {
+      "title": "A 6.3 Some SI Derived Units expressed by means of SI Units with special names",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          128.515625,
+          502.05078125
+        ],
+        [
+          550.689453125,
+          502.05078125
+        ],
+        [
+          550.689453125,
+          513.9604110717773
+        ],
+        [
+          128.515625,
+          513.9604110717773
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 7",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          265.7060546875,
+          521.75390625
+        ],
+        [
+          363.056640625,
+          521.75390625
+        ],
+        [
+          363.056640625,
+          533.12109375
+        ],
+        [
+          265.7060546875,
+          533.12109375
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL GUIDELINES FOR USING SYMBOLS FOR PHYSICAL QUANTITIES, CHEMICAL\nELEMENTS AND NUCLIDES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          90.9248046875,
+          534.6608505249023
+        ],
+        [
+          532.3759765625,
+          534.6608505249023
+        ],
+        [
+          532.3759765625,
+          556.9921875
+        ],
+        [
+          90.9248046875,
+          556.9921875
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 8",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          308.4375,
+          255.76171875
+        ],
+        [
+          386.189453125,
+          255.76171875
+        ],
+        [
+          386.189453125,
+          266.50084686279297
+        ],
+        [
+          308.4375,
+          266.50084686279297
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL GUIDELINES FOR USING SYMBOLS FOR SI UNITS, SOME OTHER UNITS, AND\nSI PREFIXES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          123.6962890625,
+          267.697265625
+        ],
+        [
+          570.9306640625,
+          267.697265625
+        ],
+        [
+          570.9306640625,
+          292.4208297729492
+        ],
+        [
+          123.6962890625,
+          292.4208297729492
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A 9\nDIMENSIONAL FORMULAE OF PHYSICAL QUANTITIES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          182.63999938964844,
+          73.7919921875
+        ],
+        [
+          455.5479431152344,
+          73.7919921875
+        ],
+        [
+          455.5479431152344,
+          96.75066375732422
+        ],
+        [
+          182.63999938964844,
+          96.75066375732422
+        ]
+      ]
+    },
+    {
+      "title": "APPENDICES 159",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          73.173583984375,
+          47.931640625
+        ],
+        [
+          547.6817626953125,
+          47.931640625
+        ],
+        [
+          547.6817626953125,
+          57.6884765625
+        ],
+        [
+          73.173583984375,
+          57.6884765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          257
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "TextInlineMath",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "Line",
+          168
+        ],
+        [
+          "Equation",
+          13
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          330
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TextInlineMath",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_11_a1"
+}

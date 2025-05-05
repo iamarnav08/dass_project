@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OAuth Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .code-display {
+            background-color: #f5f5f5;
+            padding: 10px;
+            overflow: auto;
+            font-family: monospace;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+        button {
+            padding: 8px 16px;
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        button:hover {
+            background-color: #3367d6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Google OAuth Test</h1>
+    
+    <p>This page helps debug Google OAuth issues by testing the redirect flow.</p>
+    
+    <div>
+        <h2>Step 1: Test OAuth Login</h2>
+        <button id="login-button">Initiate Google Login</button>
+    </div>
+    
+    <div id="code-section" style="display: none; margin-top: 20px;">
+        <h2>Step 2: Auth Code Received</h2>
+        <p>The authorization code from Google:</p>
+        <div id="auth-code" class="code-display"></div>
+        
+        <h2>Step 3: Send to Backend</h2>
+        <button id="send-code">Send Code to Backend</button>
+        
+        <div id="result-section" style="display: none; margin-top: 20px;">
+            <h2>Backend Response:</h2>
+            <pre id="response-data" class="code-display"></pre>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Check for code in URL (after redirect from Google)
+            const urlParams = new URLSearchParams(window.location.search);
+            const code = urlParams.get('code');
+            
+            if (code) {
+                // Show the code section
+                document.getElementById('code-section').style.display = 'block';
+                document.getElementById('auth-code').textContent = code;
+            }
+            
+            // Login button initiates OAuth flow
+            document.getElementById('login-button').addEventListener('click', async function() {
+                try {
+                    const response = await fetch('http://localhost:5000/auth/google');
+                    const data = await response.json();
+                    
+                    if (data.auth_url) {
+                        window.location.href = data.auth_url;
+                    } else {
+                        alert('Error: No auth URL returned');
+                    }
+                } catch (error) {
+                    alert('Error initiating login: ' + error.message);
+                }
+            });
+            
+            // Send code to backend
+            document.getElementById('send-code').addEventListener('click', async function() {
+                const code = document.getElementById('auth-code').textContent;
+                
+                try {
+                    const response = await fetch('http://localhost:5000/auth/google/callback', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ code })
+                    });
+                    
+                    const responseText = await response.text();
+                    let formattedResponse;
+                    
+                    try {
+                        // Try to parse as JSON for nice formatting
+                        const jsonResponse = JSON.parse(responseText);
+                        formattedResponse = JSON.stringify(jsonResponse, null, 2);
+                    } catch (e) {
+                        // If not JSON, just display the text
+                        formattedResponse = responseText;
+                    }
+                    
+                    document.getElementById('result-section').style.display = 'block';
+                    document.getElementById('response-data').textContent = formattedResponse;
+                } catch (error) {
+                    alert('Error sending code: ' + error.message);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

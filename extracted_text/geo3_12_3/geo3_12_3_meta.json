@@ -1,0 +1,1833 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit III Unit IIIUnit III\nChapter 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.58740234375,
+          67.0023193359375
+        ],
+        [
+          130.36376953125,
+          67.0023193359375
+        ],
+        [
+          130.36376953125,
+          99.213134765625
+        ],
+        [
+          60.58740234375,
+          99.213134765625
+        ]
+      ]
+    },
+    {
+      "title": "LAND RESOURCES\nAND AGRICULTURE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.3984375,
+          231.01204872131348
+        ],
+        [
+          247.4296875,
+          231.01204872131348
+        ],
+        [
+          247.4296875,
+          281.581787109375
+        ],
+        [
+          51.3984375,
+          281.581787109375
+        ]
+      ]
+    },
+    {
+      "title": "Land Use Categories",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          295.3916015625,
+          226.527099609375
+        ],
+        [
+          436.4906005859375,
+          226.527099609375
+        ],
+        [
+          436.4906005859375,
+          242.202392578125
+        ],
+        [
+          295.3916015625,
+          242.202392578125
+        ]
+      ]
+    },
+    {
+      "title": "Land-use Changes in India",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          328.7400207519531,
+          63.99151611328125
+        ],
+        [
+          506.513671875,
+          63.99151611328125
+        ],
+        [
+          506.513671875,
+          78.90216064453125
+        ],
+        [
+          328.7400207519531,
+          78.90216064453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          85.0166015625,
+          253.289794921875
+        ],
+        [
+          172.125,
+          253.289794921875
+        ],
+        [
+          172.125,
+          271.641357421875
+        ],
+        [
+          85.0166015625,
+          271.641357421875
+        ]
+      ]
+    },
+    {
+      "title": "Note for Teacher",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.59716796875,
+          360.340576171875
+        ],
+        [
+          166.447265625,
+          360.340576171875
+        ],
+        [
+          166.447265625,
+          372.957275390625
+        ],
+        [
+          83.59716796875,
+          372.957275390625
+        ]
+      ]
+    },
+    {
+      "title": "Common Property Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.44775390625,
+          542.51806640625
+        ],
+        [
+          280.001953125,
+          542.51806640625
+        ],
+        [
+          280.001953125,
+          558.57568359375
+        ],
+        [
+          83.44775390625,
+          558.57568359375
+        ]
+      ]
+    },
+    {
+      "title": "Agricultural Land Use in India",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          325.72265625,
+          295.727783203125
+        ],
+        [
+          527.73046875,
+          295.727783203125
+        ],
+        [
+          527.73046875,
+          311.403076171875
+        ],
+        [
+          325.72265625,
+          311.403076171875
+        ]
+      ]
+    },
+    {
+      "title": "Types of Farming",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          295.83984375,
+          410.6162109375
+        ],
+        [
+          393.2578125,
+          410.6162109375
+        ],
+        [
+          393.2578125,
+          424.3798828125
+        ],
+        [
+          295.83984375,
+          424.3798828125
+        ]
+      ]
+    },
+    {
+      "title": "Foodgrains",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          83.8212890625,
+          409.0869140625
+        ],
+        [
+          144.72300720214844,
+          409.0869140625
+        ],
+        [
+          144.72300720214844,
+          421.52300453186035
+        ],
+        [
+          83.8212890625,
+          421.52300453186035
+        ]
+      ]
+    },
+    {
+      "title": "Cereals",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          83.29833984375,
+          552.8408203125
+        ],
+        [
+          123.93896484375,
+          552.8408203125
+        ],
+        [
+          123.93896484375,
+          564.5862827301025
+        ],
+        [
+          83.29833984375,
+          564.5862827301025
+        ]
+      ]
+    },
+    {
+      "title": "Rice",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          327.1199951171875,
+          65.759765625
+        ],
+        [
+          353.513671875,
+          65.759765625
+        ],
+        [
+          353.513671875,
+          77.38637733459473
+        ],
+        [
+          327.1199951171875,
+          77.38637733459473
+        ]
+      ]
+    },
+    {
+      "title": "Wheat",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          84.00001525878906,
+          129.416748046875
+        ],
+        [
+          115.4970703125,
+          129.416748046875
+        ],
+        [
+          115.4970703125,
+          141.47036170959473
+        ],
+        [
+          84.00001525878906,
+          141.47036170959473
+        ]
+      ]
+    },
+    {
+      "title": "Jowar",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.671875,
+          464.52392578125
+        ],
+        [
+          116.3935546875,
+          464.52392578125
+        ],
+        [
+          116.3935546875,
+          477.470178604126
+        ],
+        [
+          83.671875,
+          477.470178604126
+        ]
+      ]
+    },
+    {
+      "title": "Bajra",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          327.1199951171875,
+          65.4730224609375
+        ],
+        [
+          357.99609375,
+          65.4730224609375
+        ],
+        [
+          357.99609375,
+          77.15017127990723
+        ],
+        [
+          327.1199951171875,
+          77.15017127990723
+        ]
+      ]
+    },
+    {
+      "title": "Maize",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          327.1200256347656,
+          281.199462890625
+        ],
+        [
+          359.19140625,
+          281.199462890625
+        ],
+        [
+          359.19140625,
+          293.433837890625
+        ],
+        [
+          327.1200256347656,
+          293.433837890625
+        ]
+      ]
+    },
+    {
+      "title": "Pulses",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          327.12005615234375,
+          483.2578125
+        ],
+        [
+          360.685546875,
+          483.2578125
+        ],
+        [
+          360.685546875,
+          494.7504825592041
+        ],
+        [
+          327.12005615234375,
+          494.7504825592041
+        ]
+      ]
+    },
+    {
+      "title": "Gram",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          83.5224609375,
+          63.89593505859375
+        ],
+        [
+          113.255859375,
+          63.89593505859375
+        ],
+        [
+          113.255859375,
+          75.71041297912598
+        ],
+        [
+          83.5224609375,
+          75.71041297912598
+        ]
+      ]
+    },
+    {
+      "title": "Tur (Arhar)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          83.59716796875,
+          295.727783203125
+        ],
+        [
+          140.1599884033203,
+          295.727783203125
+        ],
+        [
+          140.1599884033203,
+          307.7900333404541
+        ],
+        [
+          83.59716796875,
+          307.7900333404541
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          84.1201171875,
+          476.3759765625
+        ],
+        [
+          170.9296875,
+          476.3759765625
+        ],
+        [
+          170.9296875,
+          495.4921875
+        ],
+        [
+          84.1201171875,
+          495.4921875
+        ]
+      ]
+    },
+    {
+      "title": "Oilseeds",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          83.14892578125,
+          555.134765625
+        ],
+        [
+          129.16845703125,
+          555.134765625
+        ],
+        [
+          129.16845703125,
+          567.4298648834229
+        ],
+        [
+          83.14892578125,
+          567.4298648834229
+        ]
+      ]
+    },
+    {
+      "title": "Rapeseed and Mustard",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          326.91796875,
+          245.643310546875
+        ],
+        [
+          450.6328125,
+          245.643310546875
+        ],
+        [
+          450.6328125,
+          257.495361328125
+        ],
+        [
+          326.91796875,
+          257.495361328125
+        ]
+      ]
+    },
+    {
+      "title": "Other Oilseeds",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          327.1200256347656,
+          490.52197265625
+        ],
+        [
+          404.4003601074219,
+          490.52197265625
+        ],
+        [
+          404.4003601074219,
+          502.1910648345947
+        ],
+        [
+          327.1200256347656,
+          502.1910648345947
+        ]
+      ]
+    },
+    {
+      "title": "Fibre Crops",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          83.5224609375,
+          164.972900390625
+        ],
+        [
+          146.42578125,
+          164.972900390625
+        ],
+        [
+          146.42578125,
+          177.66872596740723
+        ],
+        [
+          83.5224609375,
+          177.66872596740723
+        ]
+      ]
+    },
+    {
+      "title": "Cotton",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          83.671875,
+          245.260986328125
+        ],
+        [
+          119.0830078125,
+          245.260986328125
+        ],
+        [
+          119.0830078125,
+          258.3501224517822
+        ],
+        [
+          83.671875,
+          258.3501224517822
+        ]
+      ]
+    },
+    {
+      "title": "Jute",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          326.619140625,
+          139.54833984375
+        ],
+        [
+          350.525390625,
+          139.54833984375
+        ],
+        [
+          350.525390625,
+          152.27004432678223
+        ],
+        [
+          326.619140625,
+          152.27004432678223
+        ]
+      ]
+    },
+    {
+      "title": "Other Crops",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          325.72265625,
+          322.681640625
+        ],
+        [
+          392.3999938964844,
+          322.681640625
+        ],
+        [
+          392.3999938964844,
+          336.4453125
+        ],
+        [
+          325.72265625,
+          336.4453125
+        ]
+      ]
+    },
+    {
+      "title": "Sugarcane",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          326.91796875,
+          379.456787109375
+        ],
+        [
+          384.890625,
+          379.456787109375
+        ],
+        [
+          384.890625,
+          392.2646484375
+        ],
+        [
+          326.91796875,
+          392.2646484375
+        ]
+      ]
+    },
+    {
+      "title": "Tea",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          83.5224609375,
+          251.95166015625
+        ],
+        [
+          103.8427734375,
+          251.95166015625
+        ],
+        [
+          103.8427734375,
+          265.5500736236572
+        ],
+        [
+          83.5224609375,
+          265.5500736236572
+        ]
+      ]
+    },
+    {
+      "title": "Coffee",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          326.619140625,
+          139.54833984375
+        ],
+        [
+          357.697265625,
+          139.54833984375
+        ],
+        [
+          357.697265625,
+          152.356201171875
+        ],
+        [
+          326.619140625,
+          152.356201171875
+        ]
+      ]
+    },
+    {
+      "title": "Agricultural Development in India",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          326.3203125,
+          346.00341796875
+        ],
+        [
+          550.44140625,
+          346.00341796875
+        ],
+        [
+          550.44140625,
+          360.7612552642822
+        ],
+        [
+          326.3203125,
+          360.7612552642822
+        ]
+      ]
+    },
+    {
+      "title": "National Mission for Sustainable Agriculture\n(NMSA)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          95.1767578125,
+          551.3115234375
+        ],
+        [
+          303.4599609375,
+          551.3115234375
+        ],
+        [
+          303.4599609375,
+          574.2509765625
+        ],
+        [
+          95.1767578125,
+          574.2509765625
+        ]
+      ]
+    },
+    {
+      "title": "Growth of Agricultural Output and Technology",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          327.1199951171875,
+          64.421630859375
+        ],
+        [
+          558.80859375,
+          64.421630859375
+        ],
+        [
+          558.80859375,
+          77.34871864318848
+        ],
+        [
+          327.1199951171875,
+          77.34871864318848
+        ]
+      ]
+    },
+    {
+      "title": "Farmer's Portal of India",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          339.767578125,
+          398.76416015625
+        ],
+        [
+          441.37322998046875,
+          398.76416015625
+        ],
+        [
+          441.37322998046875,
+          410.99853515625
+        ],
+        [
+          339.767578125,
+          410.99853515625
+        ]
+      ]
+    },
+    {
+      "title": "Problems of Indian Agricultur riculturriculture",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          327.1199951171875,
+          570.427734375
+        ],
+        [
+          532.810546875,
+          570.427734375
+        ],
+        [
+          532.810546875,
+          586.4853515625
+        ],
+        [
+          327.1199951171875,
+          586.4853515625
+        ]
+      ]
+    },
+    {
+      "title": "Dependence on Erratic Monsoon",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          53.3408203125,
+          259.789306640625
+        ],
+        [
+          233.2815399169922,
+          259.789306640625
+        ],
+        [
+          233.2815399169922,
+          272.2298831939697
+        ],
+        [
+          53.3408203125,
+          272.2298831939697
+        ]
+      ]
+    },
+    {
+      "title": "Low productivity",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          53.3408203125,
+          519.9609375
+        ],
+        [
+          147.1728515625,
+          519.9609375
+        ],
+        [
+          147.1728515625,
+          532.6297550201416
+        ],
+        [
+          53.3408203125,
+          532.6297550201416
+        ]
+      ]
+    },
+    {
+      "title": "Constraints of Financial Resources and\nIndebtedness",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          296.2880859375,
+          128.07861328125
+        ],
+        [
+          529.5234375,
+          128.07861328125
+        ],
+        [
+          529.5234375,
+          153.66976356506348
+        ],
+        [
+          296.2880859375,
+          153.66976356506348
+        ]
+      ]
+    },
+    {
+      "title": "Lack of Land Reforms",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          296.5869140625,
+          385.191650390625
+        ],
+        [
+          416.56640625,
+          385.191650390625
+        ],
+        [
+          416.56640625,
+          398.229944229126
+        ],
+        [
+          296.5869140625,
+          398.229944229126
+        ]
+      ]
+    },
+    {
+      "title": "Small Farm Size and Fragmentation of\nLandholdings",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          296.138671875,
+          620.1298828125
+        ],
+        [
+          511.892578125,
+          620.1298828125
+        ],
+        [
+          511.892578125,
+          646.1279296875
+        ],
+        [
+          296.138671875,
+          646.1279296875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          149.2646484375,
+          80.04913330078125
+        ],
+        [
+          488.28515625,
+          80.04913330078125
+        ],
+        [
+          488.28515625,
+          116.3221435546875
+        ],
+        [
+          149.2646484375,
+          116.3221435546875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          130.36376953125,
+          143.8494873046875
+        ],
+        [
+          167.642578125,
+          143.8494873046875
+        ],
+        [
+          167.642578125,
+          151.3048095703125
+        ],
+        [
+          130.36376953125,
+          151.3048095703125
+        ]
+      ]
+    },
+    {
+      "title": "Lack of Commercialisation",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          83.373046875,
+          607.51318359375
+        ],
+        [
+          233.384765625,
+          607.51318359375
+        ],
+        [
+          233.384765625,
+          619.1547946929932
+        ],
+        [
+          83.373046875,
+          619.1547946929932
+        ]
+      ]
+    },
+    {
+      "title": "Vast Underemployment",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          326.021484375,
+          541.75341796875
+        ],
+        [
+          457.505859375,
+          541.75341796875
+        ],
+        [
+          457.505859375,
+          553.6357975006104
+        ],
+        [
+          326.021484375,
+          553.6357975006104
+        ]
+      ]
+    },
+    {
+      "title": "Degradation of Cultivable Land",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          53.86376953125,
+          64.85174560546875
+        ],
+        [
+          224.12109375,
+          64.85174560546875
+        ],
+        [
+          224.12109375,
+          77.35158729553223
+        ],
+        [
+          53.86376953125,
+          77.35158729553223
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          297.333984375,
+          185.236083984375
+        ],
+        [
+          388.775390625,
+          185.236083984375
+        ],
+        [
+          388.775390625,
+          200.911376953125
+        ],
+        [
+          297.333984375,
+          200.911376953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          257
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo3_12_3"
+}

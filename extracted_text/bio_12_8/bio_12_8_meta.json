@@ -1,0 +1,912 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER 8",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.532958984375,
+          160.767333984375
+        ],
+        [
+          204.8466796875,
+          160.767333984375
+        ],
+        [
+          204.8466796875,
+          221.939208984375
+        ],
+        [
+          58.532958984375,
+          221.939208984375
+        ]
+      ]
+    },
+    {
+      "title": "MICROBES IN HUMAN WELFARE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.9150390625,
+          216.73919486999512
+        ],
+        [
+          509.80078125,
+          216.73919486999512
+        ],
+        [
+          509.80078125,
+          255.77490234375
+        ],
+        [
+          59.9150390625,
+          255.77490234375
+        ]
+      ]
+    },
+    {
+      "title": "8.1 MICROBES IN HOUSEHOLD PRODUCTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.24267578125,
+          173.5751953125
+        ],
+        [
+          304.8046875,
+          173.5751953125
+        ],
+        [
+          304.8046875,
+          187.83361625671387
+        ],
+        [
+          59.24267578125,
+          187.83361625671387
+        ]
+      ]
+    },
+    {
+      "title": "8.2 MICROBES IN INDUSTRIAL PRODUCTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.39208984375,
+          626.2470703125
+        ],
+        [
+          312.873046875,
+          626.2470703125
+        ],
+        [
+          312.873046875,
+          640.7138957977295
+        ],
+        [
+          59.39208984375,
+          640.7138957977295
+        ]
+      ]
+    },
+    {
+      "title": "151",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          508.60546875,
+          618.147611618042
+        ],
+        [
+          534.9618530273438,
+          618.147611618042
+        ],
+        [
+          534.9618530273438,
+          633.51123046875
+        ],
+        [
+          508.60546875,
+          633.51123046875
+        ]
+      ]
+    },
+    {
+      "title": "8.2.1 Fermented Beverages",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.677734375,
+          86.73980712890625
+        ],
+        [
+          481.412109375,
+          86.73980712890625
+        ],
+        [
+          481.412109375,
+          99.25005912780762
+        ],
+        [
+          311.677734375,
+          99.25005912780762
+        ]
+      ]
+    },
+    {
+      "title": "8.2.2 Antibiotics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.760009765625,
+          377.17013359069824
+        ],
+        [
+          417.76171875,
+          377.17013359069824
+        ],
+        [
+          417.76171875,
+          389.397216796875
+        ],
+        [
+          311.760009765625,
+          389.397216796875
+        ]
+      ]
+    },
+    {
+      "title": "152",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          73.51171875,
+          618.147611618042
+        ],
+        [
+          100.2568359375,
+          618.147611618042
+        ],
+        [
+          100.2568359375,
+          635.4228515625
+        ],
+        [
+          73.51171875,
+          635.4228515625
+        ]
+      ]
+    },
+    {
+      "title": "MICROBES IN HUMAN WELFARE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.3173828125,
+          59.78167533874512
+        ],
+        [
+          192.744140625,
+          59.78167533874512
+        ],
+        [
+          192.744140625,
+          70.2520751953125
+        ],
+        [
+          59.3173828125,
+          70.2520751953125
+        ]
+      ]
+    },
+    {
+      "title": "8.2.3 Chemicals, Enzymes and other Bioactive Molecules",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.6162109375,
+          192.2135009765625
+        ],
+        [
+          414.7734375,
+          192.2135009765625
+        ],
+        [
+          414.7734375,
+          206.05041313171387
+        ],
+        [
+          59.6162109375,
+          206.05041313171387
+        ]
+      ]
+    },
+    {
+      "title": "8.3 MICROBES IN SEWAGE TREATMENT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.09326171875,
+          552.45849609375
+        ],
+        [
+          286.27734375,
+          552.45849609375
+        ],
+        [
+          286.27734375,
+          566.553861618042
+        ],
+        [
+          59.09326171875,
+          566.553861618042
+        ]
+      ]
+    },
+    {
+      "title": "MICROBES IN HUMAN WELFARE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.16796875,
+          59.78167533874512
+        ],
+        [
+          192.719970703125,
+          59.78167533874512
+        ],
+        [
+          192.719970703125,
+          70.20428466796875
+        ],
+        [
+          59.16796875,
+          70.20428466796875
+        ]
+      ]
+    },
+    {
+      "title": "8.4 MICROBES IN PRODUCTION OF BIOGAS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.24267578125,
+          387.4338665008545
+        ],
+        [
+          310.18359375,
+          387.4338665008545
+        ],
+        [
+          310.18359375,
+          401.43392753601074
+        ],
+        [
+          59.24267578125,
+          401.43392753601074
+        ]
+      ]
+    },
+    {
+      "title": "8.5 MICROBES AS BIOCONTROL AGENTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          191.84765625,
+          468.34716796875
+        ],
+        [
+          425.28192138671875,
+          468.34716796875
+        ],
+        [
+          425.28192138671875,
+          483.27380180358887
+        ],
+        [
+          191.84765625,
+          483.27380180358887
+        ]
+      ]
+    },
+    {
+      "title": "MICROBES IN HUMAN WELFARE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.280029296875,
+          59.78167533874512
+        ],
+        [
+          192.719970703125,
+          59.78167533874512
+        ],
+        [
+          192.719970703125,
+          69.82196044921875
+        ],
+        [
+          59.280029296875,
+          69.82196044921875
+        ]
+      ]
+    },
+    {
+      "title": "8.6 MICROBES AS BIOFERTILISERS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.0185546875,
+          664.873929977417
+        ],
+        [
+          261.9228515625,
+          664.873929977417
+        ],
+        [
+          261.9228515625,
+          678.873929977417
+        ],
+        [
+          59.0185546875,
+          678.873929977417
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          334.388671875,
+          496.6622905731201
+        ],
+        [
+          406.3222351074219,
+          496.6622905731201
+        ],
+        [
+          406.3222351074219,
+          509.6622905731201
+        ],
+        [
+          334.388671875,
+          509.6622905731201
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          429.71484375,
+          98.6396484375
+        ],
+        [
+          484.69921875,
+          98.6396484375
+        ],
+        [
+          484.69921875,
+          242.967041015625
+        ],
+        [
+          429.71484375,
+          242.967041015625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          166.5966796875,
+          282.25951957702637
+        ],
+        [
+          317.953125,
+          282.25951957702637
+        ],
+        [
+          317.953125,
+          317.71142578125
+        ],
+        [
+          166.5966796875,
+          317.71142578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_12_8"
+}

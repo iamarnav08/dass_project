@@ -1,0 +1,1926 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          449.765625,
+          139.94287109375
+        ],
+        [
+          518.232421875,
+          139.94287109375
+        ],
+        [
+          518.232421875,
+          150.25244140625
+        ],
+        [
+          449.765625,
+          150.25244140625
+        ]
+      ]
+    },
+    {
+      "title": "LANDFORMS AND THEIR\nEVOLUTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.7892951965332,
+          165.2646827697754
+        ],
+        [
+          218.34228515625,
+          165.2646827697754
+        ],
+        [
+          218.34228515625,
+          204.8646583557129
+        ],
+        [
+          42.7892951965332,
+          204.8646583557129
+        ]
+      ]
+    },
+    {
+      "title": "RUNNING WATER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          286.669921875,
+          416.201171875
+        ],
+        [
+          371.279296875,
+          416.201171875
+        ],
+        [
+          371.279296875,
+          428.8057289123535
+        ],
+        [
+          286.669921875,
+          428.8057289123535
+        ]
+      ]
+    },
+    {
+      "title": "Youth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.88720703125,
+          547.9345703125
+        ],
+        [
+          75.56396484375,
+          547.9345703125
+        ],
+        [
+          75.56396484375,
+          560.7903480529785
+        ],
+        [
+          41.88720703125,
+          560.7903480529785
+        ]
+      ]
+    },
+    {
+      "title": "Mature",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          286.669921875,
+          91.736083984375
+        ],
+        [
+          326.748046875,
+          91.736083984375
+        ],
+        [
+          326.748046875,
+          103.35037612915039
+        ],
+        [
+          286.669921875,
+          103.35037612915039
+        ]
+      ]
+    },
+    {
+      "title": "Old",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.5494194030762,
+          235.2109375
+        ],
+        [
+          309.7705078125,
+          235.2109375
+        ],
+        [
+          309.7705078125,
+          247.35092544555664
+        ],
+        [
+          288.5494194030762,
+          247.35092544555664
+        ]
+      ]
+    },
+    {
+      "title": "EROSIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.5494194030762,
+          341.55224609375
+        ],
+        [
+          406.904296875,
+          341.55224609375
+        ],
+        [
+          406.904296875,
+          354.16601943969727
+        ],
+        [
+          288.5494194030762,
+          354.16601943969727
+        ]
+      ]
+    },
+    {
+      "title": "Valleys",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.33984375,
+          371.14453125
+        ],
+        [
+          328.41796875,
+          371.14453125
+        ],
+        [
+          328.41796875,
+          382.47092056274414
+        ],
+        [
+          288.33984375,
+          382.47092056274414
+        ]
+      ]
+    },
+    {
+      "title": "Potholes and Plunge Pools",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.33984375,
+          639.193359375
+        ],
+        [
+          434.1796875,
+          639.193359375
+        ],
+        [
+          434.1796875,
+          650.7910652160645
+        ],
+        [
+          288.33984375,
+          650.7910652160645
+        ]
+      ]
+    },
+    {
+      "title": "Incised or Entrenched Meanders",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          287.5048828125,
+          165.3349609375
+        ],
+        [
+          470.6396484375,
+          165.3349609375
+        ],
+        [
+          470.6396484375,
+          178.23044204711914
+        ],
+        [
+          287.5048828125,
+          178.23044204711914
+        ]
+      ]
+    },
+    {
+      "title": "River Terraces",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          287.2265625,
+          384.890625
+        ],
+        [
+          371.8359375,
+          384.890625
+        ],
+        [
+          371.8359375,
+          397.350284576416
+        ],
+        [
+          287.2265625,
+          397.350284576416
+        ]
+      ]
+    },
+    {
+      "title": "DEPOSITIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          287.783203125,
+          569.69921875
+        ],
+        [
+          419.150390625,
+          569.69921875
+        ],
+        [
+          419.150390625,
+          582.405460357666
+        ],
+        [
+          287.783203125,
+          582.405460357666
+        ]
+      ]
+    },
+    {
+      "title": "Alluvial Fans",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.5492973327637,
+          600.6279296875
+        ],
+        [
+          361.259765625,
+          600.6279296875
+        ],
+        [
+          361.259765625,
+          612.6303749084473
+        ],
+        [
+          288.5492973327637,
+          612.6303749084473
+        ]
+      ]
+    },
+    {
+      "title": "Deltas",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.16552734375,
+          393.291015625
+        ],
+        [
+          79.669189453125,
+          393.291015625
+        ],
+        [
+          79.669189453125,
+          405.99048233032227
+        ],
+        [
+          42.16552734375,
+          405.99048233032227
+        ]
+      ]
+    },
+    {
+      "title": "Floodplains, Natural Levees and Point Bars",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          287.2265625,
+          215.7373046875
+        ],
+        [
+          517.67578125,
+          215.7373046875
+        ],
+        [
+          517.67578125,
+          228.3902931213379
+        ],
+        [
+          287.2265625,
+          228.3902931213379
+        ]
+      ]
+    },
+    {
+      "title": "LANDFORMS AND THEIR EVOLUTION 51",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.956787109375,
+          65.67578125
+        ],
+        [
+          516.3093070983887,
+          65.67578125
+        ],
+        [
+          516.3093070983887,
+          77.53024673461914
+        ],
+        [
+          41.956787109375,
+          77.53024673461914
+        ]
+      ]
+    },
+    {
+      "title": "Meanders",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.956787109375,
+          307.759765625
+        ],
+        [
+          95.4638671875,
+          307.759765625
+        ],
+        [
+          95.4638671875,
+          319.83102798461914
+        ],
+        [
+          41.956787109375,
+          319.83102798461914
+        ]
+      ]
+    },
+    {
+      "title": "GROUNDWATER",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          288.5494804382324,
+          643.386173248291
+        ],
+        [
+          362.7113151550293,
+          643.386173248291
+        ],
+        [
+          362.7113151550293,
+          654.886173248291
+        ],
+        [
+          288.5494804382324,
+          654.886173248291
+        ]
+      ]
+    },
+    {
+      "title": "EROSIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          288.5493278503418,
+          546.9056587219238
+        ],
+        [
+          404.677734375,
+          546.9056587219238
+        ],
+        [
+          404.677734375,
+          558.4056587219238
+        ],
+        [
+          288.5493278503418,
+          558.4056587219238
+        ]
+      ]
+    },
+    {
+      "title": "Pools, Sinkholes, Lapies and\nLimestone Pavements",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          288.5493278503418,
+          576.572265625
+        ],
+        [
+          445.2743949890137,
+          576.572265625
+        ],
+        [
+          445.2743949890137,
+          600.24609375
+        ],
+        [
+          288.5493278503418,
+          600.24609375
+        ]
+      ]
+    },
+    {
+      "title": "Caves",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.678466796875,
+          488.75
+        ],
+        [
+          74.3115234375,
+          488.75
+        ],
+        [
+          74.3115234375,
+          499.5903968811035
+        ],
+        [
+          41.678466796875,
+          499.5903968811035
+        ]
+      ]
+    },
+    {
+      "title": "Depositional Landforms",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.0615234375,
+          91.83154296875
+        ],
+        [
+          419.10786056518555,
+          91.83154296875
+        ],
+        [
+          419.10786056518555,
+          102.87039566040039
+        ],
+        [
+          288.0615234375,
+          102.87039566040039
+        ]
+      ]
+    },
+    {
+      "title": "Stalactites, Stalagmites and Pillars",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.33984375,
+          219.173828125
+        ],
+        [
+          479.267578125,
+          219.173828125
+        ],
+        [
+          479.267578125,
+          230.5503273010254
+        ],
+        [
+          288.33984375,
+          230.5503273010254
+        ]
+      ]
+    },
+    {
+      "title": "GLACIERS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.9915771484375,
+          139.56103515625
+        ],
+        [
+          91.845703125,
+          139.56103515625
+        ],
+        [
+          91.845703125,
+          153.52560806274414
+        ],
+        [
+          41.9915771484375,
+          153.52560806274414
+        ]
+      ]
+    },
+    {
+      "title": "EROSIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          288.5492973327637,
+          279.31298828125
+        ],
+        [
+          405.5126953125,
+          279.31298828125
+        ],
+        [
+          405.5126953125,
+          292.245059967041
+        ],
+        [
+          288.5492973327637,
+          292.245059967041
+        ]
+      ]
+    },
+    {
+      "title": "Cirque",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          288.5492973327637,
+          303.5595703125
+        ],
+        [
+          327.3046875,
+          303.5595703125
+        ],
+        [
+          327.3046875,
+          316.70996475219727
+        ],
+        [
+          288.5492973327637,
+          316.70996475219727
+        ]
+      ]
+    },
+    {
+      "title": "Horns and Serrated Ridges",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          288.33984375,
+          495.2412109375
+        ],
+        [
+          435.29296875,
+          495.2412109375
+        ],
+        [
+          435.29296875,
+          508.9500160217285
+        ],
+        [
+          288.33984375,
+          508.9500160217285
+        ]
+      ]
+    },
+    {
+      "title": "LANDFORMS AND THEIR EVOLUTION 55",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.44384765625,
+          65.67578125
+        ],
+        [
+          516.3093070983887,
+          65.67578125
+        ],
+        [
+          516.3093070983887,
+          77.53024673461914
+        ],
+        [
+          42.44384765625,
+          77.53024673461914
+        ]
+      ]
+    },
+    {
+      "title": "Glacial Valleys/Troughs",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.7828369140625,
+          450.1845703125
+        ],
+        [
+          176.7333984375,
+          450.1845703125
+        ],
+        [
+          176.7333984375,
+          463.11154556274414
+        ],
+        [
+          41.7828369140625,
+          463.11154556274414
+        ]
+      ]
+    },
+    {
+      "title": "Depositional Landforms",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          287.5048828125,
+          450.56640625
+        ],
+        [
+          420.5419921875,
+          450.56640625
+        ],
+        [
+          420.5419921875,
+          462.87155532836914
+        ],
+        [
+          287.5048828125,
+          462.87155532836914
+        ]
+      ]
+    },
+    {
+      "title": "Moraines",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          286.11328125,
+          671.6494140625
+        ],
+        [
+          337.9924125671387,
+          671.6494140625
+        ],
+        [
+          337.9924125671387,
+          682.4715843200684
+        ],
+        [
+          286.11328125,
+          682.4715843200684
+        ]
+      ]
+    },
+    {
+      "title": "Eskers",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.0611572265625,
+          611.701171875
+        ],
+        [
+          78.34716796875,
+          611.701171875
+        ],
+        [
+          78.34716796875,
+          623.6716194152832
+        ],
+        [
+          42.0611572265625,
+          623.6716194152832
+        ]
+      ]
+    },
+    {
+      "title": "Outwash Plains",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          288.0615234375,
+          474.6220703125
+        ],
+        [
+          373.2275390625,
+          474.6220703125
+        ],
+        [
+          373.2275390625,
+          485.91162490844727
+        ],
+        [
+          288.0615234375,
+          485.91162490844727
+        ]
+      ]
+    },
+    {
+      "title": "Drumlins",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          288.5492973327637,
+          624.3017578125
+        ],
+        [
+          339.55078125,
+          624.3017578125
+        ],
+        [
+          339.55078125,
+          635.6716499328613
+        ],
+        [
+          288.5492973327637,
+          635.6716499328613
+        ]
+      ]
+    },
+    {
+      "title": "WAVES AND CURRENTS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          42.1307373046875,
+          266.1396484375
+        ],
+        [
+          154.74609375,
+          266.1396484375
+        ],
+        [
+          154.74609375,
+          279.0454444885254
+        ],
+        [
+          42.1307373046875,
+          279.0454444885254
+        ]
+      ]
+    },
+    {
+      "title": "HIGH ROCKY COASTS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          288.0615234375,
+          128.6787109375
+        ],
+        [
+          394.9365234375,
+          128.6787109375
+        ],
+        [
+          394.9365234375,
+          140.80539321899414
+        ],
+        [
+          288.0615234375,
+          140.80539321899414
+        ]
+      ]
+    },
+    {
+      "title": "LOW SEDIMENTARY COASTS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          288.0615234375,
+          647.9454689025879
+        ],
+        [
+          423.3251953125,
+          647.9454689025879
+        ],
+        [
+          423.3251953125,
+          659.4454689025879
+        ],
+        [
+          288.0615234375,
+          659.4454689025879
+        ]
+      ]
+    },
+    {
+      "title": "EROSIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          42.3394775390625,
+          475.00390625
+        ],
+        [
+          158.9208984375,
+          475.00390625
+        ],
+        [
+          158.9208984375,
+          487.1252784729004
+        ],
+        [
+          42.3394775390625,
+          487.1252784729004
+        ]
+      ]
+    },
+    {
+      "title": "Cliffs, Terraces, Caves and Stacks",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          42.549320220947266,
+          499.44140625
+        ],
+        [
+          225.02197265625,
+          499.44140625
+        ],
+        [
+          225.02197265625,
+          511.59018325805664
+        ],
+        [
+          42.549320220947266,
+          511.59018325805664
+        ]
+      ]
+    },
+    {
+      "title": "DEPOSITIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          288.5493583679199,
+          240.9384765625
+        ],
+        [
+          419.70703125,
+          240.9384765625
+        ],
+        [
+          419.70703125,
+          253.1260108947754
+        ],
+        [
+          288.5493583679199,
+          253.1260108947754
+        ]
+      ]
+    },
+    {
+      "title": "Beaches and Dunes",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          288.54938888549805,
+          265.56689453125
+        ],
+        [
+          396.6064453125,
+          265.56689453125
+        ],
+        [
+          396.6064453125,
+          277.59091567993164
+        ],
+        [
+          288.54938888549805,
+          277.59091567993164
+        ]
+      ]
+    },
+    {
+      "title": "Bars, Barriers and Spits",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          288.54938888549805,
+          523.115234375
+        ],
+        [
+          416.923828125,
+          523.115234375
+        ],
+        [
+          416.923828125,
+          534.6310157775879
+        ],
+        [
+          288.54938888549805,
+          534.6310157775879
+        ]
+      ]
+    },
+    {
+      "title": "WINDS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          41.817626953125,
+          559.771484375
+        ],
+        [
+          73.99086380004883,
+          559.771484375
+        ],
+        [
+          73.99086380004883,
+          571.8464851379395
+        ],
+        [
+          41.817626953125,
+          571.8464851379395
+        ]
+      ]
+    },
+    {
+      "title": "EROSIONAL LANDFORMS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          288.33984375,
+          468.90646743774414
+        ],
+        [
+          404.677734375,
+          468.90646743774414
+        ],
+        [
+          404.677734375,
+          480.40646743774414
+        ],
+        [
+          288.33984375,
+          480.40646743774414
+        ]
+      ]
+    },
+    {
+      "title": "Pediments and Pediplains",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          288.33984375,
+          493.7138671875
+        ],
+        [
+          430.83984375,
+          493.7138671875
+        ],
+        [
+          430.83984375,
+          505.1113624572754
+        ],
+        [
+          288.33984375,
+          505.1113624572754
+        ]
+      ]
+    },
+    {
+      "title": "Playas",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          42.0611572265625,
+          215.92822265625
+        ],
+        [
+          78.34716796875,
+          215.92822265625
+        ],
+        [
+          78.34716796875,
+          229.35031509399414
+        ],
+        [
+          42.0611572265625,
+          229.35031509399414
+        ]
+      ]
+    },
+    {
+      "title": "Deflation Hollows and Caves",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          41.956787109375,
+          421.1650390625
+        ],
+        [
+          198.4423828125,
+          421.1650390625
+        ],
+        [
+          198.4423828125,
+          433.59030532836914
+        ],
+        [
+          41.956787109375,
+          433.59030532836914
+        ]
+      ]
+    },
+    {
+      "title": "Mushroom, Table and Pedestal Rocks",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          41.88720703125,
+          588.4091796875
+        ],
+        [
+          247.00927734375,
+          588.4091796875
+        ],
+        [
+          247.00927734375,
+          601.8303871154785
+        ],
+        [
+          41.88720703125,
+          601.8303871154785
+        ]
+      ]
+    },
+    {
+      "title": "Depositional Landforms",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          287.783203125,
+          136.12451171875
+        ],
+        [
+          420.263671875,
+          136.12451171875
+        ],
+        [
+          420.263671875,
+          149.91037368774414
+        ],
+        [
+          287.783203125,
+          149.91037368774414
+        ]
+      ]
+    },
+    {
+      "title": "Sand Dunes",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          288.33984375,
+          351.2890625
+        ],
+        [
+          357.36328125,
+          351.2890625
+        ],
+        [
+          357.36328125,
+          364.271484375
+        ],
+        [
+          288.33984375,
+          364.271484375
+        ]
+      ]
+    },
+    {
+      "title": "LANDFORMS AND THEIR EVOLUTION 61",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          42.0263671875,
+          66.7735595703125
+        ],
+        [
+          516.3093070983887,
+          66.7735595703125
+        ],
+        [
+          516.3093070983887,
+          77.53024673461914
+        ],
+        [
+          42.0263671875,
+          77.53024673461914
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          241.8603515625,
+          306.232421875
+        ],
+        [
+          323.96484375,
+          306.232421875
+        ],
+        [
+          323.96484375,
+          316.6951332092285
+        ],
+        [
+          241.8603515625,
+          316.6951332092285
+        ]
+      ]
+    },
+    {
+      "title": "Project Work",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          80.712890625,
+          325.7060546875
+        ],
+        [
+          147.37060546875,
+          325.7060546875
+        ],
+        [
+          147.37060546875,
+          335.4155616760254
+        ],
+        [
+          80.712890625,
+          335.4155616760254
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_11_6"
+}

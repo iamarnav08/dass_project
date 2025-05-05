@@ -1,0 +1,831 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DRAINAGE SYSTEM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.625,
+          164.1126708984375
+        ],
+        [
+          184.78125,
+          164.1126708984375
+        ],
+        [
+          184.78125,
+          184.3849220275879
+        ],
+        [
+          41.625,
+          184.3849220275879
+        ]
+      ]
+    },
+    {
+      "title": "Important Drainage Patterns",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          203.625,
+          571.1923828125
+        ],
+        [
+          355.78125,
+          571.1923828125
+        ],
+        [
+          355.78125,
+          582.662109375
+        ],
+        [
+          203.625,
+          582.662109375
+        ]
+      ]
+    },
+    {
+      "title": "DRAINAGE SYSTEMS OF INDIA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          289.125,
+          330.519287109375
+        ],
+        [
+          430.3125,
+          330.519287109375
+        ],
+        [
+          430.3125,
+          342.2068519592285
+        ],
+        [
+          289.125,
+          342.2068519592285
+        ]
+      ]
+    },
+    {
+      "title": "THE HIMALAYAN DRAINAGE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.0,
+          425.5068702697754
+        ],
+        [
+          419.0625,
+          425.5068702697754
+        ],
+        [
+          419.0625,
+          437.0068702697754
+        ],
+        [
+          288.0,
+          437.0068702697754
+        ]
+      ]
+    },
+    {
+      "title": "EVOLUTION OF THE HIMALAYAN DRAINAGE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.90625,
+          381.750732421875
+        ],
+        [
+          251.15625,
+          381.750732421875
+        ],
+        [
+          251.15625,
+          393.92639541625977
+        ],
+        [
+          41.90625,
+          393.92639541625977
+        ]
+      ]
+    },
+    {
+      "title": "THE RIVER SYSTEMS OF THE\nHIMALAYAN DRAINAGE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          288.84375,
+          192.69140625
+        ],
+        [
+          430.03125,
+          192.69140625
+        ],
+        [
+          430.03125,
+          218.7262306213379
+        ],
+        [
+          288.84375,
+          218.7262306213379
+        ]
+      ]
+    },
+    {
+      "title": "The Indus System",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          289.1492729187012,
+          275.082275390625
+        ],
+        [
+          389.53125,
+          275.082275390625
+        ],
+        [
+          389.53125,
+          287.3511085510254
+        ],
+        [
+          289.1492729187012,
+          287.3511085510254
+        ]
+      ]
+    },
+    {
+      "title": "The Ganga System",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.51953125,
+          653.009765625
+        ],
+        [
+          147.375,
+          653.009765625
+        ],
+        [
+          147.375,
+          664.5115852355957
+        ],
+        [
+          41.51953125,
+          664.5115852355957
+        ]
+      ]
+    },
+    {
+      "title": "Do you Know?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          367.5092887878418,
+          422.46826171875
+        ],
+        [
+          444.09375,
+          422.46826171875
+        ],
+        [
+          444.09375,
+          433.25647354125977
+        ],
+        [
+          367.5092887878418,
+          433.25647354125977
+        ]
+      ]
+    },
+    {
+      "title": "The Brahmaputra System",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          289.1493339538574,
+          534.10693359375
+        ],
+        [
+          429.1875,
+          534.10693359375
+        ],
+        [
+          429.1875,
+          545.3513221740723
+        ],
+        [
+          289.1493339538574,
+          545.3513221740723
+        ]
+      ]
+    },
+    {
+      "title": "THE PENINSULAR DRAINAGE SYSTEM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.625,
+          432.40869140625
+        ],
+        [
+          220.78125,
+          432.40869140625
+        ],
+        [
+          220.78125,
+          444.32641983032227
+        ],
+        [
+          41.625,
+          444.32641983032227
+        ]
+      ]
+    },
+    {
+      "title": "The Evolution of Peninsular Drainage\nSystem",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.84375,
+          91.42327880859375
+        ],
+        [
+          518.34375,
+          91.42327880859375
+        ],
+        [
+          518.34375,
+          116.35135269165039
+        ],
+        [
+          288.84375,
+          116.35135269165039
+        ]
+      ]
+    },
+    {
+      "title": "River Systems of the Peninsular Drainage",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.0,
+          387.6767578125
+        ],
+        [
+          516.375,
+          387.6767578125
+        ],
+        [
+          516.375,
+          398.9519691467285
+        ],
+        [
+          288.0,
+          398.9519691467285
+        ]
+      ]
+    },
+    {
+      "title": "EXTENT OF USABILITY OF RIVER WATER",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          289.1492729187012,
+          305.47705078125
+        ],
+        [
+          485.15625,
+          305.47705078125
+        ],
+        [
+          485.15625,
+          318.68649673461914
+        ],
+        [
+          289.1492729187012,
+          318.68649673461914
+        ]
+      ]
+    },
+    {
+      "title": "Teachers may explain the following\nexamples",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          309.9375,
+          607.130859375
+        ],
+        [
+          496.6875,
+          607.130859375
+        ],
+        [
+          496.6875,
+          630.0703125
+        ],
+        [
+          309.9375,
+          630.0703125
+        ]
+      ]
+    },
+    {
+      "title": "DRAINAGE SYSTEM 25",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.66015625,
+          66.96036148071289
+        ],
+        [
+          516.5496025085449,
+          66.96036148071289
+        ],
+        [
+          516.5496025085449,
+          76.83597183227539
+        ],
+        [
+          41.66015625,
+          76.83597183227539
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          234.984375,
+          374.9159278869629
+        ],
+        [
+          319.5,
+          374.9159278869629
+        ],
+        [
+          319.5,
+          384.809326171875
+        ],
+        [
+          234.984375,
+          384.809326171875
+        ]
+      ]
+    },
+    {
+      "title": "Project/Activity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          81.421875,
+          184.2802734375
+        ],
+        [
+          159.328125,
+          184.2802734375
+        ],
+        [
+          159.328125,
+          193.7799415588379
+        ],
+        [
+          81.421875,
+          193.7799415588379
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo3_11_3"
+}

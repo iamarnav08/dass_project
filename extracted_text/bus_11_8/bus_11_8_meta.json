@@ -1,0 +1,2426 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Sources of Business Finance",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          131.28819274902344,
+          242.63574218749997
+        ],
+        [
+          397.2890625,
+          242.63574218749997
+        ],
+        [
+          397.2890625,
+          265.48817443847656
+        ],
+        [
+          131.28819274902344,
+          265.48817443847656
+        ]
+      ]
+    },
+    {
+      "title": "LEARNING OBJECTIVES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.42910766601562,
+          315.69091796875
+        ],
+        [
+          330.569091796875,
+          315.69091796875
+        ],
+        [
+          330.569091796875,
+          329.9052734375
+        ],
+        [
+          197.42910766601562,
+          329.9052734375
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.0,
+          306.269775390625
+        ],
+        [
+          161.51953125,
+          306.269775390625
+        ],
+        [
+          161.51953125,
+          318.5018768310547
+        ],
+        [
+          66.0,
+          318.5018768310547
+        ]
+      ]
+    },
+    {
+      "title": "8.2 Meaning, Nature and Significance\nof Business Finance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.0,
+          541.79833984375
+        ],
+        [
+          259.6171875,
+          541.79833984375
+        ],
+        [
+          259.6171875,
+          568.0176086425781
+        ],
+        [
+          66.0,
+          568.0176086425781
+        ]
+      ]
+    },
+    {
+      "title": "8.3 Classification of Sources of\nFunds",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          270.0,
+          453.53710937499994
+        ],
+        [
+          464.0625,
+          453.53710937499994
+        ],
+        [
+          464.0625,
+          480.12481689453125
+        ],
+        [
+          270.0,
+          480.12481689453125
+        ]
+      ]
+    },
+    {
+      "title": "Table 8.1 Classification of Sources of Funds",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.115234375,
+          232.98460388183594
+        ],
+        [
+          92.748046875,
+          232.98460388183594
+        ],
+        [
+          92.748046875,
+          471.0045928955078
+        ],
+        [
+          80.115234375,
+          471.0045928955078
+        ]
+      ]
+    },
+    {
+      "title": "8.3.1 Period Basis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          66.0,
+          167.0186767578125
+        ],
+        [
+          172.35450744628906,
+          167.0186767578125
+        ],
+        [
+          172.35450744628906,
+          179.67112731933594
+        ],
+        [
+          66.0,
+          179.67112731933594
+        ]
+      ]
+    },
+    {
+      "title": "8.3.2 Ownership Basis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          269.9296875,
+          194.538330078125
+        ],
+        [
+          395.8844909667969,
+          194.538330078125
+        ],
+        [
+          395.8844909667969,
+          206.8014373779297
+        ],
+        [
+          269.9296875,
+          206.8014373779297
+        ]
+      ]
+    },
+    {
+      "title": "8.3.3 Source of Generation Basis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          65.7421875,
+          194.70361328125
+        ],
+        [
+          251.109375,
+          194.70361328125
+        ],
+        [
+          251.109375,
+          206.8014373779297
+        ],
+        [
+          65.7421875,
+          206.8014373779297
+        ]
+      ]
+    },
+    {
+      "title": "8.4.1 Retained Earnings",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          269.671875,
+          388.41552734375
+        ],
+        [
+          406.828125,
+          388.41552734375
+        ],
+        [
+          406.828125,
+          400.97705078125
+        ],
+        [
+          269.671875,
+          400.97705078125
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          268.640625,
+          567.251953125
+        ],
+        [
+          304.3349914550781,
+          567.251953125
+        ],
+        [
+          304.3349914550781,
+          579.1930313110352
+        ],
+        [
+          268.640625,
+          579.1930313110352
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.0,
+          307.09619140625
+        ],
+        [
+          130.1953125,
+          307.09619140625
+        ],
+        [
+          130.1953125,
+          319.5592498779297
+        ],
+        [
+          66.0,
+          319.5592498779297
+        ]
+      ]
+    },
+    {
+      "title": "8.4.2 Trade Credit",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.935546875,
+          504.44433593749994
+        ],
+        [
+          172.734375,
+          504.44433593749994
+        ],
+        [
+          172.734375,
+          516.4863433837891
+        ],
+        [
+          65.935546875,
+          516.4863433837891
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          270.0,
+          334.86376953125
+        ],
+        [
+          304.8599853515625,
+          334.86376953125
+        ],
+        [
+          304.8599853515625,
+          347.88722229003906
+        ],
+        [
+          270.0,
+          347.88722229003906
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          65.7421875,
+          92.88916015625
+        ],
+        [
+          129.9375,
+          92.88916015625
+        ],
+        [
+          129.9375,
+          104.67625427246094
+        ],
+        [
+          65.7421875,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "8.4.3 Factoring",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          66.0,
+          289.576171875
+        ],
+        [
+          156.62109375,
+          289.576171875
+        ],
+        [
+          156.62109375,
+          301.9175262451172
+        ],
+        [
+          66.0,
+          301.9175262451172
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          270.00048828125,
+          445.60351562499994
+        ],
+        [
+          306.0234375,
+          445.60351562499994
+        ],
+        [
+          306.0234375,
+          458.01234436035156
+        ],
+        [
+          270.00048828125,
+          458.01234436035156
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          65.61328125,
+          245.11499023437497
+        ],
+        [
+          130.06640625,
+          245.11499023437497
+        ],
+        [
+          130.06640625,
+          256.77943420410156
+        ],
+        [
+          65.61328125,
+          256.77943420410156
+        ]
+      ]
+    },
+    {
+      "title": "8.4.4 Lease Financing",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          66.0,
+          429.0751953125
+        ],
+        [
+          192.45703125,
+          429.0751953125
+        ],
+        [
+          192.45703125,
+          440.36546325683594
+        ],
+        [
+          66.0,
+          440.36546325683594
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          270.0,
+          281.807861328125
+        ],
+        [
+          304.8599853515625,
+          281.807861328125
+        ],
+        [
+          304.8599853515625,
+          293.377685546875
+        ],
+        [
+          270.0,
+          293.377685546875
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          269.4140625,
+          541.79833984375
+        ],
+        [
+          333.8671875,
+          541.79833984375
+        ],
+        [
+          333.8671875,
+          554.0726470947266
+        ],
+        [
+          269.4140625,
+          554.0726470947266
+        ]
+      ]
+    },
+    {
+      "title": "Box A",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          249.74769592285156,
+          209.413818359375
+        ],
+        [
+          279.984375,
+          209.413818359375
+        ],
+        [
+          279.984375,
+          219.79624938964844
+        ],
+        [
+          249.74769592285156,
+          219.79624938964844
+        ]
+      ]
+    },
+    {
+      "title": "The Lessors",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          75.66796875,
+          220.1572265625
+        ],
+        [
+          135.73828125,
+          220.1572265625
+        ],
+        [
+          135.73828125,
+          231.1962432861328
+        ],
+        [
+          75.66796875,
+          231.1962432861328
+        ]
+      ]
+    },
+    {
+      "title": "The Lessees",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          75.92578125,
+          431.7197265625
+        ],
+        [
+          135.27999877929688,
+          431.7197265625
+        ],
+        [
+          135.27999877929688,
+          441.99623107910156
+        ],
+        [
+          75.92578125,
+          441.99623107910156
+        ]
+      ]
+    },
+    {
+      "title": "8.4.5 Public Deposits",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          65.9677734375,
+          92.55859375
+        ],
+        [
+          187.6875,
+          92.55859375
+        ],
+        [
+          187.6875,
+          104.67625427246094
+        ],
+        [
+          65.9677734375,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          65.548828125,
+          424.11669921875
+        ],
+        [
+          101.771484375,
+          424.11669921875
+        ],
+        [
+          101.771484375,
+          436.1762237548828
+        ],
+        [
+          65.548828125,
+          436.1762237548828
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          268.8984375,
+          142.2261962890625
+        ],
+        [
+          334.3828125,
+          142.2261962890625
+        ],
+        [
+          334.3828125,
+          154.6112518310547
+        ],
+        [
+          268.8984375,
+          154.6112518310547
+        ]
+      ]
+    },
+    {
+      "title": "8.4.6 Commercial Paper",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          268.3828125,
+          326.93017578125
+        ],
+        [
+          406.5703125,
+          326.93017578125
+        ],
+        [
+          406.5703125,
+          338.7785186767578
+        ],
+        [
+          268.3828125,
+          338.7785186767578
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          66.0,
+          167.8450927734375
+        ],
+        [
+          102.22265625,
+          167.8450927734375
+        ],
+        [
+          102.22265625,
+          179.67112731933594
+        ],
+        [
+          66.0,
+          179.67112731933594
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          65.935546875,
+          471.05712890624994
+        ],
+        [
+          130.130859375,
+          471.05712890624994
+        ],
+        [
+          130.130859375,
+          483.47314453125
+        ],
+        [
+          65.935546875,
+          483.47314453125
+        ]
+      ]
+    },
+    {
+      "title": "8.4.7 Issue of Shares",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          270.0,
+          189.249267578125
+        ],
+        [
+          390.328125,
+          189.249267578125
+        ],
+        [
+          390.328125,
+          201.5111541748047
+        ],
+        [
+          270.0,
+          201.5111541748047
+        ]
+      ]
+    },
+    {
+      "title": "(a) Equity Shares",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          272.765625,
+          424.77783203125
+        ],
+        [
+          373.802978515625,
+          424.77783203125
+        ],
+        [
+          373.802978515625,
+          437.1311492919922
+        ],
+        [
+          272.765625,
+          437.1311492919922
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          65.935546875,
+          239.82592773437497
+        ],
+        [
+          101.126953125,
+          239.82592773437497
+        ],
+        [
+          101.126953125,
+          251.91114807128906
+        ],
+        [
+          65.935546875,
+          251.91114807128906
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          268.8984375,
+          155.862060546875
+        ],
+        [
+          334.8984375,
+          155.862060546875
+        ],
+        [
+          334.8984375,
+          168.20579528808594
+        ],
+        [
+          268.8984375,
+          168.20579528808594
+        ]
+      ]
+    },
+    {
+      "title": "(b) Preference Shares",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          272.5078125,
+          427.7529296875
+        ],
+        [
+          394.7109375,
+          427.7529296875
+        ],
+        [
+          394.7109375,
+          439.6533203125
+        ],
+        [
+          272.5078125,
+          439.6533203125
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          65.935546875,
+          336.5166015625
+        ],
+        [
+          102.287109375,
+          336.5166015625
+        ],
+        [
+          102.287109375,
+          348.43470764160156
+        ],
+        [
+          65.935546875,
+          348.43470764160156
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          269.15625,
+          193.216064453125
+        ],
+        [
+          334.125,
+          193.216064453125
+        ],
+        [
+          334.125,
+          205.4751434326172
+        ],
+        [
+          269.15625,
+          205.4751434326172
+        ]
+      ]
+    },
+    {
+      "title": "8.4.8 Debentures",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          270.0,
+          505.43603515624994
+        ],
+        [
+          370.21875,
+          505.43603515624994
+        ],
+        [
+          370.21875,
+          517.1459350585938
+        ],
+        [
+          270.0,
+          517.1459350585938
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          270.0,
+          92.062744140625
+        ],
+        [
+          306.28125,
+          92.062744140625
+        ],
+        [
+          306.28125,
+          104.78955078125
+        ],
+        [
+          270.0,
+          104.78955078125
+        ]
+      ]
+    },
+    {
+      "title": "Box B\nTypes of Preference Shares",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          197.02268981933594,
+          412.21630859375
+        ],
+        [
+          333.3515625,
+          412.21630859375
+        ],
+        [
+          333.3515625,
+          434.0962371826172
+        ],
+        [
+          197.02268981933594,
+          434.0962371826172
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          65.806640625,
+          93.4676513671875
+        ],
+        [
+          130.130859375,
+          93.4676513671875
+        ],
+        [
+          130.130859375,
+          104.67625427246094
+        ],
+        [
+          65.806640625,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "8.4.9 Commercial Banks",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          270.0,
+          92.9718017578125
+        ],
+        [
+          408.4844665527344,
+          92.9718017578125
+        ],
+        [
+          408.4844665527344,
+          104.67625427246094
+        ],
+        [
+          270.0,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "Box C\nTypes of Debentures",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          213.45989990234375,
+          384.44873046875
+        ],
+        [
+          315.5625,
+          384.44873046875
+        ],
+        [
+          315.5625,
+          406.29624938964844
+        ],
+        [
+          213.45989990234375,
+          406.29624938964844
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          65.677734375,
+          169.0020751953125
+        ],
+        [
+          101.771484375,
+          169.0020751953125
+        ],
+        [
+          101.771484375,
+          181.2726287841797
+        ],
+        [
+          65.677734375,
+          181.2726287841797
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          65.8388671875,
+          451.55371093749994
+        ],
+        [
+          130.83984375,
+          451.55371093749994
+        ],
+        [
+          130.83984375,
+          463.8711395263672
+        ],
+        [
+          65.8388671875,
+          463.8711395263672
+        ]
+      ]
+    },
+    {
+      "title": "8.4.10 Financial Institutions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          269.4140625,
+          220.983642578125
+        ],
+        [
+          434.9296875,
+          220.983642578125
+        ],
+        [
+          434.9296875,
+          233.75083923339844
+        ],
+        [
+          269.4140625,
+          233.75083923339844
+        ]
+      ]
+    },
+    {
+      "title": "Merits",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          268.8984375,
+          564.607421875
+        ],
+        [
+          304.9921875,
+          564.607421875
+        ],
+        [
+          304.9921875,
+          577.1689453125
+        ],
+        [
+          268.8984375,
+          577.1689453125
+        ]
+      ]
+    },
+    {
+      "title": "BOX D\nInter Corporate Deposits (ICD)",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          188.4609375,
+          99.50048828125
+        ],
+        [
+          340.5703125,
+          99.50048828125
+        ],
+        [
+          340.5703125,
+          122.16093444824219
+        ],
+        [
+          188.4609375,
+          122.16093444824219
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          65.935546875,
+          555.68212890625
+        ],
+        [
+          131.033203125,
+          555.68212890625
+        ],
+        [
+          131.033203125,
+          568.24365234375
+        ],
+        [
+          65.935546875,
+          568.24365234375
+        ]
+      ]
+    },
+    {
+      "title": "8.5 International Financing",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          270.0,
+          490.89111328124994
+        ],
+        [
+          424.359375,
+          490.89111328124994
+        ],
+        [
+          424.359375,
+          503.73402404785156
+        ],
+        [
+          270.0,
+          503.73402404785156
+        ]
+      ]
+    },
+    {
+      "title": "Box E\nCompanies rush to float GDR issues",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          175.08360290527344,
+          102.3929443359375
+        ],
+        [
+          354.234375,
+          102.3929443359375
+        ],
+        [
+          354.234375,
+          123.30583190917969
+        ],
+        [
+          175.08360290527344,
+          123.30583190917969
+        ]
+      ]
+    },
+    {
+      "title": "8.6 Factors Affecting the Choice\nof the Source of Funds",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          65.61328125,
+          219.661376953125
+        ],
+        [
+          260.00390625,
+          219.661376953125
+        ],
+        [
+          260.00390625,
+          247.45079040527344
+        ],
+        [
+          65.61328125,
+          247.45079040527344
+        ]
+      ]
+    },
+    {
+      "title": "(vii) Effect on credit worthiness:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          268.3828125,
+          93.3023681640625
+        ],
+        [
+          465.58349609375,
+          93.3023681640625
+        ],
+        [
+          465.58349609375,
+          104.67631530761719
+        ],
+        [
+          268.3828125,
+          104.67631530761719
+        ]
+      ]
+    },
+    {
+      "title": "Key Terms",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          75.66796875,
+          93.1370849609375
+        ],
+        [
+          131.09765625,
+          93.1370849609375
+        ],
+        [
+          131.09765625,
+          103.8804931640625
+        ],
+        [
+          75.66796875,
+          103.8804931640625
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          237.9609375,
+          235.52856445312497
+        ],
+        [
+          291.5859375,
+          235.52856445312497
+        ],
+        [
+          291.5859375,
+          246.5028533935547
+        ],
+        [
+          237.9609375,
+          246.5028533935547
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          234.48046875,
+          322.467529296875
+        ],
+        [
+          293.390625,
+          322.467529296875
+        ],
+        [
+          293.390625,
+          332.72315979003906
+        ],
+        [
+          234.48046875,
+          332.72315979003906
+        ]
+      ]
+    },
+    {
+      "title": "Short Answer Questions",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          73.20111083984375,
+          352.6256561279297
+        ],
+        [
+          192.328125,
+          352.6256561279297
+        ],
+        [
+          192.328125,
+          362.1256561279297
+        ],
+        [
+          73.20111083984375,
+          362.1256561279297
+        ]
+      ]
+    },
+    {
+      "title": "Long Answer Questions",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          72.83203125,
+          487.02313232421875
+        ],
+        [
+          190.13671875,
+          487.02313232421875
+        ],
+        [
+          190.13671875,
+          496.52313232421875
+        ],
+        [
+          72.83203125,
+          496.52313232421875
+        ]
+      ]
+    },
+    {
+      "title": "Projects/Assignment",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          72.123046875,
+          92.4759521484375
+        ],
+        [
+          179.1796875,
+          92.4759521484375
+        ],
+        [
+          179.1796875,
+          103.70579528808594
+        ],
+        [
+          72.123046875,
+          103.70579528808594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          617
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          385
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          499
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          518
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          432
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          467
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          526
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          581
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          439
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          461
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          482
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          475
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          435
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          454
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          525
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          759
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          482
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          327
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          422
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          594
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          546
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bus_11_8"
+}

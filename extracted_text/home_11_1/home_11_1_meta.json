@@ -1,0 +1,297 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Introduction 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.995697021484375,
+          195.37453079223633
+        ],
+        [
+          483.6077575683594,
+          195.37453079223633
+        ],
+        [
+          483.6077575683594,
+          245.37453079223633
+        ],
+        [
+          43.995697021484375,
+          245.37453079223633
+        ]
+      ]
+    },
+    {
+      "title": "Human Ecology and Family Sciences",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.995697021484375,
+          260.78466796875
+        ],
+        [
+          385.4356994628906,
+          260.78466796875
+        ],
+        [
+          385.4356994628906,
+          278.9471626281738
+        ],
+        [
+          43.995697021484375,
+          278.9471626281738
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.44024658203125,
+          78.7247314453125
+        ],
+        [
+          110.497802734375,
+          78.7247314453125
+        ],
+        [
+          110.497802734375,
+          88.1275634765625
+        ],
+        [
+          43.44024658203125,
+          88.1275634765625
+        ]
+      ]
+    },
+    {
+      "title": "Key Terms",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.546630859375,
+          309.7177734375
+        ],
+        [
+          107.79969787597656,
+          309.7177734375
+        ],
+        [
+          107.79969787597656,
+          322.6737861633301
+        ],
+        [
+          43.546630859375,
+          322.6737861633301
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.8870849609375,
+          404.07963943481445
+        ],
+        [
+          134.3988037109375,
+          404.07963943481445
+        ],
+        [
+          134.3988037109375,
+          418.25688552856445
+        ],
+        [
+          45.8870849609375,
+          418.25688552856445
+        ]
+      ]
+    },
+    {
+      "title": "Review Questions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          139.99569702148438,
+          99.305419921875
+        ],
+        [
+          286.5283203125,
+          99.305419921875
+        ],
+        [
+          286.5283203125,
+          115.040771484375
+        ],
+        [
+          139.99569702148438,
+          115.040771484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/home_11_1"
+}

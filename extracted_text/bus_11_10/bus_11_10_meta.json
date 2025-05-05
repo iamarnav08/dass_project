@@ -1,0 +1,2377 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Internal Trade",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          192.71484375,
+          241.80932617187497
+        ],
+        [
+          337.734375,
+          241.80932617187497
+        ],
+        [
+          337.734375,
+          262.87547302246094
+        ],
+        [
+          192.71484375,
+          262.87547302246094
+        ]
+      ]
+    },
+    {
+      "title": "LEARNING OBJECTIVES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          196.1953125,
+          314.533935546875
+        ],
+        [
+          331.2890625,
+          314.533935546875
+        ],
+        [
+          331.2890625,
+          328.087158203125
+        ],
+        [
+          196.1953125,
+          328.087158203125
+        ]
+      ]
+    },
+    {
+      "title": "10.1 Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.0,
+          296.022216796875
+        ],
+        [
+          171.57421875,
+          296.022216796875
+        ],
+        [
+          171.57421875,
+          307.96678161621094
+        ],
+        [
+          66.0,
+          307.96678161621094
+        ]
+      ]
+    },
+    {
+      "title": "10.2 Internal Trade",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          270.0,
+          398.99365234375
+        ],
+        [
+          388.265625,
+          398.99365234375
+        ],
+        [
+          388.265625,
+          411.3679962158203
+        ],
+        [
+          270.0,
+          411.3679962158203
+        ]
+      ]
+    },
+    {
+      "title": "10.3 Wholesale Trade",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          270.0,
+          94.046142578125
+        ],
+        [
+          398.9703674316406,
+          94.046142578125
+        ],
+        [
+          398.9703674316406,
+          105.70195007324219
+        ],
+        [
+          270.0,
+          105.70195007324219
+        ]
+      ]
+    },
+    {
+      "title": "Services of Wholesalers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          66.0,
+          92.4759521484375
+        ],
+        [
+          195.1640625,
+          92.4759521484375
+        ],
+        [
+          195.1640625,
+          104.67625427246094
+        ],
+        [
+          66.0,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "10.3.1 Services to Manufacturers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          66.0,
+          258.007080078125
+        ],
+        [
+          255.4921875,
+          258.007080078125
+        ],
+        [
+          255.4921875,
+          270.87623596191406
+        ],
+        [
+          66.0,
+          270.87623596191406
+        ]
+      ]
+    },
+    {
+      "title": "10.3.2 Services to Retailers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          66.0,
+          93.2197265625
+        ],
+        [
+          223.98300170898438,
+          93.2197265625
+        ],
+        [
+          223.98300170898438,
+          104.67625427246094
+        ],
+        [
+          66.0,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "10.4 Retail Trade",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          270.0,
+          260.321044921875
+        ],
+        [
+          381.046875,
+          260.321044921875
+        ],
+        [
+          381.046875,
+          272.2583770751953
+        ],
+        [
+          270.0,
+          272.2583770751953
+        ]
+      ]
+    },
+    {
+      "title": "Services of Retailers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          66.0,
+          411.55517578125
+        ],
+        [
+          182.14453125,
+          410.23291015625
+        ],
+        [
+          182.14453125,
+          422.36460876464844
+        ],
+        [
+          66.0,
+          423.45556640625
+        ]
+      ]
+    },
+    {
+      "title": "10.4.1 Services to Manufacturers \nand Wholesalers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          66.0,
+          544.1123046875
+        ],
+        [
+          261.60455322265625,
+          542.7900390625
+        ],
+        [
+          261.60455322265625,
+          567.738037109375
+        ],
+        [
+          66.0,
+          568.57421875
+        ]
+      ]
+    },
+    {
+      "title": "10.4.2 Services to Consumers",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.0,
+          204.62060546875
+        ],
+        [
+          237.703125,
+          204.62060546875
+        ],
+        [
+          237.703125,
+          217.4711456298828
+        ],
+        [
+          66.0,
+          217.4711456298828
+        ]
+      ]
+    },
+    {
+      "title": "Terms of Trade",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          224.8125,
+          417.50537109375
+        ],
+        [
+          303.703125,
+          417.50537109375
+        ],
+        [
+          303.703125,
+          429.40576171875
+        ],
+        [
+          224.8125,
+          429.40576171875
+        ]
+      ]
+    },
+    {
+      "title": "10.5 Types of Retailing Trade",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          65.7421875,
+          271.39501953125
+        ],
+        [
+          238.4765625,
+          271.39501953125
+        ],
+        [
+          238.4765625,
+          284.25437927246094
+        ],
+        [
+          65.7421875,
+          284.25437927246094
+        ]
+      ]
+    },
+    {
+      "title": "10.5.1 Itinerant Retailers",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          270.0,
+          93.054443359375
+        ],
+        [
+          416.4329833984375,
+          93.054443359375
+        ],
+        [
+          416.4329833984375,
+          104.67625427246094
+        ],
+        [
+          270.0,
+          104.67625427246094
+        ]
+      ]
+    },
+    {
+      "title": "Characteristics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          269.671875,
+          187.596435546875
+        ],
+        [
+          354.234375,
+          187.596435546875
+        ],
+        [
+          354.234375,
+          198.97959899902344
+        ],
+        [
+          269.671875,
+          198.97959899902344
+        ]
+      ]
+    },
+    {
+      "title": "10.5.2 Fixed Shop Retailers",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          270.0,
+          228.25610351562497
+        ],
+        [
+          430.2890625,
+          228.25610351562497
+        ],
+        [
+          430.2890625,
+          240.0603485107422
+        ],
+        [
+          270.0,
+          240.0603485107422
+        ]
+      ]
+    },
+    {
+      "title": "Characteristics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          268.8984375,
+          368.2509765625
+        ],
+        [
+          353.1600036621094,
+          368.2509765625
+        ],
+        [
+          353.1600036621094,
+          379.95103454589844
+        ],
+        [
+          268.8984375,
+          379.95103454589844
+        ]
+      ]
+    },
+    {
+      "title": "Types",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          66.0,
+          92.9718017578125
+        ],
+        [
+          99.515625,
+          92.9718017578125
+        ],
+        [
+          99.515625,
+          105.2027587890625
+        ],
+        [
+          66.0,
+          105.2027587890625
+        ]
+      ]
+    },
+    {
+      "title": "Fixed Shop Small Retailers",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          66.0,
+          237.18139648437497
+        ],
+        [
+          213.7265625,
+          237.18139648437497
+        ],
+        [
+          213.7265625,
+          249.8505401611328
+        ],
+        [
+          66.0,
+          249.8505401611328
+        ]
+      ]
+    },
+    {
+      "title": "Fixed shop\u2014Large stores",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          66.0,
+          192.885498046875
+        ],
+        [
+          206.5078125,
+          192.885498046875
+        ],
+        [
+          206.5078125,
+          204.8711395263672
+        ],
+        [
+          66.0,
+          204.8711395263672
+        ]
+      ]
+    },
+    {
+      "title": "1. Departmental stores",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.54296875,
+          211.89306640625
+        ],
+        [
+          202.51171875,
+          211.89306640625
+        ],
+        [
+          202.51171875,
+          223.4711456298828
+        ],
+        [
+          71.54296875,
+          223.4711456298828
+        ]
+      ]
+    },
+    {
+      "title": "Advantages",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          65.7421875,
+          92.393310546875
+        ],
+        [
+          129.6796875,
+          92.393310546875
+        ],
+        [
+          129.6796875,
+          104.78955078125
+        ],
+        [
+          65.7421875,
+          104.78955078125
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          270.0014953613281,
+          92.6412353515625
+        ],
+        [
+          335.4140625,
+          92.6412353515625
+        ],
+        [
+          335.4140625,
+          105.0374755859375
+        ],
+        [
+          270.0014953613281,
+          105.0374755859375
+        ]
+      ]
+    },
+    {
+      "title": "Advantages",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          270.0119934082031,
+          492.54394531249994
+        ],
+        [
+          333.09375,
+          492.54394531249994
+        ],
+        [
+          333.09375,
+          503.5031280517578
+        ],
+        [
+          270.0119934082031,
+          503.5031280517578
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          65.935546875,
+          490.22998046874994
+        ],
+        [
+          130.775390625,
+          490.22998046874994
+        ],
+        [
+          130.775390625,
+          503.0280303955078
+        ],
+        [
+          65.935546875,
+          503.0280303955078
+        ]
+      ]
+    },
+    {
+      "title": "Difference between Departmental \nstores and Multiple shops",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          269.671875,
+          452.21484374999994
+        ],
+        [
+          465.50689697265625,
+          452.21484374999994
+        ],
+        [
+          465.50689697265625,
+          477.1855773925781
+        ],
+        [
+          269.671875,
+          477.1855773925781
+        ]
+      ]
+    },
+    {
+      "title": "Mail Order Houses",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          268.640625,
+          260.15576171875
+        ],
+        [
+          373.3125,
+          260.15576171875
+        ],
+        [
+          373.3125,
+          271.17994689941406
+        ],
+        [
+          268.640625,
+          271.17994689941406
+        ]
+      ]
+    },
+    {
+      "title": "Advantages",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          66.0,
+          555.3515625
+        ],
+        [
+          129.03515625,
+          555.3515625
+        ],
+        [
+          129.03515625,
+          567.2965850830078
+        ],
+        [
+          66.0,
+          567.2965850830078
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          268.8984375,
+          465.10693359374994
+        ],
+        [
+          333.41986083984375,
+          465.10693359374994
+        ],
+        [
+          333.41986083984375,
+          477.18833923339844
+        ],
+        [
+          268.8984375,
+          477.18833923339844
+        ]
+      ]
+    },
+    {
+      "title": "Consumer Cooperative Store",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          269.671875,
+          130.57373046875
+        ],
+        [
+          427.453125,
+          130.57373046875
+        ],
+        [
+          427.453125,
+          142.42137145996094
+        ],
+        [
+          269.671875,
+          142.42137145996094
+        ]
+      ]
+    },
+    {
+      "title": "Advantages",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          65.5166015625,
+          141.482421875
+        ],
+        [
+          129.29296875,
+          141.482421875
+        ],
+        [
+          129.29296875,
+          154.47264099121094
+        ],
+        [
+          65.5166015625,
+          154.47264099121094
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          269.4140625,
+          177.348876953125
+        ],
+        [
+          335.9296875,
+          177.348876953125
+        ],
+        [
+          335.9296875,
+          190.72251892089844
+        ],
+        [
+          269.4140625,
+          190.72251892089844
+        ]
+      ]
+    },
+    {
+      "title": "Super Markets",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          269.671875,
+          544.44287109375
+        ],
+        [
+          350.109375,
+          544.44287109375
+        ],
+        [
+          350.109375,
+          556.5419464111328
+        ],
+        [
+          269.671875,
+          556.5419464111328
+        ]
+      ]
+    },
+    {
+      "title": "Advantages",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          268.8984375,
+          205.777587890625
+        ],
+        [
+          333.3515625,
+          205.777587890625
+        ],
+        [
+          333.3515625,
+          217.47267150878906
+        ],
+        [
+          268.8984375,
+          217.47267150878906
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          269.671875,
+          563.9462890625
+        ],
+        [
+          334.640625,
+          563.9462890625
+        ],
+        [
+          334.640625,
+          575.6726455688477
+        ],
+        [
+          269.671875,
+          575.6726455688477
+        ]
+      ]
+    },
+    {
+      "title": "Vending Machines",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          65.87109375,
+          477.99902343749994
+        ],
+        [
+          165.75001525878906,
+          477.99902343749994
+        ],
+        [
+          165.75001525878906,
+          490.06813049316406
+        ],
+        [
+          65.87109375,
+          490.06813049316406
+        ]
+      ]
+    },
+    {
+      "title": "Goods and Services Tax",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          270.0,
+          477.99902343749994
+        ],
+        [
+          402.1875,
+          477.99902343749994
+        ],
+        [
+          402.1875,
+          490.3432159423828
+        ],
+        [
+          270.0,
+          490.3432159423828
+        ]
+      ]
+    },
+    {
+      "title": "Some Facts about GST",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          203.9296875,
+          428.74462890625
+        ],
+        [
+          322.265625,
+          428.74462890625
+        ],
+        [
+          322.265625,
+          439.00584411621094
+        ],
+        [
+          203.9296875,
+          439.00584411621094
+        ]
+      ]
+    },
+    {
+      "title": "How will GST Benefit and Empower Citizens",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          153.26953125,
+          209.744384765625
+        ],
+        [
+          373.3125,
+          209.744384765625
+        ],
+        [
+          373.3125,
+          221.7156524658203
+        ],
+        [
+          153.26953125,
+          221.7156524658203
+        ]
+      ]
+    },
+    {
+      "title": "Key Features of GST:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          66.0,
+          348.4169921875
+        ],
+        [
+          183.5625,
+          348.4169921875
+        ],
+        [
+          183.5625,
+          359.3493194580078
+        ],
+        [
+          66.0,
+          359.3493194580078
+        ]
+      ]
+    },
+    {
+      "title": "GST Council \u2013 Constitution",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          195.1640625,
+          101.7318115234375
+        ],
+        [
+          332.578125,
+          101.7318115234375
+        ],
+        [
+          332.578125,
+          113.20573425292969
+        ],
+        [
+          195.1640625,
+          113.20573425292969
+        ]
+      ]
+    },
+    {
+      "title": "10.6 R o l e o f C o m m e r c e a n d\nIndustry Associations is in\nPromotion of Internal Trade",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          66.0,
+          94.046142578125
+        ],
+        [
+          260.1328125,
+          94.046142578125
+        ],
+        [
+          260.1328125,
+          133.5931854248047
+        ],
+        [
+          66.0,
+          133.5931854248047
+        ]
+      ]
+    },
+    {
+      "title": "Key Terms",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          76.44140625,
+          360.978515625
+        ],
+        [
+          130.58203125,
+          360.978515625
+        ],
+        [
+          130.58203125,
+          370.86094665527344
+        ],
+        [
+          76.44140625,
+          370.86094665527344
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          238.24510192871094,
+          474.16094970703125
+        ],
+        [
+          290.3050842285156,
+          474.16094970703125
+        ],
+        [
+          290.3050842285156,
+          483.66094970703125
+        ],
+        [
+          238.24510192871094,
+          483.66094970703125
+        ]
+      ]
+    },
+    {
+      "title": "Fixed shop small retailers",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          83.66015625,
+          243.95800781249997
+        ],
+        [
+          214.62890625,
+          243.95800781249997
+        ],
+        [
+          214.62890625,
+          254.53013610839844
+        ],
+        [
+          83.66015625,
+          254.53013610839844
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          234.64419555664062,
+          93.2197265625
+        ],
+        [
+          293.90625,
+          93.2197265625
+        ],
+        [
+          293.90625,
+          103.70579528808594
+        ],
+        [
+          234.64419555664062,
+          103.70579528808594
+        ]
+      ]
+    },
+    {
+      "title": "Short Answer Questions",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          72.57421875,
+          122.72277832031249
+        ],
+        [
+          192.97265625,
+          122.72277832031249
+        ],
+        [
+          192.97265625,
+          133.1083221435547
+        ],
+        [
+          72.57421875,
+          133.1083221435547
+        ]
+      ]
+    },
+    {
+      "title": "Long Answer Questions",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          72.1875,
+          345.7724609375
+        ],
+        [
+          189.4921875,
+          345.7724609375
+        ],
+        [
+          189.4921875,
+          356.00636291503906
+        ],
+        [
+          72.1875,
+          356.00636291503906
+        ]
+      ]
+    },
+    {
+      "title": "Projects/Assignments",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          72.57421875,
+          521.30322265625
+        ],
+        [
+          182.40234375,
+          521.30322265625
+        ],
+        [
+          182.40234375,
+          531.22021484375
+        ],
+        [
+          72.57421875,
+          531.22021484375
+        ]
+      ]
+    },
+    {
+      "title": "INTERNAL TRADE 245",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          65.5810546875,
+          66.939697265625
+        ],
+        [
+          461.9972229003906,
+          66.939697265625
+        ],
+        [
+          461.9972229003906,
+          77.01377868652344
+        ],
+        [
+          65.5810546875,
+          77.01377868652344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          389
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          365
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          467
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          425
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          342
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          443
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          411
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          437
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          413
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          362
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          363
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          375
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          328
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          513
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          451
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          582
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          586
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          365
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          318
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          462
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          586
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bus_11_10"
+}

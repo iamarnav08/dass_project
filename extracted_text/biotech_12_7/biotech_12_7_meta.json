@@ -1,0 +1,1211 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 7 Plant Tissue Culture",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.1552963256836,
+          91.54965209960938
+        ],
+        [
+          437.5860900878906,
+          91.54965209960938
+        ],
+        [
+          437.5860900878906,
+          145.54965209960938
+        ],
+        [
+          95.1552963256836,
+          145.54965209960938
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Historical Perspective",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.8974609375,
+          513.0791015625
+        ],
+        [
+          286.7900390625,
+          513.0791015625
+        ],
+        [
+          286.7900390625,
+          529.6638793945312
+        ],
+        [
+          80.8974609375,
+          529.6638793945312
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Historical \nPerspective",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          429.6794128417969,
+          367.987060546875
+        ],
+        [
+          509.91796875,
+          367.987060546875
+        ],
+        [
+          509.91796875,
+          393.7978515625
+        ],
+        [
+          429.6794128417969,
+          393.7978515625
+        ]
+      ]
+    },
+    {
+      "title": "Box 1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          99.5302734375,
+          71.876953125
+        ],
+        [
+          135.03329467773438,
+          71.876953125
+        ],
+        [
+          135.03329467773438,
+          83.90597534179688
+        ],
+        [
+          99.5302734375,
+          83.90597534179688
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Plant Cell and Tissue Culture Techniques",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          226.8544921875,
+          455.34814453125
+        ],
+        [
+          549.66796875,
+          455.34814453125
+        ],
+        [
+          549.66796875,
+          472.3237609863281
+        ],
+        [
+          226.8544921875,
+          472.3237609863281
+        ]
+      ]
+    },
+    {
+      "title": "Some of the basic requirements for plant tissue culture are:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.8974609375,
+          369.134033203125
+        ],
+        [
+          411.5462646484375,
+          369.134033203125
+        ],
+        [
+          411.5462646484375,
+          381.368408203125
+        ],
+        [
+          80.8974609375,
+          381.368408203125
+        ]
+      ]
+    },
+    {
+      "title": "Steps of plant tissue culture",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.431640625,
+          539.841796875
+        ],
+        [
+          250.921875,
+          539.841796875
+        ],
+        [
+          250.921875,
+          552.076171875
+        ],
+        [
+          80.431640625,
+          552.076171875
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Nutrient Media",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          81.04800415039062,
+          249.466552734375
+        ],
+        [
+          229.9599609375,
+          249.466552734375
+        ],
+        [
+          229.9599609375,
+          267.7179870605469
+        ],
+        [
+          81.04800415039062,
+          267.7179870605469
+        ]
+      ]
+    },
+    {
+      "title": "7.4 Culture Types",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          228.6479949951172,
+          629.68798828125
+        ],
+        [
+          369.240234375,
+          629.68798828125
+        ],
+        [
+          369.240234375,
+          646.6924743652344
+        ],
+        [
+          228.6479949951172,
+          646.6924743652344
+        ]
+      ]
+    },
+    {
+      "title": "Box 2",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          139.04736328125,
+          68.77056884765625
+        ],
+        [
+          176.57330322265625,
+          68.77056884765625
+        ],
+        [
+          176.57330322265625,
+          80.36264038085938
+        ],
+        [
+          139.04736328125,
+          80.36264038085938
+        ]
+      ]
+    },
+    {
+      "title": "7.5 Applications of Plant Cell and\nTissue Culture",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          228.6479949951172,
+          315.6924743652344
+        ],
+        [
+          498.73828125,
+          315.6924743652344
+        ],
+        [
+          498.73828125,
+          350.8924560546875
+        ],
+        [
+          228.6479949951172,
+          350.8924560546875
+        ]
+      ]
+    },
+    {
+      "title": "Micropropagation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          79.9658203125,
+          63.60919189453125
+        ],
+        [
+          211.9482421875,
+          63.60919189453125
+        ],
+        [
+          211.9482421875,
+          79.28448486328125
+        ],
+        [
+          79.9658203125,
+          79.28448486328125
+        ]
+      ]
+    },
+    {
+      "title": "Artificial (synthetic) seed production",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.35400390625,
+          430.87939453125
+        ],
+        [
+          352.16015625,
+          430.87939453125
+        ],
+        [
+          352.16015625,
+          446.93701171875
+        ],
+        [
+          80.35400390625,
+          446.93701171875
+        ]
+      ]
+    },
+    {
+      "title": "Haploids or triploid productions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          228.6479949951172,
+          248.319580078125
+        ],
+        [
+          466.751953125,
+          248.319580078125
+        ],
+        [
+          466.751953125,
+          264.759521484375
+        ],
+        [
+          228.6479949951172,
+          264.759521484375
+        ]
+      ]
+    },
+    {
+      "title": "Somatic hybrids",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          228.5625,
+          471.0234375
+        ],
+        [
+          349.365234375,
+          471.0234375
+        ],
+        [
+          349.365234375,
+          487.845703125
+        ],
+        [
+          228.5625,
+          487.845703125
+        ]
+      ]
+    },
+    {
+      "title": "Production of virus-free plants",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.2763671875,
+          418.2626953125
+        ],
+        [
+          308.968017578125,
+          418.2626953125
+        ],
+        [
+          308.968017578125,
+          433.5556640625
+        ],
+        [
+          80.2763671875,
+          433.5556640625
+        ]
+      ]
+    },
+    {
+      "title": "Somaclonal variations (Genetic variability)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          228.0966796875,
+          62.7967529296875
+        ],
+        [
+          541.59375,
+          62.7967529296875
+        ],
+        [
+          541.59375,
+          79.0455322265625
+        ],
+        [
+          228.0966796875,
+          79.0455322265625
+        ]
+      ]
+    },
+    {
+      "title": "Production of secondary metabolites",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          228.6479949951172,
+          471.0234375
+        ],
+        [
+          499.359375,
+          471.0234375
+        ],
+        [
+          499.359375,
+          486.31640625
+        ],
+        [
+          228.6479949951172,
+          486.31640625
+        ]
+      ]
+    },
+    {
+      "title": "Box 3",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          96.26953125,
+          305.859375
+        ],
+        [
+          133.0693359375,
+          305.859375
+        ],
+        [
+          133.0693359375,
+          317.8315124511719
+        ],
+        [
+          96.26953125,
+          317.8315124511719
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          351.5390625,
+          70.87335205078125
+        ],
+        [
+          432.28125,
+          70.87335205078125
+        ],
+        [
+          432.28125,
+          86.07730102539062
+        ],
+        [
+          351.5390625,
+          86.07730102539062
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          347.8125,
+          545.958984375
+        ],
+        [
+          435.38671875,
+          545.958984375
+        ],
+        [
+          435.38671875,
+          560.0916900634766
+        ],
+        [
+          347.8125,
+          560.0916900634766
+        ]
+      ]
+    },
+    {
+      "title": "Multiple Choice Questions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          117.04800415039062,
+          191.8311767578125
+        ],
+        [
+          262.8779296875,
+          191.8311767578125
+        ],
+        [
+          262.8779296875,
+          204.734619140625
+        ],
+        [
+          117.04800415039062,
+          204.734619140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_12_7"
+}

@@ -1,0 +1,158 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Responding to the Poem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.56494140625,
+          279.988037109375
+        ],
+        [
+          235.76220703125,
+          279.988037109375
+        ],
+        [
+          235.76220703125,
+          294.9119396209717
+        ],
+        [
+          80.56494140625,
+          294.9119396209717
+        ]
+      ]
+    },
+    {
+      "title": "Language Study",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.4462890625,
+          460.18164062499994
+        ],
+        [
+          187.470703125,
+          460.18164062499994
+        ],
+        [
+          187.470703125,
+          475.6318950653076
+        ],
+        [
+          80.4462890625,
+          475.6318950653076
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Reading",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          81.03955078125,
+          555.33447265625
+        ],
+        [
+          191.38623046875,
+          555.33447265625
+        ],
+        [
+          191.38623046875,
+          569.7118968963623
+        ],
+        [
+          81.03955078125,
+          569.7118968963623
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_12_p5"
+}

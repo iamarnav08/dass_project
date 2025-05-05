@@ -1,0 +1,1486 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIT 3\nCELL: STRUCTURE AND FUNCTIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          198.0,
+          306.66594886779785
+        ],
+        [
+          450.6880798339844,
+          306.66594886779785
+        ],
+        [
+          450.6880798339844,
+          378.31787109375
+        ],
+        [
+          198.0,
+          378.31787109375
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 10",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.0185546875,
+          480.27587890625
+        ],
+        [
+          118.1865234375,
+          480.27587890625
+        ],
+        [
+          118.1865234375,
+          493.22612953186035
+        ],
+        [
+          59.0185546875,
+          493.22612953186035
+        ]
+      ]
+    },
+    {
+      "title": "CELL: THE UNIT OF LIFE\nCHAPTER 8",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          191.25,
+          248.37890625
+        ],
+        [
+          442.265625,
+          248.37890625
+        ],
+        [
+          442.265625,
+          319.8745975494385
+        ],
+        [
+          191.25,
+          319.8745975494385
+        ]
+      ]
+    },
+    {
+      "title": "8.1 WHAT IS A CELL?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          173.52000427246094,
+          476.0595703125
+        ],
+        [
+          310.482421875,
+          476.0595703125
+        ],
+        [
+          310.482421875,
+          492.158203125
+        ],
+        [
+          173.52000427246094,
+          492.158203125
+        ]
+      ]
+    },
+    {
+      "title": "8.2 CELL THEORY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          173.52011108398438,
+          635.5126953125
+        ],
+        [
+          286.07159423828125,
+          635.5126953125
+        ],
+        [
+          286.07159423828125,
+          649.742639541626
+        ],
+        [
+          173.52011108398438,
+          649.742639541626
+        ]
+      ]
+    },
+    {
+      "title": "8.3 AN OVERVIEW OF CELL",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          191.548828125,
+          331.363525390625
+        ],
+        [
+          357.3984375,
+          331.363525390625
+        ],
+        [
+          357.3984375,
+          344.7020206451416
+        ],
+        [
+          191.548828125,
+          344.7020206451416
+        ]
+      ]
+    },
+    {
+      "title": "8.4 PROKARYOTIC CELLS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.280029296875,
+          575.7177734375
+        ],
+        [
+          210.375,
+          575.7177734375
+        ],
+        [
+          210.375,
+          589.5023288726807
+        ],
+        [
+          59.280029296875,
+          589.5023288726807
+        ]
+      ]
+    },
+    {
+      "title": "8.4.1 Cell Envelope and its Modifications",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          188.859375,
+          410.1318359375
+        ],
+        [
+          452.0639953613281,
+          410.1318359375
+        ],
+        [
+          452.0639953613281,
+          423.4095096588135
+        ],
+        [
+          188.859375,
+          423.4095096588135
+        ]
+      ]
+    },
+    {
+      "title": "8.4.2 Ribosomes and Inclusion Bodies",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.16796875,
+          328.680419921875
+        ],
+        [
+          301.81640625,
+          328.680419921875
+        ],
+        [
+          301.81640625,
+          341.5699710845947
+        ],
+        [
+          59.16796875,
+          341.5699710845947
+        ]
+      ]
+    },
+    {
+      "title": "8.5 EUKARYOTIC CELLS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.3173828125,
+          535.9421329498291
+        ],
+        [
+          201.84471130371094,
+          535.9421329498291
+        ],
+        [
+          201.84471130371094,
+          548.9421329498291
+        ],
+        [
+          59.3173828125,
+          548.9421329498291
+        ]
+      ]
+    },
+    {
+      "title": "8.5.1 Cell Membrane",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.354736328125,
+          144.696044921875
+        ],
+        [
+          187.5146484375,
+          144.696044921875
+        ],
+        [
+          187.5146484375,
+          157.48964881896973
+        ],
+        [
+          59.354736328125,
+          157.48964881896973
+        ]
+      ]
+    },
+    {
+      "title": "8.5.2 Cell Wall",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          192.146484375,
+          437.7294921875
+        ],
+        [
+          286.875,
+          437.7294921875
+        ],
+        [
+          286.875,
+          450.52996253967285
+        ],
+        [
+          192.146484375,
+          450.52996253967285
+        ]
+      ]
+    },
+    {
+      "title": "8.5.3 Endomembrane System",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          191.1005859375,
+          666.943359375
+        ],
+        [
+          381.03619384765625,
+          666.943359375
+        ],
+        [
+          381.03619384765625,
+          679.0100955963135
+        ],
+        [
+          191.1005859375,
+          679.0100955963135
+        ]
+      ]
+    },
+    {
+      "title": "CELL: THE UNIT OF LIFE 95",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          82.0283203125,
+          64.1070556640625
+        ],
+        [
+          520.3189697265625,
+          64.1070556640625
+        ],
+        [
+          520.3189697265625,
+          76.11757850646973
+        ],
+        [
+          82.0283203125,
+          76.11757850646973
+        ]
+      ]
+    },
+    {
+      "title": "8.5.3.1 8.5.3.1 The Endoplasmic Reticulum (ER) The Endoplasmic Reticulum (ER)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.39208984375,
+          241.09619140625
+        ],
+        [
+          293.3099365234375,
+          241.09619140625
+        ],
+        [
+          293.3099365234375,
+          253.09188270568848
+        ],
+        [
+          59.39208984375,
+          253.09188270568848
+        ]
+      ]
+    },
+    {
+      "title": "8.5.3.2 8.5.3.2 Golgi apparatus",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.802978515625,
+          568.0517578125
+        ],
+        [
+          201.5595703125,
+          568.0517578125
+        ],
+        [
+          201.5595703125,
+          579.5578708648682
+        ],
+        [
+          59.802978515625,
+          579.5578708648682
+        ]
+      ]
+    },
+    {
+      "title": "8.5.3.3 8.5.3.3 Lysosomes",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          192.01048278808594,
+          302.42431640625
+        ],
+        [
+          300.322265625,
+          302.42431640625
+        ],
+        [
+          300.322265625,
+          314.07439613342285
+        ],
+        [
+          192.01048278808594,
+          314.07439613342285
+        ]
+      ]
+    },
+    {
+      "title": "8.5.3.4 8.5.3.4 Vacuoles VacuolesVacuoles",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          192.01046752929688,
+          418.94775390625
+        ],
+        [
+          289.265625,
+          418.94775390625
+        ],
+        [
+          289.265625,
+          430.48784828186035
+        ],
+        [
+          192.01046752929688,
+          430.48784828186035
+        ]
+      ]
+    },
+    {
+      "title": "8.5.4 Mitochondria",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          191.9991912841797,
+          604.8486328125
+        ],
+        [
+          318.55078125,
+          604.8486328125
+        ],
+        [
+          318.55078125,
+          617.3328800201416
+        ],
+        [
+          191.9991912841797,
+          617.3328800201416
+        ]
+      ]
+    },
+    {
+      "title": "CELL: THE UNIT OF LIFE 97",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          83.373046875,
+          62.71759033203125
+        ],
+        [
+          520.3189697265625,
+          62.71759033203125
+        ],
+        [
+          520.3189697265625,
+          76.11757850646973
+        ],
+        [
+          83.373046875,
+          76.11757850646973
+        ]
+      ]
+    },
+    {
+      "title": "8.5.5 Plastids",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.6162109375,
+          522.0556640625
+        ],
+        [
+          151.3564453125,
+          522.0556640625
+        ],
+        [
+          151.3564453125,
+          535.490686416626
+        ],
+        [
+          59.6162109375,
+          535.490686416626
+        ]
+      ]
+    },
+    {
+      "title": "8.5.6 Ribosomes",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          188.26171875,
+          453.44482421875
+        ],
+        [
+          299.2799987792969,
+          453.44482421875
+        ],
+        [
+          299.2799987792969,
+          468.01025390625
+        ],
+        [
+          188.26171875,
+          468.01025390625
+        ]
+      ]
+    },
+    {
+      "title": "8.5.7 Cytoskeleton",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          192.0,
+          633.212890625
+        ],
+        [
+          313.171875,
+          633.212890625
+        ],
+        [
+          313.171875,
+          648.544921875
+        ],
+        [
+          192.0,
+          648.544921875
+        ]
+      ]
+    },
+    {
+      "title": "8.5.8 Cilia and Flagella",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          59.205322265625,
+          350.528564453125
+        ],
+        [
+          211.4208984375,
+          350.528564453125
+        ],
+        [
+          211.4208984375,
+          363.650598526001
+        ],
+        [
+          59.205322265625,
+          363.650598526001
+        ]
+      ]
+    },
+    {
+      "title": "8.5.9 Centrosome and Centrioles",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          59.3173828125,
+          635.12939453125
+        ],
+        [
+          275.3701171875,
+          635.12939453125
+        ],
+        [
+          275.3701171875,
+          647.8106937408447
+        ],
+        [
+          59.3173828125,
+          647.8106937408447
+        ]
+      ]
+    },
+    {
+      "title": "8.5.10 Nucleus",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          192.0,
+          214.26513671875
+        ],
+        [
+          292.4033203125,
+          214.26513671875
+        ],
+        [
+          292.4033203125,
+          227.56954383850098
+        ],
+        [
+          192.0,
+          227.56954383850098
+        ]
+      ]
+    },
+    {
+      "title": "8.5.11 Microbodies",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          192.0,
+          158.9739990234375
+        ],
+        [
+          314.96484375,
+          158.9739990234375
+        ],
+        [
+          314.96484375,
+          171.64962196350098
+        ],
+        [
+          192.0,
+          171.64962196350098
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          288.960205078125,
+          245.54201698303223
+        ],
+        [
+          341.26171875,
+          245.54201698303223
+        ],
+        [
+          341.26171875,
+          258.5420169830322
+        ],
+        [
+          288.960205078125,
+          258.5420169830322
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          267.8399963378906,
+          104.2578125
+        ],
+        [
+          327.814453125,
+          104.2578125
+        ],
+        [
+          327.814453125,
+          118.62264442443848
+        ],
+        [
+          267.8399963378906,
+          118.62264442443848
+        ]
+      ]
+    },
+    {
+      "title": "Column I Column II",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          135.89208984375,
+          286.708984375
+        ],
+        [
+          331.699951171875,
+          286.708984375
+        ],
+        [
+          331.699951171875,
+          299.3065128326416
+        ],
+        [
+          135.89208984375,
+          299.3065128326416
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_8"
+}

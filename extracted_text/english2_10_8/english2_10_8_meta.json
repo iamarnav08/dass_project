@@ -1,0 +1,491 @@
+{
+  "table_of_contents": [
+    {
+      "title": "READ AND FIND OUT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.2734375,
+          216.21728515625
+        ],
+        [
+          181.125,
+          216.21728515625
+        ],
+        [
+          181.125,
+          229.98736190795898
+        ],
+        [
+          77.2734375,
+          229.98736190795898
+        ]
+      ]
+    },
+    {
+      "title": "READ AND FIND OUT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          121.19996643066406,
+          493.0625
+        ],
+        [
+          222.9609375,
+          493.0625
+        ],
+        [
+          222.9609375,
+          507.130859375
+        ],
+        [
+          121.19996643066406,
+          507.130859375
+        ]
+      ]
+    },
+    {
+      "title": "READ AND FIND OUT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.2119140625,
+          334.79345703125
+        ],
+        [
+          180.6328125,
+          334.79345703125
+        ],
+        [
+          180.6328125,
+          348.18737411499023
+        ],
+        [
+          77.2119140625,
+          348.18737411499023
+        ]
+      ]
+    },
+    {
+      "title": "GLOSSARY",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          104.220703125,
+          459.9013671875
+        ],
+        [
+          155.88116455078125,
+          459.9013671875
+        ],
+        [
+          155.88116455078125,
+          472.62661361694336
+        ],
+        [
+          104.220703125,
+          472.62661361694336
+        ]
+      ]
+    },
+    {
+      "title": "Think about it",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          40.39013671875,
+          53.4681396484375
+        ],
+        [
+          118.37109375,
+          53.4681396484375
+        ],
+        [
+          118.37109375,
+          76.10909652709961
+        ],
+        [
+          40.39013671875,
+          76.10909652709961
+        ]
+      ]
+    },
+    {
+      "title": "Talk about it",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          36.63720703125,
+          325.07958984375
+        ],
+        [
+          114.556640625,
+          325.07958984375
+        ],
+        [
+          114.556640625,
+          348.93789291381836
+        ],
+        [
+          36.63720703125,
+          348.93789291381836
+        ]
+      ]
+    },
+    {
+      "title": "Suggested reading",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.22216796875,
+          509.4755859375
+        ],
+        [
+          139.904296875,
+          509.4755859375
+        ],
+        [
+          139.904296875,
+          531.7566032409668
+        ],
+        [
+          35.22216796875,
+          531.7566032409668
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_10_8"
+}

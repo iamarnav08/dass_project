@@ -1,0 +1,1740 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Stem Cell Culture and 9 Organ Culture Chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.1552963256836,
+          99.84568786621094
+        ],
+        [
+          452.0260925292969,
+          99.84568786621094
+        ],
+        [
+          452.0260925292969,
+          158.514404296875
+        ],
+        [
+          95.1552963256836,
+          158.514404296875
+        ]
+      ]
+    },
+    {
+      "title": "9.1 Stem Cell Culture",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.810546875,
+          578.7216796875
+        ],
+        [
+          256.822265625,
+          578.7216796875
+        ],
+        [
+          256.822265625,
+          596.4719696044922
+        ],
+        [
+          79.810546875,
+          596.4719696044922
+        ]
+      ]
+    },
+    {
+      "title": "Historical perspective",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          228.4072265625,
+          239.40478515625
+        ],
+        [
+          362.09765625,
+          239.40478515625
+        ],
+        [
+          362.09765625,
+          252.20640563964844
+        ],
+        [
+          228.4072265625,
+          252.20640563964844
+        ]
+      ]
+    },
+    {
+      "title": "9.1.1 Stem cell classification",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.12109375,
+          581.41162109375
+        ],
+        [
+          295.01953125,
+          581.41162109375
+        ],
+        [
+          295.01953125,
+          599.08837890625
+        ],
+        [
+          80.12109375,
+          599.08837890625
+        ]
+      ]
+    },
+    {
+      "title": "Classification based on source",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.04345703125,
+          642.89599609375
+        ],
+        [
+          301.40802001953125,
+          642.89599609375
+        ],
+        [
+          301.40802001953125,
+          659.03564453125
+        ],
+        [
+          80.04345703125,
+          659.03564453125
+        ]
+      ]
+    },
+    {
+      "title": "Embryonic stem cells",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.50927734375,
+          163.31787109375
+        ],
+        [
+          230.115234375,
+          163.31787109375
+        ],
+        [
+          230.115234375,
+          179.2587127685547
+        ],
+        [
+          80.50927734375,
+          179.2587127685547
+        ]
+      ]
+    },
+    {
+      "title": "Adult stem cells",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          226.2333984375,
+          66.47998046875
+        ],
+        [
+          338.185546875,
+          66.47998046875
+        ],
+        [
+          338.185546875,
+          82.5235595703125
+        ],
+        [
+          226.2333984375,
+          82.5235595703125
+        ]
+      ]
+    },
+    {
+      "title": "Hematopoietic stem cells",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          226.388671875,
+          490.337890625
+        ],
+        [
+          399.673828125,
+          490.337890625
+        ],
+        [
+          399.673828125,
+          506.47753906249994
+        ],
+        [
+          226.388671875,
+          506.47753906249994
+        ]
+      ]
+    },
+    {
+      "title": "Mesenchymal stem cells",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.2763671875,
+          270.14697265625
+        ],
+        [
+          247.9716796875,
+          270.14697265625
+        ],
+        [
+          247.9716796875,
+          286.2587127685547
+        ],
+        [
+          80.2763671875,
+          286.2587127685547
+        ]
+      ]
+    },
+    {
+      "title": "Classification based on differentiation \npotency of stem cells",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          227.1650390625,
+          64.55859375
+        ],
+        [
+          512.008056640625,
+          64.55859375
+        ],
+        [
+          512.008056640625,
+          97.8946533203125
+        ],
+        [
+          227.1650390625,
+          97.8946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Totipotent stem cells",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          226.8544921875,
+          183.108154296875
+        ],
+        [
+          371.724609375,
+          183.108154296875
+        ],
+        [
+          371.724609375,
+          198.14927673339844
+        ],
+        [
+          226.8544921875,
+          198.14927673339844
+        ]
+      ]
+    },
+    {
+      "title": "Pluripotent stem cells",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          227.94140625,
+          466.89697265625
+        ],
+        [
+          377.3280029296875,
+          466.89697265625
+        ],
+        [
+          377.3280029296875,
+          483.03662109375
+        ],
+        [
+          227.94140625,
+          483.03662109375
+        ]
+      ]
+    },
+    {
+      "title": "Multipotent stem cells",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.12109375,
+          66.52801513671875
+        ],
+        [
+          233.53125,
+          66.52801513671875
+        ],
+        [
+          233.53125,
+          82.47552490234375
+        ],
+        [
+          80.12109375,
+          82.47552490234375
+        ]
+      ]
+    },
+    {
+      "title": "Unipotent stem cells",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.7421875,
+          254.96801757812497
+        ],
+        [
+          221.73046875,
+          254.96801757812497
+        ],
+        [
+          221.73046875,
+          270.0580291748047
+        ],
+        [
+          80.7421875,
+          270.0580291748047
+        ]
+      ]
+    },
+    {
+      "title": "9.1.2 Characteristics of stem cells",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.66455078125,
+          491.49072265625
+        ],
+        [
+          331.353515625,
+          491.49072265625
+        ],
+        [
+          331.353515625,
+          506.86181640624994
+        ],
+        [
+          80.66455078125,
+          506.86181640624994
+        ]
+      ]
+    },
+    {
+      "title": "9.1.3 Maintenance of Stem Cell",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          225.767578125,
+          454.984375
+        ],
+        [
+          460.541015625,
+          454.984375
+        ],
+        [
+          460.541015625,
+          470.0196075439453
+        ],
+        [
+          225.767578125,
+          470.0196075439453
+        ]
+      ]
+    },
+    {
+      "title": "9.1.4 Applications of stem cells",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          228.4072265625,
+          513.39453125
+        ],
+        [
+          460.23046875,
+          513.39453125
+        ],
+        [
+          460.23046875,
+          529.5341796875
+        ],
+        [
+          228.4072265625,
+          529.5341796875
+        ]
+      ]
+    },
+    {
+      "title": "Neurological diseases",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.431640625,
+          274.181884765625
+        ],
+        [
+          228.5625,
+          274.181884765625
+        ],
+        [
+          228.5625,
+          290.0771942138672
+        ],
+        [
+          80.431640625,
+          290.0771942138672
+        ]
+      ]
+    },
+    {
+      "title": "Wound healing or skin replacement",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.50927734375,
+          583.3330078125
+        ],
+        [
+          325.763671875,
+          583.3330078125
+        ],
+        [
+          325.763671875,
+          599.47265625
+        ],
+        [
+          80.50927734375,
+          599.47265625
+        ]
+      ]
+    },
+    {
+      "title": "Cardiovascular Diseases",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          227.1650390625,
+          136.0341796875
+        ],
+        [
+          396.3680114746094,
+          136.0341796875
+        ],
+        [
+          396.3680114746094,
+          151.2587127685547
+        ],
+        [
+          227.1650390625,
+          151.2587127685547
+        ]
+      ]
+    },
+    {
+      "title": "Auto-immune Disorders",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          225.767578125,
+          286.094482421875
+        ],
+        [
+          393.7734375,
+          286.094482421875
+        ],
+        [
+          393.7734375,
+          302.06028747558594
+        ],
+        [
+          225.767578125,
+          302.06028747558594
+        ]
+      ]
+    },
+    {
+      "title": "Type 1 Diabetes",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          228.6479949951172,
+          308.766845703125
+        ],
+        [
+          326.6953125,
+          308.766845703125
+        ],
+        [
+          326.6953125,
+          322.600830078125
+        ],
+        [
+          228.6479949951172,
+          322.600830078125
+        ]
+      ]
+    },
+    {
+      "title": "Multiple Sclerosis",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          226.69921875,
+          456.90576171875
+        ],
+        [
+          338.806640625,
+          456.90576171875
+        ],
+        [
+          338.806640625,
+          471.50830078125
+        ],
+        [
+          226.69921875,
+          471.50830078125
+        ]
+      ]
+    },
+    {
+      "title": "Arthritis",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          227.630859375,
+          577.1845703125
+        ],
+        [
+          282.908203125,
+          577.1845703125
+        ],
+        [
+          282.908203125,
+          591.0185546875
+        ],
+        [
+          227.630859375,
+          591.0185546875
+        ]
+      ]
+    },
+    {
+      "title": "Stem Cell Research Challenges",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          80.66455078125,
+          241.134033203125
+        ],
+        [
+          306.509765625,
+          241.134033203125
+        ],
+        [
+          306.509765625,
+          256.120849609375
+        ],
+        [
+          80.66455078125,
+          256.120849609375
+        ]
+      ]
+    },
+    {
+      "title": "9.2 Organ Culture",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          80.5869140625,
+          538.7568359375
+        ],
+        [
+          225.9228515625,
+          538.7568359375
+        ],
+        [
+          225.9228515625,
+          556.4757690429688
+        ],
+        [
+          80.5869140625,
+          556.4757690429688
+        ]
+      ]
+    },
+    {
+      "title": "9.2.1 Characteristics of organ culture",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          228.5625,
+          395.037109375
+        ],
+        [
+          503.0859375,
+          395.037109375
+        ],
+        [
+          503.0859375,
+          410.408203125
+        ],
+        [
+          228.5625,
+          410.408203125
+        ]
+      ]
+    },
+    {
+      "title": "Structural integrity",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          226.69921875,
+          488.0322265625
+        ],
+        [
+          361.787109375,
+          488.0322265625
+        ],
+        [
+          361.787109375,
+          504.94042968749994
+        ],
+        [
+          226.69921875,
+          504.94042968749994
+        ]
+      ]
+    },
+    {
+      "title": "Nutrient and gas exchange",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          80.35400390625,
+          66.47998046875
+        ],
+        [
+          265.20703125,
+          66.47998046875
+        ],
+        [
+          265.20703125,
+          82.5235595703125
+        ],
+        [
+          80.35400390625,
+          82.5235595703125
+        ]
+      ]
+    },
+    {
+      "title": "9.2.2 Growth and differentiation",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          80.5869140625,
+          476.11962890625
+        ],
+        [
+          323.248046875,
+          476.11962890625
+        ],
+        [
+          323.248046875,
+          490.9926300048828
+        ],
+        [
+          80.5869140625,
+          490.9926300048828
+        ]
+      ]
+    },
+    {
+      "title": "Whole embryo culture",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          228.4072265625,
+          65.903564453125
+        ],
+        [
+          384.0480041503906,
+          65.903564453125
+        ],
+        [
+          384.0480041503906,
+          82.24955749511719
+        ],
+        [
+          228.4072265625,
+          82.24955749511719
+        ]
+      ]
+    },
+    {
+      "title": "9.2.3 Types of organ culture",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          227.94140625,
+          386.006591796875
+        ],
+        [
+          437.25,
+          386.006591796875
+        ],
+        [
+          437.25,
+          401.185546875
+        ],
+        [
+          227.94140625,
+          401.185546875
+        ]
+      ]
+    },
+    {
+      "title": "Histotypic culture",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          227.94140625,
+          407.71826171875
+        ],
+        [
+          356.818359375,
+          407.71826171875
+        ],
+        [
+          356.818359375,
+          423.85791015625
+        ],
+        [
+          227.94140625,
+          423.85791015625
+        ]
+      ]
+    },
+    {
+      "title": "Organotypic culture",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          226.388671875,
+          576.80029296875
+        ],
+        [
+          370.0480041503906,
+          576.80029296875
+        ],
+        [
+          370.0480041503906,
+          592.93994140625
+        ],
+        [
+          226.388671875,
+          592.93994140625
+        ]
+      ]
+    },
+    {
+      "title": "9.2.4 Applications of organ culture",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          226.8544921875,
+          299.928466796875
+        ],
+        [
+          484.453125,
+          299.928466796875
+        ],
+        [
+          484.453125,
+          316.068115234375
+        ],
+        [
+          226.8544921875,
+          316.068115234375
+        ]
+      ]
+    },
+    {
+      "title": "9.2.5 Limitations of organ culture",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          226.5439453125,
+          571.42041015625
+        ],
+        [
+          478.86328125,
+          571.42041015625
+        ],
+        [
+          478.86328125,
+          587.56005859375
+        ],
+        [
+          226.5439453125,
+          587.56005859375
+        ]
+      ]
+    },
+    {
+      "title": "9.2.6 Future Prospects",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          80.5869140625,
+          296.085693359375
+        ],
+        [
+          252.1280059814453,
+          296.085693359375
+        ],
+        [
+          252.1280059814453,
+          311.841064453125
+        ],
+        [
+          80.5869140625,
+          311.841064453125
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          205.98410034179688,
+          432.31201171875
+        ],
+        [
+          282.7529296875,
+          432.31201171875
+        ],
+        [
+          282.7529296875,
+          448.45166015625
+        ],
+        [
+          205.98410034179688,
+          448.45166015625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          347.8125,
+          451.66749572753906
+        ],
+        [
+          436.62890625,
+          451.66749572753906
+        ],
+        [
+          436.62890625,
+          465.744140625
+        ],
+        [
+          347.8125,
+          465.744140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_12_9"
+}

@@ -1,0 +1,1086 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.71044921875,
+          140.7672119140625
+        ],
+        [
+          106.22937393188477,
+          140.7672119140625
+        ],
+        [
+          106.22937393188477,
+          152.0745849609375
+        ],
+        [
+          40.71044921875,
+          152.0745849609375
+        ]
+      ]
+    },
+    {
+      "title": "ATMOSPHERIC CIRCULATION\nAND WEATHER SYSTEMS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          305.9059028625488,
+          165.777587890625
+        ],
+        [
+          518.2861328125,
+          165.777587890625
+        ],
+        [
+          518.2861328125,
+          206.50115776062012
+        ],
+        [
+          305.9059028625488,
+          206.50115776062012
+        ]
+      ]
+    },
+    {
+      "title": "ATMOSPHERIC PRESSURE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.53497314453125,
+          560.00244140625
+        ],
+        [
+          166.2109375,
+          560.00244140625
+        ],
+        [
+          166.2109375,
+          572.7632427215576
+        ],
+        [
+          40.53497314453125,
+          572.7632427215576
+        ]
+      ]
+    },
+    {
+      "title": "Vertical Variation of Pressure",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          285.8154296875,
+          395.94970703125
+        ],
+        [
+          445.2880859375,
+          395.94970703125
+        ],
+        [
+          445.2880859375,
+          407.8671245574951
+        ],
+        [
+          285.8154296875,
+          407.8671245574951
+        ]
+      ]
+    },
+    {
+      "title": "Table 9.1 : Standard Pressure and Temperature at\nSelected Levels",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          291.71142578125,
+          527.80517578125
+        ],
+        [
+          511.82861328125,
+          527.80517578125
+        ],
+        [
+          511.82861328125,
+          548.50341796875
+        ],
+        [
+          291.71142578125,
+          548.50341796875
+        ]
+      ]
+    },
+    {
+      "title": "Horizontal Distribution of Pressure",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.71044921875,
+          92.8546142578125
+        ],
+        [
+          231.62841796875,
+          92.8546142578125
+        ],
+        [
+          231.62841796875,
+          104.74706840515137
+        ],
+        [
+          40.71044921875,
+          104.74706840515137
+        ]
+      ]
+    },
+    {
+      "title": "World Distribution of Sea Level Pressure",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          285.25390625,
+          220.589599609375
+        ],
+        [
+          505.9326171875,
+          220.589599609375
+        ],
+        [
+          505.9326171875,
+          232.18688774108887
+        ],
+        [
+          285.25390625,
+          232.18688774108887
+        ]
+      ]
+    },
+    {
+      "title": "Forces Affecting the Velocity\nand Direction of Wind",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.0614013671875,
+          499.82421875
+        ],
+        [
+          201.025390625,
+          499.82421875
+        ],
+        [
+          201.025390625,
+          525.1220703125
+        ],
+        [
+          41.0614013671875,
+          525.1220703125
+        ]
+      ]
+    },
+    {
+      "title": "Pressure Gradient Force",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          287.1859016418457,
+          435.04638671875
+        ],
+        [
+          413.8427734375,
+          435.04638671875
+        ],
+        [
+          413.8427734375,
+          446.9255657196045
+        ],
+        [
+          287.1859016418457,
+          446.9255657196045
+        ]
+      ]
+    },
+    {
+      "title": "Frictional Force",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          286.9384765625,
+          546.20361328125
+        ],
+        [
+          368.359375,
+          546.20361328125
+        ],
+        [
+          368.359375,
+          558.5256023406982
+        ],
+        [
+          286.9384765625,
+          558.5256023406982
+        ]
+      ]
+    },
+    {
+      "title": "Coriolis Force",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          287.1859016418457,
+          632.4462890625
+        ],
+        [
+          358.8134765625,
+          632.4462890625
+        ],
+        [
+          358.8134765625,
+          643.7256145477295
+        ],
+        [
+          287.1859016418457,
+          643.7256145477295
+        ]
+      ]
+    },
+    {
+      "title": "Pressure and Wind",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          40.6402587890625,
+          328.297119140625
+        ],
+        [
+          141.0125732421875,
+          328.297119140625
+        ],
+        [
+          141.0125732421875,
+          339.40527153015137
+        ],
+        [
+          40.6402587890625,
+          339.40527153015137
+        ]
+      ]
+    },
+    {
+      "title": "General circulation of the atmosphere",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          287.78076171875,
+          457.6611328125
+        ],
+        [
+          496.7155647277832,
+          457.6611328125
+        ],
+        [
+          496.7155647277832,
+          468.348051071167
+        ],
+        [
+          287.78076171875,
+          468.348051071167
+        ]
+      ]
+    },
+    {
+      "title": "General Atmospheric Circulation and\nits Effects on Oceans",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.6659126281738,
+          185.2301025390625
+        ],
+        [
+          498.91357421875,
+          185.2301025390625
+        ],
+        [
+          498.91357421875,
+          209.61205863952637
+        ],
+        [
+          305.6659126281738,
+          209.61205863952637
+        ]
+      ]
+    },
+    {
+      "title": "Seasonal Wind",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          287.1858711242676,
+          512.8564453125
+        ],
+        [
+          368.359375,
+          512.8564453125
+        ],
+        [
+          368.359375,
+          525.1658611297607
+        ],
+        [
+          287.1858711242676,
+          525.1658611297607
+        ]
+      ]
+    },
+    {
+      "title": "Local Winds",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          287.18584060668945,
+          655.82763671875
+        ],
+        [
+          352.35595703125,
+          655.82763671875
+        ],
+        [
+          352.35595703125,
+          667.9658641815186
+        ],
+        [
+          287.18584060668945,
+          667.9658641815186
+        ]
+      ]
+    },
+    {
+      "title": "Land and Sea Breezes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.67535400390625,
+          92.567138671875
+        ],
+        [
+          157.7880859375,
+          92.567138671875
+        ],
+        [
+          157.7880859375,
+          104.20562553405762
+        ],
+        [
+          40.67535400390625,
+          104.20562553405762
+        ]
+      ]
+    },
+    {
+      "title": "Mountain and Valley Winds",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.14590072631836,
+          652.3779296875
+        ],
+        [
+          181.82500076293945,
+          652.3779296875
+        ],
+        [
+          181.82500076293945,
+          663.1666240692139
+        ],
+        [
+          42.14590072631836,
+          663.1666240692139
+        ]
+      ]
+    },
+    {
+      "title": "Air Masses",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          288.14592361450195,
+          257.003173828125
+        ],
+        [
+          348.14453125,
+          257.003173828125
+        ],
+        [
+          348.14453125,
+          267.88635063171387
+        ],
+        [
+          288.14592361450195,
+          267.88635063171387
+        ]
+      ]
+    },
+    {
+      "title": "Fronts",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          287.5,
+          602.93212890625
+        ],
+        [
+          322.8759765625,
+          602.93212890625
+        ],
+        [
+          322.8759765625,
+          613.4864330291748
+        ],
+        [
+          287.5,
+          613.4864330291748
+        ]
+      ]
+    },
+    {
+      "title": "Extra Tropical Cyclones",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.9210205078125,
+          531.2548828125
+        ],
+        [
+          163.3517189025879,
+          531.2548828125
+        ],
+        [
+          163.3517189025879,
+          542.9255046844482
+        ],
+        [
+          40.9210205078125,
+          542.9255046844482
+        ]
+      ]
+    },
+    {
+      "title": "Tropical Cyclones",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          40.67535400390625,
+          255.853271484375
+        ],
+        [
+          132.940673828125,
+          255.853271484375
+        ],
+        [
+          132.940673828125,
+          267.6456890106201
+        ],
+        [
+          40.67535400390625,
+          267.6456890106201
+        ]
+      ]
+    },
+    {
+      "title": "84 FUNDAMENTALS OF PHYSICAL GEOGRAPHY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.1859016418457,
+          67.7484130859375
+        ],
+        [
+          516.6015625,
+          67.7484130859375
+        ],
+        [
+          516.6015625,
+          79.16674613952637
+        ],
+        [
+          41.1859016418457,
+          79.16674613952637
+        ]
+      ]
+    },
+    {
+      "title": "Thunderstorms and Tornadoes",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.185909271240234,
+          94.866943359375
+        ],
+        [
+          206.35986328125,
+          94.866943359375
+        ],
+        [
+          206.35986328125,
+          106.36559867858887
+        ],
+        [
+          41.185909271240234,
+          106.36559867858887
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          238.226318359375,
+          326.95556640625
+        ],
+        [
+          319.5068359375,
+          326.95556640625
+        ],
+        [
+          319.5068359375,
+          338.25192070007324
+        ],
+        [
+          238.226318359375,
+          338.25192070007324
+        ]
+      ]
+    },
+    {
+      "title": "ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS 85",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          40.9210205078125,
+          67.41302490234375
+        ],
+        [
+          514.9459114074707,
+          67.41302490234375
+        ],
+        [
+          514.9459114074707,
+          79.16674613952637
+        ],
+        [
+          40.9210205078125,
+          79.16674613952637
+        ]
+      ]
+    },
+    {
+      "title": "Project Work",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          79.45556640625,
+          207.174072265625
+        ],
+        [
+          147.119140625,
+          207.174072265625
+        ],
+        [
+          147.119140625,
+          218.73205375671387
+        ],
+        [
+          79.45556640625,
+          218.73205375671387
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_11_9"
+}

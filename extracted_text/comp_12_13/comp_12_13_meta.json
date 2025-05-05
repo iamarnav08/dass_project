@@ -1,0 +1,845 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Project Based \nLearning 13",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.67239379882812,
+          74.711181640625
+        ],
+        [
+          388.036376953125,
+          74.711181640625
+        ],
+        [
+          388.036376953125,
+          162.793701171875
+        ],
+        [
+          107.67239379882812,
+          162.793701171875
+        ]
+      ]
+    },
+    {
+      "title": "In this Chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.36219787597656,
+          366.9169921875
+        ],
+        [
+          202.9423828125,
+          366.9169921875
+        ],
+        [
+          202.9423828125,
+          387.1142578125
+        ],
+        [
+          86.36219787597656,
+          387.1142578125
+        ]
+      ]
+    },
+    {
+      "title": "13.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          266.625,
+          441.72167968749994
+        ],
+        [
+          388.18359375,
+          441.72167968749994
+        ],
+        [
+          388.18359375,
+          457.1968250274658
+        ],
+        [
+          266.625,
+          457.1968250274658
+        ]
+      ]
+    },
+    {
+      "title": "13.2 Approaches for Solving Projects",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          231.52000427246094,
+          132.0302734375
+        ],
+        [
+          487.869140625,
+          132.0302734375
+        ],
+        [
+          487.869140625,
+          147.7630786895752
+        ],
+        [
+          231.52000427246094,
+          147.7630786895752
+        ]
+      ]
+    },
+    {
+      "title": "13.3 Teamwork",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          81.673828125,
+          556.9208984375
+        ],
+        [
+          186.4833984375,
+          556.9208984375
+        ],
+        [
+          186.4833984375,
+          571.7632312774658
+        ],
+        [
+          81.673828125,
+          571.7632312774658
+        ]
+      ]
+    },
+    {
+      "title": "13.3.1 Components of Teamwork",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.52000427246094,
+          120.71606445312499
+        ],
+        [
+          440.35546875,
+          120.71606445312499
+        ],
+        [
+          440.35546875,
+          136.05391120910645
+        ],
+        [
+          230.52000427246094,
+          136.05391120910645
+        ]
+      ]
+    },
+    {
+      "title": "(A) Communicate with Others",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          229.8046875,
+          206.64794921874997
+        ],
+        [
+          422.2200012207031,
+          206.64794921874997
+        ],
+        [
+          422.2200012207031,
+          221.6089038848877
+        ],
+        [
+          229.8046875,
+          221.6089038848877
+        ]
+      ]
+    },
+    {
+      "title": "(B) Listen to Others",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.52000427246094,
+          330.82373046875
+        ],
+        [
+          358.6199951171875,
+          330.82373046875
+        ],
+        [
+          358.6199951171875,
+          345.80894660949707
+        ],
+        [
+          230.52000427246094,
+          345.80894660949707
+        ]
+      ]
+    },
+    {
+      "title": "(C) Share with Others",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.52000427246094,
+          411.79980468749994
+        ],
+        [
+          373.5,
+          411.79980468749994
+        ],
+        [
+          373.5,
+          426.80894660949707
+        ],
+        [
+          230.52000427246094,
+          426.80894660949707
+        ]
+      ]
+    },
+    {
+      "title": "(D) Respect for Others",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.42578125,
+          521.7626953125
+        ],
+        [
+          374.2200012207031,
+          521.7626953125
+        ],
+        [
+          374.2200012207031,
+          536.7236328125
+        ],
+        [
+          230.42578125,
+          536.7236328125
+        ]
+      ]
+    },
+    {
+      "title": "(E) Help Others",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.52000427246094,
+          631.7255859375
+        ],
+        [
+          331.97998046875,
+          631.7255859375
+        ],
+        [
+          331.97998046875,
+          646.4088764190674
+        ],
+        [
+          230.52000427246094,
+          646.4088764190674
+        ]
+      ]
+    },
+    {
+      "title": "(F) Participate",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.8974609375,
+          41.58673095703125
+        ],
+        [
+          179.37998962402344,
+          41.58673095703125
+        ],
+        [
+          179.37998962402344,
+          56.462297439575195
+        ],
+        [
+          80.8974609375,
+          56.462297439575195
+        ]
+      ]
+    },
+    {
+      "title": "13.4 Project Descriptions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          81.36328125,
+          138.482177734375
+        ],
+        [
+          261.169921875,
+          138.482177734375
+        ],
+        [
+          261.169921875,
+          154.1107349395752
+        ],
+        [
+          81.36328125,
+          154.1107349395752
+        ]
+      ]
+    },
+    {
+      "title": "Project Title 1: Automation of Order Processing in a \nRestaurant",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          81.052734375,
+          225.91015624999997
+        ],
+        [
+          410.54296875,
+          225.91015624999997
+        ],
+        [
+          410.54296875,
+          253.54829597473145
+        ],
+        [
+          81.052734375,
+          253.54829597473145
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.7421875,
+          262.75146484375
+        ],
+        [
+          155.7392578125,
+          262.75146484375
+        ],
+        [
+          155.7392578125,
+          277.00093269348145
+        ],
+        [
+          80.7421875,
+          277.00093269348145
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          81.36328125,
+          376.08056640625
+        ],
+        [
+          171.111328125,
+          376.08056640625
+        ],
+        [
+          171.111328125,
+          389.8729724884033
+        ],
+        [
+          81.36328125,
+          389.8729724884033
+        ]
+      ]
+    },
+    {
+      "title": "Project Title 2 : Development of a Puzzle",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.18359375,
+          197.29736328125
+        ],
+        [
+          467.0625,
+          197.29736328125
+        ],
+        [
+          467.0625,
+          210.69624519348145
+        ],
+        [
+          229.18359375,
+          210.69624519348145
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          230.8916015625,
+          226.47119140624997
+        ],
+        [
+          305.1123046875,
+          226.47119140624997
+        ],
+        [
+          305.1123046875,
+          239.7498950958252
+        ],
+        [
+          230.8916015625,
+          239.7498950958252
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          230.42578125,
+          326.70947265625
+        ],
+        [
+          320.173828125,
+          326.70947265625
+        ],
+        [
+          320.173828125,
+          340.54991340637207
+        ],
+        [
+          230.42578125,
+          340.54991340637207
+        ]
+      ]
+    },
+    {
+      "title": "Project Title 3 : Development of an Educational Game",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.494140625,
+          542.333984375
+        ],
+        [
+          541.904296875,
+          542.333984375
+        ],
+        [
+          541.904296875,
+          554.302734375
+        ],
+        [
+          229.494140625,
+          554.302734375
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          230.42578125,
+          565.5234375
+        ],
+        [
+          305.267578125,
+          565.5234375
+        ],
+        [
+          305.267578125,
+          577.8498554229736
+        ],
+        [
+          230.42578125,
+          577.8498554229736
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.19873046875,
+          41.0958251953125
+        ],
+        [
+          171.421875,
+          41.0958251953125
+        ],
+        [
+          171.421875,
+          56.175798416137695
+        ],
+        [
+          80.19873046875,
+          56.175798416137695
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/comp_12_13"
+}

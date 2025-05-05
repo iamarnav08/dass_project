@@ -1,0 +1,374 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Journey to the end of the Earth",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.3291015625,
+          195.928955078125
+        ],
+        [
+          383.958984375,
+          195.928955078125
+        ],
+        [
+          383.958984375,
+          218.21264266967773
+        ],
+        [
+          101.3291015625,
+          218.21264266967773
+        ]
+      ]
+    },
+    {
+      "title": "Tishani Doshi Tishani DoshiTishani Doshi",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.048828125,
+          227.43835067749023
+        ],
+        [
+          272.900390625,
+          227.43835067749023
+        ],
+        [
+          272.900390625,
+          243.4521484375
+        ],
+        [
+          214.048828125,
+          243.4521484375
+        ]
+      ]
+    },
+    {
+      "title": "Before you read",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          81.03955078125,
+          256.125
+        ],
+        [
+          169.07958984375,
+          256.125
+        ],
+        [
+          169.07958984375,
+          268.46435546875
+        ],
+        [
+          81.03955078125,
+          268.46435546875
+        ]
+      ]
+    },
+    {
+      "title": "Part of history",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.9208984375,
+          539.5966796875
+        ],
+        [
+          177.978515625,
+          539.5966796875
+        ],
+        [
+          177.978515625,
+          554.2705078125
+        ],
+        [
+          80.9208984375,
+          554.2705078125
+        ]
+      ]
+    },
+    {
+      "title": "Human impact",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.56494140625,
+          237.949462890625
+        ],
+        [
+          172.87646484375,
+          237.949462890625
+        ],
+        [
+          172.87646484375,
+          251.956298828125
+        ],
+        [
+          80.56494140625,
+          251.956298828125
+        ]
+      ]
+    },
+    {
+      "title": "Walk on the ocean",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          79.9716796875,
+          185.590576171875
+        ],
+        [
+          196.013671875,
+          185.590576171875
+        ],
+        [
+          196.013671875,
+          199.00747299194336
+        ],
+        [
+          79.9716796875,
+          199.00747299194336
+        ]
+      ]
+    },
+    {
+      "title": "Reading with Insight",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          144.0,
+          173.41796875
+        ],
+        [
+          289.51171875,
+          173.41796875
+        ],
+        [
+          289.51171875,
+          189.68255233764648
+        ],
+        [
+          144.0,
+          189.68255233764648
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english3_12_3"
+}

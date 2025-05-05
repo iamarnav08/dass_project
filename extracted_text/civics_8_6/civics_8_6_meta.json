@@ -1,0 +1,587 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Confronting\nMarginalisation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.2685546875,
+          136.72625541687012
+        ],
+        [
+          456.609375,
+          136.72625541687012
+        ],
+        [
+          456.609375,
+          196.72625541687012
+        ],
+        [
+          250.2685546875,
+          196.72625541687012
+        ]
+      ]
+    },
+    {
+      "title": "Invoking Fundamental Rights",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          91.29638671875,
+          206.203125
+        ],
+        [
+          297.2900390625,
+          206.203125
+        ],
+        [
+          297.2900390625,
+          223.27557182312012
+        ],
+        [
+          91.29638671875,
+          223.27557182312012
+        ]
+      ]
+    },
+    {
+      "title": "Laws for the Marginalised",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          250.119140625,
+          400.166015625
+        ],
+        [
+          435.990234375,
+          400.166015625
+        ],
+        [
+          435.990234375,
+          418.51473808288574
+        ],
+        [
+          250.119140625,
+          418.51473808288574
+        ]
+      ]
+    },
+    {
+      "title": "Promoting Social Justice",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          252.0,
+          566.90185546875
+        ],
+        [
+          389.671875,
+          566.90185546875
+        ],
+        [
+          389.671875,
+          581.5443248748779
+        ],
+        [
+          252.0,
+          581.5443248748779
+        ]
+      ]
+    },
+    {
+      "title": "Protecting the Rights of Dalits and\nAdivasis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          252.0,
+          78.33709716796875
+        ],
+        [
+          495.158203125,
+          78.33709716796875
+        ],
+        [
+          495.158203125,
+          116.11620903015137
+        ],
+        [
+          252.0,
+          116.11620903015137
+        ]
+      ]
+    },
+    {
+      "title": "The Scheduled Castes and the Scheduled Tribes\n(Prevention of Atrocities) Act, 1989",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.765625,
+          339.22119140625
+        ],
+        [
+          363.673828125,
+          339.22119140625
+        ],
+        [
+          363.673828125,
+          368.5183391571045
+        ],
+        [
+          59.765625,
+          368.5183391571045
+        ]
+      ]
+    },
+    {
+      "title": "The Scourge of Manual Scavenging",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.4775390625,
+          89.06951904296875
+        ],
+        [
+          234.49496459960938,
+          89.06951904296875
+        ],
+        [
+          234.49496459960938,
+          101.04144096374512
+        ],
+        [
+          69.4775390625,
+          101.04144096374512
+        ]
+      ]
+    },
+    {
+      "title": "Adivasi Demands and the 1989 Act",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          252.0,
+          78.385009765625
+        ],
+        [
+          501.43359375,
+          78.385009765625
+        ],
+        [
+          501.43359375,
+          96.91595268249512
+        ],
+        [
+          252.0,
+          96.91595268249512
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          252.0,
+          537.00439453125
+        ],
+        [
+          327.515625,
+          537.00439453125
+        ],
+        [
+          327.515625,
+          555.0760478973389
+        ],
+        [
+          252.0,
+          555.0760478973389
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          79.0400390625,
+          83.60748291015625
+        ],
+        [
+          191.6982421875,
+          83.60748291015625
+        ],
+        [
+          191.6982421875,
+          113.85711479187012
+        ],
+        [
+          79.0400390625,
+          113.85711479187012
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/civics_8_6"
+}

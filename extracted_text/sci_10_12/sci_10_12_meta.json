@@ -1,0 +1,1135 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Activity 12.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          99.9580078125,
+          301.462646484375
+        ],
+        [
+          194.9853515625,
+          301.462646484375
+        ],
+        [
+          194.9853515625,
+          317.902587890625
+        ],
+        [
+          99.9580078125,
+          317.902587890625
+        ]
+      ]
+    },
+    {
+      "title": "Hans Christian Oersted (1777\u20131851)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.19140625,
+          557.04638671875
+        ],
+        [
+          418.5589599609375,
+          557.04638671875
+        ],
+        [
+          418.5589599609375,
+          570.4733715057373
+        ],
+        [
+          206.19140625,
+          570.4733715057373
+        ]
+      ]
+    },
+    {
+      "title": "12.1 MAGNETIC FIELD AND FIELD LINES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          180.193359375,
+          66.90673828125
+        ],
+        [
+          444.357421875,
+          66.90673828125
+        ],
+        [
+          444.357421875,
+          82.26586723327637
+        ],
+        [
+          180.193359375,
+          82.26586723327637
+        ]
+      ]
+    },
+    {
+      "title": "Activity 12.3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          200.85000610351562,
+          571.95703125
+        ],
+        [
+          297.03515625,
+          571.95703125
+        ],
+        [
+          297.03515625,
+          588.779296875
+        ],
+        [
+          200.85000610351562,
+          588.779296875
+        ]
+      ]
+    },
+    {
+      "title": "12.2 MAGNETIC FIELD DUE TO A CURRENT-CARRYING ARRYING\nCONDUCTOR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          77.09765625,
+          586.4853515625
+        ],
+        [
+          433.8984375,
+          586.4853515625
+        ],
+        [
+          433.8984375,
+          621.7856578826904
+        ],
+        [
+          77.09765625,
+          621.7856578826904
+        ]
+      ]
+    },
+    {
+      "title": "Activity 12.4",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          82.55126953125,
+          70.538818359375
+        ],
+        [
+          178.998046875,
+          70.538818359375
+        ],
+        [
+          178.998046875,
+          88.0301513671875
+        ],
+        [
+          82.55126953125,
+          88.0301513671875
+        ]
+      ]
+    },
+    {
+      "title": "12.2.1 Magnetic Field due to a Current through a Straight\nConductor",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          179.595703125,
+          477.9052734375
+        ],
+        [
+          536.396484375,
+          477.9052734375
+        ],
+        [
+          536.396484375,
+          510.4558696746826
+        ],
+        [
+          179.595703125,
+          510.4558696746826
+        ]
+      ]
+    },
+    {
+      "title": "Activity 12.5",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          200.85000610351562,
+          593.74951171875
+        ],
+        [
+          296.138671875,
+          593.74951171875
+        ],
+        [
+          296.138671875,
+          610.57177734375
+        ],
+        [
+          200.85000610351562,
+          610.57177734375
+        ]
+      ]
+    },
+    {
+      "title": "12.2.2 Right-Hand Thumb Rule",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.32177734375,
+          643.45166015625
+        ],
+        [
+          265.359375,
+          643.45166015625
+        ],
+        [
+          265.359375,
+          658.0557384490967
+        ],
+        [
+          77.32177734375,
+          658.0557384490967
+        ]
+      ]
+    },
+    {
+      "title": "Example 12.1",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          195.43359375,
+          144.327392578125
+        ],
+        [
+          281.197265625,
+          144.327392578125
+        ],
+        [
+          281.197265625,
+          156.23333549499512
+        ],
+        [
+          195.43359375,
+          156.23333549499512
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          197.6748046875,
+          202.440673828125
+        ],
+        [
+          244.8896484375,
+          202.440673828125
+        ],
+        [
+          244.8896484375,
+          214.55328178405762
+        ],
+        [
+          197.6748046875,
+          214.55328178405762
+        ]
+      ]
+    },
+    {
+      "title": "12.2.3 Magnetic Field due to a Current through a\nCircular Loop",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          176.30859375,
+          394.17626953125
+        ],
+        [
+          534.90234375,
+          394.17626953125
+        ],
+        [
+          534.90234375,
+          425.4958782196045
+        ],
+        [
+          176.30859375,
+          425.4958782196045
+        ]
+      ]
+    },
+    {
+      "title": "Activity 12.6",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          98.85000610351562,
+          153.0252685546875
+        ],
+        [
+          195.2841796875,
+          153.0252685546875
+        ],
+        [
+          195.2841796875,
+          171.9503173828125
+        ],
+        [
+          98.85000610351562,
+          171.9503173828125
+        ]
+      ]
+    },
+    {
+      "title": "12.2.4 Magnetic Field due to a Current in a Solenoid",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          77.8447265625,
+          318.8583984375
+        ],
+        [
+          396.24609375,
+          318.8583984375
+        ],
+        [
+          396.24609375,
+          335.01586723327637
+        ],
+        [
+          77.8447265625,
+          335.01586723327637
+        ]
+      ]
+    },
+    {
+      "title": "12.3 FORCE ON A CURRENT-CARRYING CONDUCTOR\nIN A MAGNETIC FIELD",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          177.205078125,
+          197.088134765625
+        ],
+        [
+          535.798828125,
+          197.088134765625
+        ],
+        [
+          535.798828125,
+          228.66534233093262
+        ],
+        [
+          177.205078125,
+          228.66534233093262
+        ]
+      ]
+    },
+    {
+      "title": "Activity 12.7",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          84.45000457763672,
+          341.033203125
+        ],
+        [
+          179.595703125,
+          341.033203125
+        ],
+        [
+          179.595703125,
+          357.85546875
+        ],
+        [
+          84.45000457763672,
+          357.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Example 12.2",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          96.0,
+          394.94091796875
+        ],
+        [
+          177.205078125,
+          394.94091796875
+        ],
+        [
+          177.205078125,
+          407.513334274292
+        ],
+        [
+          96.0,
+          407.513334274292
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          95.7744140625,
+          494.34521484375
+        ],
+        [
+          146.724609375,
+          494.34521484375
+        ],
+        [
+          146.724609375,
+          507.1133403778076
+        ],
+        [
+          95.7744140625,
+          507.1133403778076
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          95.4755859375,
+          198.999755859375
+        ],
+        [
+          520.55859375,
+          198.999755859375
+        ],
+        [
+          520.55859375,
+          218.115966796875
+        ],
+        [
+          95.4755859375,
+          218.115966796875
+        ]
+      ]
+    },
+    {
+      "title": "Magnetism in medicine",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          246.9814453125,
+          225.380126953125
+        ],
+        [
+          381.6000061035156,
+          225.380126953125
+        ],
+        [
+          381.6000061035156,
+          236.39239311218262
+        ],
+        [
+          246.9814453125,
+          236.39239311218262
+        ]
+      ]
+    },
+    {
+      "title": "12.4 DOMESTIC ELECTRIC CIRCUITS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          176.30859375,
+          386.52978515625
+        ],
+        [
+          412.0879211425781,
+          386.52978515625
+        ],
+        [
+          412.0879211425781,
+          401.82275390625
+        ],
+        [
+          176.30859375,
+          401.82275390625
+        ]
+      ]
+    },
+    {
+      "title": "What you have learnt",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          97.19999694824219,
+          69.8697509765625
+        ],
+        [
+          311.080078125,
+          69.8697509765625
+        ],
+        [
+          311.080078125,
+          94.625244140625
+        ],
+        [
+          97.19999694824219,
+          94.625244140625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          116.54296875,
+          70.538818359375
+        ],
+        [
+          371.7421875,
+          70.538818359375
+        ],
+        [
+          371.7421875,
+          94.242919921875
+        ],
+        [
+          116.54296875,
+          94.242919921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_10_12"
+}

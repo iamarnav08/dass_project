@@ -1,0 +1,247 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Understanding the Poem",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.505615234375,
+          213.18212890624997
+        ],
+        [
+          240.3896484375,
+          213.18212890624997
+        ],
+        [
+          240.3896484375,
+          228.91190910339355
+        ],
+        [
+          80.505615234375,
+          228.91190910339355
+        ]
+      ]
+    },
+    {
+      "title": "Language Study",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.32763671875,
+          478.08496093749994
+        ],
+        [
+          185.45361328125,
+          478.08496093749994
+        ],
+        [
+          185.45361328125,
+          492.43185234069824
+        ],
+        [
+          80.32763671875,
+          492.43185234069824
+        ]
+      ]
+    },
+    {
+      "title": "TASK",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.268310546875,
+          538.09423828125
+        ],
+        [
+          111.236572265625,
+          538.09423828125
+        ],
+        [
+          111.236572265625,
+          551.3437480926514
+        ],
+        [
+          80.268310546875,
+          551.3437480926514
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Reading",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.68359375,
+          165.0255126953125
+        ],
+        [
+          203.1328125,
+          165.0255126953125
+        ],
+        [
+          203.1328125,
+          180.91093254089355
+        ],
+        [
+          80.68359375,
+          180.91093254089355
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Handwriting",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_12_p4"
+}

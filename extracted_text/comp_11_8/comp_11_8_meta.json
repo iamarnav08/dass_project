@@ -1,0 +1,1033 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 8",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          81.1697998046875,
+          74.4576416015625
+        ],
+        [
+          201.234375,
+          74.4576416015625
+        ],
+        [
+          201.234375,
+          99.55476570129395
+        ],
+        [
+          81.1697998046875,
+          99.55476570129395
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.8974609375,
+          192.30908203125
+        ],
+        [
+          193.38438415527344,
+          192.30908203125
+        ],
+        [
+          193.38438415527344,
+          208.3562183380127
+        ],
+        [
+          80.8974609375,
+          208.3562183380127
+        ]
+      ]
+    },
+    {
+      "title": "8.2 Strings",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.81982421875,
+          416.35107421875
+        ],
+        [
+          159.931640625,
+          416.35107421875
+        ],
+        [
+          159.931640625,
+          431.62812995910645
+        ],
+        [
+          80.81982421875,
+          431.62812995910645
+        ]
+      ]
+    },
+    {
+      "title": "Example 8.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.50927734375,
+          528.75439453125
+        ],
+        [
+          154.10888671875,
+          528.75439453125
+        ],
+        [
+          154.10888671875,
+          541.963945388794
+        ],
+        [
+          80.50927734375,
+          541.963945388794
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          445.9453125,
+          561.63427734375
+        ],
+        [
+          533.8618774414062,
+          561.63427734375
+        ],
+        [
+          533.8618774414062,
+          573.86865234375
+        ],
+        [
+          445.9453125,
+          573.86865234375
+        ]
+      ]
+    },
+    {
+      "title": "8.2.1 Accessing Characters in a String",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          225.146484375,
+          91.04095458984375
+        ],
+        [
+          473.17999267578125,
+          91.04095458984375
+        ],
+        [
+          473.17999267578125,
+          103.801025390625
+        ],
+        [
+          225.146484375,
+          103.801025390625
+        ]
+      ]
+    },
+    {
+      "title": "8.2.2 String is Immutable",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.50927734375,
+          408.70458984375
+        ],
+        [
+          242.84765625,
+          408.70458984375
+        ],
+        [
+          242.84765625,
+          422.4493579864502
+        ],
+        [
+          80.50927734375,
+          422.4493579864502
+        ]
+      ]
+    },
+    {
+      "title": "8.3 String Operations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.5869140625,
+          568.1337890625
+        ],
+        [
+          229.494140625,
+          568.1337890625
+        ],
+        [
+          229.494140625,
+          582.2567157745361
+        ],
+        [
+          80.5869140625,
+          582.2567157745361
+        ]
+      ]
+    },
+    {
+      "title": "8.3.1 Concatenation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.12109375,
+          671.74365234375
+        ],
+        [
+          209.9296875,
+          671.74365234375
+        ],
+        [
+          209.9296875,
+          685.1509494781494
+        ],
+        [
+          80.12109375,
+          685.1509494781494
+        ]
+      ]
+    },
+    {
+      "title": "8.3.2 Repetition",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          229.95199584960938,
+          214.292724609375
+        ],
+        [
+          332.1919860839844,
+          214.292724609375
+        ],
+        [
+          332.1919860839844,
+          227.291748046875
+        ],
+        [
+          229.95199584960938,
+          227.291748046875
+        ]
+      ]
+    },
+    {
+      "title": "8.3.3 Membership",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          229.95199584960938,
+          406.41064453125
+        ],
+        [
+          342.27197265625,
+          406.41064453125
+        ],
+        [
+          342.27197265625,
+          419.40966796875
+        ],
+        [
+          229.95199584960938,
+          419.40966796875
+        ]
+      ]
+    },
+    {
+      "title": "8.3.4 Slicing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          229.95199584960938,
+          696.97705078125
+        ],
+        [
+          309.4599609375,
+          696.97705078125
+        ],
+        [
+          309.4599609375,
+          709.97607421875
+        ],
+        [
+          229.95199584960938,
+          709.97607421875
+        ]
+      ]
+    },
+    {
+      "title": "8.4 Traversing a String",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          228.7177734375,
+          169.178466796875
+        ],
+        [
+          390.6287536621094,
+          169.178466796875
+        ],
+        [
+          390.6287536621094,
+          184.5442066192627
+        ],
+        [
+          228.7177734375,
+          184.5442066192627
+        ]
+      ]
+    },
+    {
+      "title": "(A) String Traversal Using for Loop:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          230.8916015625,
+          225.5712890625
+        ],
+        [
+          467.6519775390625,
+          225.5712890625
+        ],
+        [
+          467.6519775390625,
+          239.16621589660645
+        ],
+        [
+          230.8916015625,
+          239.16621589660645
+        ]
+      ]
+    },
+    {
+      "title": "(B) String Traversal Using while Loop:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.0283203125,
+          344.665283203125
+        ],
+        [
+          479.484375,
+          344.665283203125
+        ],
+        [
+          479.484375,
+          358.046630859375
+        ],
+        [
+          229.0283203125,
+          358.046630859375
+        ]
+      ]
+    },
+    {
+      "title": "8.5 String Methods and Built-in Functions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.9599609375,
+          521.87255859375
+        ],
+        [
+          516.12890625,
+          521.87255859375
+        ],
+        [
+          516.12890625,
+          536.5417957305908
+        ],
+        [
+          229.9599609375,
+          536.5417957305908
+        ]
+      ]
+    },
+    {
+      "title": "8.6 Handling Strings",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          80.81982421875,
+          396.47021484375
+        ],
+        [
+          224.525390625,
+          396.47021484375
+        ],
+        [
+          224.525390625,
+          412.0010242462158
+        ],
+        [
+          80.81982421875,
+          412.0010242462158
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          75.22998046875,
+          90.1329345703125
+        ],
+        [
+          146.46420288085938,
+          90.1329345703125
+        ],
+        [
+          146.46420288085938,
+          104.2190113067627
+        ],
+        [
+          75.22998046875,
+          104.2190113067627
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.50927734375,
+          464.52392578125
+        ],
+        [
+          140.44482421875,
+          464.52392578125
+        ],
+        [
+          140.44482421875,
+          479.5386219024658
+        ],
+        [
+          80.50927734375,
+          479.5386219024658
+        ]
+      ]
+    },
+    {
+      "title": "Programming Problems",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          229.3388671875,
+          209.513671875
+        ],
+        [
+          384.45703125,
+          209.513671875
+        ],
+        [
+          384.45703125,
+          224.5442066192627
+        ],
+        [
+          229.3388671875,
+          224.5442066192627
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Code",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/comp_11_8"
+}

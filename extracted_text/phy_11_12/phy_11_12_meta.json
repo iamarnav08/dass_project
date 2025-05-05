@@ -1,0 +1,1257 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER TWELVE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          282.3046875,
+          95.255615234375
+        ],
+        [
+          406.8031921386719,
+          95.255615234375
+        ],
+        [
+          406.8031921386719,
+          114.18750762939453
+        ],
+        [
+          282.3046875,
+          114.18750762939453
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          536.05810546875,
+          132.484130859375
+        ],
+        [
+          560.43896484375,
+          132.484130859375
+        ],
+        [
+          560.43896484375,
+          140.271728515625
+        ],
+        [
+          536.05810546875,
+          140.271728515625
+        ]
+      ]
+    },
+    {
+      "title": "KINETIC THEORY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          272.199462890625,
+          168.85791015625
+        ],
+        [
+          417.041015625,
+          168.85791015625
+        ],
+        [
+          417.041015625,
+          189.56641387939453
+        ],
+        [
+          272.199462890625,
+          189.56641387939453
+        ]
+      ]
+    },
+    {
+      "title": "12.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          289.68310546875,
+          251.67236328125
+        ],
+        [
+          403.24658203125,
+          251.67236328125
+        ],
+        [
+          403.24658203125,
+          263.9202346801758
+        ],
+        [
+          289.68310546875,
+          263.9202346801758
+        ]
+      ]
+    },
+    {
+      "title": "12.2 MOLECULAR NATURE OF MATTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          291.768310546875,
+          498.40625
+        ],
+        [
+          493.3916015625,
+          498.40625
+        ],
+        [
+          493.3916015625,
+          509.9202346801758
+        ],
+        [
+          291.768310546875,
+          509.9202346801758
+        ]
+      ]
+    },
+    {
+      "title": "Atomic Hypothesis in Ancient India and Greece",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          195.36767578125,
+          78.920654296875
+        ],
+        [
+          425.9313659667969,
+          78.920654296875
+        ],
+        [
+          425.9313659667969,
+          88.73255157470703
+        ],
+        [
+          195.36767578125,
+          88.73255157470703
+        ]
+      ]
+    },
+    {
+      "title": "12.3 BEHAVIOUR OF GASES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          109.39306640625,
+          323.09033203125
+        ],
+        [
+          257.0530090332031,
+          323.09033203125
+        ],
+        [
+          257.0530090332031,
+          333.51895904541016
+        ],
+        [
+          109.39306640625,
+          333.51895904541016
+        ]
+      ]
+    },
+    {
+      "title": "12.4 KINETIC THEORY OF AN IDEAL GAS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          354.8056640625,
+          491.9482421875
+        ],
+        [
+          564.0203247070312,
+          491.9482421875
+        ],
+        [
+          564.0203247070312,
+          503.4402542114258
+        ],
+        [
+          354.8056640625,
+          503.4402542114258
+        ]
+      ]
+    },
+    {
+      "title": "12.4.1 Pressure of an Ideal Gas",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          72.46087646484375,
+          217.91925811767578
+        ],
+        [
+          232.33599853515625,
+          217.91925811767578
+        ],
+        [
+          232.33599853515625,
+          227.91925811767578
+        ],
+        [
+          72.46087646484375,
+          227.91925811767578
+        ]
+      ]
+    },
+    {
+      "title": "12.4.2 Kinetic Interpretation of Temperature",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          109.44004821777344,
+          188.421875
+        ],
+        [
+          337.462646484375,
+          188.421875
+        ],
+        [
+          337.462646484375,
+          199.35932159423828
+        ],
+        [
+          109.44004821777344,
+          199.35932159423828
+        ]
+      ]
+    },
+    {
+      "title": "12.5 LAW OF EQUIPARTITION OF ENERGY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          108.5108642578125,
+          139.037109375
+        ],
+        [
+          340.6904296875,
+          139.037109375
+        ],
+        [
+          340.6904296875,
+          150.39923858642578
+        ],
+        [
+          108.5108642578125,
+          150.39923858642578
+        ]
+      ]
+    },
+    {
+      "title": "12.6 SPECIFIC HEAT CAPACITY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          73.2227783203125,
+          475.9931640625
+        ],
+        [
+          239.3173828125,
+          475.9931640625
+        ],
+        [
+          239.3173828125,
+          487.35950469970703
+        ],
+        [
+          73.2227783203125,
+          487.35950469970703
+        ]
+      ]
+    },
+    {
+      "title": "12.6.1 Monatomic Gases",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          72.982177734375,
+          495.35950469970703
+        ],
+        [
+          200.1796875,
+          495.35950469970703
+        ],
+        [
+          200.1796875,
+          505.35950469970703
+        ],
+        [
+          72.982177734375,
+          505.35950469970703
+        ]
+      ]
+    },
+    {
+      "title": "12.6.2 Diatomic Gases",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          319.036376953125,
+          178.829833984375
+        ],
+        [
+          436.60986328125,
+          178.829833984375
+        ],
+        [
+          436.60986328125,
+          189.28022003173828
+        ],
+        [
+          319.036376953125,
+          189.28022003173828
+        ]
+      ]
+    },
+    {
+      "title": "12.6.3 Polyatomic Gases",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          319.44000244140625,
+          464.5966796875
+        ],
+        [
+          446.4100341796875,
+          464.5966796875
+        ],
+        [
+          446.4100341796875,
+          474.6402359008789
+        ],
+        [
+          319.44000244140625,
+          474.6402359008789
+        ]
+      ]
+    },
+    {
+      "title": "Table 12.1 Predicted values of specific heat\ncapacities of gases (ignoring\nvibrational modes)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          109.39306640625,
+          247.49365234375
+        ],
+        [
+          338.765625,
+          247.49365234375
+        ],
+        [
+          338.765625,
+          280.92333984375
+        ],
+        [
+          109.39306640625,
+          280.92333984375
+        ]
+      ]
+    },
+    {
+      "title": "Table12.2 Measured values of specific heat\ncapacities of some gases",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          109.44000244140625,
+          396.59765625
+        ],
+        [
+          337.456298828125,
+          396.59765625
+        ],
+        [
+          337.456298828125,
+          418.9555435180664
+        ],
+        [
+          109.44000244140625,
+          418.9555435180664
+        ]
+      ]
+    },
+    {
+      "title": "12.6.4 Specific Heat Capacity of Solids",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          353.5224609375,
+          285.48193359375
+        ],
+        [
+          563.0604858398438,
+          285.48193359375
+        ],
+        [
+          563.0604858398438,
+          297.03968048095703
+        ],
+        [
+          353.5224609375,
+          297.03968048095703
+        ]
+      ]
+    },
+    {
+      "title": "Table 12.3 Specific Heat Capacity of some\nsolids at room temperature and\natmospheric pressure",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          355.44000244140625,
+          465.736328125
+        ],
+        [
+          584.4990234375,
+          465.736328125
+        ],
+        [
+          584.4990234375,
+          496.47547149658203
+        ],
+        [
+          355.44000244140625,
+          496.47547149658203
+        ]
+      ]
+    },
+    {
+      "title": "12.7 MEAN FREE PATH",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          353.5224609375,
+          654.91796875
+        ],
+        [
+          482.889892578125,
+          654.91796875
+        ],
+        [
+          482.889892578125,
+          665.9202346801758
+        ],
+        [
+          353.5224609375,
+          665.9202346801758
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          320.640380859375,
+          90.507080078125
+        ],
+        [
+          371.7635498046875,
+          90.507080078125
+        ],
+        [
+          371.7635498046875,
+          101.19452667236328
+        ],
+        [
+          320.640380859375,
+          101.19452667236328
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          108.4306640625,
+          80.1077880859375
+        ],
+        [
+          220.7109375,
+          80.1077880859375
+        ],
+        [
+          220.7109375,
+          90.39929962158203
+        ],
+        [
+          108.4306640625,
+          90.39929962158203
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          287.11669921875,
+          361.45849609375
+        ],
+        [
+          356.0888671875,
+          361.45849609375
+        ],
+        [
+          356.0888671875,
+          372.3370132446289
+        ],
+        [
+          287.11669921875,
+          372.3370132446289
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          320
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          493
+        ],
+        [
+          "Line",
+          203
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          407
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          422
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          416
+        ],
+        [
+          "Line",
+          153
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          431
+        ],
+        [
+          "Line",
+          171
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          329
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          337
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_11_12"
+}

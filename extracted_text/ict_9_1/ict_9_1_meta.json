@@ -1,0 +1,850 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ICT Chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.07241821289062,
+          108.516357421875
+        ],
+        [
+          425.0404052734375,
+          108.516357421875
+        ],
+        [
+          425.0404052734375,
+          169.48886108398438
+        ],
+        [
+          73.07241821289062,
+          169.48886108398438
+        ]
+      ]
+    },
+    {
+      "title": "Introduction to",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          277.73760986328125,
+          87.50390625
+        ],
+        [
+          517.6076049804688,
+          87.50390625
+        ],
+        [
+          517.6076049804688,
+          128.185546875
+        ],
+        [
+          277.73760986328125,
+          128.185546875
+        ]
+      ]
+    },
+    {
+      "title": "What is ICT?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.5869140625,
+          642.8466796875
+        ],
+        [
+          183.92779541015625,
+          642.8466796875
+        ],
+        [
+          183.92779541015625,
+          660.2506713867188
+        ],
+        [
+          80.5869140625,
+          660.2506713867188
+        ]
+      ]
+    },
+    {
+      "title": "Evolution of ICT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          240.20199584960938,
+          368.4375
+        ],
+        [
+          337.25390625,
+          368.4375
+        ],
+        [
+          337.25390625,
+          381.9971008300781
+        ],
+        [
+          240.20199584960938,
+          381.9971008300781
+        ]
+      ]
+    },
+    {
+      "title": "Why ICT?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.2763671875,
+          66.3955078125
+        ],
+        [
+          161.0185546875,
+          66.3955078125
+        ],
+        [
+          161.0185546875,
+          84.72360229492188
+        ],
+        [
+          80.2763671875,
+          84.72360229492188
+        ]
+      ]
+    },
+    {
+      "title": "Activity 2",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          357.75,
+          199.5703125
+        ],
+        [
+          428.3044128417969,
+          199.5703125
+        ],
+        [
+          428.3044128417969,
+          217.224609375
+        ],
+        [
+          357.75,
+          217.224609375
+        ]
+      ]
+    },
+    {
+      "title": "How ICT is Useful?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          230.42578125,
+          345.98583984375
+        ],
+        [
+          382.105712890625,
+          345.98583984375
+        ],
+        [
+          382.105712890625,
+          365.03009033203125
+        ],
+        [
+          230.42578125,
+          365.03009033203125
+        ]
+      ]
+    },
+    {
+      "title": "1.\t Application of ICT in Everyday Life",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.66455078125,
+          65.05224609375
+        ],
+        [
+          322.34765625,
+          65.05224609375
+        ],
+        [
+          322.34765625,
+          79.64175415039062
+        ],
+        [
+          80.66455078125,
+          79.64175415039062
+        ]
+      ]
+    },
+    {
+      "title": "Activity 3",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          204.029296875,
+          170.0185546875
+        ],
+        [
+          278.37640380859375,
+          170.0185546875
+        ],
+        [
+          278.37640380859375,
+          188.63232421875
+        ],
+        [
+          204.029296875,
+          188.63232421875
+        ]
+      ]
+    },
+    {
+      "title": "2.\t Application of ICT in Education",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          80.97509765625,
+          276.13623046875
+        ],
+        [
+          299.3671875,
+          276.13623046875
+        ],
+        [
+          299.3671875,
+          290.33642578125
+        ],
+        [
+          80.97509765625,
+          290.33642578125
+        ]
+      ]
+    },
+    {
+      "title": "4.\t Application of ICT in Science and Technology",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          228.5625,
+          191.414794921875
+        ],
+        [
+          536.625,
+          191.414794921875
+        ],
+        [
+          536.625,
+          206.24020385742188
+        ],
+        [
+          228.5625,
+          206.24020385742188
+        ]
+      ]
+    },
+    {
+      "title": "Activity 5",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          358.9921875,
+          596.7919921875
+        ],
+        [
+          428.2803955078125,
+          596.7919921875
+        ],
+        [
+          428.2803955078125,
+          614.4462890625
+        ],
+        [
+          358.9921875,
+          614.4462890625
+        ]
+      ]
+    },
+    {
+      "title": "5.\t Application of ICT in Business Transportation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.50927734375,
+          67.642822265625
+        ],
+        [
+          389.736328125,
+          67.642822265625
+        ],
+        [
+          389.736328125,
+          82.04177856445312
+        ],
+        [
+          80.50927734375,
+          82.04177856445312
+        ]
+      ]
+    },
+    {
+      "title": "6.\t Application of ICT in Administration",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.66455078125,
+          437.1357421875
+        ],
+        [
+          333.216796875,
+          437.1357421875
+        ],
+        [
+          333.216796875,
+          451.7197265625
+        ],
+        [
+          80.66455078125,
+          451.7197265625
+        ]
+      ]
+    },
+    {
+      "title": "Activity 6",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          358.37109375,
+          72.823974609375
+        ],
+        [
+          424.828125,
+          72.823974609375
+        ],
+        [
+          424.828125,
+          91.437744140625
+        ],
+        [
+          358.37109375,
+          91.437744140625
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          361.166015625,
+          348.67938232421875
+        ],
+        [
+          425.759765625,
+          348.67938232421875
+        ],
+        [
+          425.759765625,
+          364.599609375
+        ],
+        [
+          361.166015625,
+          364.599609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ict_9_1"
+}

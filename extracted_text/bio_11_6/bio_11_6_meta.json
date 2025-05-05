@@ -1,0 +1,673 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ANATOMY OF FLOWERING PLANTS\nCHAPTER 6",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.134765625,
+          250.29541015625
+        ],
+        [
+          514.283203125,
+          250.29541015625
+        ],
+        [
+          514.283203125,
+          321.2319622039795
+        ],
+        [
+          195.134765625,
+          321.2319622039795
+        ]
+      ]
+    },
+    {
+      "title": "6.1 THE TISSUE SYSTEM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.52000427246094,
+          524.35546875
+        ],
+        [
+          320.94140625,
+          524.35546875
+        ],
+        [
+          320.94140625,
+          538.7828960418701
+        ],
+        [
+          173.52000427246094,
+          538.7828960418701
+        ]
+      ]
+    },
+    {
+      "title": "6.1.1 Epidermal Tissue System",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.51998901367188,
+          643.56201171875
+        ],
+        [
+          380.408203125,
+          643.56201171875
+        ],
+        [
+          380.408203125,
+          656.6111125946045
+        ],
+        [
+          173.51998901367188,
+          656.6111125946045
+        ]
+      ]
+    },
+    {
+      "title": "6.1.2 The Ground Tissue System",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          191.99996948242188,
+          599.09912109375
+        ],
+        [
+          410.58984375,
+          599.09912109375
+        ],
+        [
+          410.58984375,
+          612.2110118865967
+        ],
+        [
+          191.99996948242188,
+          612.2110118865967
+        ]
+      ]
+    },
+    {
+      "title": "6.1.3 The Vascular Tissue System",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.84033203125,
+          105.216064453125
+        ],
+        [
+          286.27734375,
+          105.216064453125
+        ],
+        [
+          286.27734375,
+          118.53002738952637
+        ],
+        [
+          59.84033203125,
+          118.53002738952637
+        ]
+      ]
+    },
+    {
+      "title": "6.2 ANATOMY OF DICOTYLEDONOUS AND\nMONOCOTYLEDONOUS PLANTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.16796875,
+          463.02734375
+        ],
+        [
+          291.357421875,
+          463.02734375
+        ],
+        [
+          291.357421875,
+          491.502103805542
+        ],
+        [
+          59.16796875,
+          491.502103805542
+        ]
+      ]
+    },
+    {
+      "title": "6.2.1 Dicotyledonous Root",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.69091796875,
+          581.083984375
+        ],
+        [
+          236.880126953125,
+          581.083984375
+        ],
+        [
+          236.880126953125,
+          594.2103404998779
+        ],
+        [
+          59.69091796875,
+          594.2103404998779
+        ]
+      ]
+    },
+    {
+      "title": "6.2.2 Monocotyledonous Root",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          343.65234375,
+          463.7939453125
+        ],
+        [
+          543.8671875,
+          463.7939453125
+        ],
+        [
+          543.8671875,
+          476.13009452819824
+        ],
+        [
+          343.65234375,
+          476.13009452819824
+        ]
+      ]
+    },
+    {
+      "title": "6.2.3 Dicotyledonous Stem",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          330.0000305175781,
+          647.0100841522217
+        ],
+        [
+          510.099609375,
+          647.0100841522217
+        ],
+        [
+          510.099609375,
+          659.0100841522217
+        ],
+        [
+          330.0000305175781,
+          659.0100841522217
+        ]
+      ]
+    },
+    {
+      "title": "6.2.4 Monocotyledonous Stem",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          189.0087890625,
+          229.022216796875
+        ],
+        [
+          393.2578125,
+          229.022216796875
+        ],
+        [
+          393.2578125,
+          241.65081596374512
+        ],
+        [
+          189.0087890625,
+          241.65081596374512
+        ]
+      ]
+    },
+    {
+      "title": "6.2.5 Dorsiventral\n(Dicotyledonous) Leaf",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          345.744140625,
+          398.24951171875
+        ],
+        [
+          485.595703125,
+          398.24951171875
+        ],
+        [
+          485.595703125,
+          424.53088188171387
+        ],
+        [
+          345.744140625,
+          424.53088188171387
+        ]
+      ]
+    },
+    {
+      "title": "6.2.6 Isobilateral (Monocotyledonous) Leaf",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.16796875,
+          246.845703125
+        ],
+        [
+          338.87109375,
+          246.845703125
+        ],
+        [
+          338.87109375,
+          259.4098491668701
+        ],
+        [
+          59.16796875,
+          259.4098491668701
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          277.9200439453125,
+          465.78173637390137
+        ],
+        [
+          331.92303466796875,
+          465.78173637390137
+        ],
+        [
+          331.92303466796875,
+          478.78173637390137
+        ],
+        [
+          277.9200439453125,
+          478.78173637390137
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          292.1044921875,
+          104.9285888671875
+        ],
+        [
+          354.41015625,
+          104.9285888671875
+        ],
+        [
+          354.41015625,
+          118.78179740905762
+        ],
+        [
+          292.1044921875,
+          118.78179740905762
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_6"
+}

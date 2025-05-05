@@ -1,0 +1,1688 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit-III\nChapter-7",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          91.81494140625,
+          70.9952392578125
+        ],
+        [
+          159.7236328125,
+          70.9952392578125
+        ],
+        [
+          159.7236328125,
+          104.4273681640625
+        ],
+        [
+          91.81494140625,
+          104.4273681640625
+        ]
+      ]
+    },
+    {
+      "title": "Transport and\nCommunication",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.07421875,
+          256.120849609375
+        ],
+        [
+          248.02734375,
+          256.120849609375
+        ],
+        [
+          248.02734375,
+          306.076904296875
+        ],
+        [
+          83.07421875,
+          306.076904296875
+        ]
+      ]
+    },
+    {
+      "title": "TRANSPORT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          326.619140625,
+          293.780029296875
+        ],
+        [
+          403.6800231933594,
+          293.780029296875
+        ],
+        [
+          403.6800231933594,
+          309.919677734375
+        ],
+        [
+          326.619140625,
+          309.919677734375
+        ]
+      ]
+    },
+    {
+      "title": "MODES OF TRANSPORTATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          327.300048828125,
+          651.35009765625
+        ],
+        [
+          510.3984375,
+          651.35009765625
+        ],
+        [
+          510.3984375,
+          668.25830078125
+        ],
+        [
+          327.300048828125,
+          668.25830078125
+        ]
+      ]
+    },
+    {
+      "title": "Land Transport",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.228759765625,
+          270.14697265625
+        ],
+        [
+          148.9658203125,
+          270.14697265625
+        ],
+        [
+          148.9658203125,
+          284.049280166626
+        ],
+        [
+          53.228759765625,
+          284.049280166626
+        ]
+      ]
+    },
+    {
+      "title": "Pack Animals",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          369.05999755859375,
+          377.1955814361572
+        ],
+        [
+          457.505859375,
+          377.1955814361572
+        ],
+        [
+          457.505859375,
+          391.962890625
+        ],
+        [
+          369.05999755859375,
+          391.962890625
+        ]
+      ]
+    },
+    {
+      "title": "Roads",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          83.59716796875,
+          70.0345458984375
+        ],
+        [
+          120.95068359375,
+          70.0345458984375
+        ],
+        [
+          120.95068359375,
+          82.92965126037598
+        ],
+        [
+          83.59716796875,
+          82.92965126037598
+        ]
+      ]
+    },
+    {
+      "title": "Highways",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          326.619140625,
+          235.177734375
+        ],
+        [
+          388.177734375,
+          235.177734375
+        ],
+        [
+          388.177734375,
+          248.53011512756348
+        ],
+        [
+          326.619140625,
+          248.53011512756348
+        ]
+      ]
+    },
+    {
+      "title": "Border Roads",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.303466796875,
+          598.31982421875
+        ],
+        [
+          145.44041442871094,
+          598.31982421875
+        ],
+        [
+          145.44041442871094,
+          611.4096927642822
+        ],
+        [
+          53.303466796875,
+          611.4096927642822
+        ]
+      ]
+    },
+    {
+      "title": "Railways",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          294.943359375,
+          109.2308349609375
+        ],
+        [
+          351.5998840332031,
+          109.2308349609375
+        ],
+        [
+          351.5998840332031,
+          122.04970741271973
+        ],
+        [
+          294.943359375,
+          122.04970741271973
+        ]
+      ]
+    },
+    {
+      "title": "Trans\u2013Continental Railways",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          326.91796875,
+          498.40771484375
+        ],
+        [
+          499.640625,
+          498.40771484375
+        ],
+        [
+          499.640625,
+          511.0904788970947
+        ],
+        [
+          326.91796875,
+          511.0904788970947
+        ]
+      ]
+    },
+    {
+      "title": "Trans\u2013Siberian Railway",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          327.1199951171875,
+          593.32421875
+        ],
+        [
+          471.11895751953125,
+          593.32421875
+        ],
+        [
+          471.11895751953125,
+          606.6104831695557
+        ],
+        [
+          327.1199951171875,
+          606.6104831695557
+        ]
+      ]
+    },
+    {
+      "title": "Trans\u2013Canadian Railways",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.19140625,
+          207.89404296875
+        ],
+        [
+          224.5693359375,
+          207.89404296875
+        ],
+        [
+          224.5693359375,
+          221.14284706115723
+        ],
+        [
+          53.19140625,
+          221.14284706115723
+        ]
+      ]
+    },
+    {
+      "title": "The Union and Pacific Railway",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          295.2421875,
+          217.5009765625
+        ],
+        [
+          485.296875,
+          217.5009765625
+        ],
+        [
+          485.296875,
+          230.74343299865723
+        ],
+        [
+          295.2421875,
+          230.74343299865723
+        ]
+      ]
+    },
+    {
+      "title": "The Australian Trans\u2013Continental\nRailway",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          83.970703125,
+          431.927734375
+        ],
+        [
+          314.8787841796875,
+          431.927734375
+        ],
+        [
+          314.8787841796875,
+          459.7305850982666
+        ],
+        [
+          83.970703125,
+          459.7305850982666
+        ]
+      ]
+    },
+    {
+      "title": "The Orient Express",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          83.8212890625,
+          576.80029296875
+        ],
+        [
+          204.099609375,
+          576.80029296875
+        ],
+        [
+          204.099609375,
+          589.09716796875
+        ],
+        [
+          83.8212890625,
+          589.09716796875
+        ]
+      ]
+    },
+    {
+      "title": "WATER TRANSPORT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          325.72265625,
+          522.6607608795166
+        ],
+        [
+          453.6600341796875,
+          522.6607608795166
+        ],
+        [
+          453.6600341796875,
+          536.83544921875
+        ],
+        [
+          325.72265625,
+          536.83544921875
+        ]
+      ]
+    },
+    {
+      "title": "Sea Routes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.3408203125,
+          615.22802734375
+        ],
+        [
+          126.90599822998047,
+          615.22802734375
+        ],
+        [
+          126.90599822998047,
+          629.6239566802979
+        ],
+        [
+          53.3408203125,
+          629.6239566802979
+        ]
+      ]
+    },
+    {
+      "title": "Important Sea Routes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          296.4375,
+          571.0361328125
+        ],
+        [
+          440.47265625,
+          571.0361328125
+        ],
+        [
+          440.47265625,
+          585.9459476470947
+        ],
+        [
+          296.4375,
+          585.9459476470947
+        ]
+      ]
+    },
+    {
+      "title": "The Northern Atlantic Sea Route",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          296.138671875,
+          640.974609375
+        ],
+        [
+          483.802734375,
+          640.974609375
+        ],
+        [
+          483.802734375,
+          654.0400390625
+        ],
+        [
+          296.138671875,
+          654.0400390625
+        ]
+      ]
+    },
+    {
+      "title": "The Mediterranean\u2013Indian Ocean Sea\nRoute",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          84.0,
+          531.83984375
+        ],
+        [
+          317.056640625,
+          531.83984375
+        ],
+        [
+          317.056640625,
+          557.2021484375
+        ],
+        [
+          84.0,
+          557.2021484375
+        ]
+      ]
+    },
+    {
+      "title": "The Cape of Good Hope Sea Route",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          327.1200256347656,
+          359.491455078125
+        ],
+        [
+          516.0,
+          359.491455078125
+        ],
+        [
+          516.0,
+          372.941162109375
+        ],
+        [
+          327.1200256347656,
+          372.941162109375
+        ]
+      ]
+    },
+    {
+      "title": "The Southern Atlantic Sea Route",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          327.12005615234375,
+          511.0888671875
+        ],
+        [
+          514.880859375,
+          511.0888671875
+        ],
+        [
+          514.880859375,
+          523.3857421875
+        ],
+        [
+          327.12005615234375,
+          523.3857421875
+        ]
+      ]
+    },
+    {
+      "title": "The North Pacific Sea Route",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.56494140625,
+          69.0738525390625
+        ],
+        [
+          212.466796875,
+          69.0738525390625
+        ],
+        [
+          212.466796875,
+          81.5628662109375
+        ],
+        [
+          53.56494140625,
+          81.5628662109375
+        ]
+      ]
+    },
+    {
+      "title": "The South Pacific Sea Route",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.86376953125,
+          237.675537109375
+        ],
+        [
+          215.455078125,
+          237.675537109375
+        ],
+        [
+          215.455078125,
+          250.356689453125
+        ],
+        [
+          53.86376953125,
+          250.356689453125
+        ]
+      ]
+    },
+    {
+      "title": "Coastal Shipping",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.901123046875,
+          372.556884765625
+        ],
+        [
+          152.103515625,
+          372.556884765625
+        ],
+        [
+          152.103515625,
+          385.622314453125
+        ],
+        [
+          53.901123046875,
+          385.622314453125
+        ]
+      ]
+    },
+    {
+      "title": "Shipping Canals",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.6396484375,
+          520.3115234375
+        ],
+        [
+          149.2646484375,
+          520.3115234375
+        ],
+        [
+          149.2646484375,
+          533.376953125
+        ],
+        [
+          53.6396484375,
+          533.376953125
+        ]
+      ]
+    },
+    {
+      "title": "The Suez Canal",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.602294921875,
+          602.93115234375
+        ],
+        [
+          147.1728515625,
+          602.93115234375
+        ],
+        [
+          147.1728515625,
+          615.99658203125
+        ],
+        [
+          53.602294921875,
+          615.99658203125
+        ]
+      ]
+    },
+    {
+      "title": "The Panama Canal",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          294.7939453125,
+          576.80029296875
+        ],
+        [
+          405.5999755859375,
+          576.80029296875
+        ],
+        [
+          405.5999755859375,
+          590.0390872955322
+        ],
+        [
+          294.7939453125,
+          590.0390872955322
+        ]
+      ]
+    },
+    {
+      "title": "Inland Waterways",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          325.423828125,
+          241.902587890625
+        ],
+        [
+          434.197265625,
+          241.902587890625
+        ],
+        [
+          434.197265625,
+          255.48964881896973
+        ],
+        [
+          325.423828125,
+          255.48964881896973
+        ]
+      ]
+    },
+    {
+      "title": "The Rhine Waterways",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          53.86376953125,
+          180.22607421875
+        ],
+        [
+          187.365234375,
+          180.22607421875
+        ],
+        [
+          187.365234375,
+          194.04946327209473
+        ],
+        [
+          53.86376953125,
+          194.04946327209473
+        ]
+      ]
+    },
+    {
+      "title": "The Danube Waterway",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          54.0,
+          589.4814453125
+        ],
+        [
+          183.779296875,
+          589.4814453125
+        ],
+        [
+          183.779296875,
+          602.546875
+        ],
+        [
+          54.0,
+          602.546875
+        ]
+      ]
+    },
+    {
+      "title": "The Volga Waterway",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          294.943359375,
+          373.517578125
+        ],
+        [
+          410.888671875,
+          373.517578125
+        ],
+        [
+          410.888671875,
+          386.96728515625
+        ],
+        [
+          294.943359375,
+          386.96728515625
+        ]
+      ]
+    },
+    {
+      "title": "The Great Lakes \u2013 St. Lawrence Seaway",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          295.2421875,
+          492.25927734375
+        ],
+        [
+          526.53515625,
+          492.25927734375
+        ],
+        [
+          526.53515625,
+          505.32470703125
+        ],
+        [
+          295.2421875,
+          505.32470703125
+        ]
+      ]
+    },
+    {
+      "title": "The Mississippi Waterways",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          83.44775390625,
+          69.31402587890625
+        ],
+        [
+          238.166015625,
+          69.31402587890625
+        ],
+        [
+          238.166015625,
+          81.32269287109375
+        ],
+        [
+          83.44775390625,
+          81.32269287109375
+        ]
+      ]
+    },
+    {
+      "title": "AIR TRANSPORT",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          83.44775390625,
+          149.21932411193848
+        ],
+        [
+          188.859375,
+          149.21932411193848
+        ],
+        [
+          188.859375,
+          163.4139404296875
+        ],
+        [
+          83.44775390625,
+          163.4139404296875
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 7.15: An Aeroplane at Salsburg Airport",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          103.91999816894531,
+          587.17578125
+        ],
+        [
+          296.138671875,
+          587.17578125
+        ],
+        [
+          296.138671875,
+          597.935546875
+        ],
+        [
+          103.91999816894531,
+          597.935546875
+        ]
+      ]
+    },
+    {
+      "title": "Inter-Continental Air Routes",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          326.619140625,
+          282.44384765625
+        ],
+        [
+          505.318359375,
+          282.44384765625
+        ],
+        [
+          505.318359375,
+          296.52923011779785
+        ],
+        [
+          326.619140625,
+          296.52923011779785
+        ]
+      ]
+    },
+    {
+      "title": "PIPELINES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          327.1201171875,
+          528.1795291900635
+        ],
+        [
+          392.4065246582031,
+          528.1795291900635
+        ],
+        [
+          392.4065246582031,
+          542.21533203125
+        ],
+        [
+          327.1201171875,
+          542.21533203125
+        ]
+      ]
+    },
+    {
+      "title": "COMMUNICATIONS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          293.44921875,
+          419.4608097076416
+        ],
+        [
+          412.98046875,
+          419.4608097076416
+        ],
+        [
+          412.98046875,
+          434.2333984375
+        ],
+        [
+          293.44921875,
+          434.2333984375
+        ]
+      ]
+    },
+    {
+      "title": "Satellite Communication",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          83.2236328125,
+          182.2435302734375
+        ],
+        [
+          242.2001953125,
+          182.2435302734375
+        ],
+        [
+          242.2001953125,
+          195.72945594787598
+        ],
+        [
+          83.2236328125,
+          195.72945594787598
+        ]
+      ]
+    },
+    {
+      "title": "Cyber Space \u2013 Internet",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          325.72265625,
+          131.1346435546875
+        ],
+        [
+          471.55078125,
+          131.1346435546875
+        ],
+        [
+          471.55078125,
+          145.33022499084473
+        ],
+        [
+          325.72265625,
+          145.33022499084473
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          249.36000061035156,
+          141.5101318359375
+        ],
+        [
+          337.078125,
+          141.5101318359375
+        ],
+        [
+          337.078125,
+          157.83034706115723
+        ],
+        [
+          249.36000061035156,
+          157.83034706115723
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_12_7"
+}

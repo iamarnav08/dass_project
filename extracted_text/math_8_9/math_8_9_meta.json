@@ -1,0 +1,1687 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Mensuration",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          162.95999145507812,
+          124.21734619140625
+        ],
+        [
+          369.2626953125,
+          124.21734619140625
+        ],
+        [
+          369.2626953125,
+          162.84375
+        ],
+        [
+          162.95999145507812,
+          162.84375
+        ]
+      ]
+    },
+    {
+      "title": "9.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.91339111328125,
+          283.46875
+        ],
+        [
+          199.99267578125,
+          283.46875
+        ],
+        [
+          199.99267578125,
+          300.1714782714844
+        ],
+        [
+          65.91339111328125,
+          300.1714782714844
+        ]
+      ]
+    },
+    {
+      "title": "9.2 Area of a Polygon",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.433349609375,
+          415.40234375
+        ],
+        [
+          236.32812500000003,
+          415.40234375
+        ],
+        [
+          236.32812500000003,
+          431.4515686035156
+        ],
+        [
+          65.433349609375,
+          431.4515686035156
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Aman's method:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.433349609375,
+          412.763671875
+        ],
+        [
+          214.024658203125,
+          412.763671875
+        ],
+        [
+          214.024658203125,
+          426.333984375
+        ],
+        [
+          65.433349609375,
+          426.333984375
+        ]
+      ]
+    },
+    {
+      "title": "Ridhima's method:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          185.22216796875,
+          505.494140625
+        ],
+        [
+          283.0029296875,
+          505.494140625
+        ],
+        [
+          283.0029296875,
+          519.5196228027344
+        ],
+        [
+          185.22216796875,
+          519.5196228027344
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 9.1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          144.0,
+          649.8671875
+        ],
+        [
+          266.8824768066406,
+          649.8671875
+        ],
+        [
+          266.8824768066406,
+          668.1593170166016
+        ],
+        [
+          144.0,
+          668.1593170166016
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS\nSoaps, toys, pastes, snacks etc. often come in the packing of cuboidal, cubical or\ncylindrical boxes. Collect, such boxes (Fig 9.11).\nFig 9.11\nAll six faces are rectangular,\nand opposites faces are\nidentical. So there are three\npairs of identical faces.\nCuboidal Box Cubical Box\nAll six faces\nare squares\nand identical.\nOne curved surface\nand two circular\nfaces which are\nidentical.\nCylindrical Box",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.07006835937501,
+          225.6064453125
+        ],
+        [
+          541.19140625,
+          225.6064453125
+        ],
+        [
+          541.19140625,
+          649.8671875
+        ],
+        [
+          63.07006835937501,
+          649.8671875
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          210.9228515625,
+          215.0517578125
+        ],
+        [
+          463.203125,
+          215.0517578125
+        ],
+        [
+          463.203125,
+          232.79937744140625
+        ],
+        [
+          210.9228515625,
+          232.79937744140625
+        ]
+      ]
+    },
+    {
+      "title": "9.4 Surface Area of Cube, Cuboid and Cylinder",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          143.99998474121094,
+          274.2333984375
+        ],
+        [
+          509.58251953125006,
+          274.2333984375
+        ],
+        [
+          509.58251953125006,
+          290.61444091796875
+        ],
+        [
+          143.99998474121094,
+          290.61444091796875
+        ]
+      ]
+    },
+    {
+      "title": "9.4.1 Cuboid",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          142.978515625,
+          513.033203125
+        ],
+        [
+          233.07861328125,
+          513.033203125
+        ],
+        [
+          233.07861328125,
+          526.603515625
+        ],
+        [
+          142.978515625,
+          526.603515625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          153.170166015625,
+          191.20947265625
+        ],
+        [
+          245.92895507812503,
+          191.20947265625
+        ],
+        [
+          245.92895507812503,
+          208.05523681640625
+        ],
+        [
+          153.170166015625,
+          208.05523681640625
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          143.27392578125,
+          431.98828125
+        ],
+        [
+          215.35400390625,
+          431.98828125
+        ],
+        [
+          215.35400390625,
+          447.8203125
+        ],
+        [
+          143.27392578125,
+          447.8203125
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          142.55999755859375,
+          601.240234375
+        ],
+        [
+          386.9873046875,
+          601.240234375
+        ],
+        [
+          386.9873046875,
+          620.841796875
+        ],
+        [
+          142.55999755859375,
+          620.841796875
+        ]
+      ]
+    },
+    {
+      "title": "9.4.2 Cube",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          143.421630859375,
+          84.2490234375
+        ],
+        [
+          221.409912109375,
+          84.2490234375
+        ],
+        [
+          221.409912109375,
+          99.31121826171875
+        ],
+        [
+          143.421630859375,
+          99.31121826171875
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          145.4399871826172,
+          112.5205078125
+        ],
+        [
+          217.421875,
+          112.5205078125
+        ],
+        [
+          217.421875,
+          127.895263671875
+        ],
+        [
+          145.4399871826172,
+          127.895263671875
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          139.43359375,
+          83.259521484375
+        ],
+        [
+          386.10107421875,
+          83.259521484375
+        ],
+        [
+          386.10107421875,
+          101.75836181640625
+        ],
+        [
+          139.43359375,
+          101.75836181640625
+        ]
+      ]
+    },
+    {
+      "title": "9.4.3 Cylinders",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          66.0,
+          414.6484375
+        ],
+        [
+          180.49560546875,
+          414.6484375
+        ],
+        [
+          180.49560546875,
+          442.51116943359375
+        ],
+        [
+          66.0,
+          442.51116943359375
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          143.717041015625,
+          490.79296875
+        ],
+        [
+          214.615478515625,
+          490.79296875
+        ],
+        [
+          214.615478515625,
+          506.375244140625
+        ],
+        [
+          143.717041015625,
+          506.375244140625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          232.48779296875,
+          411.6328125
+        ],
+        [
+          323.5212097167969,
+          411.6328125
+        ],
+        [
+          323.5212097167969,
+          426.2152404785156
+        ],
+        [
+          232.48779296875,
+          426.2152404785156
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          218.0126953125,
+          544.3203125
+        ],
+        [
+          464.9755859375,
+          544.3203125
+        ],
+        [
+          464.9755859375,
+          561.5993194580078
+        ],
+        [
+          218.0126953125,
+          561.5993194580078
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 9.2",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          215.206298828125,
+          154.83349609375
+        ],
+        [
+          346.220703125,
+          154.83349609375
+        ],
+        [
+          346.220703125,
+          172.559326171875
+        ],
+        [
+          215.206298828125,
+          172.559326171875
+        ]
+      ]
+    },
+    {
+      "title": "9.5 Volume of Cube, Cuboid and Cylinder",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          64.69482421875,
+          82.45849609375
+        ],
+        [
+          396.14501953125,
+          82.45849609375
+        ],
+        [
+          396.14501953125,
+          99.81427001953125
+        ],
+        [
+          64.69482421875,
+          99.81427001953125
+        ]
+      ]
+    },
+    {
+      "title": "9.5.1 Cuboid",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          65.2117919921875,
+          483.25390625
+        ],
+        [
+          158.9306640625,
+          483.25390625
+        ],
+        [
+          158.9306640625,
+          497.71038818359375
+        ],
+        [
+          65.2117919921875,
+          497.71038818359375
+        ]
+      ]
+    },
+    {
+      "title": "116 MATHEMATICS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          72.0,
+          50.42425537109375
+        ],
+        [
+          158.33984375,
+          50.42425537109375
+        ],
+        [
+          158.33984375,
+          62.715576171875
+        ],
+        [
+          72.0,
+          62.715576171875
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          145.4399871826172,
+          365.267578125
+        ],
+        [
+          216.8310546875,
+          365.267578125
+        ],
+        [
+          216.8310546875,
+          381.57525634765625
+        ],
+        [
+          145.4399871826172,
+          381.57525634765625
+        ]
+      ]
+    },
+    {
+      "title": "9.5.2 Cube",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          65.0640869140625,
+          82.83544921875
+        ],
+        [
+          139.0643310546875,
+          82.83544921875
+        ],
+        [
+          139.0643310546875,
+          97.6312255859375
+        ],
+        [
+          65.0640869140625,
+          97.6312255859375
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          157.6800079345703,
+          142.6767578125
+        ],
+        [
+          253.16650390625003,
+          142.6767578125
+        ],
+        [
+          253.16650390625003,
+          160.05523681640625
+        ],
+        [
+          157.6800079345703,
+          160.05523681640625
+        ]
+      ]
+    },
+    {
+      "title": "DO THIS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          145.9199981689453,
+          224.287109375
+        ],
+        [
+          216.978759765625,
+          224.287109375
+        ],
+        [
+          216.978759765625,
+          240.49609375
+        ],
+        [
+          145.9199981689453,
+          240.49609375
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          142.55999755859375,
+          306.83984375
+        ],
+        [
+          384.033203125,
+          306.83984375
+        ],
+        [
+          384.033203125,
+          325.6793212890625
+        ],
+        [
+          142.55999755859375,
+          325.6793212890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          450.50048828125,
+          328.5146484375
+        ],
+        [
+          535.57861328125,
+          328.5146484375
+        ],
+        [
+          535.57861328125,
+          407.86328125
+        ],
+        [
+          450.50048828125,
+          407.86328125
+        ]
+      ]
+    },
+    {
+      "title": "9.5.3 Cylinder",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          65.54412841796875,
+          400.32421875
+        ],
+        [
+          167.054443359375,
+          400.32421875
+        ],
+        [
+          167.054443359375,
+          414.6484375
+        ],
+        [
+          65.54412841796875,
+          414.6484375
+        ]
+      ]
+    },
+    {
+      "title": "9.6 Volume and Capacity",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          144.0,
+          84.955810546875
+        ],
+        [
+          342.97119140625,
+          84.955810546875
+        ],
+        [
+          342.97119140625,
+          99.81427001953125
+        ],
+        [
+          144.0,
+          99.81427001953125
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 9.3",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          137.95654296875,
+          374.8798828125
+        ],
+        [
+          268.8232421875,
+          374.8798828125
+        ],
+        [
+          268.8232421875,
+          393.11932373046875
+        ],
+        [
+          137.95654296875,
+          393.11932373046875
+        ]
+      ]
+    },
+    {
+      "title": "WHAT HAVE WE DISCUSSED?",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          179.90478515625,
+          196.015625
+        ],
+        [
+          426.27685546875,
+          196.015625
+        ],
+        [
+          426.27685546875,
+          214.3193359375
+        ],
+        [
+          179.90478515625,
+          214.3193359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TextInlineMath",
+          12
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_8_9"
+}

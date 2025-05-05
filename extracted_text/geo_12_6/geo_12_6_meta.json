@@ -1,0 +1,960 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tertiary and\nQuaternary Activities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.6396484375,
+          253.36181640625
+        ],
+        [
+          279.6180114746094,
+          253.36181640625
+        ],
+        [
+          279.6180114746094,
+          303.87236976623535
+        ],
+        [
+          53.6396484375,
+          303.87236976623535
+        ]
+      ]
+    },
+    {
+      "title": "TYPES OF TERTIARY ACTIVITIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          296.8800048828125,
+          643.9453125
+        ],
+        [
+          493.06640625,
+          643.9453125
+        ],
+        [
+          493.06640625,
+          659.27734375
+        ],
+        [
+          296.8800048828125,
+          659.27734375
+        ]
+      ]
+    },
+    {
+      "title": "Trade and commerce",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.751708984375,
+          167.50244140625
+        ],
+        [
+          168.9873046875,
+          167.50244140625
+        ],
+        [
+          168.9873046875,
+          179.67238807678223
+        ],
+        [
+          53.751708984375,
+          179.67238807678223
+        ]
+      ]
+    },
+    {
+      "title": "Retail Trading",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          296.8799743652344,
+          573.41796875
+        ],
+        [
+          381.005859375,
+          573.41796875
+        ],
+        [
+          381.005859375,
+          584.9169921875
+        ],
+        [
+          296.8799743652344,
+          584.9169921875
+        ]
+      ]
+    },
+    {
+      "title": "More on Stores",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          151.0576171875,
+          82.55340576171875
+        ],
+        [
+          248.7744140625,
+          82.55340576171875
+        ],
+        [
+          248.7744140625,
+          96.32015419006348
+        ],
+        [
+          151.0576171875,
+          96.32015419006348
+        ]
+      ]
+    },
+    {
+      "title": "Wholesale Trading",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.99999237060547,
+          338.646240234375
+        ],
+        [
+          191.2799835205078,
+          338.646240234375
+        ],
+        [
+          191.2799835205078,
+          351.44097328186035
+        ],
+        [
+          83.99999237060547,
+          351.44097328186035
+        ]
+      ]
+    },
+    {
+      "title": "Transport",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.99998474121094,
+          495.9912109375
+        ],
+        [
+          137.38623046875,
+          495.9912109375
+        ],
+        [
+          137.38623046875,
+          508.231653213501
+        ],
+        [
+          83.99998474121094,
+          508.231653213501
+        ]
+      ]
+    },
+    {
+      "title": "Network and Accessibility",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          362.6399841308594,
+          167.5982666015625
+        ],
+        [
+          523.546875,
+          167.5982666015625
+        ],
+        [
+          523.546875,
+          180.32003211975098
+        ],
+        [
+          362.6399841308594,
+          180.32003211975098
+        ]
+      ]
+    },
+    {
+      "title": "Factors Affecting Transport",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          323.33203125,
+          339.98779296875
+        ],
+        [
+          484.69921875,
+          339.98779296875
+        ],
+        [
+          484.69921875,
+          351.68181800842285
+        ],
+        [
+          323.33203125,
+          351.68181800842285
+        ]
+      ]
+    },
+    {
+      "title": "Communication",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          326.91796875,
+          484.4921875
+        ],
+        [
+          414.9600524902344,
+          484.4921875
+        ],
+        [
+          414.9600524902344,
+          495.9914798736572
+        ],
+        [
+          326.91796875,
+          495.9914798736572
+        ]
+      ]
+    },
+    {
+      "title": "Telecommunications",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.826416015625,
+          128.5015869140625
+        ],
+        [
+          169.734375,
+          128.5015869140625
+        ],
+        [
+          169.734375,
+          141.44179725646973
+        ],
+        [
+          53.826416015625,
+          141.44179725646973
+        ]
+      ]
+    },
+    {
+      "title": "Services",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.378173828125,
+          411.28173828125
+        ],
+        [
+          98.16022491455078,
+          411.28173828125
+        ],
+        [
+          98.16022491455078,
+          424.23223304748535
+        ],
+        [
+          53.378173828125,
+          424.23223304748535
+        ]
+      ]
+    },
+    {
+      "title": "PEOPLE ENGAGED IN GED IN\nTERTIARY ACTIVITIES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          294.7939453125,
+          575.2007846832275
+        ],
+        [
+          434.3415832519531,
+          575.2007846832275
+        ],
+        [
+          434.3415832519531,
+          604.08203125
+        ],
+        [
+          294.7939453125,
+          604.08203125
+        ]
+      ]
+    },
+    {
+      "title": "SOME SELECTED EXAMPLES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          84.04541015625,
+          116.0443115234375
+        ],
+        [
+          268.048828125,
+          116.0443115234375
+        ],
+        [
+          268.048828125,
+          130.2264404296875
+        ],
+        [
+          84.04541015625,
+          130.2264404296875
+        ]
+      ]
+    },
+    {
+      "title": "Tourism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          83.5224609375,
+          136.83837890625
+        ],
+        [
+          131.484375,
+          136.83837890625
+        ],
+        [
+          131.484375,
+          149.36086463928223
+        ],
+        [
+          83.5224609375,
+          149.36086463928223
+        ]
+      ]
+    },
+    {
+      "title": "Tourist Regions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          84.0,
+          595.26611328125
+        ],
+        [
+          172.423828125,
+          595.26611328125
+        ],
+        [
+          172.423828125,
+          608.29833984375
+        ],
+        [
+          84.0,
+          608.29833984375
+        ]
+      ]
+    },
+    {
+      "title": "Tourist Attractions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          326.91796875,
+          116.14013671875
+        ],
+        [
+          434.49609375,
+          116.14013671875
+        ],
+        [
+          434.49609375,
+          128.96181678771973
+        ],
+        [
+          326.91796875,
+          128.96181678771973
+        ]
+      ]
+    },
+    {
+      "title": "Medical Services for Overseas Patients in India",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          325.72265625,
+          521.67236328125
+        ],
+        [
+          559.40625,
+          521.67236328125
+        ],
+        [
+          559.40625,
+          534.1524906158447
+        ],
+        [
+          325.72265625,
+          534.1524906158447
+        ]
+      ]
+    },
+    {
+      "title": "Medical Tourism",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          118.3359375,
+          192.991943359375
+        ],
+        [
+          220.0854034423828,
+          192.991943359375
+        ],
+        [
+          220.0854034423828,
+          206.24123573303223
+        ],
+        [
+          118.3359375,
+          206.24123573303223
+        ]
+      ]
+    },
+    {
+      "title": "QUATERNARY ACTIVITIES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.56494140625,
+          278.2763671875
+        ],
+        [
+          210.97265625,
+          278.2763671875
+        ],
+        [
+          210.97265625,
+          292.45849609375
+        ],
+        [
+          53.56494140625,
+          292.45849609375
+        ]
+      ]
+    },
+    {
+      "title": "QUINARY ACTIVITIES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          296.736328125,
+          65.87982177734375
+        ],
+        [
+          426.427734375,
+          65.87982177734375
+        ],
+        [
+          426.427734375,
+          79.87030029296875
+        ],
+        [
+          296.736328125,
+          79.87030029296875
+        ]
+      ]
+    },
+    {
+      "title": "Outsourcing",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          157.6318359375,
+          462.64404296875
+        ],
+        [
+          236.63800048828125,
+          462.64404296875
+        ],
+        [
+          236.63800048828125,
+          478.74267578125
+        ],
+        [
+          157.6318359375,
+          478.74267578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          332.89453125,
+          237.838134765625
+        ],
+        [
+          415.37109375,
+          237.838134765625
+        ],
+        [
+          415.37109375,
+          258.919677734375
+        ],
+        [
+          332.89453125,
+          258.919677734375
+        ]
+      ]
+    },
+    {
+      "title": "THE DIGITHE DIGIT HE DIGITAL DIVIDE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          325.125,
+          389.241943359375
+        ],
+        [
+          450.03515625,
+          389.241943359375
+        ],
+        [
+          450.03515625,
+          405.91552734375
+        ],
+        [
+          325.125,
+          405.91552734375
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          247.9199981689453,
+          133.8677978515625
+        ],
+        [
+          336.181640625,
+          133.8677978515625
+        ],
+        [
+          336.181640625,
+          152.23031044006348
+        ],
+        [
+          247.9199981689453,
+          152.23031044006348
+        ]
+      ]
+    },
+    {
+      "title": "Project/Activity",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          242.05078125,
+          623.63037109375
+        ],
+        [
+          343.353515625,
+          623.63037109375
+        ],
+        [
+          343.353515625,
+          638.96240234375
+        ],
+        [
+          242.05078125,
+          638.96240234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_12_6"
+}

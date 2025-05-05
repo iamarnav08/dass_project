@@ -1,0 +1,636 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INTRODUCTION TO THREE\nDIMENSIONAL GEOMETRY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.76171875,
+          145.4876708984375
+        ],
+        [
+          410.23828125,
+          145.4876708984375
+        ],
+        [
+          410.23828125,
+          198.763671875
+        ],
+        [
+          93.76171875,
+          198.763671875
+        ]
+      ]
+    },
+    {
+      "title": "11.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.091796875,
+          287.4736328125
+        ],
+        [
+          153.193359375,
+          287.4736328125
+        ],
+        [
+          153.193359375,
+          301.2834701538086
+        ],
+        [
+          65.091796875,
+          301.2834701538086
+        ]
+      ]
+    },
+    {
+      "title": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.70703125,
+          96.56340789794922
+        ],
+        [
+          434.35546875,
+          96.56340789794922
+        ],
+        [
+          434.35546875,
+          108.56340789794922
+        ],
+        [
+          65.70703125,
+          108.56340789794922
+        ]
+      ]
+    },
+    {
+      "title": "11.3 Coordinates of a Point in Space",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.8916015625,
+          410.2437057495117
+        ],
+        [
+          248.170654296875,
+          410.2437057495117
+        ],
+        [
+          248.170654296875,
+          422.2437057495117
+        ],
+        [
+          65.8916015625,
+          422.2437057495117
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 11.1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          209.42578125,
+          207.934814453125
+        ],
+        [
+          294.57421875,
+          207.934814453125
+        ],
+        [
+          294.57421875,
+          221.36296844482422
+        ],
+        [
+          209.42578125,
+          221.36296844482422
+        ]
+      ]
+    },
+    {
+      "title": "11.4 Distance between Two Points",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          65.99995422363281,
+          385.521484375
+        ],
+        [
+          237.97265625,
+          385.521484375
+        ],
+        [
+          237.97265625,
+          398.96349334716797
+        ],
+        [
+          65.99995422363281,
+          398.96349334716797
+        ]
+      ]
+    },
+    {
+      "title": "Miscellaneous Examples",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          190.5599822998047,
+          531.92626953125
+        ],
+        [
+          314.5078125,
+          531.92626953125
+        ],
+        [
+          314.5078125,
+          544.4637985229492
+        ],
+        [
+          190.5599822998047,
+          544.4637985229492
+        ]
+      ]
+    },
+    {
+      "title": "Miscellaneous Exercise on Chapter 11",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          156.515625,
+          157.10277557373047
+        ],
+        [
+          347.9765625,
+          157.10277557373047
+        ],
+        [
+          347.9765625,
+          169.10277557373047
+        ],
+        [
+          156.515625,
+          169.10277557373047
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          227.390625,
+          326.3027572631836
+        ],
+        [
+          276.1171875,
+          326.3027572631836
+        ],
+        [
+          276.1171875,
+          338.3027572631836
+        ],
+        [
+          227.390625,
+          338.3027572631836
+        ]
+      ]
+    },
+    {
+      "title": "Historical Note",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          211.763671875,
+          103.8006591796875
+        ],
+        [
+          291.12890625,
+          103.8006591796875
+        ],
+        [
+          291.12890625,
+          117.26378631591797
+        ],
+        [
+          211.763671875,
+          117.26378631591797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_11_11"
+}

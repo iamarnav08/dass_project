@@ -1,0 +1,383 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          249.375,
+          306.6474609375
+        ],
+        [
+          313.388671875,
+          306.6474609375
+        ],
+        [
+          313.388671875,
+          339.6533203125
+        ],
+        [
+          249.375,
+          339.6533203125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.70590591430664,
+          403.5968265533447
+        ],
+        [
+          350.9619140625,
+          403.5968265533447
+        ],
+        [
+          350.9619140625,
+          434.44921875
+        ],
+        [
+          211.70590591430664,
+          434.44921875
+        ]
+      ]
+    },
+    {
+      "title": "INDIA \u2013 LOCATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          373.2275390625,
+          161.958984375
+        ],
+        [
+          515.0671882629395,
+          161.958984375
+        ],
+        [
+          515.0671882629395,
+          184.52395057678223
+        ],
+        [
+          372.1142578125,
+          184.52395057678223
+        ]
+      ]
+    },
+    {
+      "title": "SIZE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.634765625,
+          205.51904296875
+        ],
+        [
+          63.02670669555664,
+          205.51904296875
+        ],
+        [
+          63.02670669555664,
+          218.27944374084473
+        ],
+        [
+          40.634765625,
+          218.27944374084473
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          235.7373046875,
+          93.6925048828125
+        ],
+        [
+          322.8515625,
+          93.6925048828125
+        ],
+        [
+          322.8515625,
+          104.28963661193848
+        ],
+        [
+          235.7373046875,
+          104.28963661193848
+        ]
+      ]
+    },
+    {
+      "title": "Project/Activity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          78.2080078125,
+          412.4295902252197
+        ],
+        [
+          163.22934341430664,
+          412.4295902252197
+        ],
+        [
+          163.22934341430664,
+          421.9295902252197
+        ],
+        [
+          78.2080078125,
+          421.9295902252197
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo3_11_1"
+}

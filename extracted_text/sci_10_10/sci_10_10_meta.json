@@ -1,0 +1,907 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Human Eye and\nthe Colourful World\nCHAPTER10",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          151.4399871826172,
+          80.67782974243164
+        ],
+        [
+          410.888671875,
+          80.67782974243164
+        ],
+        [
+          410.888671875,
+          190.33447265625
+        ],
+        [
+          151.4399871826172,
+          190.33447265625
+        ]
+      ]
+    },
+    {
+      "title": "10.1 THE HUMAN EYE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.396484375,
+          385.810546875
+        ],
+        [
+          208.4326171875,
+          385.810546875
+        ],
+        [
+          208.4326171875,
+          400.0296974182129
+        ],
+        [
+          77.396484375,
+          400.0296974182129
+        ]
+      ]
+    },
+    {
+      "title": "10.1.1 Power of Accommodation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          178.998046875,
+          167.578125
+        ],
+        [
+          384.29296875,
+          167.578125
+        ],
+        [
+          384.29296875,
+          181.63010025024414
+        ],
+        [
+          178.998046875,
+          181.63010025024414
+        ]
+      ]
+    },
+    {
+      "title": "10.2 DEFECTS OF VISION AND THEIR CORRECTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          179.89453125,
+          539.296875
+        ],
+        [
+          517.5703125,
+          539.296875
+        ],
+        [
+          517.5703125,
+          554.53125
+        ],
+        [
+          179.89453125,
+          554.53125
+        ]
+      ]
+    },
+    {
+      "title": "(a) Myopia",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          81.4306640625,
+          65.79345703125
+        ],
+        [
+          145.0810546875,
+          65.79345703125
+        ],
+        [
+          145.0810546875,
+          77.314453125
+        ],
+        [
+          81.4306640625,
+          77.314453125
+        ]
+      ]
+    },
+    {
+      "title": "(c) Presbyopia",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.0000991821289,
+          584.23828125
+        ],
+        [
+          165.59979248046875,
+          584.23828125
+        ],
+        [
+          165.59979248046875,
+          595.9594612121582
+        ],
+        [
+          78.0000991821289,
+          595.9594612121582
+        ]
+      ]
+    },
+    {
+      "title": "Figure 10.2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          293.41510009765625,
+          272.1240234375
+        ],
+        [
+          351.2550964355469,
+          272.1240234375
+        ],
+        [
+          351.2550964355469,
+          284.7440528869629
+        ],
+        [
+          293.41510009765625,
+          284.7440528869629
+        ]
+      ]
+    },
+    {
+      "title": "Figure 10.3",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          357.4949951171875,
+          593.37890625
+        ],
+        [
+          418.359375,
+          593.37890625
+        ],
+        [
+          418.359375,
+          604.04296875
+        ],
+        [
+          357.4949951171875,
+          604.04296875
+        ]
+      ]
+    },
+    {
+      "title": "QUESTIONS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          165.55078125,
+          196.142578125
+        ],
+        [
+          444.65625,
+          196.142578125
+        ],
+        [
+          444.65625,
+          218.232421875
+        ],
+        [
+          165.55078125,
+          218.232421875
+        ]
+      ]
+    },
+    {
+      "title": "Think it over",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          267.15234375,
+          385.6201171875
+        ],
+        [
+          347.23828125,
+          385.6201171875
+        ],
+        [
+          347.23828125,
+          398.19955825805664
+        ],
+        [
+          267.15234375,
+          398.19955825805664
+        ]
+      ]
+    },
+    {
+      "title": "10.3 REFRACTION OF LIGHT THROUGH A PRISM",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.2470703125,
+          263.7451171875
+        ],
+        [
+          401.02734375,
+          263.7451171875
+        ],
+        [
+          401.02734375,
+          279.7412109375
+        ],
+        [
+          77.2470703125,
+          279.7412109375
+        ]
+      ]
+    },
+    {
+      "title": "Activity 10.1",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          98.85000610351562,
+          417.802734375
+        ],
+        [
+          191.72361755371094,
+          417.802734375
+        ],
+        [
+          191.72361755371094,
+          434.560546875
+        ],
+        [
+          98.85000610351562,
+          434.560546875
+        ]
+      ]
+    },
+    {
+      "title": "10.4 DISPERSION OF WHITE LIGHT BY A GLASS PRISM ASS PRISMASS PRISM",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          180.210205078125,
+          430.751953125
+        ],
+        [
+          533.70703125,
+          430.751953125
+        ],
+        [
+          533.70703125,
+          446.748046875
+        ],
+        [
+          180.210205078125,
+          446.748046875
+        ]
+      ]
+    },
+    {
+      "title": "Activity 10.2",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          199.1689453125,
+          538.916015625
+        ],
+        [
+          298.0810546875,
+          538.916015625
+        ],
+        [
+          298.0810546875,
+          557.197265625
+        ],
+        [
+          199.1689453125,
+          557.197265625
+        ]
+      ]
+    },
+    {
+      "title": "10.5 ATMOSPHERIC REFRACTION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          216.95999145507812,
+          65.174560546875
+        ],
+        [
+          416.6722106933594,
+          65.174560546875
+        ],
+        [
+          416.6722106933594,
+          80.11014175415039
+        ],
+        [
+          216.95999145507812,
+          80.11014175415039
+        ]
+      ]
+    },
+    {
+      "title": "Twinkling of stars",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          180.00018310546875,
+          251.748046875
+        ],
+        [
+          285.08203125,
+          251.748046875
+        ],
+        [
+          285.08203125,
+          263.5546875
+        ],
+        [
+          180.00018310546875,
+          263.5546875
+        ]
+      ]
+    },
+    {
+      "title": "Advance sunrise and delayed sunset",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          253.705078125,
+          562.1484375
+        ],
+        [
+          465.873046875,
+          562.1484375
+        ],
+        [
+          465.873046875,
+          574.3359375
+        ],
+        [
+          253.705078125,
+          574.3359375
+        ]
+      ]
+    },
+    {
+      "title": "10.6 SCATTERING OF LIGHT",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.2470703125,
+          65.460205078125
+        ],
+        [
+          252.0615234375,
+          65.460205078125
+        ],
+        [
+          252.0615234375,
+          80.694580078125
+        ],
+        [
+          77.2470703125,
+          80.694580078125
+        ]
+      ]
+    },
+    {
+      "title": "10.6.1 Tyndall Effect",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.5458984375,
+          204.521484375
+        ],
+        [
+          205.294921875,
+          204.521484375
+        ],
+        [
+          205.294921875,
+          219.0702247619629
+        ],
+        [
+          77.5458984375,
+          219.0702247619629
+        ]
+      ]
+    },
+    {
+      "title": "10.6.2 Why is the colour of the clear Sky Blue?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.77001953125,
+          447.509765625
+        ],
+        [
+          363.97265625,
+          447.509765625
+        ],
+        [
+          363.97265625,
+          461.71017837524414
+        ],
+        [
+          77.77001953125,
+          461.71017837524414
+        ]
+      ]
+    },
+    {
+      "title": "What you have learnt",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          98.15999603271484,
+          67.88818359375
+        ],
+        [
+          312.57421875,
+          67.88818359375
+        ],
+        [
+          312.57421875,
+          91.69189453125
+        ],
+        [
+          98.15999603271484,
+          91.69189453125
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          99.0615234375,
+          296.8798828125
+        ],
+        [
+          357.3984375,
+          296.8798828125
+        ],
+        [
+          357.3984375,
+          320.4931640625
+        ],
+        [
+          99.0615234375,
+          320.4931640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_10_10"
+}

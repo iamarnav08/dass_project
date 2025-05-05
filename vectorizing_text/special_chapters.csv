@@ -1,0 +1,20 @@
+grade,subjectcode,special_chaptercode,chaptertype,additionalinfo
+11,english,s,short stories,elective
+11,english,p,poetry,elective
+11,english,e,essay,elective
+12,english,s,short stories,elective
+12,english,p,poetry,elective
+12,english,nf,non fiction,elective
+11,english2,r,reading skills,core
+11,english2,w,writing skills,core
+12,english2,pr,prose,core
+12,english2,po,poetry,core
+11,geo,glo,glossary,
+12,geo,a,appendix,
+9,math,a,appendix,
+10,math,a,appendix,
+11,math,a,appendix,
+11,math,supp,supplementary material,
+12,math,a,appendix,
+11,psy,glo,glossary,
+12,psy,glo,glossary,

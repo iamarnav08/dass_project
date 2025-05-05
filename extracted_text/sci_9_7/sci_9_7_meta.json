@@ -1,0 +1,1652 @@
+{
+  "table_of_contents": [
+    {
+      "title": "7\nChapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.857421875,
+          57.34869194030762
+        ],
+        [
+          207.88800048828125,
+          57.34869194030762
+        ],
+        [
+          207.88800048828125,
+          114.24291801452637
+        ],
+        [
+          61.857421875,
+          114.24291801452637
+        ]
+      ]
+    },
+    {
+      "title": "Activity ______________ 7.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.263671875,
+          192.35125541687012
+        ],
+        [
+          517.9203491210938,
+          192.35125541687012
+        ],
+        [
+          517.9203491210938,
+          209.704833984375
+        ],
+        [
+          315.263671875,
+          209.704833984375
+        ]
+      ]
+    },
+    {
+      "title": "Activity ______________ 7.2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.9199523925781,
+          244.496337890625
+        ],
+        [
+          517.9203491210938,
+          244.496337890625
+        ],
+        [
+          517.9203491210938,
+          261.8722515106201
+        ],
+        [
+          319.9199523925781,
+          261.8722515106201
+        ]
+      ]
+    },
+    {
+      "title": "Think and Act",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.9202880859375,
+          322.83984184265137
+        ],
+        [
+          412.0822448730469,
+          322.83984184265137
+        ],
+        [
+          412.0822448730469,
+          346.3857421875
+        ],
+        [
+          319.9202880859375,
+          346.3857421875
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Describing Motion",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          307.9202880859375,
+          502.75634765625
+        ],
+        [
+          467.068359375,
+          502.75634765625
+        ],
+        [
+          467.068359375,
+          521.9680767059326
+        ],
+        [
+          307.9202880859375,
+          521.9680767059326
+        ]
+      ]
+    },
+    {
+      "title": "7.1.1 MOTION ALONG A STRAIGHT LINE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.798828125,
+          68.10150146484375
+        ],
+        [
+          301.21875,
+          68.10150146484375
+        ],
+        [
+          301.21875,
+          82.50012016296387
+        ],
+        [
+          76.798828125,
+          82.50012016296387
+        ]
+      ]
+    },
+    {
+      "title": "Activity ______________ 7.3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          333.193359375,
+          420.17431640625
+        ],
+        [
+          532.810546875,
+          420.17431640625
+        ],
+        [
+          532.810546875,
+          436.3508892059326
+        ],
+        [
+          333.193359375,
+          436.3508892059326
+        ]
+      ]
+    },
+    {
+      "title": "Activity ______________ 7.4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          334.08001708984375,
+          542.51806640625
+        ],
+        [
+          532.3204345703125,
+          542.51806640625
+        ],
+        [
+          532.3204345703125,
+          558.7508525848389
+        ],
+        [
+          334.08001708984375,
+          558.7508525848389
+        ]
+      ]
+    },
+    {
+      "title": "uestions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.9482421875,
+          63.39959526062012
+        ],
+        [
+          151.8926239013672,
+          63.39959526062012
+        ],
+        [
+          151.8926239013672,
+          86.1185302734375
+        ],
+        [
+          76.9482421875,
+          86.1185302734375
+        ]
+      ]
+    },
+    {
+      "title": "7.1.2 UNIFORM MOTION AND NON-\nUNIFORM MOTION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.9033203125,
+          324.100492477417
+        ],
+        [
+          291.8056640625,
+          324.100492477417
+        ],
+        [
+          291.8056640625,
+          353.841064453125
+        ],
+        [
+          62.9033203125,
+          353.841064453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.0634765625,
+          582.662109375
+        ],
+        [
+          121.7724609375,
+          582.662109375
+        ],
+        [
+          121.7724609375,
+          598.7197265625
+        ],
+        [
+          73.0634765625,
+          598.7197265625
+        ]
+      ]
+    },
+    {
+      "title": "Table 7.1\nTime Distance Distance\ntravelled by travelled by\nobject A in m object B in m\n9:30 am 10 12\n9:45 am 20 19\n10:00 am 30 23\n10:15 am 40 35\n10:30 am 50 37\n10:45 am 60 41\n11:00 am 70 44",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.59765625,
+          65.8553466796875
+        ],
+        [
+          534.3046875,
+          65.8553466796875
+        ],
+        [
+          534.3046875,
+          246.59912109375
+        ],
+        [
+          306.59765625,
+          246.59912109375
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Measuring the Rate of Motion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          307.494140625,
+          265.71533203125
+        ],
+        [
+          534.603515625,
+          265.71533203125
+        ],
+        [
+          534.603515625,
+          285.56738090515137
+        ],
+        [
+          307.494140625,
+          285.56738090515137
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          82.775390625,
+          633.12890625
+        ],
+        [
+          133.9227752685547,
+          633.12890625
+        ],
+        [
+          133.9227752685547,
+          645.36328125
+        ],
+        [
+          82.775390625,
+          645.36328125
+        ]
+      ]
+    },
+    {
+      "title": "7.2.1 SPEED WITH DIRECTION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          321.837890625,
+          187.54107475280762
+        ],
+        [
+          486.193359375,
+          187.54107475280762
+        ],
+        [
+          486.193359375,
+          201.54107475280762
+        ],
+        [
+          321.837890625,
+          201.54107475280762
+        ]
+      ]
+    },
+    {
+      "title": "Activity ______________ 7.6",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          334.08001708984375,
+          591.837890625
+        ],
+        [
+          535.201171875,
+          591.837890625
+        ],
+        [
+          535.201171875,
+          609.6320934295654
+        ],
+        [
+          334.08001708984375,
+          609.6320934295654
+        ]
+      ]
+    },
+    {
+      "title": "Activity\n \nActivityActivity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          73.28759765625,
+          65.759765625
+        ],
+        [
+          133.35205078125,
+          65.759765625
+        ],
+        [
+          133.35205078125,
+          85.41332817077637
+        ],
+        [
+          73.28759765625,
+          85.41332817077637
+        ]
+      ]
+    },
+    {
+      "title": "7.7",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          248.66525268554688,
+          70.156494140625
+        ],
+        [
+          275.0712890625,
+          70.156494140625
+        ],
+        [
+          275.0712890625,
+          85.22149467468262
+        ],
+        [
+          248.66525268554688,
+          85.22149467468262
+        ]
+      ]
+    },
+    {
+      "title": "uestions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          86.8095703125,
+          213.39971733093262
+        ],
+        [
+          148.6669921875,
+          213.39971733093262
+        ],
+        [
+          148.6669921875,
+          234.99975395202637
+        ],
+        [
+          86.8095703125,
+          234.99975395202637
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.2822265625,
+          567.75146484375
+        ],
+        [
+          120.5771484375,
+          567.75146484375
+        ],
+        [
+          120.5771484375,
+          580.2578258514404
+        ],
+        [
+          68.2822265625,
+          580.2578258514404
+        ]
+      ]
+    },
+    {
+      "title": "Solution: Solution:Solution:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          311.677734375,
+          245.260986328125
+        ],
+        [
+          365.466796875,
+          245.260986328125
+        ],
+        [
+          365.466796875,
+          257.69592094421387
+        ],
+        [
+          311.677734375,
+          257.69592094421387
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Rate of Change of Velocity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.91998291015625,
+          520.7255859375
+        ],
+        [
+          522.052734375,
+          520.7255859375
+        ],
+        [
+          522.052734375,
+          539.008451461792
+        ],
+        [
+          307.91998291015625,
+          539.008451461792
+        ]
+      ]
+    },
+    {
+      "title": "Activity\n \nActivityActivity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.12548828125,
+          507.34423828125
+        ],
+        [
+          149.93701171875,
+          507.34423828125
+        ],
+        [
+          149.93701171875,
+          526.2937297821045
+        ],
+        [
+          89.12548828125,
+          526.2937297821045
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          326.91796875,
+          138.592529296875
+        ],
+        [
+          383.6953125,
+          138.592529296875
+        ],
+        [
+          383.6953125,
+          151.973876953125
+        ],
+        [
+          326.91796875,
+          151.973876953125
+        ]
+      ]
+    },
+    {
+      "title": "uestions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          349.330078125,
+          524.4400310516357
+        ],
+        [
+          407.302734375,
+          524.4400310516357
+        ],
+        [
+          407.302734375,
+          546.7236328125
+        ],
+        [
+          349.330078125,
+          546.7236328125
+        ]
+      ]
+    },
+    {
+      "title": "7.4 Graphical Representation of\nMotion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.75390625,
+          66.8111572265625
+        ],
+        [
+          292.8515625,
+          66.8111572265625
+        ],
+        [
+          292.8515625,
+          106.28747367858887
+        ],
+        [
+          62.75390625,
+          106.28747367858887
+        ]
+      ]
+    },
+    {
+      "title": "7.4.1 DISTANCE\u2013TIME GRAPHS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.82861328125,
+          290.56640625
+        ],
+        [
+          233.384765625,
+          290.56640625
+        ],
+        [
+          233.384765625,
+          305.93981742858887
+        ],
+        [
+          62.82861328125,
+          305.93981742858887
+        ]
+      ]
+    },
+    {
+      "title": "7.4.2 VELOCITY-TIME GRAPHS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.87353515625,
+          467.58251953125
+        ],
+        [
+          241.69139099121094,
+          467.58251953125
+        ],
+        [
+          241.69139099121094,
+          482.34118461608887
+        ],
+        [
+          76.87353515625,
+          482.34118461608887
+        ]
+      ]
+    },
+    {
+      "title": "Activity\n \nActivityActivity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          87.93017578125,
+          65.37744140625
+        ],
+        [
+          148.89111328125,
+          65.37744140625
+        ],
+        [
+          148.89111328125,
+          84.69335746765137
+        ],
+        [
+          87.93017578125,
+          84.69335746765137
+        ]
+      ]
+    },
+    {
+      "title": "Table 7.5: Distance covered by\nFeroz and Sania at different\ntimes on their bicycles",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          79.48828125,
+          183.8023681640625
+        ],
+        [
+          301.81640625,
+          183.8023681640625
+        ],
+        [
+          301.81640625,
+          225.89953422546387
+        ],
+        [
+          79.48828125,
+          225.89953422546387
+        ]
+      ]
+    },
+    {
+      "title": "uestions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          105.0380859375,
+          488.68002128601074
+        ],
+        [
+          168.5390625,
+          488.68002128601074
+        ],
+        [
+          168.5390625,
+          511.5498046875
+        ],
+        [
+          105.0380859375,
+          511.5498046875
+        ]
+      ]
+    },
+    {
+      "title": "7.5 Equations of Motion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          322.0799865722656,
+          115.270751953125
+        ],
+        [
+          492.767578125,
+          115.270751953125
+        ],
+        [
+          492.767578125,
+          135.916259765625
+        ],
+        [
+          322.0799865722656,
+          135.916259765625
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          327.216796875,
+          504.28564453125
+        ],
+        [
+          378.2403869628906,
+          504.28564453125
+        ],
+        [
+          378.2403869628906,
+          516.52001953125
+        ],
+        [
+          327.216796875,
+          516.52001953125
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          68.095458984375,
+          347.53271484375
+        ],
+        [
+          119.3818359375,
+          347.53271484375
+        ],
+        [
+          119.3818359375,
+          359.384765625
+        ],
+        [
+          68.095458984375,
+          359.384765625
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          313.91998291015625,
+          156.4661865234375
+        ],
+        [
+          364.08038330078125,
+          156.4661865234375
+        ],
+        [
+          364.08038330078125,
+          168.3182373046875
+        ],
+        [
+          313.91998291015625,
+          168.3182373046875
+        ]
+      ]
+    },
+    {
+      "title": "uestions",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          331.69921875,
+          436.59994316101074
+        ],
+        [
+          396.24609375,
+          436.59994316101074
+        ],
+        [
+          396.24609375,
+          458.7890625
+        ],
+        [
+          331.69921875,
+          458.7890625
+        ]
+      ]
+    },
+    {
+      "title": "7.6 Uniform Circular Motion",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          77.47119140625,
+          224.03820610046387
+        ],
+        [
+          282.78277587890625,
+          224.03820610046387
+        ],
+        [
+          282.78277587890625,
+          243.54052734375
+        ],
+        [
+          77.47119140625,
+          243.54052734375
+        ]
+      ]
+    },
+    {
+      "title": "Activity\n \nActivityActivity",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          73.922607421875,
+          66.09429931640625
+        ],
+        [
+          133.27734375,
+          66.09429931640625
+        ],
+        [
+          133.27734375,
+          85.41332817077637
+        ],
+        [
+          73.922607421875,
+          85.41332817077637
+        ]
+      ]
+    },
+    {
+      "title": "What\nyou have",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          175.7109375,
+          413.85436820983887
+        ],
+        [
+          255.1263885498047,
+          413.85436820983887
+        ],
+        [
+          255.1263885498047,
+          459.93603515625
+        ],
+        [
+          175.7109375,
+          459.93603515625
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          192.239990234375,
+          161.149658203125
+        ],
+        [
+          270.9800109863281,
+          161.149658203125
+        ],
+        [
+          270.9800109863281,
+          181.46325492858887
+        ],
+        [
+          192.239990234375,
+          181.46325492858887
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          322
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/sci_9_7"
+}

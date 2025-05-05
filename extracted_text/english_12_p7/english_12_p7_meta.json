@@ -1,0 +1,139 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Responding to the Poem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.80224609375,
+          331.045654296875
+        ],
+        [
+          237.89794921875,
+          331.045654296875
+        ],
+        [
+          237.89794921875,
+          346.51185417175293
+        ],
+        [
+          80.80224609375,
+          346.51185417175293
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Reading",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          81.03955078125,
+          558.9814453125
+        ],
+        [
+          203.01416015625,
+          558.9814453125
+        ],
+        [
+          203.01416015625,
+          574.232421875
+        ],
+        [
+          81.03955078125,
+          574.232421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english_12_p7"
+}

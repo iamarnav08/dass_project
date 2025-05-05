@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.29150390625,
+          500.97412109375
+        ],
+        [
+          367.376953125,
+          500.97412109375
+        ],
+        [
+          367.376953125,
+          593.73291015625
+        ],
+        [
+          90.29150390625,
+          593.73291015625
+        ]
+      ]
+    },
+    {
+      "title": "Introducing Indian Society",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.431640625,
+          61.75933837890625
+        ],
+        [
+          208.6875,
+          61.75933837890625
+        ],
+        [
+          208.6875,
+          72.34188842773438
+        ],
+        [
+          80.431640625,
+          72.34188842773438
+        ]
+      ]
+    },
+    {
+      "title": "1.2 A Preview of this Book",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.97599792480469,
+          430.35650634765625
+        ],
+        [
+          285.58062744140625,
+          430.35650634765625
+        ],
+        [
+          285.58062744140625,
+          448.35650634765625
+        ],
+        [
+          86.97599792480469,
+          448.35650634765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/soc_12_1"
+}

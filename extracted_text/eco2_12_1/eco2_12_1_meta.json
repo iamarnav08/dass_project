@@ -1,0 +1,471 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          415.33056640625,
+          60.85083007812499
+        ],
+        [
+          524.64306640625,
+          60.85083007812499
+        ],
+        [
+          524.64306640625,
+          103.89759540557861
+        ],
+        [
+          415.33056640625,
+          103.89759540557861
+        ]
+      ]
+    },
+    {
+      "title": "Economic Agents",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          189.01953125,
+          351.796875
+        ],
+        [
+          285.806640625,
+          351.796875
+        ],
+        [
+          285.806640625,
+          363.14555072784424
+        ],
+        [
+          189.01953125,
+          363.14555072784424
+        ]
+      ]
+    },
+    {
+      "title": "Adam Smith",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.6346855163574,
+          77.919921875
+        ],
+        [
+          391.703125,
+          77.919921875
+        ],
+        [
+          391.703125,
+          89.67054462432861
+        ],
+        [
+          315.6346855163574,
+          89.67054462432861
+        ]
+      ]
+    },
+    {
+      "title": "1.1 EMERGENCE OF MACROECONOMICS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.27470016479492,
+          66.251220703125
+        ],
+        [
+          246.949462890625,
+          66.251220703125
+        ],
+        [
+          246.949462890625,
+          79.60261249542236
+        ],
+        [
+          42.27470016479492,
+          79.60261249542236
+        ]
+      ]
+    },
+    {
+      "title": "John Maynard Keynes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          253.47471237182617,
+          194.0283203125
+        ],
+        [
+          388.3639335632324,
+          194.0283203125
+        ],
+        [
+          388.3639335632324,
+          205.83161640167236
+        ],
+        [
+          253.47471237182617,
+          205.83161640167236
+        ]
+      ]
+    },
+    {
+      "title": "1.2 CONTEXT OF THE PRESENT BOOK OF MACROECONOMICS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.27470016479492,
+          352.72358417510986
+        ],
+        [
+          450.3447265625,
+          352.72358417510986
+        ],
+        [
+          450.3447265625,
+          364.72358417510986
+        ],
+        [
+          138.27470016479492,
+          364.72358417510986
+        ]
+      ]
+    },
+    {
+      "title": "Suggested Readings",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          284.4347038269043,
+          652.2900390625
+        ],
+        [
+          389.71044921875,
+          652.2900390625
+        ],
+        [
+          389.71044921875,
+          661.9335145950317
+        ],
+        [
+          284.4347038269043,
+          661.9335145950317
+        ]
+      ]
+    },
+    {
+      "title": "Reprint 2024-25",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          262.4183464050293,
+          754.1259765625
+        ],
+        [
+          321.6748046875,
+          754.1259765625
+        ],
+        [
+          321.6748046875,
+          762.6350374221802
+        ],
+        [
+          262.4183464050293,
+          762.6350374221802
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/eco2_12_1"
+}

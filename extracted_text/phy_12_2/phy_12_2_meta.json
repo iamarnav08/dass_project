@@ -1,0 +1,2980 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter Two\nELECTROSTATIC\nPOTENTIAL AND\nCAPACITANCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.466796875,
+          114.08325195312499
+        ],
+        [
+          416.9468688964844,
+          114.08325195312499
+        ],
+        [
+          416.9468688964844,
+          332.8955078125
+        ],
+        [
+          59.466796875,
+          332.8955078125
+        ]
+      ]
+    },
+    {
+      "title": "2.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          172.2744140625,
+          448.23242187499994
+        ],
+        [
+          307.494140625,
+          448.23242187499994
+        ],
+        [
+          307.494140625,
+          465.43438720703125
+        ],
+        [
+          172.2744140625,
+          465.43438720703125
+        ]
+      ]
+    },
+    {
+      "title": "Electrostatic Potential\nand Capacitance",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          355.60546875,
+          60.17578124999999
+        ],
+        [
+          515.0560913085938,
+          58.63281249999999
+        ],
+        [
+          515.0560913085938,
+          93.7353515625
+        ],
+        [
+          355.60546875,
+          95.2783203125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 ELECTROSTATIC POTENTIAL",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.6162109375,
+          413.36334228515625
+        ],
+        [
+          283.1396484375,
+          413.36334228515625
+        ],
+        [
+          283.1396484375,
+          429.36334228515625
+        ],
+        [
+          59.6162109375,
+          429.36334228515625
+        ]
+      ]
+    },
+    {
+      "title": "2.3 POTENTIAL DUE TO A POINT CHARGE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          191.75985717773438,
+          312.20355224609375
+        ],
+        [
+          476.033203125,
+          312.20355224609375
+        ],
+        [
+          476.033203125,
+          328.20355224609375
+        ],
+        [
+          191.75985717773438,
+          328.20355224609375
+        ]
+      ]
+    },
+    {
+      "title": "Electrostatic Potential\nand Capacitance",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          356.0400085449219,
+          60.257568359375
+        ],
+        [
+          515.0560913085938,
+          60.257568359375
+        ],
+        [
+          515.0560913085938,
+          93.49755859375
+        ],
+        [
+          356.0400085449219,
+          93.49755859375
+        ]
+      ]
+    },
+    {
+      "title": "Example 2.1",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.47119140625,
+          408.5009765625
+        ],
+        [
+          142.31689453125,
+          408.5009765625
+        ],
+        [
+          142.31689453125,
+          419.3017578125
+        ],
+        [
+          77.47119140625,
+          419.3017578125
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.47119140625,
+          481.79199218749994
+        ],
+        [
+          124.23779296875,
+          481.79199218749994
+        ],
+        [
+          124.23779296875,
+          491.82128906249994
+        ],
+        [
+          77.47119140625,
+          491.82128906249994
+        ]
+      ]
+    },
+    {
+      "title": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.3173828125,
+          639.3233184814453
+        ],
+        [
+          369.3515625,
+          639.3233184814453
+        ],
+        [
+          369.3515625,
+          655.3233184814453
+        ],
+        [
+          59.3173828125,
+          655.3233184814453
+        ]
+      ]
+    },
+    {
+      "title": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.3173828125,
+          455.94726562499994
+        ],
+        [
+          387.87890625,
+          455.94726562499994
+        ],
+        [
+          387.87890625,
+          472.91992187499994
+        ],
+        [
+          59.3173828125,
+          472.91992187499994
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          125.0595703125,
+          74.5250244140625
+        ],
+        [
+          207.9553985595703,
+          74.5250244140625
+        ],
+        [
+          207.9553985595703,
+          94.5250244140625
+        ],
+        [
+          125.0595703125,
+          94.5250244140625
+        ]
+      ]
+    },
+    {
+      "title": "Electrostatic Potential\nand Capacitance",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          356.0400085449219,
+          59.50073242187499
+        ],
+        [
+          515.0560913085938,
+          59.50073242187499
+        ],
+        [
+          515.0560913085938,
+          94.12109375
+        ],
+        [
+          356.0400085449219,
+          94.12109375
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 2.8",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          215.0068359375,
+          388.24951171875
+        ],
+        [
+          268.3212890625,
+          388.24951171875
+        ],
+        [
+          268.3212890625,
+          398.7953796386719
+        ],
+        [
+          215.0068359375,
+          398.7953796386719
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.994140625,
+          524.9951171875
+        ],
+        [
+          124.7607421875,
+          524.9951171875
+        ],
+        [
+          124.7607421875,
+          535.7958984375
+        ],
+        [
+          77.994140625,
+          535.7958984375
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          124.53662109375,
+          73.4356689453125
+        ],
+        [
+          207.83657836914062,
+          73.4356689453125
+        ],
+        [
+          207.83657836914062,
+          94.5240478515625
+        ],
+        [
+          124.53662109375,
+          94.5240478515625
+        ]
+      ]
+    },
+    {
+      "title": "2.6 EQUIPOTENTIAL SURFACES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          197.99998474121094,
+          105.90911865234375
+        ],
+        [
+          409.4422912597656,
+          105.90911865234375
+        ],
+        [
+          409.4422912597656,
+          124.11254882812499
+        ],
+        [
+          197.99998474121094,
+          124.11254882812499
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 2.10 Equipotential surfaces for a uniform electric field.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          216.0,
+          532.5296020507812
+        ],
+        [
+          528.0301513671875,
+          532.5296020507812
+        ],
+        [
+          528.0301513671875,
+          544.2822265625
+        ],
+        [
+          216.0,
+          544.2822265625
+        ]
+      ]
+    },
+    {
+      "title": "2.6.1 Relation between field and potential",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.98974609375,
+          107.62207031249999
+        ],
+        [
+          325.125,
+          107.62207031249999
+        ],
+        [
+          325.125,
+          121.27618408203125
+        ],
+        [
+          59.98974609375,
+          121.27618408203125
+        ]
+      ]
+    },
+    {
+      "title": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          58.7197265625,
+          501.08331298828125
+        ],
+        [
+          413.578125,
+          501.08331298828125
+        ],
+        [
+          413.578125,
+          517.0833129882812
+        ],
+        [
+          58.7197265625,
+          517.0833129882812
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          78.0,
+          387.6708984375
+        ],
+        [
+          124.1630859375,
+          387.6708984375
+        ],
+        [
+          124.1630859375,
+          399.0470886230469
+        ],
+        [
+          78.0,
+          399.0470886230469
+        ]
+      ]
+    },
+    {
+      "title": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          191.9999542236328,
+          377.12347412109375
+        ],
+        [
+          521.75390625,
+          377.12347412109375
+        ],
+        [
+          521.75390625,
+          393.12347412109375
+        ],
+        [
+          191.9999542236328,
+          393.12347412109375
+        ]
+      ]
+    },
+    {
+      "title": "2.8.1 Potential energy of a single charge",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          191.25,
+          400.0146484375
+        ],
+        [
+          443.2784729003906,
+          400.0146484375
+        ],
+        [
+          443.2784729003906,
+          412.3963928222656
+        ],
+        [
+          191.25,
+          412.3963928222656
+        ]
+      ]
+    },
+    {
+      "title": "2.8.2 Potential energy of a system of two charges in an\nexternal field",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          58.7197265625,
+          313.41552734375
+        ],
+        [
+          420.15234375,
+          313.41552734375
+        ],
+        [
+          420.15234375,
+          341.9565734863281
+        ],
+        [
+          58.7197265625,
+          341.9565734863281
+        ]
+      ]
+    },
+    {
+      "title": "Example 2.5",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          72.0,
+          664.248046875
+        ],
+        [
+          137.3115234375,
+          664.248046875
+        ],
+        [
+          137.3115234375,
+          676.1267852783203
+        ],
+        [
+          72.0,
+          676.1267852783203
+        ]
+      ]
+    },
+    {
+      "title": "(c) Suppose that the same system of charges is now placed in an\nexternal electric field E = A (1/r\n2\n); A = 9 \u00d7 105 NC\u20131 m2\n. What would\nthe electrostatic energy of the configuration be?",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          197.82421875,
+          116.97631835937499
+        ],
+        [
+          534.90234375,
+          116.97631835937499
+        ],
+        [
+          534.90234375,
+          152.657470703125
+        ],
+        [
+          197.82421875,
+          152.657470703125
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          196.62890625,
+          154.393310546875
+        ],
+        [
+          242.947265625,
+          154.393310546875
+        ],
+        [
+          242.947265625,
+          164.9271240234375
+        ],
+        [
+          196.62890625,
+          164.9271240234375
+        ]
+      ]
+    },
+    {
+      "title": "2.8.3 Potential energy of a dipole in an external field",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          192.0,
+          358.93310546875
+        ],
+        [
+          520.4420776367188,
+          358.93310546875
+        ],
+        [
+          520.4420776367188,
+          375.07623291015625
+        ],
+        [
+          192.0,
+          375.07623291015625
+        ]
+      ]
+    },
+    {
+      "title": "2.9 ELECTROSTATICS OF CONDUCTORS",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          59.54150390625,
+          590.185546875
+        ],
+        [
+          326.021484375,
+          590.185546875
+        ],
+        [
+          326.021484375,
+          606.9634246826172
+        ],
+        [
+          59.54150390625,
+          606.9634246826172
+        ]
+      ]
+    },
+    {
+      "title": "1. Inside a conductor, electrostatic field is zero",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          190.0546875,
+          179.755859375
+        ],
+        [
+          480.0,
+          179.755859375
+        ],
+        [
+          480.0,
+          193.2762451171875
+        ],
+        [
+          190.0546875,
+          193.2762451171875
+        ]
+      ]
+    },
+    {
+      "title": "2. At the surface of a charged conductor, electrostatic field\nmust be normal to the surface at every point",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          190.65234375,
+          324.0234375
+        ],
+        [
+          553.4296875,
+          324.0234375
+        ],
+        [
+          553.4296875,
+          351.556396484375
+        ],
+        [
+          190.65234375,
+          351.556396484375
+        ]
+      ]
+    },
+    {
+      "title": "3. The interior of a conductor can have no excess charge in\nthe static situation",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          191.3994140625,
+          455.94726562499994
+        ],
+        [
+          552.83203125,
+          455.94726562499994
+        ],
+        [
+          552.83203125,
+          483.67633056640625
+        ],
+        [
+          191.3994140625,
+          483.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4. Electrostatic potential is constant throughout the volume\nof the conductor and has the same value (as inside) on\nits surface",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          192.0,
+          630.302734375
+        ],
+        [
+          552.83203125,
+          630.302734375
+        ],
+        [
+          552.83203125,
+          672.5563812255859
+        ],
+        [
+          192.0,
+          672.5563812255859
+        ]
+      ]
+    },
+    {
+      "title": "5. Electric field at the surface of a charged conductor",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          59.16796875,
+          191.7138671875
+        ],
+        [
+          389.2827453613281,
+          191.7138671875
+        ],
+        [
+          389.2827453613281,
+          206.11627197265625
+        ],
+        [
+          59.16796875,
+          206.11627197265625
+        ]
+      ]
+    },
+    {
+      "title": "6. Electrostatic shielding",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          58.869140625,
+          605.2294921875
+        ],
+        [
+          218.2939453125,
+          605.2294921875
+        ],
+        [
+          218.2939453125,
+          619.8876953125
+        ],
+        [
+          58.869140625,
+          619.8876953125
+        ]
+      ]
+    },
+    {
+      "title": "Example 2.7",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          202.904296875,
+          513.80859375
+        ],
+        [
+          267.7240295410156,
+          513.80859375
+        ],
+        [
+          267.7240295410156,
+          524.4468688964844
+        ],
+        [
+          202.904296875,
+          524.4468688964844
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          200.513671875,
+          660.1469116210938
+        ],
+        [
+          248.28221130371094,
+          660.1469116210938
+        ],
+        [
+          248.28221130371094,
+          669.6484375
+        ],
+        [
+          200.513671875,
+          669.6484375
+        ]
+      ]
+    },
+    {
+      "title": "Electrostatic Potential\nand Capacitance",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          356.0400085449219,
+          60.07934570312499
+        ],
+        [
+          515.1796875,
+          60.07934570312499
+        ],
+        [
+          515.1796875,
+          93.831787109375
+        ],
+        [
+          356.0400085449219,
+          93.831787109375
+        ]
+      ]
+    },
+    {
+      "title": "2.10 DIELECTRICS AND POLARISATION",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          59.0185546875,
+          202.900390625
+        ],
+        [
+          324.00201416015625,
+          202.900390625
+        ],
+        [
+          324.00201416015625,
+          219.60369873046875
+        ],
+        [
+          59.0185546875,
+          219.60369873046875
+        ]
+      ]
+    },
+    {
+      "title": "Electrostatic Potential\nand Capacitance",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          354.41015625,
+          59.50073242187499
+        ],
+        [
+          515.1796875,
+          59.50073242187499
+        ],
+        [
+          515.1796875,
+          94.12109375
+        ],
+        [
+          354.41015625,
+          94.12109375
+        ]
+      ]
+    },
+    {
+      "title": "2.11 CAPACITORS AND CAPACITANCE",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          59.16796875,
+          389.40673828125
+        ],
+        [
+          315.72137451171875,
+          389.40673828125
+        ],
+        [
+          315.72137451171875,
+          405.7235107421875
+        ],
+        [
+          59.16796875,
+          405.7235107421875
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          121.1748046875,
+          74.3035888671875
+        ],
+        [
+          208.1337890625,
+          74.3035888671875
+        ],
+        [
+          208.1337890625,
+          94.5250244140625
+        ],
+        [
+          121.1748046875,
+          94.5250244140625
+        ]
+      ]
+    },
+    {
+      "title": "2.12 THE PARALLEL PLATE CAPACITOR",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          190.353515625,
+          476.77734374999994
+        ],
+        [
+          468.861328125,
+          476.77734374999994
+        ],
+        [
+          468.861328125,
+          493.8033752441406
+        ],
+        [
+          190.353515625,
+          493.8033752441406
+        ]
+      ]
+    },
+    {
+      "title": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          59.0185546875,
+          608.2433166503906
+        ],
+        [
+          381.72137451171875,
+          608.2433166503906
+        ],
+        [
+          381.72137451171875,
+          624.2433166503906
+        ],
+        [
+          59.0185546875,
+          624.2433166503906
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          127.7490234375,
+          74.5250244140625
+        ],
+        [
+          209.6279296875,
+          74.5250244140625
+        ],
+        [
+          209.6279296875,
+          95.181884765625
+        ],
+        [
+          127.7490234375,
+          95.181884765625
+        ]
+      ]
+    },
+    {
+      "title": "2.14 COMBINATION OF CAPACITORS",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          59.765625,
+          418.5233154296875
+        ],
+        [
+          293.04119873046875,
+          418.5233154296875
+        ],
+        [
+          293.04119873046875,
+          434.5233154296875
+        ],
+        [
+          59.765625,
+          434.5233154296875
+        ]
+      ]
+    },
+    {
+      "title": "2.14.1 Capacitors in series",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          59.98974609375,
+          525.7666015625
+        ],
+        [
+          231.591796875,
+          525.7666015625
+        ],
+        [
+          231.591796875,
+          538.6361999511719
+        ],
+        [
+          59.98974609375,
+          538.6361999511719
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          122.89306640625,
+          74.158935546875
+        ],
+        [
+          207.9553985595703,
+          74.158935546875
+        ],
+        [
+          207.9553985595703,
+          94.5250244140625
+        ],
+        [
+          122.89306640625,
+          94.5250244140625
+        ]
+      ]
+    },
+    {
+      "title": "2.14.2 Capacitors in parallel",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          273.427734375,
+          465.97656249999994
+        ],
+        [
+          456.908203125,
+          465.97656249999994
+        ],
+        [
+          456.908203125,
+          478.7562255859375
+        ],
+        [
+          273.427734375,
+          478.7562255859375
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 2.29",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          212.159912109375,
+          329.423828125
+        ],
+        [
+          268.9453125,
+          329.423828125
+        ],
+        [
+          268.9453125,
+          339.9952087402344
+        ],
+        [
+          212.159912109375,
+          339.9952087402344
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          77.62060546875,
+          352.76123046875
+        ],
+        [
+          122.59423828125,
+          352.76123046875
+        ],
+        [
+          122.59423828125,
+          363.56201171875
+        ],
+        [
+          77.62060546875,
+          363.56201171875
+        ]
+      ]
+    },
+    {
+      "title": "2.15 ENERGY STORED IN A CAPACITOR",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          59.765625,
+          656.4833221435547
+        ],
+        [
+          332.296875,
+          656.4833221435547
+        ],
+        [
+          332.296875,
+          672.4833221435547
+        ],
+        [
+          59.765625,
+          672.4833221435547
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          78.00012969970703,
+          573.984375
+        ],
+        [
+          124.38720703125,
+          573.984375
+        ],
+        [
+          124.38720703125,
+          585.0402221679688
+        ],
+        [
+          78.00012969970703,
+          585.0402221679688
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          127.4501953125,
+          72.51953125
+        ],
+        [
+          207.9553985595703,
+          72.51953125
+        ],
+        [
+          207.9553985595703,
+          95.47119140625
+        ],
+        [
+          127.4501953125,
+          95.47119140625
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          343.55999755859375,
+          308.2080078125
+        ],
+        [
+          400.55999755859375,
+          308.2080078125
+        ],
+        [
+          400.55999755859375,
+          318.7785339355469
+        ],
+        [
+          343.55999755859375,
+          318.7785339355469
+        ]
+      ]
+    },
+    {
+      "title": "Electrostatic Potential\nand Capacitance",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          356.0400085449219,
+          59.21142578124999
+        ],
+        [
+          515.1796875,
+          59.21142578124999
+        ],
+        [
+          515.1796875,
+          93.831787109375
+        ],
+        [
+          356.0400085449219,
+          93.831787109375
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          121.025390625,
+          72.037353515625
+        ],
+        [
+          209.1796875,
+          72.037353515625
+        ],
+        [
+          209.1796875,
+          95.6640625
+        ],
+        [
+          121.025390625,
+          95.6640625
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          314.068359375,
+          438.20312499999994
+        ],
+        [
+          430.611328125,
+          438.20312499999994
+        ],
+        [
+          430.611328125,
+          450.7785339355469
+        ],
+        [
+          314.068359375,
+          450.7785339355469
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          190.353515625,
+          215.43701171874997
+        ],
+        [
+          290.759765625,
+          215.43701171874997
+        ],
+        [
+          290.759765625,
+          234.123291015625
+        ],
+        [
+          190.353515625,
+          234.123291015625
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          118.4853515625,
+          71.7962646484375
+        ],
+        [
+          208.1337890625,
+          71.7962646484375
+        ],
+        [
+          208.1337890625,
+          95.0372314453125
+        ],
+        [
+          118.4853515625,
+          95.0372314453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          293
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          397
+        ],
+        [
+          "Line",
+          197
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          347
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          306
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          396
+        ],
+        [
+          "Line",
+          161
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          332
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          328
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          10
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Equation",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_12_2"
+}

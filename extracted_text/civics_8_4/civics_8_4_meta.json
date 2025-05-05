@@ -1,0 +1,774 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit Three",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.57470703125,
+          222.122802734375
+        ],
+        [
+          239.361328125,
+          222.122802734375
+        ],
+        [
+          239.361328125,
+          258.919677734375
+        ],
+        [
+          76.57470703125,
+          258.919677734375
+        ]
+      ]
+    },
+    {
+      "title": "Teacher's Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.784912109375,
+          153.92498588562012
+        ],
+        [
+          181.6875,
+          153.92498588562012
+        ],
+        [
+          181.6875,
+          174.593505859375
+        ],
+        [
+          70.784912109375,
+          174.593505859375
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 4",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          106.80000305175781,
+          171.01916313171387
+        ],
+        [
+          205.4443359375,
+          171.01916313171387
+        ],
+        [
+          205.4443359375,
+          195.01916313171387
+        ],
+        [
+          106.80000305175781,
+          195.01916313171387
+        ]
+      ]
+    },
+    {
+      "title": "Judiciary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          252.0001983642578,
+          166.09551811218262
+        ],
+        [
+          366.7236633300781,
+          166.09551811218262
+        ],
+        [
+          366.7236633300781,
+          197.29553031921387
+        ],
+        [
+          252.0001983642578,
+          197.29553031921387
+        ]
+      ]
+    },
+    {
+      "title": "What is the Role of the Judiciary?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.7197265625,
+          250.6787109375
+        ],
+        [
+          296.8914794921875,
+          250.6787109375
+        ],
+        [
+          296.8914794921875,
+          268.7557964324951
+        ],
+        [
+          58.7197265625,
+          268.7557964324951
+        ]
+      ]
+    },
+    {
+      "title": "Upholding the Law and Enforcing Fundamental Rights:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.0185546875,
+          530.87158203125
+        ],
+        [
+          362.1716003417969,
+          530.87158203125
+        ],
+        [
+          362.1716003417969,
+          546.072660446167
+        ],
+        [
+          59.0185546875,
+          546.072660446167
+        ]
+      ]
+    },
+    {
+      "title": "What is an Independent Judiciary?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          252.0,
+          260.26123046875
+        ],
+        [
+          499.640625,
+          260.26123046875
+        ],
+        [
+          499.640625,
+          279.42626953125
+        ],
+        [
+          252.0,
+          279.42626953125
+        ]
+      ]
+    },
+    {
+      "title": "What is the Structure of Courts in India?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.84033203125,
+          187.95593070983887
+        ],
+        [
+          345.744140625,
+          187.95593070983887
+        ],
+        [
+          345.744140625,
+          203.95593070983887
+        ],
+        [
+          59.84033203125,
+          203.95593070983887
+        ]
+      ]
+    },
+    {
+      "title": "What are the Different Branches of the\nLegal System?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          252.9580078125,
+          77.04345703125
+        ],
+        [
+          527.73046875,
+          77.04345703125
+        ],
+        [
+          527.73046875,
+          115.15600395202637
+        ],
+        [
+          252.9580078125,
+          115.15600395202637
+        ]
+      ]
+    },
+    {
+      "title": "Does Everyone Have Access to the Courts?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.64501953125,
+          78.001708984375
+        ],
+        [
+          357.3984375,
+          78.001708984375
+        ],
+        [
+          357.3984375,
+          95.95599174499512
+        ],
+        [
+          58.64501953125,
+          95.95599174499512
+        ]
+      ]
+    },
+    {
+      "title": "Exercises",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          97.716796875,
+          83.41583251953125
+        ],
+        [
+          211.5703125,
+          83.41583251953125
+        ],
+        [
+          211.5703125,
+          113.61712455749512
+        ],
+        [
+          97.716796875,
+          113.61712455749512
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/civics_8_4"
+}

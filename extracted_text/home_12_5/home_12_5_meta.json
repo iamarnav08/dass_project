@@ -1,0 +1,1781 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Learning Objectives",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.83508300781251,
+          337.289794921875
+        ],
+        [
+          261.1875,
+          337.289794921875
+        ],
+        [
+          261.1875,
+          358.864013671875
+        ],
+        [
+          52.83508300781251,
+          358.864013671875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.90795898437501,
+          535.11767578125
+        ],
+        [
+          209.73706054687503,
+          535.11767578125
+        ],
+        [
+          209.73706054687503,
+          556.69189453125
+        ],
+        [
+          52.90795898437501,
+          556.69189453125
+        ]
+      ]
+    },
+    {
+      "title": "Significance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          142.399658203125,
+          181.261962890625
+        ],
+        [
+          272.993408203125,
+          181.261962890625
+        ],
+        [
+          272.993408203125,
+          199.754150390625
+        ],
+        [
+          142.399658203125,
+          199.754150390625
+        ]
+      ]
+    },
+    {
+      "title": "Basic Concepts",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.83508300781251,
+          500.830078125
+        ],
+        [
+          208.42529296875003,
+          500.830078125
+        ],
+        [
+          208.42529296875003,
+          520.0927734375
+        ],
+        [
+          52.83508300781251,
+          520.0927734375
+        ]
+      ]
+    },
+    {
+      "title": "Food Safety",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.43426513671876,
+          537.0439453125
+        ],
+        [
+          126.36694335937501,
+          537.0439453125
+        ],
+        [
+          126.36694335937501,
+          550.1393890380859
+        ],
+        [
+          52.43426513671876,
+          550.1393890380859
+        ]
+      ]
+    },
+    {
+      "title": "Activity 1",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.61254882812501,
+          258.1201171875
+        ],
+        [
+          123.71501159667969,
+          258.1201171875
+        ],
+        [
+          123.71501159667969,
+          270.85179138183594
+        ],
+        [
+          59.61254882812501,
+          270.85179138183594
+        ]
+      ]
+    },
+    {
+      "title": "Food Standards",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.43426513671876,
+          571.716796875
+        ],
+        [
+          147.063720703125,
+          571.716796875
+        ],
+        [
+          147.063720703125,
+          584.416015625
+        ],
+        [
+          52.43426513671876,
+          584.416015625
+        ]
+      ]
+    },
+    {
+      "title": "Food Standards and Regulations in India",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          143.0251007080078,
+          172.786376953125
+        ],
+        [
+          389.15771484375006,
+          172.786376953125
+        ],
+        [
+          389.15771484375006,
+          185.9794158935547
+        ],
+        [
+          143.0251007080078,
+          185.9794158935547
+        ]
+      ]
+    },
+    {
+      "title": "International Organisations and Agreements in the Area of Food \nStandards, Quality, Research and Trade",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.76220703125001,
+          449.2060546875
+        ],
+        [
+          453.58007812500006,
+          449.2060546875
+        ],
+        [
+          453.58007812500006,
+          476.173828125
+        ],
+        [
+          52.76220703125001,
+          476.173828125
+        ]
+      ]
+    },
+    {
+      "title": "1. Codex Alimentarius Commission",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.02510070800781,
+          658.013671875
+        ],
+        [
+          250.40185546875003,
+          658.013671875
+        ],
+        [
+          250.40185546875003,
+          670.341796875
+        ],
+        [
+          53.02510070800781,
+          670.341796875
+        ]
+      ]
+    },
+    {
+      "title": "2. International Organisation for Standardisation (ISO)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          143.0251007080078,
+          506.05897521972656
+        ],
+        [
+          443.08593750000006,
+          506.05897521972656
+        ],
+        [
+          443.08593750000006,
+          517.0589752197266
+        ],
+        [
+          143.0251007080078,
+          517.0589752197266
+        ]
+      ]
+    },
+    {
+      "title": "3. World Trade Organisation (WTO)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          52.83508300781251,
+          295.1044921875
+        ],
+        [
+          240.78222656250003,
+          295.1044921875
+        ],
+        [
+          240.78222656250003,
+          308.203125
+        ],
+        [
+          52.83508300781251,
+          308.203125
+        ]
+      ]
+    },
+    {
+      "title": "Food Safety Management Systems",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          52.54357910156251,
+          609.85693359375
+        ],
+        [
+          260.31298828125,
+          609.85693359375
+        ],
+        [
+          260.31298828125,
+          622.4292297363281
+        ],
+        [
+          52.54357910156251,
+          622.4292297363281
+        ]
+      ]
+    },
+    {
+      "title": "Hazard Analysis Critical Control Point (HACCP)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          142.1810302734375,
+          316.29345703125
+        ],
+        [
+          427.63623046875006,
+          316.29345703125
+        ],
+        [
+          427.63623046875006,
+          329.61940002441406
+        ],
+        [
+          142.1810302734375,
+          329.61940002441406
+        ]
+      ]
+    },
+    {
+      "title": "Why implement HACCP?\nActivity 2",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          143.0251007080078,
+          452.87330627441406
+        ],
+        [
+          276.12510681152344,
+          452.87330627441406
+        ],
+        [
+          276.12510681152344,
+          472.71485900878906
+        ],
+        [
+          143.0251007080078,
+          472.71485900878906
+        ]
+      ]
+    },
+    {
+      "title": "Scope",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          53.02510070800781,
+          318.2197265625
+        ],
+        [
+          112.44763183593751,
+          316.6787109375
+        ],
+        [
+          112.44763183593751,
+          337.4504852294922
+        ],
+        [
+          53.02510070800781,
+          338.2529296875
+        ]
+      ]
+    },
+    {
+      "title": "Career Avenues",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          161.20166015625,
+          456.49888610839844
+        ],
+        [
+          265.21949768066406,
+          456.49888610839844
+        ],
+        [
+          265.21949768066406,
+          470.49888610839844
+        ],
+        [
+          161.20166015625,
+          470.49888610839844
+        ]
+      ]
+    },
+    {
+      "title": "Key Terms",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          219.0561065673828,
+          92.7498779296875
+        ],
+        [
+          284.5078125,
+          92.7498779296875
+        ],
+        [
+          284.5078125,
+          108.88139343261719
+        ],
+        [
+          219.0561065673828,
+          108.88139343261719
+        ]
+      ]
+    },
+    {
+      "title": "Review Questions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          52.58001708984376,
+          159.88037109375
+        ],
+        [
+          162.6591796875,
+          159.88037109375
+        ],
+        [
+          162.6591796875,
+          176.08067321777344
+        ],
+        [
+          52.58001708984376,
+          176.08067321777344
+        ]
+      ]
+    },
+    {
+      "title": "Practical 1",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          52.79864501953126,
+          290.674072265625
+        ],
+        [
+          126.22119140625001,
+          290.674072265625
+        ],
+        [
+          126.22119140625001,
+          307.5206756591797
+        ],
+        [
+          52.79864501953126,
+          307.5206756591797
+        ]
+      ]
+    },
+    {
+      "title": "Theme: Test of Food Adulteration",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          53.02510070800781,
+          320.14599609375
+        ],
+        [
+          254.77441406250003,
+          320.14599609375
+        ],
+        [
+          254.77441406250003,
+          333.47315979003906
+        ],
+        [
+          53.02510070800781,
+          333.47315979003906
+        ]
+      ]
+    },
+    {
+      "title": "Conducting the Practical",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          53.02510070800781,
+          472.3212890625
+        ],
+        [
+          208.71679687500003,
+          472.3212890625
+        ],
+        [
+          208.71679687500003,
+          487.16001892089844
+        ],
+        [
+          53.02510070800781,
+          487.16001892089844
+        ]
+      ]
+    },
+    {
+      "title": "Work Sheet",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          143.0251007080078,
+          86.53765869140625
+        ],
+        [
+          217.60766601562503,
+          86.53765869140625
+        ],
+        [
+          217.60766601562503,
+          102.81303405761719
+        ],
+        [
+          143.0251007080078,
+          102.81303405761719
+        ]
+      ]
+    },
+    {
+      "title": "Practical 2",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          52.06988525390626,
+          85.47821044921875
+        ],
+        [
+          124.18066406250001,
+          85.47821044921875
+        ],
+        [
+          124.18066406250001,
+          102.81303405761719
+        ],
+        [
+          52.06988525390626,
+          102.81303405761719
+        ]
+      ]
+    },
+    {
+      "title": "Theme: Qualitative Tests for Food Adulteration",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          52.83508300781251,
+          135.22412109375
+        ],
+        [
+          331.1484375,
+          135.22412109375
+        ],
+        [
+          331.1484375,
+          148.5254364013672
+        ],
+        [
+          52.83508300781251,
+          148.5254364013672
+        ]
+      ]
+    },
+    {
+      "title": "Conducting the Practical",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          52.61645507812501,
+          376.0078125
+        ],
+        [
+          205.51025390625003,
+          376.0078125
+        ],
+        [
+          205.51025390625003,
+          389.8124237060547
+        ],
+        [
+          52.61645507812501,
+          389.8124237060547
+        ]
+      ]
+    },
+    {
+      "title": "Tests",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          143.0251007080078,
+          87.59710693359375
+        ],
+        [
+          177.671630859375,
+          87.59710693359375
+        ],
+        [
+          177.671630859375,
+          99.98313903808594
+        ],
+        [
+          143.0251007080078,
+          99.98313903808594
+        ]
+      ]
+    },
+    {
+      "title": "2. Test for presence of excessive amount of stalks in tea leaves",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          146.04345703125,
+          480.41162109375
+        ],
+        [
+          528.49658203125,
+          480.41162109375
+        ],
+        [
+          528.49658203125,
+          493.6162872314453
+        ],
+        [
+          146.04345703125,
+          493.6162872314453
+        ]
+      ]
+    },
+    {
+      "title": "3. Test for detecting Light berries in Black Pepper",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          57.02909851074219,
+          177.6983642578125
+        ],
+        [
+          362.630859375,
+          177.6983642578125
+        ],
+        [
+          362.630859375,
+          190.77256774902344
+        ],
+        [
+          57.02909851074219,
+          190.77256774902344
+        ]
+      ]
+    },
+    {
+      "title": "4. Test for the presence of metanil yellow in turmeric",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          57.02909851074219,
+          423.0087890625
+        ],
+        [
+          381.50709533691406,
+          423.0087890625
+        ],
+        [
+          381.50709533691406,
+          436.85255432128906
+        ],
+        [
+          57.02909851074219,
+          436.85255432128906
+        ]
+      ]
+    },
+    {
+      "title": "Interpretation: Development of pink to magenta colour \ndenotes the presence of metanil yellow which \nis a toxic adulterant.",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          83.66162109375,
+          624.8818359375
+        ],
+        [
+          452.5420684814453,
+          624.8818359375
+        ],
+        [
+          452.5420684814453,
+          665.71875
+        ],
+        [
+          83.66162109375,
+          665.71875
+        ]
+      ]
+    },
+    {
+      "title": "5. Test for the presence of starch in milk and ice cream",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          147.0290985107422,
+          86.44134521484375
+        ],
+        [
+          486.22851562500006,
+          86.44134521484375
+        ],
+        [
+          486.22851562500006,
+          99.49784851074219
+        ],
+        [
+          147.0290985107422,
+          99.49784851074219
+        ]
+      ]
+    },
+    {
+      "title": "6. Test for the presence of colophenial resins in asafetida (hing)",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          145.751953125,
+          272.759765625
+        ],
+        [
+          531.703125,
+          272.759765625
+        ],
+        [
+          531.703125,
+          285.9778289794922
+        ],
+        [
+          145.751953125,
+          285.9778289794922
+        ]
+      ]
+    },
+    {
+      "title": "References for Further Reading",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          151.03948974609375,
+          94.33905029296875
+        ],
+        [
+          351.26220703125,
+          94.33905029296875
+        ],
+        [
+          351.26220703125,
+          108.96690368652344
+        ],
+        [
+          151.03948974609375,
+          108.96690368652344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/home_12_5"
+}

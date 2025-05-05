@@ -1,0 +1,913 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BODY FLUIDS AND CIRCULATION\nCHAPTER 15",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          192.8935546875,
+          247.937255859375
+        ],
+        [
+          498.4453125,
+          247.937255859375
+        ],
+        [
+          498.4453125,
+          319.2319622039795
+        ],
+        [
+          192.8935546875,
+          319.2319622039795
+        ]
+      ]
+    },
+    {
+      "title": "15.1 BLOOD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.51995849609375,
+          577.69189453125
+        ],
+        [
+          256.9921875,
+          577.69189453125
+        ],
+        [
+          256.9921875,
+          594.51416015625
+        ],
+        [
+          173.51995849609375,
+          594.51416015625
+        ]
+      ]
+    },
+    {
+      "title": "15.1.1 Plasma",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          173.51995849609375,
+          646.51025390625
+        ],
+        [
+          268.4970703125,
+          646.51025390625
+        ],
+        [
+          268.4970703125,
+          660.3711376190186
+        ],
+        [
+          173.51995849609375,
+          660.3711376190186
+        ]
+      ]
+    },
+    {
+      "title": "15.1.2 Formed Elements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          191.9970703125,
+          214.48388671875
+        ],
+        [
+          351.83978271484375,
+          214.48388671875
+        ],
+        [
+          351.83978271484375,
+          226.92986869812012
+        ],
+        [
+          191.9970703125,
+          226.92986869812012
+        ]
+      ]
+    },
+    {
+      "title": "15.1.3 Blood Groups",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.765625,
+          242.3935546875
+        ],
+        [
+          197.3759765625,
+          242.3935546875
+        ],
+        [
+          197.3759765625,
+          255.00988578796387
+        ],
+        [
+          59.765625,
+          255.00988578796387
+        ]
+      ]
+    },
+    {
+      "title": "15.1.3.1 ABO grouping",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.98974609375,
+          327.65185546875
+        ],
+        [
+          188.26171875,
+          327.65185546875
+        ],
+        [
+          188.26171875,
+          339.12158203125
+        ],
+        [
+          59.98974609375,
+          339.12158203125
+        ]
+      ]
+    },
+    {
+      "title": "15.1.3.2 15.1.3.215.1.3.2 Rh grouping",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          191.8477020263672,
+          104.0877685546875
+        ],
+        [
+          321.240234375,
+          104.0877685546875
+        ],
+        [
+          321.240234375,
+          115.39294242858887
+        ],
+        [
+          191.8477020263672,
+          115.39294242858887
+        ]
+      ]
+    },
+    {
+      "title": "15.1.4 Coagulation of Blood",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          192.00018310546875,
+          421.70361328125
+        ],
+        [
+          372.71990966796875,
+          421.70361328125
+        ],
+        [
+          372.71990966796875,
+          434.531400680542
+        ],
+        [
+          192.00018310546875,
+          434.531400680542
+        ]
+      ]
+    },
+    {
+      "title": "15.2 LYMPH (TISSUE FLUID)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          104.98278617858887
+        ],
+        [
+          228.55999755859375,
+          104.98278617858887
+        ],
+        [
+          228.55999755859375,
+          117.98278617858887
+        ],
+        [
+          60.0,
+          117.98278617858887
+        ]
+      ]
+    },
+    {
+      "title": "15.3 CIRCULATORY PATHWAYS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.69091796875,
+          332.50265312194824
+        ],
+        [
+          237.568359375,
+          332.50265312194824
+        ],
+        [
+          237.568359375,
+          345.50265312194824
+        ],
+        [
+          59.69091796875,
+          345.50265312194824
+        ]
+      ]
+    },
+    {
+      "title": "15.3.1 Human Circulatory System",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          192.146484375,
+          104.6612548828125
+        ],
+        [
+          412.98046875,
+          104.6612548828125
+        ],
+        [
+          412.98046875,
+          117.01000785827637
+        ],
+        [
+          192.146484375,
+          117.01000785827637
+        ]
+      ]
+    },
+    {
+      "title": "15.3.2 Cardiac Cycle",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.802978515625,
+          474.08203125
+        ],
+        [
+          194.6865234375,
+          474.08203125
+        ],
+        [
+          194.6865234375,
+          486.84994316101074
+        ],
+        [
+          59.802978515625,
+          486.84994316101074
+        ]
+      ]
+    },
+    {
+      "title": "15.3.3 Electrocardiograph (ECG)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          191.25,
+          582.27978515625
+        ],
+        [
+          401.923828125,
+          582.27978515625
+        ],
+        [
+          401.923828125,
+          594.8502941131592
+        ],
+        [
+          191.25,
+          594.8502941131592
+        ]
+      ]
+    },
+    {
+      "title": "15.4 DOUBLE CIRCULATION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.6162109375,
+          419.7919921875
+        ],
+        [
+          223.0751953125,
+          419.7919921875
+        ],
+        [
+          223.0751953125,
+          432.8620891571045
+        ],
+        [
+          59.6162109375,
+          432.8620891571045
+        ]
+      ]
+    },
+    {
+      "title": "15.5 REGULATION OF CARDIAC ACTIVITY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          192.0,
+          444.2607421875
+        ],
+        [
+          425.2845764160156,
+          444.2607421875
+        ],
+        [
+          425.2845764160156,
+          459.261869430542
+        ],
+        [
+          192.0,
+          459.261869430542
+        ]
+      ]
+    },
+    {
+      "title": "15.6 DISORDERS OF CIRCULATORY SYSTEM",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          192.0,
+          615.15966796875
+        ],
+        [
+          441.369140625,
+          615.15966796875
+        ],
+        [
+          441.369140625,
+          629.1818523406982
+        ],
+        [
+          192.0,
+          629.1818523406982
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          252.80859375,
+          365.62206840515137
+        ],
+        [
+          305.0429992675781,
+          365.62206840515137
+        ],
+        [
+          305.0429992675781,
+          378.62206840515137
+        ],
+        [
+          252.80859375,
+          378.62206840515137
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          285.8399658203125,
+          251.95166015625
+        ],
+        [
+          346.341796875,
+          251.95166015625
+        ],
+        [
+          346.341796875,
+          265.1019878387451
+        ],
+        [
+          285.8399658203125,
+          265.1019878387451
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bio_11_15"
+}

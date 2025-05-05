@@ -1,0 +1,1102 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INVERSE TRIGONOMETRIC\nFUNCTIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          91.79989624023438,
+          136.13037109375
+        ],
+        [
+          416.8828125,
+          136.13037109375
+        ],
+        [
+          416.8828125,
+          186.134033203125
+        ],
+        [
+          91.79989624023438,
+          186.134033203125
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.353515625,
+          235.97045898437497
+        ],
+        [
+          148.763671875,
+          235.97045898437497
+        ],
+        [
+          148.763671875,
+          249.16344451904297
+        ],
+        [
+          64.353515625,
+          249.16344451904297
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Basic Concepts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.70703125,
+          453.54492187499994
+        ],
+        [
+          165.8671875,
+          453.54492187499994
+        ],
+        [
+          165.8671875,
+          466.0033645629883
+        ],
+        [
+          65.70703125,
+          466.0033645629883
+        ]
+      ]
+    },
+    {
+      "title": "Remarks",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.0,
+          548.86962890625
+        ],
+        [
+          108.9580078125,
+          548.86962890625
+        ],
+        [
+          108.9580078125,
+          560.2627487182617
+        ],
+        [
+          66.0,
+          560.2627487182617
+        ]
+      ]
+    },
+    {
+      "title": "20 MATHEMATICS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.0,
+          73.6676025390625
+        ],
+        [
+          164.021484375,
+          73.6676025390625
+        ],
+        [
+          164.021484375,
+          84.54357147216797
+        ],
+        [
+          66.0,
+          84.54357147216797
+        ]
+      ]
+    },
+    {
+      "title": "22 MATHEMATICS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          66.0,
+          74.79644775390625
+        ],
+        [
+          163.65234375,
+          74.79644775390625
+        ],
+        [
+          163.65234375,
+          84.54357147216797
+        ],
+        [
+          66.0,
+          84.54357147216797
+        ]
+      ]
+    },
+    {
+      "title": "26 MATHEMATICS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          66.0,
+          74.46197509765625
+        ],
+        [
+          165.62109375,
+          74.46197509765625
+        ],
+        [
+          165.62109375,
+          84.54357147216797
+        ],
+        [
+          66.0,
+          84.54357147216797
+        ]
+      ]
+    },
+    {
+      "title": "ANote",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          72.0,
+          95.49144744873047
+        ],
+        [
+          116.5869140625,
+          95.49144744873047
+        ],
+        [
+          116.5869140625,
+          116.49144744873047
+        ],
+        [
+          72.0,
+          116.49144744873047
+        ]
+      ]
+    },
+    {
+      "title": "Example 1 Find the principal value of sin\u20131\n1\n2\n     .\nSolution Let sin\u20131\n1\n2\n      = y. Then, sin y = \n1\n2\n.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          64.845703125,
+          232.96020507812497
+        ],
+        [
+          292.54998779296875,
+          232.96020507812497
+        ],
+        [
+          292.54998779296875,
+          294.503173828125
+        ],
+        [
+          64.845703125,
+          294.503173828125
+        ]
+      ]
+    },
+    {
+      "title": "Reprint 2024-25",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          221.361328125,
+          668.2763671875
+        ],
+        [
+          280.6739807128906,
+          668.2763671875
+        ],
+        [
+          280.6739807128906,
+          677.6416015625
+        ],
+        [
+          221.361328125,
+          677.6416015625
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Properties of Inverse Trigonometric Functions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          65.5224609375,
+          357.55126953125
+        ],
+        [
+          316.72265625,
+          357.55126953125
+        ],
+        [
+          316.72265625,
+          370.3634567260742
+        ],
+        [
+          65.5224609375,
+          370.3634567260742
+        ]
+      ]
+    },
+    {
+      "title": "Reprint 2024-25",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          221.607421875,
+          668.61083984375
+        ],
+        [
+          280.79296875,
+          668.61083984375
+        ],
+        [
+          280.79296875,
+          677.30712890625
+        ],
+        [
+          221.607421875,
+          677.30712890625
+        ]
+      ]
+    },
+    {
+      "title": "Miscellaneous Exercise on Chapter 2",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          158.484375,
+          97.666015625
+        ],
+        [
+          344.64776611328125,
+          97.666015625
+        ],
+        [
+          344.64776611328125,
+          110.26378631591797
+        ],
+        [
+          158.484375,
+          110.26378631591797
+        ]
+      ]
+    },
+    {
+      "title": "Reprint 2024-25",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          220.130859375,
+          668.2763671875
+        ],
+        [
+          281.53125,
+          668.2763671875
+        ],
+        [
+          281.53125,
+          677.1522159576416
+        ],
+        [
+          220.130859375,
+          677.1522159576416
+        ]
+      ]
+    },
+    {
+      "title": "32 MATHEMATICS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          66.0,
+          73.54217529296875
+        ],
+        [
+          165.005859375,
+          73.54217529296875
+        ],
+        [
+          165.005859375,
+          84.54357147216797
+        ],
+        [
+          66.0,
+          84.54357147216797
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          226.8984375,
+          99.5892333984375
+        ],
+        [
+          276.85546875,
+          99.5892333984375
+        ],
+        [
+          276.85546875,
+          113.50377655029297
+        ],
+        [
+          226.8984375,
+          113.50377655029297
+        ]
+      ]
+    },
+    {
+      "title": "Historical Note",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          212.37890625,
+          107.198486328125
+        ],
+        [
+          292.11328125,
+          107.198486328125
+        ],
+        [
+          292.11328125,
+          119.26378631591797
+        ],
+        [
+          212.37890625,
+          119.26378631591797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          387
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          393
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          380
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          383
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_12_2"
+}

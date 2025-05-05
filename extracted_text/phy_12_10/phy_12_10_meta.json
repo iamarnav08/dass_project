@@ -1,0 +1,1545 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter Ten\nWAVE OPTICS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.89208984375,
+          118.17822265625
+        ],
+        [
+          380.65594482421875,
+          118.17822265625
+        ],
+        [
+          380.65594482421875,
+          218.2389030456543
+        ],
+        [
+          63.89208984375,
+          218.2389030456543
+        ]
+      ]
+    },
+    {
+      "title": "10.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          162.82177734375,
+          451.330078125
+        ],
+        [
+          309.744140625,
+          451.330078125
+        ],
+        [
+          309.744140625,
+          467.5229301452637
+        ],
+        [
+          162.82177734375,
+          467.5229301452637
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.93505859375,
+          78.8013916015625
+        ],
+        [
+          195.59658813476562,
+          78.8013916015625
+        ],
+        [
+          195.59658813476562,
+          100.041015625
+        ],
+        [
+          103.93505859375,
+          100.041015625
+        ]
+      ]
+    },
+    {
+      "title": "10.2 HUYGENS PRINCIPLE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.08000183105469,
+          113.36298751831055
+        ],
+        [
+          247.61865234375,
+          113.36298751831055
+        ],
+        [
+          247.61865234375,
+          129.36298751831055
+        ],
+        [
+          64.08000183105469,
+          129.36298751831055
+        ]
+      ]
+    },
+    {
+      "title": "10.3 REFRACTION AND REFLECTION OF\nPLANE WAVES USING HUYGENS PRINCIPLE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          179.52023315429688,
+          327.42431640625
+        ],
+        [
+          506.13134765625,
+          327.42431640625
+        ],
+        [
+          506.13134765625,
+          362.93505859375
+        ],
+        [
+          179.52023315429688,
+          362.93505859375
+        ]
+      ]
+    },
+    {
+      "title": "10.3.1 Refraction of a plane wave",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          179.52024841308594,
+          373.8173828125
+        ],
+        [
+          393.06884765625,
+          373.8173828125
+        ],
+        [
+          393.06884765625,
+          386.41796875
+        ],
+        [
+          179.52024841308594,
+          386.41796875
+        ]
+      ]
+    },
+    {
+      "title": "Wave Optics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          385.41357421875,
+          81.8560791015625
+        ],
+        [
+          485.5169982910156,
+          80.3287353515625
+        ],
+        [
+          485.5169982910156,
+          98.036376953125
+        ],
+        [
+          385.41357421875,
+          99.563720703125
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          104.671142578125,
+          77.130859375
+        ],
+        [
+          195.59658813476562,
+          77.130859375
+        ],
+        [
+          195.59658813476562,
+          98.990966796875
+        ],
+        [
+          104.671142578125,
+          98.990966796875
+        ]
+      ]
+    },
+    {
+      "title": "10.3.2 Refraction at a rarer medium",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          175.18798828125,
+          158.939208984375
+        ],
+        [
+          406.0812683105469,
+          158.939208984375
+        ],
+        [
+          406.0812683105469,
+          171.5553092956543
+        ],
+        [
+          175.18798828125,
+          171.5553092956543
+        ]
+      ]
+    },
+    {
+      "title": "10.3.3 Reflection of a plane wave by a plane surface",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          179.162841796875,
+          589.5546875
+        ],
+        [
+          502.3037109375,
+          589.5546875
+        ],
+        [
+          502.3037109375,
+          602.8358268737793
+        ],
+        [
+          179.162841796875,
+          602.8358268737793
+        ]
+      ]
+    },
+    {
+      "title": "Wave Optics",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          387.76904296875,
+          80.9969482421875
+        ],
+        [
+          485.52099609375,
+          80.9969482421875
+        ],
+        [
+          485.52099609375,
+          96.97712326049805
+        ],
+        [
+          387.76904296875,
+          96.97712326049805
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          102.462890625,
+          78.1331787109375
+        ],
+        [
+          195.59658813476562,
+          78.1331787109375
+        ],
+        [
+          195.59658813476562,
+          100.99560546875
+        ],
+        [
+          102.462890625,
+          100.99560546875
+        ]
+      ]
+    },
+    {
+      "title": "Example 10.1",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          190.2041015625,
+          117.700927734375
+        ],
+        [
+          260.1667785644531,
+          117.700927734375
+        ],
+        [
+          260.1667785644531,
+          128.2059440612793
+        ],
+        [
+          190.2041015625,
+          128.2059440612793
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          190.32020568847656,
+          248.0377311706543
+        ],
+        [
+          237.60791015625,
+          248.0377311706543
+        ],
+        [
+          237.60791015625,
+          258.5377311706543
+        ],
+        [
+          190.32020568847656,
+          258.5377311706543
+        ]
+      ]
+    },
+    {
+      "title": "10.4 COHERENT AND INCOHERENT\nADDITION OF WAVES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          318.28271484375,
+          425.7470703125
+        ],
+        [
+          540.28564453125,
+          425.7470703125
+        ],
+        [
+          540.28564453125,
+          462.7229118347168
+        ],
+        [
+          318.28271484375,
+          462.7229118347168
+        ]
+      ]
+    },
+    {
+      "title": "Wave Optics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          391.67999267578125,
+          79.8037109375
+        ],
+        [
+          486.9931640625,
+          79.8037109375
+        ],
+        [
+          486.9931640625,
+          96.97712326049805
+        ],
+        [
+          391.67999267578125,
+          96.97712326049805
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          106.437744140625,
+          77.035400390625
+        ],
+        [
+          195.59658813476562,
+          77.035400390625
+        ],
+        [
+          195.59658813476562,
+          99.6591796875
+        ],
+        [
+          106.437744140625,
+          99.6591796875
+        ]
+      ]
+    },
+    {
+      "title": "10.5 INTERFERENCE OF LIGHT WAVES AND YOUNG'S\nEXPERIMENT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          63.744873046875,
+          167.12189865112305
+        ],
+        [
+          423.79205322265625,
+          167.12189865112305
+        ],
+        [
+          423.79205322265625,
+          201.36286544799805
+        ],
+        [
+          63.744873046875,
+          201.36286544799805
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          102.0948486328125,
+          77.1785888671875
+        ],
+        [
+          195.50390625,
+          77.1785888671875
+        ],
+        [
+          195.50390625,
+          100.709228515625
+        ],
+        [
+          102.0948486328125,
+          100.709228515625
+        ]
+      ]
+    },
+    {
+      "title": "10.6 DIFFRACTION",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          179.5199737548828,
+          631.7629661560059
+        ],
+        [
+          316.2216796875,
+          631.7629661560059
+        ],
+        [
+          316.2216796875,
+          647.7629661560059
+        ],
+        [
+          179.5199737548828,
+          647.7629661560059
+        ]
+      ]
+    },
+    {
+      "title": "Wave Optics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          391.0078125,
+          81.1878662109375
+        ],
+        [
+          485.8154296875,
+          81.1878662109375
+        ],
+        [
+          485.8154296875,
+          97.0340576171875
+        ],
+        [
+          391.0078125,
+          97.0340576171875
+        ]
+      ]
+    },
+    {
+      "title": "10.6.1 The single slit",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          63.11920166015625,
+          187.576904296875
+        ],
+        [
+          199.92041015625,
+          187.576904296875
+        ],
+        [
+          199.92041015625,
+          200.35480880737305
+        ],
+        [
+          63.11920166015625,
+          200.35480880737305
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          103.34619140625,
+          77.89453125
+        ],
+        [
+          195.59658813476562,
+          77.89453125
+        ],
+        [
+          195.59658813476562,
+          100.327392578125
+        ],
+        [
+          103.34619140625,
+          100.327392578125
+        ]
+      ]
+    },
+    {
+      "title": "10.6.2 Seeing the single slit diffraction pattern",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          178.72119140625,
+          314.06005859375
+        ],
+        [
+          473.74365234375,
+          314.06005859375
+        ],
+        [
+          473.74365234375,
+          327.07502365112305
+        ],
+        [
+          178.72119140625,
+          327.07502365112305
+        ]
+      ]
+    },
+    {
+      "title": "10.7 POLARISATION",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          63.599998474121094,
+          113.0234375
+        ],
+        [
+          205.80908203125,
+          113.0234375
+        ],
+        [
+          205.80908203125,
+          129.36298751831055
+        ],
+        [
+          63.599998474121094,
+          129.36298751831055
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          105.4072265625,
+          78.0377197265625
+        ],
+        [
+          195.59658813476562,
+          78.0377197265625
+        ],
+        [
+          195.59658813476562,
+          99.85009765625
+        ],
+        [
+          105.4072265625,
+          99.85009765625
+        ]
+      ]
+    },
+    {
+      "title": "Wave Optics",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          387.474609375,
+          80.5673828125
+        ],
+        [
+          485.8154296875,
+          80.5673828125
+        ],
+        [
+          485.8154296875,
+          96.97712326049805
+        ],
+        [
+          387.474609375,
+          96.97712326049805
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          109.1612548828125,
+          76.7012939453125
+        ],
+        [
+          196.681640625,
+          76.7012939453125
+        ],
+        [
+          196.681640625,
+          100.709228515625
+        ],
+        [
+          109.1612548828125,
+          100.709228515625
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          329.47119140625,
+          131.065185546875
+        ],
+        [
+          388.94677734375,
+          131.065185546875
+        ],
+        [
+          388.94677734375,
+          142.37812423706055
+        ],
+        [
+          329.47119140625,
+          142.37812423706055
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          304.4443359375,
+          539.5341796875
+        ],
+        [
+          419.2734375,
+          539.5341796875
+        ],
+        [
+          419.2734375,
+          550.6181602478027
+        ],
+        [
+          304.4443359375,
+          550.6181602478027
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          194.326171875,
+          111.591552734375
+        ],
+        [
+          292.6669921875,
+          111.591552734375
+        ],
+        [
+          292.6669921875,
+          129.36298751831055
+        ],
+        [
+          194.326171875,
+          129.36298751831055
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          293
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          320
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          7
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_12_10"
+}

@@ -1,0 +1,448 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIT I\nRecombinant DNA \nTechnology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.0341796875,
+          252.2119140625
+        ],
+        [
+          277.8479919433594,
+          252.2119140625
+        ],
+        [
+          277.8479919433594,
+          342.28759765625
+        ],
+        [
+          79.0341796875,
+          342.28759765625
+        ]
+      ]
+    },
+    {
+      "title": "Herbert Boyer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          278.0947265625,
+          340.75439453125
+        ],
+        [
+          360.85546875,
+          340.75439453125
+        ],
+        [
+          360.85546875,
+          354.169921875
+        ],
+        [
+          278.0947265625,
+          354.169921875
+        ]
+      ]
+    },
+    {
+      "title": "1.1 AN OVERVIEW OF RECOMBINANT DNA \nTECHNOLOGY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          79.810546875,
+          494.84130859375
+        ],
+        [
+          374.10467529296875,
+          494.84130859375
+        ],
+        [
+          374.10467529296875,
+          530.1031970977783
+        ],
+        [
+          79.810546875,
+          530.1031970977783
+        ]
+      ]
+    },
+    {
+      "title": "Box 1",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          94.79443359375,
+          77.04345703125
+        ],
+        [
+          130.41000366210938,
+          77.04345703125
+        ],
+        [
+          130.41000366210938,
+          90.11396980285645
+        ],
+        [
+          94.79443359375,
+          90.11396980285645
+        ]
+      ]
+    },
+    {
+      "title": "Selected development in the history of biotechnology",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          95.958984375,
+          105.1202392578125
+        ],
+        [
+          422.51007080078125,
+          105.1202392578125
+        ],
+        [
+          422.51007080078125,
+          118.6109790802002
+        ],
+        [
+          95.958984375,
+          118.6109790802002
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          220.81610107421875,
+          509.40673828125
+        ],
+        [
+          300.609375,
+          509.40673828125
+        ],
+        [
+          300.609375,
+          523.97216796875
+        ],
+        [
+          220.81610107421875,
+          523.97216796875
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          347.19140625,
+          71.9647216796875
+        ],
+        [
+          436.0078125,
+          71.9647216796875
+        ],
+        [
+          436.0078125,
+          86.5141773223877
+        ],
+        [
+          347.19140625,
+          86.5141773223877
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/biotech_12_1"
+}

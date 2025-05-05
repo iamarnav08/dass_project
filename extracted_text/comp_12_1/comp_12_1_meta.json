@@ -1,0 +1,1438 @@
+{
+  "table_of_contents": [
+    {
+      "title": "1 Exception Handling \nin Python",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          116.04000091552734,
+          79.3486328125
+        ],
+        [
+          448.4296875,
+          79.3486328125
+        ],
+        [
+          448.4296875,
+          172.8330078125
+        ],
+        [
+          116.04000091552734,
+          172.8330078125
+        ]
+      ]
+    },
+    {
+      "title": "In this Chapter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.36219787597656,
+          372.2412109375
+        ],
+        [
+          206.513671875,
+          372.2412109375
+        ],
+        [
+          206.513671875,
+          395.80078125
+        ],
+        [
+          86.36219787597656,
+          395.80078125
+        ]
+      ]
+    },
+    {
+      "title": "1.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          266.625,
+          428.595703125
+        ],
+        [
+          377.8396301269531,
+          428.595703125
+        ],
+        [
+          377.8396301269531,
+          444.427734375
+        ],
+        [
+          266.625,
+          444.427734375
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Syntax Errors",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          266.44921875,
+          608.025390625
+        ],
+        [
+          391.91015625,
+          608.025390625
+        ],
+        [
+          391.91015625,
+          623.0344104766846
+        ],
+        [
+          266.44921875,
+          623.0344104766846
+        ]
+      ]
+    },
+    {
+      "title": "1.3 Exceptions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          81.2080078125,
+          49.85205078125
+        ],
+        [
+          181.359375,
+          49.85205078125
+        ],
+        [
+          181.359375,
+          63.996782302856445
+        ],
+        [
+          81.2080078125,
+          63.996782302856445
+        ]
+      ]
+    },
+    {
+      "title": "1.4 Built-in Exceptions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.7421875,
+          352.9943103790283
+        ],
+        [
+          236.947265625,
+          352.9943103790283
+        ],
+        [
+          236.947265625,
+          366.9943103790283
+        ],
+        [
+          80.7421875,
+          366.9943103790283
+        ]
+      ]
+    },
+    {
+      "title": "Table 1.1 Built-in exceptions in Python",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          81.04800415039062,
+          578.623046875
+        ],
+        [
+          314.7879943847656,
+          578.623046875
+        ],
+        [
+          314.7879943847656,
+          591.0053730010986
+        ],
+        [
+          81.04800415039062,
+          591.0053730010986
+        ]
+      ]
+    },
+    {
+      "title": "1.5 Raising Exceptions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          231.95199584960938,
+          644.58984375
+        ],
+        [
+          381.662109375,
+          644.58984375
+        ],
+        [
+          381.662109375,
+          658.6773090362549
+        ],
+        [
+          231.95199584960938,
+          658.6773090362549
+        ]
+      ]
+    },
+    {
+      "title": "1.5.1 The raise Statement",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.431640625,
+          187.81689453125
+        ],
+        [
+          250.921875,
+          187.81689453125
+        ],
+        [
+          250.921875,
+          201.8979663848877
+        ],
+        [
+          80.431640625,
+          201.8979663848877
+        ]
+      ]
+    },
+    {
+      "title": "1.5.2 The assert Statement",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          229.0800018310547,
+          417.287109375
+        ],
+        [
+          406.81640625,
+          417.287109375
+        ],
+        [
+          406.81640625,
+          432.02171516418457
+        ],
+        [
+          229.0800018310547,
+          432.02171516418457
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-1 Use of assert statement",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          78.87890625,
+          633.658203125
+        ],
+        [
+          290.671875,
+          633.658203125
+        ],
+        [
+          290.671875,
+          644.966796875
+        ],
+        [
+          78.87890625,
+          644.966796875
+        ]
+      ]
+    },
+    {
+      "title": "1.6 Handling Exceptions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.8974609375,
+          478.73046875
+        ],
+        [
+          247.3505859375,
+          478.73046875
+        ],
+        [
+          247.3505859375,
+          493.79731941223145
+        ],
+        [
+          80.8974609375,
+          493.79731941223145
+        ]
+      ]
+    },
+    {
+      "title": "1.6.1 Need for Exception Handling",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          79.9658203125,
+          595.962890625
+        ],
+        [
+          298.2802734375,
+          595.962890625
+        ],
+        [
+          298.2802734375,
+          609.533203125
+        ],
+        [
+          79.9658203125,
+          609.533203125
+        ]
+      ]
+    },
+    {
+      "title": "1.6.2 Process of Handling Exception",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          229.6494140625,
+          328.703125
+        ],
+        [
+          457.125,
+          328.703125
+        ],
+        [
+          457.125,
+          342.8540515899658
+        ],
+        [
+          229.6494140625,
+          342.8540515899658
+        ]
+      ]
+    },
+    {
+      "title": "1.6.3 Catching Exceptions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          81.04800415039062,
+          635.166015625
+        ],
+        [
+          246.57421875,
+          635.166015625
+        ],
+        [
+          246.57421875,
+          649.490234375
+        ],
+        [
+          81.04800415039062,
+          649.490234375
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-2 Using try..except block",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          79.26708984375,
+          343.8739185333252
+        ],
+        [
+          285.703125,
+          343.8739185333252
+        ],
+        [
+          285.703125,
+          354.9013671875
+        ],
+        [
+          79.26708984375,
+          354.9013671875
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-3 Use of multiple except clauses",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          80.81982421875,
+          550.728515625
+        ],
+        [
+          325.03021240234375,
+          550.728515625
+        ],
+        [
+          325.03021240234375,
+          562.791015625
+        ],
+        [
+          80.81982421875,
+          562.791015625
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-4 Use of except without specifying an exception",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          81.84000396728516,
+          248.03515625
+        ],
+        [
+          405.57421875,
+          248.03515625
+        ],
+        [
+          405.57421875,
+          259.07966804504395
+        ],
+        [
+          81.84000396728516,
+          259.07966804504395
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1.11: Output of Program 1-4",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          234.26429748535156,
+          626.119140625
+        ],
+        [
+          404.642578125,
+          626.119140625
+        ],
+        [
+          404.642578125,
+          636.673828125
+        ],
+        [
+          234.26429748535156,
+          636.673828125
+        ]
+      ]
+    },
+    {
+      "title": "1.6.4 try...except\u2026else clause",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          230.52000427246094,
+          654.1358509063721
+        ],
+        [
+          432.591796875,
+          654.1358509063721
+        ],
+        [
+          432.591796875,
+          667.5039234161377
+        ],
+        [
+          230.52000427246094,
+          667.5039234161377
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-5 Use of else clause",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.12109375,
+          140.603515625
+        ],
+        [
+          257.0928955078125,
+          140.603515625
+        ],
+        [
+          257.0928955078125,
+          153.37214851379395
+        ],
+        [
+          80.12109375,
+          153.37214851379395
+        ]
+      ]
+    },
+    {
+      "title": "Output:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.7421875,
+          369.4140625
+        ],
+        [
+          129.2880096435547,
+          369.4140625
+        ],
+        [
+          129.2880096435547,
+          382.984375
+        ],
+        [
+          80.7421875,
+          382.984375
+        ]
+      ]
+    },
+    {
+      "title": "1.7 Finally Clause",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.8974609375,
+          566.9375
+        ],
+        [
+          209.9296875,
+          566.9375
+        ],
+        [
+          209.9296875,
+          582.4767169952393
+        ],
+        [
+          80.8974609375,
+          582.4767169952393
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-6 Use of finally clause",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          80.5869140625,
+          49.28662109375
+        ],
+        [
+          270.3310546875,
+          49.28662109375
+        ],
+        [
+          270.3310546875,
+          61.079729080200195
+        ],
+        [
+          80.5869140625,
+          61.079729080200195
+        ]
+      ]
+    },
+    {
+      "title": "1.6.1 Recovering and continuing with finally clause",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          230.2705078125,
+          317.5830078125
+        ],
+        [
+          553.800048828125,
+          317.5830078125
+        ],
+        [
+          553.800048828125,
+          330.2499256134033
+        ],
+        [
+          230.2705078125,
+          330.2499256134033
+        ]
+      ]
+    },
+    {
+      "title": "Program 1-7 Recovering through finally clause",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          80.75999450683594,
+          501.724609375
+        ],
+        [
+          343.46484375,
+          501.724609375
+        ],
+        [
+          343.46484375,
+          514.119707107544
+        ],
+        [
+          80.75999450683594,
+          514.119707107544
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1.13: Output of Program 1-7",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          233.3759765625,
+          350.56640625
+        ],
+        [
+          403.7109375,
+          350.56640625
+        ],
+        [
+          403.7109375,
+          362.251953125
+        ],
+        [
+          233.3759765625,
+          362.251953125
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          89.9800033569336,
+          619.4777698516846
+        ],
+        [
+          154.65234375,
+          619.4777698516846
+        ],
+        [
+          154.65234375,
+          635.4777698516846
+        ],
+        [
+          89.9800033569336,
+          635.4777698516846
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          127.634765625,
+          49.7578125
+        ],
+        [
+          168.31640625,
+          49.7578125
+        ],
+        [
+          168.31640625,
+          63.996660232543945
+        ],
+        [
+          127.634765625,
+          63.996660232543945
+        ]
+      ]
+    },
+    {
+      "title": "Exercise",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          101.7041015625,
+          138.5053882598877
+        ],
+        [
+          190.2099609375,
+          138.5053882598877
+        ],
+        [
+          190.2099609375,
+          156.5053882598877
+        ],
+        [
+          101.7041015625,
+          156.5053882598877
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          127.7900390625,
+          49.5693359375
+        ],
+        [
+          169.7138671875,
+          49.5693359375
+        ],
+        [
+          169.7138671875,
+          63.996660232543945
+        ],
+        [
+          127.7900390625,
+          63.996660232543945
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Code",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/comp_12_1"
+}

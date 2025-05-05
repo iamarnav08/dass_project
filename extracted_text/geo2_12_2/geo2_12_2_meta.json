@@ -1,0 +1,990 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.23779296875,
+          227.08154296875
+        ],
+        [
+          296.736328125,
+          227.08154296875
+        ],
+        [
+          296.736328125,
+          261.6953125
+        ],
+        [
+          124.23779296875,
+          261.6953125
+        ]
+      ]
+    },
+    {
+      "title": "Measures of Central Tendency",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.906494140625,
+          465.95458984375
+        ],
+        [
+          196.927734375,
+          465.95458984375
+        ],
+        [
+          196.927734375,
+          483.45166015625
+        ],
+        [
+          58.906494140625,
+          483.45166015625
+        ]
+      ]
+    },
+    {
+      "title": "Mean",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.4208984375,
+          652.33642578125
+        ],
+        [
+          88.9013671875,
+          652.33642578125
+        ],
+        [
+          88.9013671875,
+          664.2229843139648
+        ],
+        [
+          58.4208984375,
+          664.2229843139648
+        ]
+      ]
+    },
+    {
+      "title": "Median",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          156.0,
+          62.8563232421875
+        ],
+        [
+          195.8818359375,
+          62.8563232421875
+        ],
+        [
+          195.8818359375,
+          73.82242584228516
+        ],
+        [
+          156.0,
+          73.82242584228516
+        ]
+      ]
+    },
+    {
+      "title": "Mode",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          155.98828125,
+          162.228271484375
+        ],
+        [
+          185.87109375,
+          162.228271484375
+        ],
+        [
+          185.87109375,
+          173.9024429321289
+        ],
+        [
+          155.98828125,
+          173.9024429321289
+        ]
+      ]
+    },
+    {
+      "title": "Mean",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          154.6435546875,
+          233.92822265625
+        ],
+        [
+          185.4228515625,
+          233.92822265625
+        ],
+        [
+          185.4228515625,
+          245.4224624633789
+        ],
+        [
+          154.6435546875,
+          245.4224624633789
+        ]
+      ]
+    },
+    {
+      "title": "Computing Mean from Ungrouped Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          154.79296875,
+          320.2724609375
+        ],
+        [
+          368.8808288574219,
+          320.2724609375
+        ],
+        [
+          368.8808288574219,
+          331.3424758911133
+        ],
+        [
+          154.79296875,
+          331.3424758911133
+        ]
+      ]
+    },
+    {
+      "title": "Direct Method",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          154.494140625,
+          344.6162109375
+        ],
+        [
+          230.6953125,
+          344.6162109375
+        ],
+        [
+          230.6953125,
+          355.64697265625
+        ],
+        [
+          154.494140625,
+          355.64697265625
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.1 : Calculation of Mean Rainfall",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          329.009765625,
+          457.2060546875
+        ],
+        [
+          523.697509765625,
+          457.2060546875
+        ],
+        [
+          523.697509765625,
+          467.8915786743164
+        ],
+        [
+          329.009765625,
+          467.8915786743164
+        ]
+      ]
+    },
+    {
+      "title": "Indirect Method",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.79443359375,
+          215.67041015625
+        ],
+        [
+          141.56982421875,
+          215.67041015625
+        ],
+        [
+          141.56982421875,
+          228.4247817993164
+        ],
+        [
+          58.79443359375,
+          228.4247817993164
+        ]
+      ]
+    },
+    {
+      "title": "Computing Mean from Grouped Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.64501953125,
+          604.40966796875
+        ],
+        [
+          260.1603698730469,
+          604.40966796875
+        ],
+        [
+          260.1603698730469,
+          616.58154296875
+        ],
+        [
+          58.64501953125,
+          616.58154296875
+        ]
+      ]
+    },
+    {
+      "title": "Direct Method",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.906494140625,
+          653.85791015625
+        ],
+        [
+          133.7255859375,
+          653.85791015625
+        ],
+        [
+          133.7255859375,
+          666.02978515625
+        ],
+        [
+          58.906494140625,
+          666.02978515625
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.3 : Computation of Mean",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          268.8000183105469,
+          424.494140625
+        ],
+        [
+          430.013671875,
+          424.494140625
+        ],
+        [
+          430.013671875,
+          435.14453125
+        ],
+        [
+          268.8000183105469,
+          435.14453125
+        ]
+      ]
+    },
+    {
+      "title": "Indirect Method",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.79443359375,
+          174.019775390625
+        ],
+        [
+          140.15960693359375,
+          174.019775390625
+        ],
+        [
+          140.15960693359375,
+          186.6639175415039
+        ],
+        [
+          58.79443359375,
+          186.6639175415039
+        ]
+      ]
+    },
+    {
+      "title": "Median",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          155.99998474121094,
+          61.893287658691406
+        ],
+        [
+          188.88247680664062,
+          61.893287658691406
+        ],
+        [
+          188.88247680664062,
+          77.8932876586914
+        ],
+        [
+          155.99998474121094,
+          77.8932876586914
+        ]
+      ]
+    },
+    {
+      "title": "Computing Median for Ungrouped Data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          153.59765625,
+          135.03173828125
+        ],
+        [
+          368.87823486328125,
+          135.03173828125
+        ],
+        [
+          368.87823486328125,
+          145.872314453125
+        ],
+        [
+          153.59765625,
+          145.872314453125
+        ]
+      ]
+    },
+    {
+      "title": "4th item in the arranged series will be the Median.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          153.896484375,
+          477.36572265625
+        ],
+        [
+          433.599609375,
+          477.36572265625
+        ],
+        [
+          433.599609375,
+          489.5033645629883
+        ],
+        [
+          153.896484375,
+          489.5033645629883
+        ]
+      ]
+    },
+    {
+      "title": "Table 2.4 : Computation of Median",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          171.60000610351562,
+          233.357666015625
+        ],
+        [
+          343.0546875,
+          233.357666015625
+        ],
+        [
+          343.0546875,
+          245.529541015625
+        ],
+        [
+          171.60000610351562,
+          245.529541015625
+        ]
+      ]
+    },
+    {
+      "title": "M o d e Mode",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          154.3447265625,
+          202.77420806884766
+        ],
+        [
+          180.2412872314453,
+          202.77420806884766
+        ],
+        [
+          180.2412872314453,
+          219.25418853759766
+        ],
+        [
+          154.3447265625,
+          219.25418853759766
+        ]
+      ]
+    },
+    {
+      "title": "Comparison of Mean, Median and Mode",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          154.0458984375,
+          627.23193359375
+        ],
+        [
+          337.078125,
+          627.23193359375
+        ],
+        [
+          337.078125,
+          643.96826171875
+        ],
+        [
+          154.0458984375,
+          643.96826171875
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 2.5 : Negative Skew",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          287.9208984375,
+          248.55460357666016
+        ],
+        [
+          412.0898742675781,
+          248.55460357666016
+        ],
+        [
+          412.0898742675781,
+          259.79345703125
+        ],
+        [
+          287.9208984375,
+          259.79345703125
+        ]
+      ]
+    },
+    {
+      "title": "Excercises E x c e r c i s e sE x c e r c i s e s",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          155.7939910888672,
+          270.9549331665039
+        ],
+        [
+          199.7666015625,
+          270.9549331665039
+        ],
+        [
+          199.7666015625,
+          285.1648941040039
+        ],
+        [
+          155.7939910888672,
+          285.1648941040039
+        ]
+      ]
+    },
+    {
+      "title": "Activity ctivity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          156.2100067138672,
+          521.7844924926758
+        ],
+        [
+          186.3193359375,
+          521.7844924926758
+        ],
+        [
+          186.3193359375,
+          536.2049026489258
+        ],
+        [
+          156.2100067138672,
+          536.2049026489258
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo2_12_2"
+}

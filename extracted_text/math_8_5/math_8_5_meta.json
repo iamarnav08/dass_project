@@ -1,0 +1,1972 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          102.23999786376953,
+          92.84564208984375
+        ],
+        [
+          433.0712890625,
+          92.84564208984375
+        ],
+        [
+          433.0712890625,
+          175.120849609375
+        ],
+        [
+          102.23999786376953,
+          175.120849609375
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.87945556640625,
+          256.184326171875
+        ],
+        [
+          199.1064453125,
+          256.184326171875
+        ],
+        [
+          199.1064453125,
+          274.01519775390625
+        ],
+        [
+          64.87945556640625,
+          274.01519775390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.0,
+          49.17572021484375
+        ],
+        [
+          150.9571075439453,
+          49.17572021484375
+        ],
+        [
+          150.9571075439453,
+          62.621826171875
+        ],
+        [
+          72.0,
+          62.621826171875
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          234.72000122070312,
+          292.13671875
+        ],
+        [
+          322.5840148925781,
+          292.13671875
+        ],
+        [
+          322.5840148925781,
+          309.0552673339844
+        ],
+        [
+          234.72000122070312,
+          309.0552673339844
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Properties of Square Numbers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          144.0,
+          345.406494140625
+        ],
+        [
+          413.86962890625,
+          345.406494140625
+        ],
+        [
+          413.86962890625,
+          362.723876953125
+        ],
+        [
+          144.0,
+          362.723876953125
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          326.42822265625,
+          430.29931640625
+        ],
+        [
+          420.36865234375,
+          430.29931640625
+        ],
+        [
+          420.36865234375,
+          446.57525634765625
+        ],
+        [
+          326.42822265625,
+          446.57525634765625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          234.95999145507812,
+          137.40966796875
+        ],
+        [
+          323.1787109375,
+          137.40966796875
+        ],
+        [
+          323.1787109375,
+          154.4942626953125
+        ],
+        [
+          234.95999145507812,
+          154.4942626953125
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          229.8291015625,
+          466.06347656250006
+        ],
+        [
+          324.3603515625,
+          466.06347656250006
+        ],
+        [
+          324.3603515625,
+          482.81524658203125
+        ],
+        [
+          229.8291015625,
+          482.81524658203125
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Some More Interesting Patterns",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          144.239990234375,
+          572.60302734375
+        ],
+        [
+          423.1199951171875,
+          572.60302734375
+        ],
+        [
+          423.1199951171875,
+          588.6545562744141
+        ],
+        [
+          144.239990234375,
+          588.6545562744141
+        ]
+      ]
+    },
+    {
+      "title": "1. Adding triangular numbers.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          152.579345703125,
+          591.42626953125
+        ],
+        [
+          306.85198974609375,
+          591.42626953125
+        ],
+        [
+          306.85198974609375,
+          604.4327697753906
+        ],
+        [
+          152.579345703125,
+          604.4327697753906
+        ]
+      ]
+    },
+    {
+      "title": "2. Numbers between square numbers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.5970458984375,
+          210.0673828125
+        ],
+        [
+          266.75537109375,
+          210.0673828125
+        ],
+        [
+          266.75537109375,
+          223.07244873046875
+        ],
+        [
+          72.5970458984375,
+          223.07244873046875
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          233.817138671875,
+          88.42218017578125
+        ],
+        [
+          324.951171875,
+          88.42218017578125
+        ],
+        [
+          324.951171875,
+          105.2952880859375
+        ],
+        [
+          233.817138671875,
+          105.2952880859375
+        ]
+      ]
+    },
+    {
+      "title": "3. Adding odd numbers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          152.8800048828125,
+          167.715087890625
+        ],
+        [
+          273.84521484375,
+          167.715087890625
+        ],
+        [
+          273.84521484375,
+          183.33837890625
+        ],
+        [
+          152.8800048828125,
+          183.33837890625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          108.0,
+          522.15673828125
+        ],
+        [
+          195.864013671875,
+          522.15673828125
+        ],
+        [
+          195.864013671875,
+          536.8152465820312
+        ],
+        [
+          108.0,
+          536.8152465820312
+        ]
+      ]
+    },
+    {
+      "title": "4. A sum of consecutive natural numbers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          150.36376953125,
+          630.2021484375
+        ],
+        [
+          359.89202880859375,
+          630.2021484375
+        ],
+        [
+          359.89202880859375,
+          643.5530090332031
+        ],
+        [
+          150.36376953125,
+          643.5530090332031
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          379.8974609375,
+          547.3798828125
+        ],
+        [
+          471.47460937500006,
+          545.8740234375
+        ],
+        [
+          471.47460937500006,
+          562.0152587890625
+        ],
+        [
+          379.8974609375,
+          562.0152587890625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          382.55615234375,
+          637.35498046875
+        ],
+        [
+          472.95166015625006,
+          635.84912109375
+        ],
+        [
+          472.95166015625006,
+          652.2552490234375
+        ],
+        [
+          382.55615234375,
+          653.16650390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.25769042968751,
+          100.6102294921875
+        ],
+        [
+          144.8248291015625,
+          100.6102294921875
+        ],
+        [
+          144.8248291015625,
+          202.5380859375
+        ],
+        [
+          62.25769042968751,
+          202.5380859375
+        ]
+      ]
+    },
+    {
+      "title": "1. What will be the unit digit of the squares of the following numbers?\n(i) 81 (ii) 272 (iii) 799 (iv) 3853\n(v) 1234 (vi) 26387 (vii) 52698 (viii) 99880\n(ix) 12796 (x) 55555\n2. The following numbers are obviously not perfect squares. Give reason.\n(i) 1057 (ii) 23453 (iii) 7928 (iv) 222222\n(v) 64000 (vi) 89722 (vii) 222000 (viii) 505050\n3. The squares of which of the following would be odd numbers?\n(i) 431 (ii) 2826 (iii) 7779 (iv) 82004\n4. Observe the following pattern and find the missing digits.\n112\n = 121\n1012\n = 10201\n10012\n = 1002001\n1000012\n = 1 ......... 2 ......... 1\n100000012\n = ...........................\n5. Observe the following pattern and supply the missing numbers.\n112\n = 1 2 1\n1012\n = 1 0 2 0 1\n101012\n = 102030201",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          150.0,
+          106.9124755859375
+        ],
+        [
+          529.9200439453125,
+          106.9124755859375
+        ],
+        [
+          529.9200439453125,
+          429.9228515625
+        ],
+        [
+          150.0,
+          431.4287109375
+        ]
+      ]
+    },
+    {
+      "title": "To find pattern",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          344.74365234375,
+          498.06298828125006
+        ],
+        [
+          418.7640075683594,
+          496.55712890625006
+        ],
+        [
+          418.7640075683594,
+          509.64459228515625
+        ],
+        [
+          344.74365234375,
+          510.86279296875006
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Finding the Square of a Number",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          65.137939453125,
+          81.5987548828125
+        ],
+        [
+          349.5139465332031,
+          81.5987548828125
+        ],
+        [
+          349.5139465332031,
+          98.81121826171875
+        ],
+        [
+          65.137939453125,
+          98.81121826171875
+        ]
+      ]
+    },
+    {
+      "title": "5.4.1 Other patterns in squares",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          64.842529296875,
+          387.7587890625
+        ],
+        [
+          280.491943359375,
+          387.7587890625
+        ],
+        [
+          280.491943359375,
+          401.9107971191406
+        ],
+        [
+          64.842529296875,
+          401.9107971191406
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          156.715087890625,
+          520.2744140625
+        ],
+        [
+          250.36010742187503,
+          520.2744140625
+        ],
+        [
+          250.36010742187503,
+          535.1352691650391
+        ],
+        [
+          156.715087890625,
+          535.1352691650391
+        ]
+      ]
+    },
+    {
+      "title": "5.4.2 Pythagorean triplets",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          63.66088867187501,
+          589.92041015625
+        ],
+        [
+          242.05206298828125,
+          589.92041015625
+        ],
+        [
+          242.05206298828125,
+          604.22607421875
+        ],
+        [
+          63.66088867187501,
+          604.22607421875
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 5.2",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          220.228271484375,
+          554.53271484375
+        ],
+        [
+          344.9122009277344,
+          554.53271484375
+        ],
+        [
+          344.9122009277344,
+          570.6789245605469
+        ],
+        [
+          220.228271484375,
+          570.6789245605469
+        ]
+      ]
+    },
+    {
+      "title": "5.5 Square Roots",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          144.0001983642578,
+          660.8147583007812
+        ],
+        [
+          282.264404296875,
+          660.8147583007812
+        ],
+        [
+          282.264404296875,
+          675.3779296875
+        ],
+        [
+          144.0001983642578,
+          675.3779296875
+        ]
+      ]
+    },
+    {
+      "title": "5.5.1 Finding square roots",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          65.137939453125,
+          374.770751953125
+        ],
+        [
+          245.20790100097656,
+          374.770751953125
+        ],
+        [
+          245.20790100097656,
+          389.670166015625
+        ],
+        [
+          65.137939453125,
+          389.670166015625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          106.31999969482422,
+          512.7451171875
+        ],
+        [
+          194.1840057373047,
+          512.7451171875
+        ],
+        [
+          194.1840057373047,
+          529.13525390625
+        ],
+        [
+          106.31999969482422,
+          529.13525390625
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          142.55999755859375,
+          586.15576171875
+        ],
+        [
+          383.96795654296875,
+          586.15576171875
+        ],
+        [
+          383.96795654296875,
+          606.48486328125
+        ],
+        [
+          142.55999755859375,
+          606.48486328125
+        ]
+      ]
+    },
+    {
+      "title": "5.5.2 Finding square root through repeated subtraction",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          141.2060546875,
+          227.76123046875
+        ],
+        [
+          515.1953125,
+          227.76123046875
+        ],
+        [
+          515.1953125,
+          241.8302001953125
+        ],
+        [
+          141.2060546875,
+          241.8302001953125
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          106.31999969482422,
+          348.794677734375
+        ],
+        [
+          196.890869140625,
+          348.794677734375
+        ],
+        [
+          196.890869140625,
+          365.2152404785156
+        ],
+        [
+          106.31999969482422,
+          365.2152404785156
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 5.3",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          214.910888671875,
+          346.34765625
+        ],
+        [
+          344.9119873046875,
+          346.34765625
+        ],
+        [
+          344.9119873046875,
+          364.99932861328125
+        ],
+        [
+          214.910888671875,
+          364.99932861328125
+        ]
+      ]
+    },
+    {
+      "title": "5.5.4 Finding square root by division method",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          66.0,
+          159.99755859375
+        ],
+        [
+          369.55810546875,
+          158.49169921875
+        ],
+        [
+          369.55810546875,
+          174.6302490234375
+        ],
+        [
+          66.0,
+          175.05615234375
+        ]
+      ]
+    },
+    {
+      "title": "THINK, DISCUSS AND WRITE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          141.2799072265625,
+          480.74560546875006
+        ],
+        [
+          383.96795654296875,
+          479.23974609375006
+        ],
+        [
+          383.96795654296875,
+          499.3993225097656
+        ],
+        [
+          141.2799072265625,
+          499.56884765625006
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          72.0,
+          49.36395263671875
+        ],
+        [
+          150.9571075439453,
+          49.36395263671875
+        ],
+        [
+          150.9571075439453,
+          62.621826171875
+        ],
+        [
+          72.0,
+          62.621826171875
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          106.55999755859375,
+          88.657470703125
+        ],
+        [
+          197.481689453125,
+          88.657470703125
+        ],
+        [
+          197.481689453125,
+          105.05523681640625
+        ],
+        [
+          106.55999755859375,
+          105.05523681640625
+        ]
+      ]
+    },
+    {
+      "title": "Solution:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          66.00000762939453,
+          191.1500244140625
+        ],
+        [
+          123.12001037597656,
+          191.1500244140625
+        ],
+        [
+          123.12001037597656,
+          205.5911865234375
+        ],
+        [
+          66.00000762939453,
+          205.5911865234375
+        ]
+      ]
+    },
+    {
+      "title": "5.6 Square Roots of Decimals",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          64.9163818359375,
+          634.34326171875
+        ],
+        [
+          301.318359375,
+          634.34326171875
+        ],
+        [
+          301.318359375,
+          650.90771484375
+        ],
+        [
+          64.9163818359375,
+          650.90771484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          72.0,
+          49.55218505859375
+        ],
+        [
+          150.9571075439453,
+          49.55218505859375
+        ],
+        [
+          150.9571075439453,
+          62.621826171875
+        ],
+        [
+          72.0,
+          62.621826171875
+        ]
+      ]
+    },
+    {
+      "title": "Which way to move",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          144.0,
+          465.31054687500006
+        ],
+        [
+          240.64797973632812,
+          465.31054687500006
+        ],
+        [
+          240.64797973632812,
+          478.11035156250006
+        ],
+        [
+          144.0,
+          478.11035156250006
+        ]
+      ]
+    },
+    {
+      "title": "Reprint 2024-25",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          272.3681640625,
+          751.80029296875
+        ],
+        [
+          331.74560546875,
+          751.80029296875
+        ],
+        [
+          331.74560546875,
+          761.58837890625
+        ],
+        [
+          272.3681640625,
+          761.58837890625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 5.4",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          144.0,
+          185.6912841796875
+        ],
+        [
+          266.9119873046875,
+          185.6912841796875
+        ],
+        [
+          266.9119873046875,
+          203.95928955078125
+        ],
+        [
+          144.0,
+          203.95928955078125
+        ]
+      ]
+    },
+    {
+      "title": "WHAT HAVE WE DISCUSSED?",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          177.12001037597656,
+          84.4222412109375
+        ],
+        [
+          428.935546875,
+          84.4222412109375
+        ],
+        [
+          428.935546875,
+          103.1583251953125
+        ],
+        [
+          177.12001037597656,
+          103.1583251953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TextInlineMath",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_8_5"
+}

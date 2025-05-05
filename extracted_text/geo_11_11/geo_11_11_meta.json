@@ -1,0 +1,924 @@
+{
+  "table_of_contents": [
+    {
+      "title": "WORLD CLIMATE AND\nCLIMATE CHANGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.54929733276367,
+          166.81494140625
+        ],
+        [
+          206.171875,
+          166.81494140625
+        ],
+        [
+          206.171875,
+          207.7741584777832
+        ],
+        [
+          42.54929733276367,
+          207.7741584777832
+        ]
+      ]
+    },
+    {
+      "title": "KOEPPE N'S SCHEME OF CLASSIFICATION\nOF CLIMATE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.56005859375,
+          434.56640625
+        ],
+        [
+          271.875,
+          434.56640625
+        ],
+        [
+          271.875,
+          461.7161750793457
+        ],
+        [
+          41.56005859375,
+          461.7161750793457
+        ]
+      ]
+    },
+    {
+      "title": "Group A : Tropical Humid Climates",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.85205078125,
+          506.60888671875
+        ],
+        [
+          240.72265625,
+          506.60888671875
+        ],
+        [
+          240.72265625,
+          520.5001106262207
+        ],
+        [
+          40.85205078125,
+          520.5001106262207
+        ]
+      ]
+    },
+    {
+      "title": "Tropical Wet Climate (Af)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.70166015625,
+          663.79248046875
+        ],
+        [
+          168.505859375,
+          663.79248046875
+        ],
+        [
+          168.505859375,
+          677.1586952209473
+        ],
+        [
+          41.70166015625,
+          677.1586952209473
+        ]
+      ]
+    },
+    {
+      "title": "Tropical Monsoon Climate (Am)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.54938888549805,
+          506.994140625
+        ],
+        [
+          448.02734375,
+          506.994140625
+        ],
+        [
+          448.02734375,
+          521.1589546203613
+        ],
+        [
+          288.54938888549805,
+          521.1589546203613
+        ]
+      ]
+    },
+    {
+      "title": "Tropical Wet and Dry Climate (Aw)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.017578125,
+          627.193359375
+        ],
+        [
+          465.302734375,
+          627.193359375
+        ],
+        [
+          465.302734375,
+          639.9589576721191
+        ],
+        [
+          288.017578125,
+          639.9589576721191
+        ]
+      ]
+    },
+    {
+      "title": "Dry Climates : B",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.9140625,
+          232.30810546875
+        ],
+        [
+          132.9638671875,
+          232.30810546875
+        ],
+        [
+          132.9638671875,
+          244.01982498168945
+        ],
+        [
+          41.9140625,
+          244.01982498168945
+        ]
+      ]
+    },
+    {
+      "title": "Subtropical Steppe (BSh) and Subtropical\nDesert (BWh) Climates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.197265625,
+          565.93798828125
+        ],
+        [
+          271.875,
+          565.93798828125
+        ],
+        [
+          271.875,
+          589.82373046875
+        ],
+        [
+          42.197265625,
+          589.82373046875
+        ]
+      ]
+    },
+    {
+      "title": "Warm Temperate (Mid-Latitude) Climates-C",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          287.16796875,
+          219.5947265625
+        ],
+        [
+          510.33203125,
+          219.5947265625
+        ],
+        [
+          510.33203125,
+          231.47832107543945
+        ],
+        [
+          287.16796875,
+          231.47832107543945
+        ]
+      ]
+    },
+    {
+      "title": "Humid Subtropical Climate (Cwa)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          286.1767578125,
+          376.7783203125
+        ],
+        [
+          458.7890625,
+          376.7783203125
+        ],
+        [
+          458.7890625,
+          387.9582405090332
+        ],
+        [
+          286.1767578125,
+          387.9582405090332
+        ]
+      ]
+    },
+    {
+      "title": "Mediterranean Climate (Cs)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.1591796875,
+          470.7802734375
+        ],
+        [
+          430.46875,
+          470.7802734375
+        ],
+        [
+          430.46875,
+          481.5673828125
+        ],
+        [
+          288.1591796875,
+          481.5673828125
+        ]
+      ]
+    },
+    {
+      "title": "Humid Subtropical (Cfa) Climate",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          288.5482597351074,
+          665.33349609375
+        ],
+        [
+          452.275390625,
+          665.33349609375
+        ],
+        [
+          452.275390625,
+          676.12060546875
+        ],
+        [
+          288.5482597351074,
+          676.12060546875
+        ]
+      ]
+    },
+    {
+      "title": "Marine West Coast Climate (Cfb)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.98486328125,
+          262.165283203125
+        ],
+        [
+          209.853515625,
+          262.165283203125
+        ],
+        [
+          209.853515625,
+          275.39848709106445
+        ],
+        [
+          41.98486328125,
+          275.39848709106445
+        ]
+      ]
+    },
+    {
+      "title": "Cold Snow Forest Climates (D)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.12646484375,
+          474.24755859375
+        ],
+        [
+          208.720703125,
+          474.24755859375
+        ],
+        [
+          208.720703125,
+          488.3398323059082
+        ],
+        [
+          42.12646484375,
+          488.3398323059082
+        ]
+      ]
+    },
+    {
+      "title": "Cold Climate with Humid Winters (Df)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.197265625,
+          611.39794921875
+        ],
+        [
+          233.642578125,
+          611.39794921875
+        ],
+        [
+          233.642578125,
+          624.5984230041504
+        ],
+        [
+          42.197265625,
+          624.5984230041504
+        ]
+      ]
+    },
+    {
+      "title": "Cold Climate with Dry Winters (Dw)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          288.5492973327637,
+          93.1351318359375
+        ],
+        [
+          470.400390625,
+          93.1351318359375
+        ],
+        [
+          470.400390625,
+          106.19841384887695
+        ],
+        [
+          288.5492973327637,
+          106.19841384887695
+        ]
+      ]
+    },
+    {
+      "title": "Polar Climates (E)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          288.5492973327637,
+          265.0546875
+        ],
+        [
+          386.572265625,
+          265.0546875
+        ],
+        [
+          386.572265625,
+          277.85966873168945
+        ],
+        [
+          288.5492973327637,
+          277.85966873168945
+        ]
+      ]
+    },
+    {
+      "title": "Tundra Climate (ET)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          288.1591796875,
+          331.510986328125
+        ],
+        [
+          391.953125,
+          331.510986328125
+        ],
+        [
+          391.953125,
+          344.224365234375
+        ],
+        [
+          288.1591796875,
+          344.224365234375
+        ]
+      ]
+    },
+    {
+      "title": "Ice Cap Climate (EF)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          287.16796875,
+          463.845703125
+        ],
+        [
+          393.0859375,
+          463.845703125
+        ],
+        [
+          393.0859375,
+          476.99821853637695
+        ],
+        [
+          287.16796875,
+          476.99821853637695
+        ]
+      ]
+    },
+    {
+      "title": "Highland Climates (H)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          288.5493278503418,
+          610.2421875
+        ],
+        [
+          409.228515625,
+          610.2421875
+        ],
+        [
+          409.228515625,
+          623.219669342041
+        ],
+        [
+          288.5493278503418,
+          623.219669342041
+        ]
+      ]
+    },
+    {
+      "title": "CLIMATE CHANGE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.949462890625,
+          94.53167724609375
+        ],
+        [
+          128.9990234375,
+          94.53167724609375
+        ],
+        [
+          128.9990234375,
+          106.9951057434082
+        ],
+        [
+          41.949462890625,
+          106.9951057434082
+        ]
+      ]
+    },
+    {
+      "title": "Climate in the recent past",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.949462890625,
+          559.388671875
+        ],
+        [
+          186.630859375,
+          559.388671875
+        ],
+        [
+          186.630859375,
+          570.6600685119629
+        ],
+        [
+          41.949462890625,
+          570.6600685119629
+        ]
+      ]
+    },
+    {
+      "title": "Causes of Climate Change",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          288.30078125,
+          248.8740234375
+        ],
+        [
+          431.6015625,
+          248.8740234375
+        ],
+        [
+          431.6015625,
+          260.10014724731445
+        ],
+        [
+          288.30078125,
+          260.10014724731445
+        ]
+      ]
+    },
+    {
+      "title": "Global Warming",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.0556640625,
+          93.3277587890625
+        ],
+        [
+          129.990234375,
+          93.3277587890625
+        ],
+        [
+          129.990234375,
+          106.02006912231445
+        ],
+        [
+          42.0556640625,
+          106.02006912231445
+        ]
+      ]
+    },
+    {
+      "title": "Greenhouse Gases(GHGs)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.54926681518555,
+          460.37841796875
+        ],
+        [
+          181.533203125,
+          460.37841796875
+        ],
+        [
+          181.533203125,
+          473.1584358215332
+        ],
+        [
+          42.54926681518555,
+          473.1584358215332
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          240.15625,
+          92.9425048828125
+        ],
+        [
+          328.515625,
+          92.9425048828125
+        ],
+        [
+          328.515625,
+          104.5649299621582
+        ],
+        [
+          240.15625,
+          104.5649299621582
+        ]
+      ]
+    },
+    {
+      "title": "Project Work",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          80.99609375,
+          673.80908203125
+        ],
+        [
+          149.814453125,
+          673.80908203125
+        ],
+        [
+          149.814453125,
+          683.82568359375
+        ],
+        [
+          80.99609375,
+          683.82568359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_11_11"
+}

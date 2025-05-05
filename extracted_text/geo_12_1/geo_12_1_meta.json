@@ -1,0 +1,406 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Human Geography\nNature and Scope",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          254.26025390625
+        ],
+        [
+          228.005859375,
+          254.26025390625
+        ],
+        [
+          228.005859375,
+          299.5544624328613
+        ],
+        [
+          54.0,
+          299.5544624328613
+        ]
+      ]
+    },
+    {
+      "title": "Human Geography Defined",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          118.98001861572266,
+          285.1552734375
+        ],
+        [
+          280.30078125,
+          285.1552734375
+        ],
+        [
+          280.30078125,
+          298.587890625
+        ],
+        [
+          118.98001861572266,
+          298.587890625
+        ]
+      ]
+    },
+    {
+      "title": "NATURE OF HUMAN GEOGRAPHY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          84.0000228881836,
+          620.8565254211426
+        ],
+        [
+          287.771484375,
+          620.8565254211426
+        ],
+        [
+          287.771484375,
+          634.4033203125
+        ],
+        [
+          84.0000228881836,
+          634.4033203125
+        ]
+      ]
+    },
+    {
+      "title": "Naturalisation of Humans and\nHumanisation of Nature",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          326.619140625,
+          272.8740234375
+        ],
+        [
+          493.962890625,
+          272.8740234375
+        ],
+        [
+          493.962890625,
+          298.1081428527832
+        ],
+        [
+          326.619140625,
+          298.1081428527832
+        ]
+      ]
+    },
+    {
+      "title": "The Naturalisation of Humans",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.18000030517578,
+          78.388916015625
+        ],
+        [
+          262.5205078125,
+          78.388916015625
+        ],
+        [
+          262.5205078125,
+          92.07487869262695
+        ],
+        [
+          78.18000030517578,
+          92.07487869262695
+        ]
+      ]
+    },
+    {
+      "title": "Fields and Sub-fields of Human Geography",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          326.91796875,
+          324.10986328125
+        ],
+        [
+          559.40625,
+          324.10986328125
+        ],
+        [
+          559.40625,
+          337.46904373168945
+        ],
+        [
+          326.91796875,
+          337.46904373168945
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          280.8984375,
+          303.5771484375
+        ],
+        [
+          368.75390625,
+          303.5771484375
+        ],
+        [
+          368.75390625,
+          319.3780097961426
+        ],
+        [
+          280.8984375,
+          319.3780097961426
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/geo_12_1"
+}

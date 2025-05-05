@@ -1,0 +1,7 @@
+langchain-text-splitters
+langchain-community
+langgraph
+langchain-ollama
+faiss-cpu
+pandas 
+markdown

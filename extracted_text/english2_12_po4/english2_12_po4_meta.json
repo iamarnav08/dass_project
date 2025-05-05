@@ -1,0 +1,254 @@
+{
+  "table_of_contents": [
+    {
+      "title": "About the poet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.97314453125,
+          167.396728515625
+        ],
+        [
+          189.2109375,
+          167.396728515625
+        ],
+        [
+          189.2109375,
+          179.37158203125
+        ],
+        [
+          109.97314453125,
+          179.37158203125
+        ]
+      ]
+    },
+    {
+      "title": "Before you read",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          98.033203125,
+          331.10888671875
+        ],
+        [
+          182.583984375,
+          331.10888671875
+        ],
+        [
+          182.583984375,
+          343.3466148376465
+        ],
+        [
+          98.033203125,
+          343.3466148376465
+        ]
+      ]
+    },
+    {
+      "title": "Think it out",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.8800048828125,
+          81.67657089233398
+        ],
+        [
+          136.880859375,
+          81.67657089233398
+        ],
+        [
+          136.880859375,
+          98.94970321655273
+        ],
+        [
+          74.8800048828125,
+          98.94970321655273
+        ]
+      ]
+    },
+    {
+      "title": "Talk about it",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.9248046875,
+          286.87658309936523
+        ],
+        [
+          141.6796875,
+          286.87658309936523
+        ],
+        [
+          141.6796875,
+          304.814453125
+        ],
+        [
+          73.9248046875,
+          304.814453125
+        ]
+      ]
+    },
+    {
+      "title": "Discuss in small groups.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.1533203125,
+          313.35595703125
+        ],
+        [
+          192.7529296875,
+          313.35595703125
+        ],
+        [
+          192.7529296875,
+          325.22497177124023
+        ],
+        [
+          74.1533203125,
+          325.22497177124023
+        ]
+      ]
+    },
+    {
+      "title": "Try this out",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.1533203125,
+          365.59658432006836
+        ],
+        [
+          135.509765625,
+          365.59658432006836
+        ],
+        [
+          135.509765625,
+          384.2001953125
+        ],
+        [
+          74.1533203125,
+          384.2001953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/english2_12_po4"
+}

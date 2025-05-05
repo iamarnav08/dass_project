@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body {
+    background-color: #ffffff;
+    color: #1f2937;
+}
+
+html.dark body {
+    background-color: #111827;
+    color: #d1d5db;
+}

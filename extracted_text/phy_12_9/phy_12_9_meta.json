@@ -1,0 +1,2589 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter Nine\nRAY OPTICS\nAND OPTICAL\nINSTRUMENTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.0087890625,
+          130.2769775390625
+        ],
+        [
+          385.7080078125,
+          130.2769775390625
+        ],
+        [
+          385.7080078125,
+          348.227481842041
+        ],
+        [
+          63.0087890625,
+          348.227481842041
+        ]
+      ]
+    },
+    {
+      "title": "9.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          175.924072265625,
+          450.3779296875
+        ],
+        [
+          315.33837890625,
+          450.3779296875
+        ],
+        [
+          315.33837890625,
+          467.91562271118164
+        ],
+        [
+          175.924072265625,
+          467.91562271118164
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.818359375,
+          77.994140625
+        ],
+        [
+          195.59658813476562,
+          77.994140625
+        ],
+        [
+          195.59658813476562,
+          99.8822021484375
+        ],
+        [
+          104.818359375,
+          99.8822021484375
+        ]
+      ]
+    },
+    {
+      "title": "9.2 REFLECTION OF LIGHT BY SPHERICAL MIRRORS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          179.75994873046875,
+          217.351318359375
+        ],
+        [
+          534.98583984375,
+          217.351318359375
+        ],
+        [
+          534.98583984375,
+          234.39560317993164
+        ],
+        [
+          179.75994873046875,
+          234.39560317993164
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 9.2 The Cartesian Sign Convention.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.5203857421875,
+          696.97705078125
+        ],
+        [
+          311.80517578125,
+          696.97705078125
+        ],
+        [
+          311.80517578125,
+          707.68212890625
+        ],
+        [
+          87.5203857421875,
+          707.68212890625
+        ]
+      ]
+    },
+    {
+      "title": "9.2.2 Focal length of spherical mirrors",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.6407470703125,
+          183.2288818359375
+        ],
+        [
+          303.85546875,
+          183.2288818359375
+        ],
+        [
+          303.85546875,
+          196.66647720336914
+        ],
+        [
+          62.6407470703125,
+          196.66647720336914
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          100.40185546875,
+          78.63229751586914
+        ],
+        [
+          195.59658813476562,
+          78.63229751586914
+        ],
+        [
+          195.59658813476562,
+          99.404296875
+        ],
+        [
+          100.40185546875,
+          99.404296875
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          367.91998291015625,
+          63.60919189453125
+        ],
+        [
+          509.958984375,
+          63.60919189453125
+        ],
+        [
+          509.958984375,
+          98.830810546875
+        ],
+        [
+          367.91998291015625,
+          98.830810546875
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          81.60009765625,
+          116.417724609375
+        ],
+        [
+          127.2689208984375,
+          116.417724609375
+        ],
+        [
+          127.2689208984375,
+          127.31396484375
+        ],
+        [
+          81.60009765625,
+          127.31396484375
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          81.1900634765625,
+          234.938232421875
+        ],
+        [
+          127.5633544921875,
+          234.938232421875
+        ],
+        [
+          127.5633544921875,
+          246.025634765625
+        ],
+        [
+          81.1900634765625,
+          246.025634765625
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.227783203125,
+          607.8955078125
+        ],
+        [
+          121.306640625,
+          607.8955078125
+        ],
+        [
+          121.306640625,
+          618.6005859375
+        ],
+        [
+          75.227783203125,
+          618.6005859375
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          108.3515625,
+          78.04193115234375
+        ],
+        [
+          196.38720703125,
+          78.04193115234375
+        ],
+        [
+          196.38720703125,
+          100.1689453125
+        ],
+        [
+          108.3515625,
+          100.1689453125
+        ]
+      ]
+    },
+    {
+      "title": "9.3 REFRACTION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          177.690673828125,
+          336.4756507873535
+        ],
+        [
+          299.5247802734375,
+          336.4756507873535
+        ],
+        [
+          299.5247802734375,
+          352.4756507873535
+        ],
+        [
+          177.690673828125,
+          352.4756507873535
+        ]
+      ]
+    },
+    {
+      "title": "9.4 TOTAL INTERNAL REFLECTION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          63.0087890625,
+          603.4572639465332
+        ],
+        [
+          299.5247497558594,
+          603.4572639465332
+        ],
+        [
+          299.5247497558594,
+          622.04150390625
+        ],
+        [
+          63.0087890625,
+          622.04150390625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 9.1 CRITICAL ANGLE OF SOME TRANSPARENT MEDIA WITH RESPECT TO AIR",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          84.2080078125,
+          496.42749404907227
+        ],
+        [
+          506.42578125,
+          496.42749404907227
+        ],
+        [
+          506.42578125,
+          508.42749404907227
+        ],
+        [
+          84.2080078125,
+          508.42749404907227
+        ]
+      ]
+    },
+    {
+      "title": "A demonstration for total internal reflection",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          179.75999450683594,
+          635.8746376037598
+        ],
+        [
+          431.0404052734375,
+          635.8746376037598
+        ],
+        [
+          431.0404052734375,
+          646.892578125
+        ],
+        [
+          179.75999450683594,
+          646.892578125
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          367.91998291015625,
+          64.56500244140625
+        ],
+        [
+          510.5478515625,
+          64.56500244140625
+        ],
+        [
+          510.5478515625,
+          98.830810546875
+        ],
+        [
+          367.91998291015625,
+          98.830810546875
+        ]
+      ]
+    },
+    {
+      "title": "9.4.1 Total internal reflection in nature and\nits technelogical applications",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          62.71435546875,
+          310.256103515625
+        ],
+        [
+          335.0654296875,
+          310.256103515625
+        ],
+        [
+          335.0654296875,
+          338.02731704711914
+        ],
+        [
+          62.71435546875,
+          338.02731704711914
+        ]
+      ]
+    },
+    {
+      "title": "9.5 REFRACTION AT SPHERICAL SURFACES\nAND BY LENSES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          179.015625,
+          378.47473526000977
+        ],
+        [
+          471.6826171875,
+          378.47473526000977
+        ],
+        [
+          471.6826171875,
+          413.91513442993164
+        ],
+        [
+          179.015625,
+          413.91513442993164
+        ]
+      ]
+    },
+    {
+      "title": "9.5.1 Refraction at a spherical surface",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          179.76031494140625,
+          595.6611328125
+        ],
+        [
+          417.6019287109375,
+          595.6611328125
+        ],
+        [
+          417.6019287109375,
+          608.7469215393066
+        ],
+        [
+          179.76031494140625,
+          608.7469215393066
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          367.91998291015625,
+          64.60477066040039
+        ],
+        [
+          509.958984375,
+          64.60477066040039
+        ],
+        [
+          509.958984375,
+          97.84476089477539
+        ],
+        [
+          367.91998291015625,
+          97.84476089477539
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.822021484375,
+          608.66015625
+        ],
+        [
+          128.520263671875,
+          608.66015625
+        ],
+        [
+          128.520263671875,
+          620.1298828125
+        ],
+        [
+          80.822021484375,
+          620.1298828125
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          102.2420654296875,
+          78.75326919555664
+        ],
+        [
+          196.38720703125,
+          78.75326919555664
+        ],
+        [
+          196.38720703125,
+          99.3087158203125
+        ],
+        [
+          102.2420654296875,
+          99.3087158203125
+        ]
+      ]
+    },
+    {
+      "title": "9.5.2 Refraction by a lens",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          179.015625,
+          112.212158203125
+        ],
+        [
+          343.3095703125,
+          112.212158203125
+        ],
+        [
+          343.3095703125,
+          124.66751480102539
+        ],
+        [
+          179.015625,
+          124.66751480102539
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          105.70166015625,
+          78.42425537109375
+        ],
+        [
+          196.0927734375,
+          78.42425537109375
+        ],
+        [
+          196.0927734375,
+          99.6910400390625
+        ],
+        [
+          105.70166015625,
+          99.6910400390625
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          197.5199737548828,
+          263.8037109375
+        ],
+        [
+          242.31884765625,
+          263.8037109375
+        ],
+        [
+          242.31884765625,
+          274.2764015197754
+        ],
+        [
+          197.5199737548828,
+          274.2764015197754
+        ]
+      ]
+    },
+    {
+      "title": "9.5.3 Power of a lens",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          253.360107421875,
+          344.091796875
+        ],
+        [
+          391.0078125,
+          344.091796875
+        ],
+        [
+          391.0078125,
+          356.747501373291
+        ],
+        [
+          253.360107421875,
+          356.747501373291
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          367.91998291015625,
+          64.18267822265625
+        ],
+        [
+          509.958984375,
+          64.18267822265625
+        ],
+        [
+          509.958984375,
+          98.066162109375
+        ],
+        [
+          367.91998291015625,
+          98.066162109375
+        ]
+      ]
+    },
+    {
+      "title": "Solution",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          75.5999984741211,
+          117.182373046875
+        ],
+        [
+          120.7913818359375,
+          117.182373046875
+        ],
+        [
+          120.7913818359375,
+          128.1173439025879
+        ],
+        [
+          75.5999984741211,
+          128.1173439025879
+        ]
+      ]
+    },
+    {
+      "title": "9.5.4 Combination of thin lenses in contact",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          62.1990966796875,
+          372.3837890625
+        ],
+        [
+          338.89306640625,
+          372.3837890625
+        ],
+        [
+          338.89306640625,
+          385.7875099182129
+        ],
+        [
+          62.1990966796875,
+          385.7875099182129
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          105.7752685546875,
+          78.63229751586914
+        ],
+        [
+          196.0927734375,
+          78.63229751586914
+        ],
+        [
+          196.0927734375,
+          99.977783203125
+        ],
+        [
+          105.7752685546875,
+          99.977783203125
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          367.91998291015625,
+          63.5614013671875
+        ],
+        [
+          509.958984375,
+          63.5614013671875
+        ],
+        [
+          509.958984375,
+          98.6396484375
+        ],
+        [
+          367.91998291015625,
+          98.6396484375
+        ]
+      ]
+    },
+    {
+      "title": "9.6 REFRACTION THROUGH A PRISM",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          62.9351806640625,
+          354.605712890625
+        ],
+        [
+          302.402587890625,
+          354.605712890625
+        ],
+        [
+          302.402587890625,
+          372.6356544494629
+        ],
+        [
+          62.9351806640625,
+          372.6356544494629
+        ]
+      ]
+    },
+    {
+      "title": "9.7 OPTICAL INSTRUMENTS",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          179.6044921875,
+          492.43359375
+        ],
+        [
+          369.2197265625,
+          492.43359375
+        ],
+        [
+          369.2197265625,
+          509.19565200805664
+        ],
+        [
+          179.6044921875,
+          509.19565200805664
+        ]
+      ]
+    },
+    {
+      "title": "9.7.1 The microscope",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          179.75997924804688,
+          626.62939453125
+        ],
+        [
+          317.98828125,
+          626.62939453125
+        ],
+        [
+          317.98828125,
+          638.86376953125
+        ],
+        [
+          179.75997924804688,
+          638.86376953125
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          107.321044921875,
+          77.994140625
+        ],
+        [
+          198.301025390625,
+          77.994140625
+        ],
+        [
+          198.301025390625,
+          99.8822021484375
+        ],
+        [
+          107.321044921875,
+          99.8822021484375
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          367.91998291015625,
+          64.18267822265625
+        ],
+        [
+          509.66455078125,
+          64.18267822265625
+        ],
+        [
+          509.66455078125,
+          98.9263916015625
+        ],
+        [
+          367.91998291015625,
+          98.9263916015625
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          107.026611328125,
+          78.185302734375
+        ],
+        [
+          195.651123046875,
+          78.185302734375
+        ],
+        [
+          195.651123046875,
+          99.404296875
+        ],
+        [
+          107.026611328125,
+          99.404296875
+        ]
+      ]
+    },
+    {
+      "title": "9.7.2 Telescope",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          177.837890625,
+          581.8974609375
+        ],
+        [
+          280.59521484375,
+          581.8974609375
+        ],
+        [
+          280.59521484375,
+          595.0675086975098
+        ],
+        [
+          177.837890625,
+          595.0675086975098
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          106.87939453125,
+          76.99053955078125
+        ],
+        [
+          195.79833984375,
+          76.99053955078125
+        ],
+        [
+          195.79833984375,
+          101.124755859375
+        ],
+        [
+          106.87939453125,
+          101.124755859375
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          329.47119140625,
+          552.45849609375
+        ],
+        [
+          388.35791015625,
+          552.45849609375
+        ],
+        [
+          388.35791015625,
+          563.7294502258301
+        ],
+        [
+          329.47119140625,
+          563.7294502258301
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          367.91998291015625,
+          64.18267822265625
+        ],
+        [
+          509.958984375,
+          64.18267822265625
+        ],
+        [
+          509.958984375,
+          98.9263916015625
+        ],
+        [
+          367.91998291015625,
+          98.9263916015625
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          108.498779296875,
+          77.94635009765625
+        ],
+        [
+          195.945556640625,
+          77.94635009765625
+        ],
+        [
+          195.945556640625,
+          101.2203369140625
+        ],
+        [
+          108.498779296875,
+          101.2203369140625
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          310.3330078125,
+          365.501953125
+        ],
+        [
+          424.3204650878906,
+          365.501953125
+        ],
+        [
+          424.3204650878906,
+          377.0094337463379
+        ],
+        [
+          310.3330078125,
+          377.0094337463379
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          193.1484375,
+          112.1165771484375
+        ],
+        [
+          293.8447265625,
+          112.1165771484375
+        ],
+        [
+          293.8447265625,
+          129.27560806274414
+        ],
+        [
+          193.1484375,
+          129.27560806274414
+        ]
+      ]
+    },
+    {
+      "title": "Physics",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          104.2294921875,
+          77.46844482421875
+        ],
+        [
+          195.59658813476562,
+          77.46844482421875
+        ],
+        [
+          195.59658813476562,
+          99.78662109375
+        ],
+        [
+          104.2294921875,
+          99.78662109375
+        ]
+      ]
+    },
+    {
+      "title": "Ray Optics and\nOptical Instruments",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          367.91998291015625,
+          64.60477066040039
+        ],
+        [
+          509.66455078125,
+          64.60477066040039
+        ],
+        [
+          509.66455078125,
+          97.9705810546875
+        ],
+        [
+          367.91998291015625,
+          97.9705810546875
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          271.17333984375,
+          133.9090576171875
+        ],
+        [
+          333.00439453125,
+          133.9090576171875
+        ],
+        [
+          333.00439453125,
+          155.00278091430664
+        ],
+        [
+          271.17333984375,
+          155.00278091430664
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "TextInlineMath",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TextInlineMath",
+          10
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_12_9"
+}

@@ -1,0 +1,1091 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MECHANICAL PROPERTIES OF SOLIDS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          158.87744140625,
+          170.52978515625
+        ],
+        [
+          460.5620422363281,
+          170.52978515625
+        ],
+        [
+          460.5620422363281,
+          191.7887077331543
+        ],
+        [
+          158.87744140625,
+          191.7887077331543
+        ]
+      ]
+    },
+    {
+      "title": "8.1 INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          258.2400207519531,
+          254.794921875
+        ],
+        [
+          377.5146484375,
+          254.794921875
+        ],
+        [
+          377.5146484375,
+          266.14252853393555
+        ],
+        [
+          258.2400207519531,
+          266.14252853393555
+        ]
+      ]
+    },
+    {
+      "title": "8.2 STRESS AND STRAIN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          108.75634765625,
+          116.9415397644043
+        ],
+        [
+          241.77001953125,
+          116.9415397644043
+        ],
+        [
+          241.77001953125,
+          126.9415397644043
+        ],
+        [
+          108.75634765625,
+          126.9415397644043
+        ]
+      ]
+    },
+    {
+      "title": "8.3 HOOKE'S LAW",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.5711669921875,
+          324.111328125
+        ],
+        [
+          168.998046875,
+          324.111328125
+        ],
+        [
+          168.998046875,
+          334.30256271362305
+        ],
+        [
+          72.5711669921875,
+          334.30256271362305
+        ]
+      ]
+    },
+    {
+      "title": "8.4 STRESS-STRAIN CURVE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.611328125,
+          522.158203125
+        ],
+        [
+          219.27978515625,
+          522.158203125
+        ],
+        [
+          219.27978515625,
+          532.302562713623
+        ],
+        [
+          72.611328125,
+          532.302562713623
+        ]
+      ]
+    },
+    {
+      "title": "8.5 ELASTIC MODULI",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          355.67999267578125,
+          75.31494140625
+        ],
+        [
+          469.4033203125,
+          75.31494140625
+        ],
+        [
+          469.4033203125,
+          86.14155197143555
+        ],
+        [
+          355.67999267578125,
+          86.14155197143555
+        ]
+      ]
+    },
+    {
+      "title": "8.5.1 Young's Modulus",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          355.345703125,
+          177.95654296875
+        ],
+        [
+          475.5078125,
+          177.95654296875
+        ],
+        [
+          475.5078125,
+          188.14155197143555
+        ],
+        [
+          355.345703125,
+          188.14155197143555
+        ]
+      ]
+    },
+    {
+      "title": "Table 8.1 Young's moduli and yield strenghs of some material",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          203.0399932861328,
+          461.220703125
+        ],
+        [
+          490.6083984375,
+          461.220703125
+        ],
+        [
+          490.6083984375,
+          471.3378105163574
+        ],
+        [
+          203.0399932861328,
+          471.3378105163574
+        ]
+      ]
+    },
+    {
+      "title": "8.5.2 Shear Modulus",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          109.07763671875,
+          429.990234375
+        ],
+        [
+          222.17138671875,
+          429.990234375
+        ],
+        [
+          222.17138671875,
+          441.10200119018555
+        ],
+        [
+          109.07763671875,
+          441.10200119018555
+        ]
+      ]
+    },
+    {
+      "title": "Table 8.2 Shear moduli \n(G)\n of some common\nmaterials",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          355.67999267578125,
+          74.8388671875
+        ],
+        [
+          585.7099609375,
+          74.8388671875
+        ],
+        [
+          585.7099609375,
+          96.69721603393555
+        ],
+        [
+          355.67999267578125,
+          96.69721603393555
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 8.5",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          461.22039794921875,
+          631.083984375
+        ],
+        [
+          497.3553161621094,
+          631.083984375
+        ],
+        [
+          497.3553161621094,
+          640.986328125
+        ],
+        [
+          461.22039794921875,
+          640.986328125
+        ]
+      ]
+    },
+    {
+      "title": "8.5.3 Bulk Modulus",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.6514892578125,
+          76.219482421875
+        ],
+        [
+          182.01025390625,
+          76.219482421875
+        ],
+        [
+          182.01025390625,
+          86.6215934753418
+        ],
+        [
+          72.6514892578125,
+          86.6215934753418
+        ]
+      ]
+    },
+    {
+      "title": "8.5.4 POISSON'S RATIO",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          108.2744140625,
+          477.216796875
+        ],
+        [
+          227.1513671875,
+          477.216796875
+        ],
+        [
+          227.1513671875,
+          489.8879203796387
+        ],
+        [
+          108.2744140625,
+          489.8879203796387
+        ]
+      ]
+    },
+    {
+      "title": "8.5.5 Elastic Potential Energy\nin a Stretched Wire",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          355.68011474609375,
+          75.2197265625
+        ],
+        [
+          514.0625,
+          75.2197265625
+        ],
+        [
+          514.0625,
+          98.1976432800293
+        ],
+        [
+          355.68011474609375,
+          98.1976432800293
+        ]
+      ]
+    },
+    {
+      "title": "8.6 APPLICATIONS OF ELASTIC\nBEHAVIOUR OF MATERIALS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          352.1328125,
+          505.78125
+        ],
+        [
+          528.19921875,
+          505.78125
+        ],
+        [
+          528.19921875,
+          528.6328125
+        ],
+        [
+          352.1328125,
+          528.6328125
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          320.9677734375,
+          337.2509765625
+        ],
+        [
+          373.6591796875,
+          337.2509765625
+        ],
+        [
+          373.6591796875,
+          346.7724609375
+        ],
+        [
+          320.9677734375,
+          346.7724609375
+        ]
+      ]
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          115.9853515625,
+          85.21728515625
+        ],
+        [
+          214.2998046875,
+          85.21728515625
+        ],
+        [
+          214.2998046875,
+          95.49677658081055
+        ],
+        [
+          115.9853515625,
+          95.49677658081055
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          287.07177734375,
+          420.849609375
+        ],
+        [
+          350.205078125,
+          420.849609375
+        ],
+        [
+          350.205078125,
+          430.7771110534668
+        ],
+        [
+          287.07177734375,
+          430.7771110534668
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 8.11",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          324.34130859375,
+          503.115234375
+        ],
+        [
+          369.482421875,
+          503.115234375
+        ],
+        [
+          369.482421875,
+          512.1132316589355
+        ],
+        [
+          324.34130859375,
+          512.1132316589355
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          455
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          412
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          323
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          422
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/phy_11_8"
+}

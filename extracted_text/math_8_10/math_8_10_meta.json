@@ -1,0 +1,617 @@
+{
+  "table_of_contents": [
+    {
+      "title": "10.1 Introduction\nDo you know?\nMass of earth is 5,970,000,000,000, 000, 000, 000, 000 kg. We have\nalready learnt in earlier class how to write such large numbers more\nconveniently using exponents, as, 5.97 \u00d7 1024 kg.\nWe read 1024 as 10 raised to the power 24.\nWe know 25\n = 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2\nand 2m = 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 ... \u00d7 2 \u00d7 2 ... (m times)\n Let us now find what is 2\u2013 2 is equal to?\n10.2 Powers with Negative Exponents\nYou know that, 102\n = 10 \u00d7 10 = 100\n101\n = 10 = \n100\n10\n100\n = 1 = \n10\n10\n10\u2013 1 = ?\nContinuing the above pattern we get,10\u2013 1 = \n1\n10\nSimilarly 10\u2013 2 = 2\n1 11 1 1 10\n10 10 10 100 10\n\u00f7= \u00d7 = =\n10\u2013 3 = 3\n1 11 1 1 10\n100 100 10 1000 10\n\u00f7= \u00d7 = =\n\n\nExponent is a\nnegative integer.\nAs the exponent decreases by1, the\nvalue becomes one-tenth of the\nprevious value.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.28564453125,
+          104.2857666015625
+        ],
+        [
+          551.0599975585938,
+          104.2857666015625
+        ],
+        [
+          551.0599975585938,
+          695.1015625
+        ],
+        [
+          65.28564453125,
+          695.1015625
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          230.419921875,
+          455.359375
+        ],
+        [
+          323.0639953613281,
+          455.359375
+        ],
+        [
+          323.0639953613281,
+          472.5352478027344
+        ],
+        [
+          230.419921875,
+          472.5352478027344
+        ]
+      ]
+    },
+    {
+      "title": "10.3 Laws of Exponents",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.0,
+          83.824951171875
+        ],
+        [
+          257.154541015625,
+          83.824951171875
+        ],
+        [
+          257.154541015625,
+          99.81427001953125
+        ],
+        [
+          66.0,
+          99.81427001953125
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          156.72000122070312,
+          501.724609375
+        ],
+        [
+          246.81518554687503,
+          501.724609375
+        ],
+        [
+          246.81518554687503,
+          517.6552429199219
+        ],
+        [
+          156.72000122070312,
+          517.6552429199219
+        ]
+      ]
+    },
+    {
+      "title": "Example 2: Simplify",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          142.6092529296875,
+          191.02099609375
+        ],
+        [
+          252.6959991455078,
+          191.02099609375
+        ],
+        [
+          252.6959991455078,
+          203.47021484375
+        ],
+        [
+          142.6092529296875,
+          203.47021484375
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 10.1",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          144.0,
+          494.5625
+        ],
+        [
+          277.47198486328125,
+          494.5625
+        ],
+        [
+          277.47198486328125,
+          511.4393310546875
+        ],
+        [
+          144.0,
+          511.4393310546875
+        ]
+      ]
+    },
+    {
+      "title": "10.4 Use of Exponents to Express Small Numbers\nin Standard Form",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          142.830810546875,
+          271.81524658203125
+        ],
+        [
+          539.4189453125,
+          271.81524658203125
+        ],
+        [
+          539.4189453125,
+          302.615234375
+        ],
+        [
+          142.830810546875,
+          302.615234375
+        ]
+      ]
+    },
+    {
+      "title": "TRY THESE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          157.1999969482422,
+          236.1611328125
+        ],
+        [
+          248.14453125000003,
+          236.1611328125
+        ],
+        [
+          248.14453125000003,
+          252.4552001953125
+        ],
+        [
+          157.1999969482422,
+          252.4552001953125
+        ]
+      ]
+    },
+    {
+      "title": "10.4.1 Comparing very large and very small numbers",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.0,
+          319.8447265625
+        ],
+        [
+          419.9278259277344,
+          319.8447265625
+        ],
+        [
+          419.9278259277344,
+          334.9911804199219
+        ],
+        [
+          66.0,
+          334.9911804199219
+        ]
+      ]
+    },
+    {
+      "title": "WHAT HAVE WE DISCUSSED?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          174.439697265625,
+          592.193359375
+        ],
+        [
+          428.3447265625,
+          592.193359375
+        ],
+        [
+          428.3447265625,
+          610.0793151855469
+        ],
+        [
+          174.439697265625,
+          610.0793151855469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          356
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          389
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Equation",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          619
+        ],
+        [
+          "Line",
+          270
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/math_8_10"
+}
